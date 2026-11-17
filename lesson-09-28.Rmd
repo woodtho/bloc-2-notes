@@ -1,0 +1,139 @@
+---
+title: "Movement prepositions, y & en"
+pagetitle: "Movement prepositions, y & en | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 7 · 09-28 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-28">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-28">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Verb–preposition list {#lesson-details}
+
+| Verb construction | Function | Model |
+|---|---|---|
+| tourner à | turn left/right | Tournez à droite. |
+| aller à / aller vers | destination / direction toward | Je vais à la gare / vers le bureau principal. |
+| arriver à / arriver de | arrive at / arrive from | J’arrive à la gare / de la gare. |
+| entrer dans | enter an enclosed place | Entrez dans le bureau. |
+| entrer par | enter through an opening | J’entre par la porte principale. (I enter through the main door) |
+| sortir de | leave an enclosed place | Je sors de la banque. |
+| sortir par | exit through an opening | Je sors par la porte. |
+| passer par | go via / through | Je vais passer par une ville. |
+| passer sous | pass under | Je passe sous les arbres. (I pass under the trees) |
+| passer devant | pass in front of | Je passe devant la bibliothèque. (I pass in front of the library) |
+| suivre + direct object | follow | Suivez le corridor. |
+| prendre + direct object | take | Prenez la rue. |
+| continuer + route/direction | continue | Continuez tout droit. |
+
+The source grouped **suivre, prendre, continuer** as verbs “without a preposition.” That means the particular direct-object examples, not that these verbs can never be followed by prepositions: **continuer jusqu’à…** is used in this same lesson. Learn the full construction rather than a universal ban.
+
+**Je sors de la porte** is not the usual way to say “I exit through the door”: a door is the passage, while the bank or office is the space being left. Use **Je sors par la porte** or **Je sors de la banque** (I go out of the bank). **Je tourne à droite** is a natural right-turn instruction; **Je vais vers la rue à droite** instead describes movement toward a street on the right and does not mean exactly the same thing.
+
+**Se diriger vers** means head toward: **Dirigez-vous vers la sortie** — Head toward the exit. **Traverser** takes a direct object: **Traversez la rue / traverser le pont**, not *traverser à le pont*. **Par** describes a route; **vers** a direction.
+
+## Contractions and destination wording
+
+**À + le = au**, **à + les = aux**, **de + le = du**, **de + les = des**. Keep **à la/de la**, and use **à l’/de l’** before an appropriate vowel or mute h. **Jusqu’à + le = jusqu’au** and **jusqu’à + la = jusqu’à la**.
+
+> Continuez jusqu’au stationnement. — Continue as far as the parking lot.  
+> Vous allez jusqu’au troisième étage. — You go up to the third floor.  
+> Je sors du bureau. — I am coming out of the office.
+
+The source used **Sortez au garage** to illustrate **à + le**. The contraction **au** is correct, but choose the whole phrase for the meaning: **Allez au garage** for go to the garage, **Sortez du garage** for come out of it, or **Sortez par le garage** for exit through it. This distinction preserves the original contraction point without treating every version as interchangeable.
+
+## Y for locations and appropriate à phrases
+
+> — Tu vas à la pharmacie après ? — Oui, j’y vais.  
+> — Vous allez à Montréal ce week-end ? — Oui, on y va vendredi soir.  
+> — Es-tu déjà allé en Nouvelle-Écosse ? — Oui, j’y suis allé l’été dernier. (Yes, we go there Friday evening)
+
+**Y** stands for the location/destination. The source wrote **à la Nouvelle-Écosse**; the ordinary province expression is **en Nouvelle-Écosse**. A place introduced by **vers** may sometimes be referred back to with **y** when the destination/location reading is clear, but **y** is not an automatic replacement for every **vers** phrase.
+
+**Y** also replaces appropriate **en/dans/chez** locations, including **en France**. The written preposition **en** is not the quantity pronoun **en**. With a person, use the appropriate personal construction: **Je pense à ma collègue → Je pense à elle**.
+
+## En for origins, things and quantities
+
+> — Tu viens de la réunion ? — Oui, j’en viens; ça a duré une éternité.  
+> — Vous venez du gymnase ? — Oui, nous en venons.  
+> — Tu as pris des légumes au marché ? — Oui, j’en ai pris; j’ai acheté plein de tomates.
+
+The origin **de la réunion / du gymnase** and the quantity **des légumes** are different uses of **en**. The source mixed **avez-vous quitté** with an answer using **ils en venaient/viennent**; match the subject and tense when doing a transformation. **Je vais passer par la ville** uses **aller + infinitive**, the near future. **Oui, j’y vais avec plaisir / pour mon examen de français** adds a manner or purpose after the pronoun.
+
+For placement, ordinary/negative forms put the pronoun before the verb: **J’en reviens / Je n’en reviens pas**, **J’y vais / Je n’y vais pas**. With an infinitive, put it before the verb it complements: **Je vais y aller**. An affirmative imperative attaches it with a hyphen (**Allez-y, Sortez-en**); a negative imperative puts it before the verb (**N’y allez pas**).
+
+## Sound, register and vocabulary details
+
+The final **-ent** in **ils arrivent** is silent. French nasal vowels require practice, but **soir** /swaʁ/ has no nasal vowel; the source’s informal “waa/swa” discussion should not be treated as a nasal-vowel transcription. Regional accents can realize genuine nasal vowels differently.
+
+**Les funérailles** (funeral) is normally plural. **Un pique-nique**, **au bord de la rivière**, **faire du vélo**, **un festival**, and **un week-end bien chargé** describe generic leisure activities. **La fin de semaine** is common Canadian usage. **Qu’est-ce que vous faites pendant la fin de semaine ?** asks about present/general activity; to ask what someone did, use **avez fait**. Festival anecdotes and identifiable plans are excluded; these reusable patterns remain.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Je vais passer par Kingston. | I am going to pass through Kingston. |  |
+| Entrez dans mon bureau. | Enter my office. |  |
+| Oui, j'y vais, ils me font médecin / pour mon médicament. | Yes, I go there (to get my medicine). |  |
+| Ah oui, j'en viens, ça a duré une éternité. | Ah yes, I'm coming from there, it lasted forever. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| la fin de semaine / le week-end | weekend | Fin de semaine is common in Canadian French. |
+| les funérailles | funeral | Normally plural for a funeral ceremony. |
+| un pique-nique | a picnic |  |
+| au bord de la rivière | by the riverside |  |
+| faire du vélo | to go cycling |  |
+| bien chargé | busy / packed | Un week-end bien chargé — a very busy weekend. |
+| un festival | a festival |  |
+| tourner à | to turn (to) | Tourner à droite / à gauche — turn right/left. |
+| aller à / aller vers | to go to / to go towards | Both prepositions are possible with different nuances. |
+| suivre | to follow | Takes the person/path as a direct object: suivre le chemin. |
+| prendre | to take | Direct object: prendre le train. |
+| continuer | to continue | Can take a direct object or various complements; no single obligatory preposition for every use. |
+| arriver à | to arrive (somewhere) | Arrive at a destination. |
+| arriver de | to come from (somewhere) | Come from a source. |
+| entrer dans | to enter (a building) | Entrer dans un bâtiment is the ordinary entry-into-a-building pattern; other constructions exist in other contexts. |
+| sortir de | to exit / go out of | Je sors de la banque — I leave the bank. |
+| sortir par | to go out through | Je sors par la porte — I go out through the door. |
+| passer par | to pass through / go via | Je vais passer par cette ville — I will pass through this city. |
+| passer sous | to pass under | Je passe sous les arbres — I pass under the trees. |
+| passer devant | to pass in front of | Je passe devant la bibliothèque — I pass in front of the library. |
+| le stationnement | parking lot |  |
+| l'étage (m.) | floor / storey | Masculine: le troisième étage. |
+| jusqu'à | up to / until | Continuez jusqu’au stationnement — Continue to the parking lot. |
+| le bureau principal | the main office |  |
+| la porte principale | the main door |  |
+
+## Questions
+
+<details class="source-question" data-question-id="09-28-source-001"><summary><span>1. Translate “to pass through a place”, including the preposition.</span></summary><p>passer par</p></details>
+
+<details class="source-question" data-question-id="09-28-source-002"><summary><span>2. Complete J’arrive ___ Montréal for arriving there, then for coming from there.</span></summary><p>J’arrive à Montréal; J’arrive de Montréal.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-003"><summary><span>3. Translate “to enter a building”.</span></summary><p>entrer dans un bâtiment</p></details>
+
+<details class="source-question" data-question-id="09-28-source-004"><summary><span>4. Complete Continuez jusqu’___ stationnement (jusqu’à + le).</span></summary><p>jusqu’au stationnement</p></details>
+
+<details class="source-question" data-question-id="09-28-source-005"><summary><span>5. Complete Je sors ___ banque with de + la.</span></summary><p>Je sors de la banque.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-006"><summary><span>6. Contract à + le in Sortez ___ garage; explain the intended meaning.</span></summary><p>Sortez au garage can mean “go out to/at the garage” in a suitable context. To leave the garage: Sortez du garage.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-007"><summary><span>7. True or false: suivre takes à before the person/path followed.</span></summary><p>False: suivre quelqu’un / suivre le chemin, with a direct object.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-008"><summary><span>8. Answer Tu vas à la bibliothèque ? using y.</span></summary><p>Oui, j’y vais.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-009"><summary><span>9. Answer Tu viens de la réunion ? using en.</span></summary><p>Oui, j’en viens.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-010"><summary><span>10. Build a near-future sentence with passer par.</span></summary><p>Je vais passer par cette ville.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-011"><summary><span>11. Distinguish leaving a building from going out through a door.</span></summary><p>Je sors de la banque; je sors par la porte. Je sors de la porte needs an unusual context and is not the ordinary exit-route model.</p></details>
+
+<details class="source-question" data-question-id="09-28-source-012"><summary><span>12. Correct Vous allez jusqu’à le troisième étage.</span></summary><p>Vous allez jusqu’au troisième étage.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-28">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-28">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-25.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-05.html">Next lesson</a></nav>

@@ -1,0 +1,274 @@
+---
+title: "Passé composé & imparfait"
+pagetitle: "Passé composé & imparfait | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 19 · 11-16 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-16">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-16">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Events and background in the past {#lesson-details}
+
+The **passé composé** presents an event as a completed whole, a change or a step in a narrative: it answers **Qu’est-ce qui s’est passé ?** — What happened? It can translate “I played”, “I have played” and emphatic “I did play”; context supplies distinctions that English sometimes expresses with different forms. **Il a mangé toute la viande** can mean he ate/has eaten/did eat all the meat.
+
+The **imparfait** describes an ongoing situation, repeated habit, background, state, feeling, thought or supporting detail: “I was playing”, “I used to play”, or sometimes “I played”. This is a difference of viewpoint, not a rule that one tense is only for short actions and the other only for long actions. Compare **Il pleuvait quand je suis sorti** — It was raining when I went out; and **Quand j’étais petit, je jouais souvent dehors** — When I was little, I often played outside. Recognizing the forms in reading/listening is a useful first step before producing them fluently.
+
+## Form the passé composé and learn participles
+
+Use **present-tense avoir/être + past participle**. Conjugate the auxiliary, not an infinitive: **j’ai regardé le film** (I watched the film), not *je avoir regarder le film*.
+
+| Auxiliary | je | tu | il/elle/on | nous | vous | ils/elles |
+|---|---|---|---|---|---|---|
+| avoir | ai | as | a | avons | avez | ont |
+| être | suis | es | est | sommes | êtes | sont |
+
+Regular **-er → -é**, as in **jouer → joué**; regular second-group **-ir → -i**, as in **finir → fini, grandir → grandi, choisir → choisi**. Many **-re** verbs have **-u**, such as **attendre → attendu, descendre → descendu**, but this is not an exceptionless rule. The **-er** infinitive and its **-é** participle usually sound alike while their spellings and grammatical roles differ.
+
+| Infinitive | Participle | Infinitive | Participle |
+|---|---|---|---|
+| avoir | eu | être | été |
+| lire | lu | voir | vu |
+| boire | bu | entendre | entendu |
+| attendre | attendu | répondre | répondu |
+| perdre | perdu | vouloir | voulu |
+| devoir | dû | prendre | pris |
+| apprendre | appris | comprendre | compris |
+| mettre | mis | dire | dit |
+| écrire | écrit | conduire | conduit |
+| faire | fait | ouvrir | ouvert |
+| découvrir | découvert | offrir | offert |
+| souffrir | souffert | peindre | peint |
+| craindre | craint | venir | venu |
+
+Learn **avoir → eu** securely and practise a manageable number of irregulars at a time, such as two per day. **Être** itself takes **avoir** as a main verb: **elle a été ministre**, **elles ont été contentes**; the adjective **contentes** agrees even though the participle **été** does not change.
+
+## Choose the auxiliary by the verb and its construction
+
+Most verbs take **avoir**. A limited set takes **être** in particular intransitive meanings: **devenir, revenir, mourir, rentrer, sortir, venir, arriver, naître, descendre, entrer, rester, tomber, retourner, aller, monter, partir**, and relevant compounds such as **parvenir**. Mnemonics include **Dr & Mrs Vandertramp**, a “house of verbs” diagram and opposite pairs **naître/mourir, venir/aller, entrer/sortir, arriver/partir**. Movement alone is not a test: **marcher** and **voyager** take **avoir**. Nor does every **-venir** ending guarantee **être**: **contrevenir** takes **avoir**, while **convenir** depends on meaning/usage.
+
+Some movement verbs — **sortir, rentrer, passer, descendre, monter, retourner** — take **avoir** when used transitively, with a direct object. French is commonly subject–verb–object in a neutral declarative sentence. Ask **quoi ?** (what?) after the verb: an answer attached without **à, de, sur, dans**, etc. can identify the direct object. A location answers **où ?** (where?) and is not that object. For example, **Nous sommes restés à la maison** (We stayed at home) keeps **être** because **à la maison** is a location.
+
+| Intransitive/location construction: être | Direct-object construction: avoir |
+|---|---|
+| Il est sorti dans la rue. (He went out into the street) | Il a sorti le chien / J’ai sorti les poubelles. (He took out the dog) (I took out the garbage cans) |
+| Nous sommes rentrés. | Nous avons rentré la voiture. |
+| Ils sont passés devant la banque. | Ils ont passé de bonnes vacances. |
+| Il est monté. | Nous avons monté l’escalier / Il a monté les valises. (We went up the stairs) |
+| Je suis entré dans la salle. (I entered the room) | J’ai entré les données. |
+
+**Entrer dans** is a location construction, not proof that **entrer** can never be transitive. **Il est sorti le chien** and **nous avons resté à la maison** choose the wrong auxiliary for their intended constructions. **Rentrer** by itself is not a reflexive verb: a pronominal construction has a matching pronoun.
+
+## Participle agreement: être, avoir and pronominal verbs
+
+With ordinary **être** verbs, agree with the subject: masculine singular has the base form, feminine singular adds **-e**, masculine/mixed plural **-s**, feminine plural **-es**. Thus **allé / allée / allés / allées**. Conventional mixed-group agreement uses masculine plural; an all-female group uses feminine plural. **Nous/vous** therefore require the form appropriate to the people addressed/referred to, including polite singular **vous**. Agreement follows the subject, not **hier soir**, **à la maison** or another complement.
+
+| Subject | Example agreement |
+|---|---|
+| il | arrivé, devenu |
+| elle | allée, tombée, restée |
+| a masculine/mixed group | rentrés, descendus, nés, morts, restés |
+| a feminine group | venues, allées |
+
+In **papa est devenu un héros**, **papa** is masculine singular; the final written **s** belongs to singular **héros**, not to a plural subject. Do not omit the required **e** in **Elle est allée au parc** (She went to the park).
+
+With **avoir**, the participle normally does not agree with the subject: **Deux amis ont regardé le match**. A **preceding direct object** can require agreement: **On les a rencontrés** (We met them), or **les lettres que j’ai écrites**. A following direct object does not trigger subject agreement: **elle a sorti la poubelle**.
+
+Pronominal/reflexive verbs use **être**, often in hygiene/routine verbs **se lever, se brosser les dents, se réveiller, se reposer, se souvenir**. Their agreement needs its own analysis: **elle s’est levée / elles se sont lavées**, but **elle s’est brossé les dents / elles se sont lavé les mains** have a following direct object, and **elles se sont parlé** has an indirect reflexive object. Do not infer automatic subject agreement solely from the auxiliary **être**. Models include **Nous nous sommes levés** (We got up), **Vous vous êtes bien reposé(e)(s)** (You rested well), and Quebec’s motto **Je me souviens**.
+
+## Form the imparfait
+
+Take the present **nous** form, remove **-ons**, and add **-ais, -ais, -ait, -ions, -iez, -aient**. **Être** is exceptional: **nous sommes** supplies no **-ons** base, so use **ét-**. Other stems include **parl-, descend-, fais-, pren-, part-**; **prenai-** incorrectly includes part of an ending.
+
+| Subject | jouer | finir | attendre | aller | être |
+|---|---|---|---|---|---|
+| je | jouais | finissais | attendais | allais | étais |
+| tu | jouais | finissais | attendais | allais | étais |
+| il/elle/on | jouait | finissait | attendait | allait | était |
+| nous | jouions | finissions | attendions | allions | étions |
+| vous | jouiez | finissiez | attendiez | alliez | étiez |
+| ils/elles | jouaient | finissaient | attendaient | allaient | étaient |
+
+Use **j’** before the vowel-initial forms. Do not identify a tense from a letter sequence alone: present **nous étudions** and imperfect **nous étudiions** show why the complete form matters; some forms of other verbs can coincide. **Il se réveillait tard** (He used to wake up late) needs **se** and the word **tard**, not *tare*. **Elle partait à six heures** (She was leaving / used to leave at six o'clock) describes a past background/habit; **il se lavait** (He was washing himself) and **il finissait de manger** (He was finishing eating) are also imperfect examples.
+
+## Pronunciation, vocabulary and reusable patterns
+
+**Ç** gives /s/ before **a/o/u**, as in **français, garçon**, rather than hard /k/. Final **-é** commonly has close /e/; imperfect **-ais/-ait/-aient** commonly has open /ɛ/, with regional variation and some mergers. Practise **travaillé / travaillait, parlé / parlait** and listen for the auxiliary/context too. A mirror can help with the more open vowel; English mouth-shape comparisons are only rough cues. The written **-ent** within imperfect **-aient** is not a separate sound, and it is not **-ont**.
+
+Added **e/s** in many participles are silent: **allé/allée/allés**, **arrivés**, **descendus**. **Héros** has **h aspiré**: it has no /h/ sound but blocks liaison/elision (**le héros**, no /z/ in **les héros**). Connect subject, auxiliary and participle naturally: **Quelqu’un est entré;** (Someone came in) **Ils ont été contents; Vous avez vu ?** Pauses for emphasis/hesitation are still possible.
+
+**Un ministre** is a person; **un ministère** is a ministry/department, not that person. **Rendre visite à** is the usual learner model for visiting people; **visiter** is the ordinary model for places, museums and exhibitions, with some contextual/regional uses for people. **Avoir de la chance** means be lucky. **Le balcon**, **une poubelle**, **faire les courses / du shopping**, **participer**, **préparer**, and **résoudre un problème** are related vocabulary. A plural adjective before its noun normally changes indefinite **des → de**: **de bons balcons**; set expressions and other determiner constructions can behave differently.
+
+**Comment est-ce que tu as fait pour + infinitive ?** asks how someone managed to do something. **Désolé(e), je suis resté(e) plus longtemps que prévu** means sorry, I stayed longer than expected. **Tu as abusé de l’insecticide** means you overused the insecticide. For “See you Wednesday”, say **À mercredi / Je vais vous voir mercredi**, without **à** before the weekday in that complete statement. Use the French tense names to avoid confusing **passé composé** with English past perfect/pluperfect.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| j'ai joué | I played / I have played |  |
+| Il est allé au parc. | He went to the park. |  |
+| Nous sommes allés au parc. | We went to the park. |  |
+| Elle a été ministre pendant un an. | She was a minister for a year. |  |
+| Vous avez eu beaucoup de chance. | You were very lucky. |  |
+| Ils sont retournés là-bas. | They went back there. |  |
+| Nous avons eu une belle surprise hier. | We had a nice surprise yesterday. |  |
+| Je suis resté plus longtemps que prévu. | I stayed longer than planned. |  |
+| Elles ont été contentes d'apprendre cette nouvelle. | They were happy to learn this news. |  |
+| Ils ne sont pas arrivés. | They did not arrive. |  |
+| J'ai pris cette route. | I took this route. |  |
+| Ils ont découvert ces régions. | They discovered these regions. |  |
+| Comment est-ce que tu as fait pour résoudre ce problème ? | How did you manage to solve this problem? |  |
+| Les enfants de la famille sont nés en mai. | the children were born in May. |  |
+| Les personnages sont morts dans le récit. | The characters died in the story. |  |
+| Je suis sorti une fois avec une amie. | I went out once with a friend. |  |
+| Après la guerre, le personnage est devenu un héros. | After the war, the character became a hero. |  |
+| Une femme et un homme sont descendus au rez-de-chaussée. | a woman and a man went down to the ground floor. |  |
+| Elle est allée en France il y a un an. | she went to France a year ago. |  |
+| Il est arrivé en retard comme toujours. | he arrived late as always. |  |
+| Hier, elle est tombée dans le cours aérobie step. | Yesterday she fell in the aerobics step class. |  |
+| Vous êtes rentrés très tard après la fête. | you came back very late after the party. |  |
+| Deux femmes sont venues ensemble. | two women came together. |  |
+| Je pense à toi. | I think of you. |  |
+| Il habite seul. | He lives alone. |  |
+| j’aime me brosser les dents | I like to brush my teeth |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| le passé composé | the compound past | Used for completed/specific past actions |
+| l'imparfait | the imperfect | Used for past habits, descriptions, states |
+| une action terminée | a completed action | Function of the passé composé |
+| l'auxiliaire | the auxiliary (verb) | avoir or être |
+| le participe passé | the past participle | Combines with the auxiliary |
+| l'accord | the agreement | Past participle agreement with subject |
+| avoir | to have | Most common auxiliary; p.p. eu |
+| être | to be | Used by a limited set of verbs + reflexives; imparfait stem ét |
+| jouer | to play | Regular -er; p.p. joué |
+| finir | to finish | Regular -ir; p.p. fini |
+| attendre | to wait (for) | Regular -re; p.p. attendu |
+| se lever | to get up | Reflexive verb |
+| se brosser (les dents) | to brush (one's teeth) | Reflexive; verb of hygiene |
+| se souvenir (je me souviens) | to remember | Reflexive → être |
+| se réveiller | to wake up | Reflexive → être |
+| se reposer | to rest | Reflexive → être |
+| autrefois | formerly / in the past | Time marker |
+| devenir | to become | venir → être; p.p. devenu(e) |
+| revenir | to come back | venir → être |
+| venir | to come | être; p.p. venu; opposite of aller |
+| parvenir | to reach | venir → être (not in standard list) |
+| mourir | to die | être; opposite of naître |
+| naître | to be born | être; opposite of mourir |
+| rentrer | to go back / return home | être; avoir when transitive |
+| sortir | to go out / take out | être; avoir when transitive |
+| arriver | to arrive | être; opposite of partir |
+| partir | to leave | être; opposite of arriver; imparfait stem part |
+| descendre | to go down | être; avoir when transitive; p.p. descendu |
+| monter | to go up | être; avoir when transitive |
+| entrer | to enter | Entrer dans la salle uses être with a location complement; transitive entrer les données uses avoir. |
+| rester | to stay | être; intransitive |
+| tomber | to fall | être |
+| retourner | to return | être; avoir when transitive |
+| aller | to go | être; irregular verb, regular p.p. allé |
+| passer | to pass / spend (time) | être; avoir when transitive |
+| regarder | to watch | takes avoir |
+| participer | to participate | avoir; p.p. participé |
+| rencontrer | to meet | avoir |
+| préparer | to prepare | avoir |
+| découvrir | to discover | avoir; p.p. découvert |
+| résoudre | to solve / resolve | pour résoudre ce problème |
+| abuser de | to overuse / abuse | tu as abusé de l'insecticide |
+| écrire | to write | p.p. écrit |
+| prendre | to take | Past participle pris; imperfect stem pren-. |
+| faire | to do / make | p.p. fait; imparfait stem fais |
+| parler | to speak | imparfait stem parl |
+| ministre | minister (person) | Distinguish from ministère |
+| ministère | ministry (building/department) | Not a person |
+| avoir de la chance | to be lucky | Vous avez eu beaucoup de chance |
+| rendre visite (à qqn) | to visit (a person) | Used for people |
+| visiter | to visit (a place) | Used for sites/museums/expositions |
+| faire les courses / faire du shopping | to go shopping | a fait du shopping |
+| les poubelles / la poubelle | the garbage cans / trash | Direct object triggering avoir |
+| le chien | the dog | Il a sorti le chien |
+| la voiture | the car | Nous avons rentré la voiture |
+| l'escalier | the staircase / stairs | Direct object → avoir |
+| le rez-de-chaussée | the ground floor |  |
+| les enfants | the children | Mixed group → masculine plural |
+| mes parents | my parents | Plural → être + agreement |
+| papa / papy | dad / grandpa | Masculine singular |
+| un héros | a hero | Masculine; h aspiré blocks liaison/elision. Final s belongs to singular héros and is normally silent. |
+| le balcon | the balcony | de bons balcons |
+| content(e) | happy / pleased | Agrees: Elles ont été contentes |
+| une belle surprise | a nice surprise |  |
+| en retard | late | he est arrivé en retard |
+| hier soir | last night | Time expression |
+| il y a un an | a year ago | Time expression |
+| le cours aérobie step | aerobics step class | From example sentence |
+| garçon | boy | Contains ç (soft "s" sound) |
+| le film | the film | masculine noun |
+| le parc | the park | au parc = to the park |
+| grandir | to grow up | Regular -ir; p.p. grandi |
+| choisir | to choose | Regular -ir; p.p. choisi |
+
+## Questions
+
+<details class="source-question" data-question-id="11-16-source-001"><summary><span>1. Translate: l&#x27;imparfait</span></summary><p>The imperfect (past habit/description/states)</p></details>
+
+<details class="source-question" data-question-id="11-16-source-002"><summary><span>2. Translate: une action terminée</span></summary><p>a completed action</p></details>
+
+<details class="source-question" data-question-id="11-16-source-003"><summary><span>3. What auxiliary do all reflexive verbs take in the past?</span></summary><p>être</p></details>
+
+<details class="source-question" data-question-id="11-16-source-004"><summary><span>4. What is the difference between visiter and rendre visite?</span></summary><p>visiter = places/sites; rendre visite (à) = people</p></details>
+
+<details class="source-question" data-question-id="11-16-source-005"><summary><span>5. Translate: &quot;You were very lucky.&quot; (formal)</span></summary><p>Vous avez eu beaucoup de chance.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-006"><summary><span>6. Translate: &quot;the garbage cans&quot; and &quot;to go down.&quot;</span></summary><p>les poubelles / descendre</p></details>
+
+<details class="source-question" data-question-id="11-16-source-007"><summary><span>7. Give the past participle of: jouer, finir, attendre.</span></summary><p>joué / fini / attendu</p></details>
+
+<details class="source-question" data-question-id="11-16-source-008"><summary><span>8. Conjugate avoir and être in the present tense.</span></summary><p>avoir: j&#x27;ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont — être: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont</p></details>
+
+<details class="source-question" data-question-id="11-16-source-009"><summary><span>9. What is the formula for the passé composé?</span></summary><p>present of avoir or être + past participle</p></details>
+
+<details class="source-question" data-question-id="11-16-source-010"><summary><span>10. Give the past participle of: prendre, faire, découvrir, descendre.</span></summary><p>pris / fait / découvert / descendu</p></details>
+
+<details class="source-question" data-question-id="11-16-source-011"><summary><span>11. Fill in the auxiliary: Ils retournés là-bas. / Nous eu une belle surprise.</span></summary><p>sont / avons</p></details>
+
+<details class="source-question" data-question-id="11-16-source-012"><summary><span>12. Conjugate: elle (aller) au parc and nous (aller) au parc (watch agreement).</span></summary><p>Elle est allée au parc. / Nous sommes allés au parc.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-013"><summary><span>13. Choose the auxiliary: Il sorti dans la rue. / Il sorti le chien.</span></summary><p>Il est sorti dans la rue. / Il a sorti le chien.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-014"><summary><span>14. Conjugate finir and être in the imparfait (all persons).</span></summary><p>finir: je finissais, tu finissais, il/elle/on finissait, nous finissions, vous finissiez, ils/elles finissaient — être: j&#x27;étais, tu étais, il/elle/on était, nous étions, vous étiez, ils/elles étaient</p></details>
+
+<details class="source-question" data-question-id="11-16-source-015"><summary><span>15. Give the imparfait stem of: parler, faire, prendre, aller.</span></summary><p>parl-, fais-, pren-, all-. The source incorrectly included the imperfect ending in prenai-.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-016"><summary><span>16. Why does &quot;papa est devenu un héros&quot; use singular &quot;devenu&quot;?</span></summary><p>&quot;papa&quot; is masculine singular; the s in &quot;héros&quot; is part of the word, not a plural marker</p></details>
+
+<details class="source-question" data-question-id="11-16-source-017"><summary><span>17. Build the passé composé of jouer and finir in the &quot;I&quot; form.</span></summary><p>j&#x27;ai joué / j&#x27;ai fini</p></details>
+
+<details class="source-question" data-question-id="11-16-source-018"><summary><span>18. Build a sentence meaning &quot;We got up.&quot;</span></summary><p>Nous nous sommes levés.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-019"><summary><span>19. Build a sentence with monter + direct object using avoir.</span></summary><p>e.g., Nous avons monté l&#x27;escalier. / J&#x27;ai monté les valises.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-020"><summary><span>20. Build a sentence with sortir without a direct object using être.</span></summary><p>e.g., Je suis sorti avec mes amis.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-021"><summary><span>21. Build a question using &quot;Comment est-ce que tu as fait pour + infinitif.&quot;</span></summary><p>Comment est-ce que tu as fait pour résoudre ce problème ?</p></details>
+
+<details class="source-question" data-question-id="11-16-source-022"><summary><span>22. Write an imparfait sentence that sets a background scene.</span></summary><p>e.g., Elle partait à six heures.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-023"><summary><span>23. Correct: Elle est allé au parc.</span></summary><p>Elle est allée au parc.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-024"><summary><span>24. Correct: je avoir regarder le film.</span></summary><p>J&#x27;ai regardé le film.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-025"><summary><span>25. Give the usual learner model for visiting a person: Il a visité son père.</span></summary><p>Il a rendu visite à son père. Visiter is the ordinary model for visiting places; uses with people exist in some contexts/regions.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-026"><summary><span>26. Correct: Nous avons resté à la maison.</span></summary><p>Nous sommes restés à la maison.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-027"><summary><span>27. Correct: Elle est sorti la poubelle.</span></summary><p>Elle a sorti la poubelle.</p></details>
+
+<details class="source-question" data-question-id="11-16-source-028"><summary><span>28. A student says rentré is a reflexive verb. Is this correct? Why or why not?</span></summary><p>Rentrer by itself is not pronominal. A pronominal construction has a matching pronoun, such as se lever.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-16">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-16">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-11-09.html">Previous lesson</a> <a href="lessons.html">All lessons</a></nav>

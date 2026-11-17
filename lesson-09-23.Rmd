@@ -1,0 +1,280 @@
+---
+title: "Present-tense verbs & the imperative"
+pagetitle: "Present-tense verbs & the imperative | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 5 · 09-23 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-23">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-23">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Movement vocabulary and relationships {#lesson-details}
+
+**Monter/descendre** (go up/go down) and **entrer/sortir** (go in/go out) are opposites. **Tourner à la première sortie** and **prendre la première sortie** (to take the first exit) can describe the same route. **Lever** means raise or lift in suitable contexts; the source’s rejection of English “lift” as a possible translation was too categorical.
+
+Useful vocabulary includes **aller, venir, marcher, descendre, monter, lever, conduire, tourner, traverser, sauter, entrer, sortir, partir, prendre, arriver, continuer, suivre, passer, placer, voyager, manger, gérer, essayer, essuyer, lancer**, and **appeler**. Distinguish **appeler** (call) from **s’appeler** (be called): the reflexive pronoun changes the construction.
+
+## Present-tense patterns
+
+| Subject | traverser | descendre | partir | sortir | suivre | arriver |
+|---|---|---|---|---|---|---|
+| je | traverse | descends | pars | sors | suis | arrive |
+| tu | traverses | descends | pars | sors | suis | arrives |
+| il / elle | traverse | descend | part | sort | suit | arrive |
+| nous | traversons | descendons | partons | sortons | suivons | arrivons |
+| vous | traversez | descendez | partez | sortez | suivez | arrivez |
+| ils / elles | traversent | descendent | partent | sortent | suivent | arrivent |
+
+First-group **-er** endings are **-e, -es, -e, -ons, -ez, -ent**. Write **ils traversent**, not **ils traversont**. Second-group verbs can be recognized by forms such as **finissant** and **nous finissons**, with **-iss-**. Third-group verbs vary: **je/tu** often end in **s**, but that is a pattern in the examples, not a rule for every irregular verb; forms such as **je peux** are exceptions. **Arriver** is regular first-group even though it appears with movement verbs.
+
+Distinguish present **vous descendez / il descend** from future **vous descendrez / il descendra**. The future’s **r** can help you hear the difference in these pairs, but an **r** is not an infallible tense test.
+
+First-group verbs are regular **-er** verbs except **aller**. Regular second-group **-ir** verbs have forms such as **finissant / nous finissons**; many other **-ir** verbs belong to the third group. An infinitive’s ending alone does not classify every verb. Additional models:
+
+| Subject | marcher | finir | aller |
+|---|---|---|---|
+| je | marche | finis | vais |
+| tu | marches | finis | vas |
+| il/elle/on | marche | finit | va |
+| nous | marchons | finissons | allons |
+| vous | marchez | finissez | allez |
+| ils/elles | marchent | finissent | vont |
+
+## Spelling changes preserve pronunciation
+
+| Subject | lancer | voyager | gérer | essayer | essuyer | appeler |
+|---|---|---|---|---|---|---|
+| je | lance | voyage | gère | essaie / essaye | essuie | appelle |
+| tu | lances | voyages | gères | essaies / essayes | essuies | appelles |
+| il / elle | lance | voyage | gère | essaie / essaye | essuie | appelle |
+| nous | lançons (We throw / launch) | voyageons | gérons | essayons | essuyons | appelons |
+| vous | lancez | voyagez | gérez | essayez | essuyez | appelez |
+| ils / elles | lancent | voyagent | gèrent | essaient / essayent | essuient | appellent |
+
+- **-cer:** add a cedilla before **o** in **nous lançons**, preserving /s/.
+- **-ger:** retain **e** before **o** in **nous voyageons / nous mangeons** (We travel / We eat), preserving the soft /ʒ/ sound.
+- **Gérer:** **é → è** in the singular and third-person plural; **nous gérons, vous gérez** retain **é**. Do not use future **nous gérerons** for the present.
+- **-yer:** **essuyer** changes **y → i** except in **nous/vous**; **essayer** permits both **essaie** and **essaye** series.
+- **Appeler** doubles **l** except in **nous/vous**. **Jeter** similarly has **je jette**. This is not a blanket rule for every **-eler/-eter** verb: other verbs use an **è** pattern, and spelling recommendations allow additional variants.
+
+## Imperative: function, persons and punctuation
+
+Use the imperative for an **order, direction, or suggestion**. Its three basic persons are **tu, nous, vous**, but the subject pronoun is not written. Many forms come from the present; a few verbs have special imperative stems. **Viens, venons, venez** (Let's come / Come) are the three imperative forms of **venir**. An imperative may end with an exclamation mark, but it does not need one, and an exclamation mark is not what creates the imperative.
+
+| Infinitive | tu instruction | nous instruction | vous instruction |
+|---|---|---|---|
+| continuer | continue | continuons | continuez |
+| aller | va | allons | allez |
+| prendre | prends | prenons | prenez |
+| suivre | suis | suivons | suivez |
+| rendre | rends | rendons | rendez |
+| sortir | sors | sortons | sortez |
+
+For **-er** verbs, remove the **tu** form’s final **s**: **mange, tourne, parle, crie, continue**. **Aller** is irregular but gives **va**. Keep **s** in **prends, suis, rends, sors**. The spelling is **rends**, not **rent**; **sors**, not **sorts/sortits**; **tourne**, not **tournes/tournens**. In ordinary present statements, the pronoun and ending return: **tu continues**, **tu vas**.
+
+Before attached **y/en**, a linking **s** can return: **va + y → vas-y**, **mange + en → manges-en**. Hyphenate the pronoun. **Va à l’hôpital** needs no added **s**, since **à** is not an attached **y/en** pronoun. The rule is not “add s before any vowel.”
+
+Use **nous** when proposing an action that includes yourself: **Prenons l’escalier** (Let's take the stairs), **Suivons la piste cyclable au bord de la rivière** (Let's follow the bike path by the river). Use **vous** for several listeners or one listener respectfully; use **tu** for one familiar listener. Stay consistent within a route. A phrase meaning “a colleague and I” is **nous**; “you and your colleagues” is **vous** when another speaker addresses that group. The source confused these viewpoints in one explanation.
+
+The regular command paradigm **tourne, tournons, tournez** follows the same persons. **Finir** gives **finis, finissons, finissez**.
+
+## Directions and complement choices
+
+- **Prenez l’ascenseur / Prends la première rue à droite** — take the elevator / the first street on the right.
+- **Descendez au sous-sol / au quatrième étage** — go down to the basement / fourth floor.
+- **Tournez à gauche / à droite au deuxième rond-point** — turn left / right at the second roundabout.
+- **Suivez les flèches / Suis le corridor jusqu’au tournant** — follow the arrows / corridor as far as the turn. A U-shaped corridor can be described as **le corridor en U**.
+- **Continuez jusqu’au premier coin de rue / Continue tout droit et descends l’escalier à gauche** — continue to the first street corner / straight ahead, then go down the stairs on the left.
+- **Va au bureau / Va à l’infirmerie** — go to the office / infirmary. To refer to a person, use **Va voir l’infirmière**. The source confused **infirmière** (nurse) with **infirmerie** (infirmary).
+- **Monter l’escalier / la montagne / une tour** treats the thing climbed as the direct object. **Monter dans la tour** emphasizes going up inside it, and **monter dans le bus** means getting on the bus. **Montez dans la tour** — Go up inside the tower.
+
+Use an ordinal for a floor: **le quinzième étage**, not **quinze étage**. **Une indication** means an instruction/direction; **les flèches** are arrows.
+
+## Learning questions and pronunciation
+
+**C’est quoi l’opposé de descendre ?** asks for the opposite; **monter** is the answer. Use **de + entrer → d’entrer** in **l’opposé d’entrer**. **Comment on dit “to cross” ? / Comment dit-on “to cross” ?** asks how to say something; answer **traverser**. **Comment dit-on “leave somewhere” ? → partir**. **Est-ce que vous connaissez le verbe suivre ?** asks whether someone knows a verb.
+
+The third-person plural ending **-ent** is silent in these present forms: **ils traversent** sounds like **il traverse**. Listen to **je gère** versus **nous gérons**. **Une cédille** is the mark in **ç**; **un accent aigu** is **é**; **un accent grave** appears in **è/à**; **un accent circonflexe** appears in **ê/û**; **un tréma** is the pair of dots in **ï/ë**, often signalling separate vowel pronunciation. Say **indication** with French vowel sounds, and keep spaces clear between verb and pronoun when writing questions.
+
+## Statement, question and command
+
+**Salut. Tu vas où ce soir ?** is an informal question. **Je viens si j’ai le temps** means “I’ll come if I have time,” with the present after **si**. **Viens avec nous** (Come with us!), **Réservez les places** (Reserve the seats!), and **D’accord, réservez les places alors** are commands. The imperative is a mood; it is neither the near future nor the imparfait. **Qu’est-ce que nous avons fait la dernière fois ?** (What did we do last time?) and **On a vu aller, on a vu venir** (We saw "aller," we saw "venir.") provide passé-composé review rather than imperative examples.
+
+In Canadian French, **le clavardage** means online text chat. The movement vocabulary is useful for map directions regardless of the map service used. No personal account or actual route is required.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Est-ce que vous connaissez d'autres verbes de mouvement ? | Do you know other verbs of movement? |  |
+| J'appelle, nous appelons. | I call, we call. |  |
+| Salut, Léa. Tu vas où ce soir ? | Hi, Léa. Where are you going tonight? |  |
+| Descendez au sous-sol, puis suivez les flèches. | Go down to the basement, then follow the arrows. |  |
+| Prends la rue principale à droite. | Take principale street on the right. |  |
+| Va à l'infirmière. | Go to the nurse/infirmary. |  |
+| Tournez à droite au deuxième rond-point. | Turn right at the second roundabout. |  |
+| Montez dans la tour CN. | Go up the CN Tower. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| aller | to go | Irregular third-group verb. |
+| venir | to come | Irregular third-group verb. |
+| marcher | to walk | Also means to work/function: ça marche. |
+| descendre | to go down / to descend | Third group: descendre les escaliers. |
+| monter | to go up | First group; opposite of descendre. |
+| lever | to raise/lift | Raise/lift; select the English translation by context. |
+| conduire | to drive | Irregular. |
+| tourner | to turn | First-group verb useful in directions. |
+| traverser | to cross | First group (-er). |
+| sauter | to jump |  |
+| entrer | to enter / to go into (a building) | First group; opposite of sortir. |
+| sortir | to go out / to exit | Third group; opposite of entrer. |
+| partir | to leave (somewhere) | Third group. |
+| prendre | to take | Prendre la première sortie — take the first exit; not a synonym for every use of tourner. |
+| arriver | to arrive | First group. |
+| continuer | to continue | First group. |
+| suivre | to follow | Third group. |
+| passer | to pass / to go past |  |
+| placer | to place | First group, -cer spelling pattern. |
+| voyager | to travel | First group, -ger spelling pattern. |
+| manger | to eat | First group, -ger spelling pattern. |
+| gérer | to manage | First group with changing é/è in the relevant forms. |
+| essayer | to try | First group, -yer pattern; both essaie and essaye are accepted. |
+| essuyer | to wipe | First group, -yer pattern. |
+| lancer | to throw / to launch | First group, -cer pattern. |
+| appeler | to call | First group, -eler pattern; j’appelle / nous appelons. |
+| s'appeler | to be called (reflexive) | Pronominal s’appeler differs from appeler. |
+| une cédille | a cedilla | The hook under c: ç. |
+| l'accent aigu | acute accent | é |
+| l'accent grave | grave accent | è, à; the written accent slopes downward to the right. |
+| l'accent circonflexe | circumflex accent | ê, â and other circumflex forms. |
+| le tréma | diaeresis (two dots above a vowel) | Two dots, as in ï and ë, often indicating separate vowel pronunciation. |
+| l'impératif | the imperative (mood) | Mood for commands/instructions. |
+| le futur proche | near future | A future construction, distinct from the imperative. |
+| l'imparfait | imperfect (past tense) | A past tense, distinct from the imperative. |
+| comme prévu | as planned | Idiomatic expression. |
+| réserver | to reserve / to book | Réserver les places — reserve the seats. |
+| la séance | the showing / session | La séance de cinéma — the movie showing. |
+| les flèches | arrows | Feminine plural; practise its French pronunciation. |
+| l'ascenseur | elevator | Masculine. |
+| le sous-sol | basement |  |
+| la sortie | exit |  |
+| le coin de rue | street corner |  |
+| tout droit | straight ahead |  |
+| l'escalier | staircase / stairs | Masculine. |
+| le rond-point | roundabout |  |
+| le corridor | corridor / hallway |  |
+| une infirmière | a nurse |  |
+| le bureau | office |  |
+| la gare | train station |  |
+| le/la touriste | tourist |  |
+| une indication | direction / instruction | Use French pronunciation of indication rather than reading it as an English word. |
+| la piste cyclable | bike path |  |
+| au bord de la rivière | at the river's edge |  |
+| l'étage | floor / storey | Quinzième étage — fifteenth floor. |
+| la tour | tower | La tour CN — CN Tower; a geographic vocabulary example. |
+| le boulevard | boulevard |  |
+| la promenade | parkway / promenade |  |
+
+## Questions
+
+<details class="source-question" data-question-id="09-23-source-001"><summary><span>1. Translate into French: to cross</span></summary><p>traverser</p></details>
+
+<details class="source-question" data-question-id="09-23-source-002"><summary><span>2. Translate into French: to follow</span></summary><p>suivre</p></details>
+
+<details class="source-question" data-question-id="09-23-source-003"><summary><span>3. Translate into French: to arrive</span></summary><p>arriver</p></details>
+
+<details class="source-question" data-question-id="09-23-source-004"><summary><span>4. Fill in the blank: prendre la première (synonyme de tourner)</span></summary><p>sortie (prendre la première sortie)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-005"><summary><span>5. What is the opposite of entrer ?</span></summary><p>sortir</p></details>
+
+<details class="source-question" data-question-id="09-23-source-006"><summary><span>6. What is the opposite of descendre ?</span></summary><p>monter</p></details>
+
+<details class="source-question" data-question-id="09-23-source-007"><summary><span>7. Translate: to wipe, to travel, to manage, to throw/launch.</span></summary><p>essuyer, voyager, gérer, lancer</p></details>
+
+<details class="source-question" data-question-id="09-23-source-008"><summary><span>8. What is the hook under the &quot;c&quot; (ç) called?</span></summary><p>une cédille</p></details>
+
+<details class="source-question" data-question-id="09-23-source-009"><summary><span>9. What is the name of the accent in é? And in è?</span></summary><p>l&#x27;accent aigu (é); l&#x27;accent grave (è)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-010"><summary><span>10. What is le tréma? Give an example.</span></summary><p>The two dots above a vowel (e.g., ï, ë); the vowel is pronounced separately.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-011"><summary><span>11. Translate into English: comme prévu</span></summary><p>&quot;as planned&quot;</p></details>
+
+<details class="source-question" data-question-id="09-23-source-012"><summary><span>12. Translate into French: &quot;the movie showing&quot;</span></summary><p>la séance de cinéma</p></details>
+
+<details class="source-question" data-question-id="09-23-source-013"><summary><span>13. Translate: arrows, staircase, roundabout, straight ahead.</span></summary><p>les flèches, l&#x27;escalier, le rond-point, tout droit</p></details>
+
+<details class="source-question" data-question-id="09-23-source-014"><summary><span>14. Complete the question: Qu&#x27;est-ce que nous avons la dernière fois ? (faire, passé composé)</span></summary><p>fait — Qu&#x27;est-ce que nous avons fait la dernière fois ?</p></details>
+
+<details class="source-question" data-question-id="09-23-source-015"><summary><span>15. Give the French for &quot;Do you know [this verb]?&quot; using est-ce que.</span></summary><p>Est-ce que vous connaissez [verbe] ?</p></details>
+
+<details class="source-question" data-question-id="09-23-source-016"><summary><span>16. Conjugate lancer at nous in the present.</span></summary><p>nous lançons</p></details>
+
+<details class="source-question" data-question-id="09-23-source-017"><summary><span>17. Conjugate voyager at nous in the present.</span></summary><p>nous voyageons</p></details>
+
+<details class="source-question" data-question-id="09-23-source-018"><summary><span>18. Conjugate gérer fully in the present.</span></summary><p>je gère, tu gères, il/elle gère, nous gérons, vous gérez, ils/elles gèrent</p></details>
+
+<details class="source-question" data-question-id="09-23-source-019"><summary><span>19. Conjugate essuyer at nous and ils.</span></summary><p>nous essuyons / ils essuient</p></details>
+
+<details class="source-question" data-question-id="09-23-source-020"><summary><span>20. Conjugate appeler at je and nous.</span></summary><p>j&#x27;appelle / nous appelons</p></details>
+
+<details class="source-question" data-question-id="09-23-source-021"><summary><span>21. Conjugate partir at tu and il.</span></summary><p>tu pars / il part</p></details>
+
+<details class="source-question" data-question-id="09-23-source-022"><summary><span>22. Conjugate venir in the imperative (tu, nous, vous).</span></summary><p>viens, venons, venez</p></details>
+
+<details class="source-question" data-question-id="09-23-source-023"><summary><span>23. What tense is the imperative based on, and what do you remove?</span></summary><p>Based on the present tense; remove the subject pronoun (and, for -er verbs/aller, drop the final -s in the tu form).</p></details>
+
+<details class="source-question" data-question-id="09-23-source-024"><summary><span>24. Give the correct &quot;tu&quot; imperative of aller and manger.</span></summary><p>va (aller), mange (manger)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-025"><summary><span>25. When do you use nous vs. vous in the imperative?</span></summary><p>nous when the speaker is included (&quot;Let&#x27;s...&quot;); vous when addressing one or more other people.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-026"><summary><span>26. Conjugate continuer in the imperative (tu, nous, vous).</span></summary><p>Continue, continuons, continuez</p></details>
+
+<details class="source-question" data-question-id="09-23-source-027"><summary><span>27. Write the tu imperative of prendre.</span></summary><p>Prends (with &quot;s&quot;)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-028"><summary><span>28. Does tourner keep or drop the &quot;s&quot; with tu in the imperative? Why?</span></summary><p>Drops the &quot;s&quot; — it is an -er verb.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-029"><summary><span>29. Your colleagues and you are waiting for the elevator. Which form: Prenez or Prenons? Why?</span></summary><p>Vos collègues et vous takes vous: Prenez. Mes collègues et moi takes nous: Prenons. The source conflated the addressee’s group with the speaker’s group.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-030"><summary><span>30. Make a question asking the opposite of a verb using C&#x27;est quoi l&#x27;opposé de + [verbe] ?</span></summary><p>Example: C&#x27;est quoi l&#x27;opposé de monter ?</p></details>
+
+<details class="source-question" data-question-id="09-23-source-031"><summary><span>31. Make a question asking how to say &quot;to drive&quot; in French.</span></summary><p>Comment on dit &#x27;to drive&#x27; ? (Answer: conduire)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-032"><summary><span>32. Write a present-tense sentence using descendre with nous.</span></summary><p>Nous descendons l&#x27;escalier.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-033"><summary><span>33. Write a present-tense sentence using suivre with il/elle.</span></summary><p>Il/Elle suit le chemin.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-034"><summary><span>34. Turn this question into a command: Vous réservez les places ?</span></summary><p>Réservez les places !</p></details>
+
+<details class="source-question" data-question-id="09-23-source-035"><summary><span>35. Write a command telling a friend to come with you (using venir, tu form).</span></summary><p>Viens avec moi !</p></details>
+
+<details class="source-question" data-question-id="09-23-source-036"><summary><span>36. Build an imperative (vous) telling someone to turn right at the second roundabout.</span></summary><p>Tournez à droite au deuxième rond-point.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-037"><summary><span>37. Build an imperative (nous) meaning &quot;Let&#x27;s take the stairs.&quot;</span></summary><p>Prenons l&#x27;escalier.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-038"><summary><span>38. Correct: L&#x27;opposé de descendre est &quot;ascends.&quot;</span></summary><p>The opposite of descendre is monter, not &quot;ascends.&quot;</p></details>
+
+<details class="source-question" data-question-id="09-23-source-039"><summary><span>39. Correct the idea: &quot;lever&quot; means exactly &quot;to lift.&quot;</span></summary><p>Lever can mean to raise or lift. Translate by context rather than rejecting lift universally.</p></details>
+
+<details class="source-question" data-question-id="09-23-source-040"><summary><span>40. Correct: ils traversont</span></summary><p>ils traversent</p></details>
+
+<details class="source-question" data-question-id="09-23-source-041"><summary><span>41. Correct: nous lancons</span></summary><p>nous lançons</p></details>
+
+<details class="source-question" data-question-id="09-23-source-042"><summary><span>42. Correct: tu part</span></summary><p>tu pars</p></details>
+
+<details class="source-question" data-question-id="09-23-source-043"><summary><span>43. Correct: Vas avec nous !</span></summary><p>Va avec nous ! (drop the -s)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-044"><summary><span>44. Correct: Manges maintenant !</span></summary><p>Mange maintenant ! (drop the -s)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-045"><summary><span>45. Correct: Continues tout droit.</span></summary><p>Continue tout droit. (drop the &quot;s&quot;, -er verb)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-046"><summary><span>46. Correct: Va y! (meaning &quot;go there&quot;)</span></summary><p>Vas-y ! (add &quot;s&quot; back before &quot;y&quot;)</p></details>
+
+<details class="source-question" data-question-id="09-23-source-047"><summary><span>47. Correct: Prene la rue à droite. (tu form)</span></summary><p>Prends la rue à droite. (prendre keeps &quot;s&quot; with tu)</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-23">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-23">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-16.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-09-25.html">Next lesson</a></nav>

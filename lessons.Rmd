@@ -1,0 +1,11 @@
+---
+title: "Lessons"
+pagetitle: "Lessons | Bloc 2 notes"
+---
+
+<div class="library-tools"><label class="search-label" for="lesson-search">Search lessons<input id="lesson-search" type="search" placeholder="Search" autocomplete="off"></label><label for="lesson-order">Sort by<select id="lesson-order"><option value="course">Course order</option><option value="recent">Newest first</option><option value="title">Title A–Z</option></select></label></div>
+<div class="topic-pills" id="topic-pills" aria-label="Filter lessons by topic"></div>
+<p id="library-count" class="result-count" aria-live="polite"></p>
+<div id="lesson-grid" class="lesson-grid"></div>
+<noscript><p>The full lesson pages work without JavaScript. Enable JavaScript for search and practice.</p><ul><li><a href="lesson-09-09.html">Start with lesson 1</a></li><li><a href="lesson-11-16.html">Past tenses</a></li></ul></noscript>
+

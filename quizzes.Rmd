@@ -1,0 +1,12 @@
+---
+title: "Quizzes"
+pagetitle: "Quizzes | Bloc 2 notes"
+---
+
+<section class="practice-setup" id="quiz-setup"><div class="filter-row"><label for="quiz-topic">Topic<select id="quiz-topic"></select></label><label for="quiz-lesson">Lesson<select id="quiz-lesson"></select></label><label for="quiz-length">Questions<select id="quiz-length"><option value="5">5 questions</option><option value="10" selected>10 questions</option><option value="20">20 questions</option><option value="all">All matching questions</option></select></label></div><div class="setup-bottom"><p id="quiz-available" aria-live="polite"></p><button class="button" id="quiz-start" type="button">Start quiz</button></div></section>
+
+<section id="quiz-play" class="quiz-panel" hidden><div class="practice-top"><span id="quiz-position"></span><span id="quiz-score"></span></div><progress id="quiz-progress" value="0" max="10" aria-label="Quiz progress"></progress><p class="eyebrow" id="quiz-kind"></p><h2 id="quiz-prompt"></h2><a id="quiz-lesson-link" class="small-link" href="lessons.html">Review this lesson</a><form id="answer-form"><label id="answer-label" for="quiz-answer">Your answer</label><textarea id="quiz-answer" rows="3" placeholder="Your answer" autocomplete="off" spellcheck="false"></textarea><button class="button" id="quiz-check" type="submit">Check answer</button></form><div id="quiz-feedback" class="answer-feedback" role="status" hidden></div><div id="self-buttons" class="self-buttons" hidden><button type="button" class="button" id="quiz-yes">My answer matches</button><button type="button" class="button secondary" id="quiz-no">Needs more practice</button></div><div class="quiz-bottom"><button id="quiz-end" type="button" class="text-button">End session</button><button id="quiz-next" type="button" class="button" disabled>Next question →</button></div></section>
+
+<section id="quiz-results" class="results-panel" hidden tabindex="-1"><p class="eyebrow">Session complete</p><h2 id="quiz-result-title"></h2><p id="quiz-result-detail"></p><div class="hero-actions"><button type="button" id="quiz-retry" class="button">Practise missed questions</button><button type="button" id="quiz-new" class="button secondary">Choose another quiz</button></div><div id="quiz-review"></div></section>
+<noscript><p>Enable JavaScript to run quizzes. The lesson notes and vocabulary tables remain available.</p></noscript>
+

@@ -1,0 +1,279 @@
+---
+title: "Telling the time & describing punctuality"
+pagetitle: "Telling the time & describing punctuality | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 13 · 10-21 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-21">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-21">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Short and long time nouns {#lesson-details}
+
+| Counting/calendar form | Period/experience form |
+|---|---|
+| un an | une année |
+| un jour | une journée |
+| un matin | une matinée |
+| un soir | une soirée |
+
+The short forms often count units: **trois jours**, **vingt-cinq ans**, **ce soir**. The longer forms often present a period, its activities, or its quality: **après une matinée de travail**, **une belle matinée**, **une année scolaire**, **une bonne journée**. Also learn the established expressions **l’année prochaine / l’année dernière**.
+
+Generic source models are **Une personne habite en ville depuis deux ans et demi**, **Je me couche à vingt-deux heures le soir**, **Une personne a trente ans**, **Après une matinée de travail, j’aime me promener** (After a morning of work, I like to go for a walk), and **Comment s’est passée ton année dernière ?** (How was your last year?) The final question asks about the experience of the year, not a date. **Depuis cinq ans** is a useful simple duration model; **cinq années de travail** and **trois belles années** show that longer forms with numbers are not universally forbidden.
+
+**Tous les jours** means every day; **toute la journée** means all day. **Un soir** can identify a particular evening, while **passer la soirée à lire** emphasizes the time spent reading. Clock/day-period expressions include **le matin, à midi, le soir, la nuit**. The boundary between afternoon and evening is contextual and seasonal rather than a universal fixed hour.
+
+**Le matin** may mean in the morning or every morning in context. **Dans la matinée** means sometime during the morning; **en matinée** is also common, including in Canadian French. Avoid *dans le matin* for that meaning.
+
+## Elision in est-ce qu’on and day-period questions
+
+**Que** elides before **on/elles**: **est-ce qu’on**, **est-ce qu’elles**. The source incorrectly said that **on** itself elides before a vowel and even described **lit** as vowel-initial. **On** remains **on**; it can make a linking /n/ sound before a vowel-initial verb, as in **on arrive**.
+
+Complete patterns:
+
+> À quel moment de la journée est-ce qu’on lit notre courriel ?  
+> À quel moment de la journée est-ce qu’elles font des heures supplémentaires ?  
+> À quel moment de la journée est-ce que votre réveil-matin sonne ?  
+> À quel moment de la journée les employés quittent-ils le bureau ?  
+> À quel moment de la journée est-ce que la cafétéria ferme ? (At what time of day do we read our email?) (At what time of day do they work overtime?) (At what time of day do the employees leave the office?)
+
+Possible answers identify a period and, optionally, a clock time: **C’est le matin, à six heures trente**, **le soir**, or **à toute heure** (at any hour). **Votre réveil-matin sonne** means your alarm clock rings. For entering a building with ID, a clear model is **Il faut une pièce d’identité pour entrer dans l’immeuble**; the source’s **une identité** was imprecise.
+
+## Ask for a translation or a clock time
+
+Translation questions include **Quel est le mot pour… ?**, **Pouvez-vous me traduire ce mot ?**, **Comment est-ce qu’on dit ça en français ?**, and **Comment dit-on… en français ?**. A word-identification answer can use **C’est le matin / C’est dimanche / C’est le printemps**.
+
+For the clock, ask **Quelle heure est-il ?** (What time is it? (formel)) or conversational **Il est quelle heure ?** (What time is it? (informel)). Answer **Il est…**, not **Elle est…** merely because **heure** is feminine. **C’est une heure** can occur in other meanings, but it is not the ordinary answer giving the current clock time. **Quel temps fait-il ?** concerns weather, not “What time is it?”
+
+## Twelve-hour and twenty-four-hour systems
+
+| Time | Twelve-hour reading | Twenty-four-hour reading |
+|---|---|---|
+| 04:00 | quatre heures du matin | quatre heures |
+| 14:00 | deux heures de l’après-midi | quatorze heures |
+| 19:00 | sept heures du soir | dix-neuf heures |
+| 16:15 | quatre heures et quart | seize heures quinze |
+| 17:30 | cinq heures et demie | dix-sept heures trente |
+| 18:45 | sept heures moins le quart | dix-huit heures quarante-cinq |
+
+In the 12-hour system, add **du matin / de l’après-midi / du soir** if needed. In a standard 24-hour schedule, the number already removes the ambiguity, so do not add **de l’après-midi** after **quatorze heures**. Numerical minutes are the clearest schedule model. Mixed colloquial expressions such as **seize heures et quart** are heard; the source called them categorically wrong, but this page recommends the unambiguous schedule form **seize heures quinze** rather than treating every informal mixture as impossible.
+
+Use singular **une heure** and plural **trois heures**. The structure is **number + heure(s) + minutes**, not the reversed wording in one source explanation. **Il est deux heures trente-cinq** equals **Il est trois heures moins vingt-cinq**. **Il est cinq heures cinquante-neuf** equals **Il est six heures moins une**.
+
+**Et quart** is fifteen minutes past; **et demi/demie** is thirty minutes past; **moins le quart** is fifteen minutes before the next hour. **Trois heures et quart = 3:15**; **trois heures moins le quart = 2:45**. Use **demie** with feminine **heure**, but **midi et demi / minuit et demi**.
+
+**Midi** and **minuit** are common spoken forms for noon and midnight. **Midi trente / minuit trente** are useful half-hour readings. **Douze heures** and **zéro heure** can also occur in schedules; the source’s complete ban on them was too broad. **Il est midi cinquante-sept** is a direct minute reading. **09 h 05** is read **neuf heures cinq**, without pronouncing a leading zero. Conventional French typography uses spaces: **14 h 30**.
+
+For comparison, **13:15 → une heure et quart de l’après-midi / treize heures quinze**; **14:30 → deux heures et demie / quatorze heures trente**; **17:45 → six heures moins le quart du soir / dix-sept heures quarante-cinq**; **00:30 → minuit et demi / zéro heure trente**.
+
+## Exactly, almost, already and barely
+
+**Pile** is invariable and means sharp/on the dot: **La réunion commence à neuf heures pile** (The meeting begins at nine o'clock sharp), **Le bus arrive à midi pile**, **Il est quinze heures pile**. **Tapant/tapante** agrees in the expression: **à midi tapant**, **à neuf heures tapantes**.
+
+**Il est bientôt quinze heures / Il est presque midi** means nearly that time. **Il est déjà dix-huit heures** means already. **Il est à peine sept heures** (It's only just seven o'clock) means barely/only just. Ordinary clock readings do not insert **et** between arbitrary minute numbers; **et quart/et demie** are established fraction constructions.
+
+## Approximation and event times
+
+For the clock, practise **Il est près de trois heures / de minuit / de midi**. For approximate event timing, use **Il va partir vers cinq heures**, **Je mange vers midi**, **La réunion commence vers neuf heures**, **Le film commence vers dix-neuf heures**, **Je quitte le bureau vers seize heures trente**, **Nous finissons vers treize heures trente**.
+
+The source taught “près de only with être; vers with every other verb.” Treat these as chosen practice frames, not a universal ban: **Il était vers midi** is possible, and **près de** has many spatial and quantitative uses. **Vers** does not need **à** before it. An event at an exact time uses **à**: **Le cours est à neuf heures**, **La réunion est à quatorze heures trente**, **L’avion est à dix heures**.
+
+Ask **À quelle heure commence le cours ?**, **À quelle heure le travail se termine-t-il ?**, **À quelle heure vous couchez-vous ?**, **À quelle heure pars-tu/manges-tu ?**, or **À quelle heure rentrez-vous à la maison ?**. **Je me réveille à six heures trente** combines a reflexive routine with clock time.
+
+## Early, on time and late
+
+**Je suis en avance / à l’heure / en retard** means early/on time/late. Say **Je suis en retard de cinq minutes** (I'm five minutes late), **Je vais arriver cinq minutes en retard**, or **Je vais arriver cinq minutes en avance**. **Cinq minutes avant** needs an understood comparison point, such as before the meeting.
+
+Avoid **Je suis en heure** or the direct-English **cinq minutes tard** as the standard punctuality model. **Je suis retardé** can mean “I am delayed” in a suitable context and also has other, potentially offensive senses when used as a label for a person; it is not simply equivalent to **Je suis en retard**.
+
+**Je suis arrivé à l’heure** — I arrived on time. **Le train a dix minutes de retard** — The train is ten minutes late.
+
+## Pronunciation and vocabulary
+
+In **année, journée, matinée, soirée**, **é** represents a pronounced vowel; the final written **e** is normally mute. **Heure** begins with a vowel sound and mute **h**. **Une heure** connects the existing /n/; in **trois heures**, the /z/ linking sound is the expected number–noun liaison in careful speech, not a universally optional decoration. **Vingt** has context/regional variants in expressions such as **deux heures vingt**. **Dix-sept heures** is 5 p.m.; **sept heures trente** is 7:30.
+
+In **seconde**, **c** is pronounced /g/. A French written **h** normally does not produce English /h/. A **mute h** permits elision/liaison; an **aspirated h** blocks them: **le harcèlement** (Harassment), not **l’harcèlement**. English **help/health/happiness** ordinarily retain their /h/, so French h habits do not transfer directly. Some h spellings reflect word history; the historical h in **huit** also helped distinguish old written u/v forms. These are historical explanations, not a present pronunciation /h/.
+
+**Un commissionnaire** can be a messenger/courier, while Canadian institutional **commissionnaires** can refer to security staff. **Un commissionnaire de nuit** therefore depends on context. Do not infer a particular employee’s background or employment history from the word.
+
+For partner practice, alternate the time-question and answer roles, and vary action verbs rather than repeating only one verb. The original time limit and classroom supervision arrangements are administration and are excluded; the learning activity remains.
+
+Mute **h** permits elision/liaison (**l’heure**); **h aspiré** blocks them (**le héros**). Neither normally has English /h/; check the word rather than treating every written h alike.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| J'habite à Paris depuis 2 ans et demi. | I've been living in Paris for two and a half years. |  |
+| Je me couche à 22h le soir. | I go to bed at 10 in the evening. |  |
+| C'est le matin à 6h30. | It's in the morning at 6:30. |  |
+| Il faut une identité pour entrer dans votre immeuble. | You need ID to enter your building. |  |
+| Il est sept heures et quart. | It's quarter past seven. |  |
+| Il est six heures moins le quart. | It's quarter to six. |  |
+| Il est quatorze heures. | It's 2 pm. |  |
+| Il est midi. / Il est minuit. | It's noon. / It's midnight. |  |
+| Il est déjà 18h. | It's already 6 PM. |  |
+| Je me réveille à 6h30. | I wake up at 6:30. |  |
+| Il est près de midi. | It is close to noon. |  |
+| Je quitte le bureau vers 16h30. | I leave the office around 4:30 p.m. |  |
+| Nous finissons vers 13h30. | We finish around 1:30 p.m. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| janvier | January | En janvier — in January. |
+| mars | March | En mars — in March. |
+| avril | April | En avril — in April. |
+| juin | June | En juin — in June. |
+| juillet | July | En juillet — in July. |
+| août | August | Month name. |
+| l'hiver | winter | Season name. |
+| le printemps | spring | C’est le printemps — It is spring. |
+| l'été | summer | C’est l’été / en été — It is summer / in summer. |
+| l'automne | fall / autumn | C’est l’automne — It is autumn; en automne — in autumn. Both constructions are valid with their own meaning. |
+| mardi | Tuesday | Day name. |
+| vendredi | Friday | Day name. |
+| dimanche | Sunday | Day name. |
+| le matin | morning | Short form; du matin specifies a morning clock time. |
+| la matinée | morning (duration) | Long form, emphasizing the period or experience. |
+| le midi | noon / midday | Noon, a point in the day. |
+| midi | noon | Masculine; midi is a natural everyday expression for noon, alongside douze heures. |
+| l'après-midi | afternoon | De l’après-midi specifies afternoon time. Clock boundaries between afternoon/evening depend on context. |
+| le soir | evening | Short form; du soir specifies evening time, with context-dependent boundaries. |
+| la soirée | evening (duration) | Long form for the evening period/experience. |
+| la nuit | night | Night; de nuit means at night/by night. |
+| minuit | midnight | Masculine; midnight, literally the middle of the night. |
+| le jour | day | Short calendar/counting form. |
+| la journée | day (duration) | Long period form: bonne journée. |
+| l'an | year | Short form: j’ai trente ans. |
+| l'année | year (duration) | Long form: l’année dernière. |
+| tous les jours | every day | Every day, counting repeated calendar days. |
+| toute la journée | all day (long) | All day long, emphasizing the whole period. |
+| une heure | an hour / one o'clock | Mute h; practise the rounded vowel /œ/ in heure. |
+| une minute | a minute |  |
+| une seconde | a second | Written c is pronounced /g/ in seconde. |
+| à toute heure | at any time | At any hour, any part of the day. |
+| et quart | quarter past | Adds 15 minutes; normally used with conversational 12-hour readings. |
+| et demie / et demi(e) | half past | Adds 30 minutes; normally conversational 12-hour style. Une heure et demie, but midi et demi. |
+| moins le quart | quarter to | 15 minutes before the next hour; normally conversational 12-hour style. |
+| moins (+ nombre) | minus (+ minutes to next hour) | Six heures moins dix — ten to six. |
+| pile | sharp, on the dot | Invariable adverb after the time. |
+| tapant / tapante | sharp, striking | Adjective agrees with the time noun: une heure tapante / neuf heures tapantes. |
+| bientôt | soon / almost | Il est bientôt sept heures — It is nearly seven. |
+| presque | almost | Il est presque sept heures — It is almost seven. |
+| déjà | already | Il est déjà sept heures — It is already seven. |
+| à peine | only just, barely | Il est à peine sept heures — It is only just seven. Connect est à with /t/ liaison, not /s/. |
+| près de | close to / around (temps approx.) | Close to/nearly; not restricted universally to être. |
+| vers | around / toward (temps approx.) | Around a time; not prohibited with être. |
+| en avance | early (ahead of schedule) | Je suis en avance — I am early. |
+| à l'heure | on time | Je suis à l’heure — I am on time; not en heure. |
+| en retard | late | Je suis en retard — I am late. Retardé can mean delayed in another context. |
+| tôt | early | Il est tôt — It is early. |
+| tard | late | Il est tard — It is late. |
+| le réveil-matin | the alarm clock | Votre réveil-matin sonne — Your alarm clock rings. |
+| sonner | to ring |  |
+| se réveiller | to wake up | Reflexive: je me réveille à six heures trente. |
+| se coucher | to go to bed | Reflexive: À quelle heure vous couchez-vous ? — What time do you go to bed? |
+| partir | to leave / depart |  |
+| quitter | to leave (a place) | Je quitte le bureau — I leave the office. |
+| rentrer | to go/come back home | Je rentre à la maison — I go home. |
+| manger | to eat |  |
+| finir | to finish | Nous finissons vers treize heures trente — We finish around 1:30 p.m. |
+| commencer | to begin / start |  |
+| travailler | to work | Action verb for time-expression practice. |
+| le cours (de français) | the (French) class | Le cours / la réunion — the class / the meeting, interchangeable event prompts. |
+| la réunion | the meeting |  |
+| le travail | work |  |
+| le patron | the boss |  |
+| le bureau | the office |  |
+| les employés | the employees |  |
+| la cafétéria | the cafeteria | La cafétéria est fermée — The cafeteria is closed. |
+| l'immeuble (m.) | the building |  |
+| une identité | an ID / identification | A natural identification model is Il faut une pièce d’identité pour entrer. |
+| les heures supplémentaires | overtime | Faire des heures supplémentaires — work overtime. |
+| faire des heures supplémentaires | to work overtime |  |
+| lire un courriel | to read an email |  |
+| le harcèlement | harassment | H aspiré blocks liaison/elision: le harcèlement; the h itself is not sounded. |
+| huit | eight | Historically, h helped distinguish a word beginning with u from one beginning with v in writing. |
+| hockey | hockey | H aspiré in hockey blocks the usual liaison/elision; do not infer pronunciation solely from a broad origin label. |
+| un commissionnaire (de nuit) | night courier / messenger | Can mean a security guard in a Canadian commissionaire context; also a messenger/porter elsewhere. Former defence employment is not part of the word’s universal definition. |
+
+## Questions
+
+<details class="source-question" data-question-id="10-21-source-001"><summary><span>1. Translate August, Tuesday, spring and night.</span></summary><p>août; mardi; le printemps; la nuit</p></details>
+
+<details class="source-question" data-question-id="10-21-source-002"><summary><span>2. Complete Comment dit-on fall en français ? — C’est ___.</span></summary><p>l’automne</p></details>
+
+<details class="source-question" data-question-id="10-21-source-003"><summary><span>3. What can commissionnaire de nuit mean in the source’s Canadian workplace context?</span></summary><p>A night security guard; commissionnaire can also mean a messenger/porter in other contexts. Do not assume every guard is a former defence employee.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-004"><summary><span>4. Translate “the evening”, “overtime” and “the building”.</span></summary><p>le soir; les heures supplémentaires; l’immeuble</p></details>
+
+<details class="source-question" data-question-id="10-21-source-005"><summary><span>5. Translate noon and midnight.</span></summary><p>midi; minuit</p></details>
+
+<details class="source-question" data-question-id="10-21-source-006"><summary><span>6. What does moins le quart mean?</span></summary><p>A quarter of an hour before the following hour: cinq heures moins le quart = 4:45.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-007"><summary><span>7. What literal image does minuit evoke?</span></summary><p>The middle of the night; its normal meaning is midnight.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-008"><summary><span>8. What does vers mean in a time expression? Is it forbidden with être?</span></summary><p>Around/approximately. Vers is common with event times; Il est vers minuit is also possible, so “all verbs except être” is too strict.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-009"><summary><span>9. Choose the noun: J’ai 30 (an / ans / année).</span></summary><p>ans</p></details>
+
+<details class="source-question" data-question-id="10-21-source-010"><summary><span>10. Choose: Après une (matin / matinée) de travail, j’aime me promener.</span></summary><p>matinée</p></details>
+
+<details class="source-question" data-question-id="10-21-source-011"><summary><span>11. Complete Comment s’est passée ton ___ dernière ?</span></summary><p>année</p></details>
+
+<details class="source-question" data-question-id="10-21-source-012"><summary><span>12. Elide correctly: À quel moment de la journée est-ce ___ on lit notre courriel ?</span></summary><p>qu’ — est-ce qu’on</p></details>
+
+<details class="source-question" data-question-id="10-21-source-013"><summary><span>13. Which means every day: tous les jours or toute la journée?</span></summary><p>Tous les jours; toute la journée means all day long.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-014"><summary><span>14. Give a formal and an everyday spoken question asking the time.</span></summary><p>Quelle heure est-il ? / Il est quelle heure ?</p></details>
+
+<details class="source-question" data-question-id="10-21-source-015"><summary><span>15. Convert “It is 7 p.m.” to 24-hour French.</span></summary><p>Il est dix-neuf heures.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-016"><summary><span>16. Give the standard clear 24-hour version of Il est dix-sept heures et demie.</span></summary><p>Il est dix-sept heures trente. Mixing 24-hour numbers with fractions is understandable but not the preferred formal reporting style; it is not universally ungrammatical.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-017"><summary><span>17. Complete La réunion commence à neuf heures ___ with the adverb “sharp”.</span></summary><p>pile</p></details>
+
+<details class="source-question" data-question-id="10-21-source-018"><summary><span>18. Agree tapant in à neuf heures ___.</span></summary><p>tapantes</p></details>
+
+<details class="source-question" data-question-id="10-21-source-019"><summary><span>19. Complete Il est ___ sept heures with “only just/barely”.</span></summary><p>à peine</p></details>
+
+<details class="source-question" data-question-id="10-21-source-020"><summary><span>20. Use je + se réveiller to say you wake at 6:30.</span></summary><p>Je me réveille à six heures et demie / à six heures trente.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-021"><summary><span>21. Use près de or vers: Il est ___ midi; je mange ___ midi; la réunion commence ___ neuf heures.</span></summary><p>près de; vers; vers. These are good learner models, not the only grammatical combinations.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-022"><summary><span>22. Give an approximation expression after Il est.</span></summary><p>Il est près de midi. Il est vers midi is also possible depending on context.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-023"><summary><span>23. Ask what time of day “they” (elles) work overtime.</span></summary><p>À quel moment de la journée est-ce qu’elles font des heures supplémentaires ?</p></details>
+
+<details class="source-question" data-question-id="10-21-source-024"><summary><span>24. Translate “I have been living in Paris for two and a half years” .</span></summary><p>J’habite à Paris depuis deux ans et demi.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-025"><summary><span>25. Say 4:45 with moins le quart.</span></summary><p>Il est cinq heures moins le quart.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-026"><summary><span>26. Say “The meeting is at 2:30 p.m.” using event + à.</span></summary><p>La réunion est à quatorze heures trente.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-027"><summary><span>27. Say “The class begins at exactly 3 p.m.” with pile.</span></summary><p>Le cours commence à quinze heures pile.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-028"><summary><span>28. Build être + près de + time.</span></summary><p>Il est près de trois heures.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-029"><summary><span>29. Build an action verb + vers + time.</span></summary><p>Je pars vers midi.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-030"><summary><span>30. Replace en l’automne with the appropriate form for “in autumn” and “it is autumn”.</span></summary><p>En automne means in autumn; c’est l’automne means it is autumn. The source’s single replacement changed the sentence function.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-031"><summary><span>31. Give the ordinary counted-duration form of Je travaille au gouvernement depuis cinq années.</span></summary><p>Je travaille au gouvernement depuis cinq ans. Années can be grammatical when emphasizing/describing the period, so this is a neutral usage preference.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-032"><summary><span>32. Ask for clock time rather than weather: Quel temps est-il ?</span></summary><p>Quelle heure est-il ? Weather: Quel temps fait-il ?</p></details>
+
+<details class="source-question" data-question-id="10-21-source-033"><summary><span>33. Correct Elle est une heure.</span></summary><p>Il est une heure. The clock-time il is impersonal.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-034"><summary><span>34. Say “I am late” using the ordinary expression.</span></summary><p>Je suis en retard. Je suis retardé can mean I am delayed in an appropriate context; it is not synonymous in every situation.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-035"><summary><span>35. Correct Je suis en heure for punctuality.</span></summary><p>Je suis à l’heure.</p></details>
+
+<details class="source-question" data-question-id="10-21-source-036"><summary><span>36. Is Il est vers minuit incorrect? Give a près de alternative.</span></summary><p>It can be grammatical. Il est près de minuit emphasizes that it is close to midnight. The source’s absolute ban on vers here is too strict.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-21">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-21">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-19.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-23.html">Next lesson</a></nav>

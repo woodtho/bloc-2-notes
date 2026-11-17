@@ -1,0 +1,104 @@
+{
+  "rmarkdown_build": "passed",
+  "interaction_tests": {
+    "passed": 12,
+    "failed": 0
+  },
+  "html_pages": 23,
+  "broken_local_links": 0,
+  "lessons": 19,
+  "original_self_test_items": 622,
+  "quiz_questions": 932,
+  "example_bank_entries": 419,
+  "vocabulary_entries": 1152,
+  "flashcards": 2503,
+  "source_item_numbering": "all original item indices present in data and lesson Rmd files",
+  "privacy_scan": "known source names/contact patterns passed; editorial anonymization reviewed",
+  "browser_checks": [
+    "model-answer quiz reveal",
+    "explicit self-assessment and score",
+    "lesson-specific example-card filter",
+    "card answer reveal",
+    "responsive library layout"
+  ],
+  "responsive_check": {
+    "viewport": 390,
+    "reported_document_width": 375,
+    "horizontal_overflow": false,
+    "temporary_override_reset": true
+  },
+  "preview": "review/library-preview.jpg",
+  "published": false,
+  "plaud_modified": false,
+  "copy_cleanup": {
+    "study_guide_removed": true,
+    "footer_removed": true,
+    "home": "searchable lesson list",
+    "repeated_intro_and_editorial_copy_removed": true,
+    "built_html_audit": "passed"
+  },
+  "current_revision_verification": "R Markdown rebuild; 12 interaction tests; 23-page link/privacy/title/heading audit; source example/vocabulary location checks; browser persistence after reload.",
+  "site_name": "Bloc 2 notes",
+  "lesson_format_review": "all 19 lesson heading counts match the rendered HTML; missing Markdown block boundaries repaired",
+  "inline_question_ui": {
+    "lessons": 19,
+    "source_questions": 622,
+    "derived_questions": 48,
+    "browser_checks": [
+      "typed draft and answer reveal",
+      "known progress and filter",
+      "review-again empty state",
+      "bulk show/hide answers",
+      "draft retained through bulk hide",
+      "derived-question lesson",
+      "390px layout without horizontal overflow"
+    ]
+  },
+  "compact_ui": {
+    "body_font_px": 16,
+    "body_line_height": 1.6,
+    "desktop_viewport": 1280,
+    "reviewed_lesson": "11-16",
+    "before_height_px": 24185,
+    "after_height_px": 21699,
+    "mobile_viewport": 390,
+    "mobile_document_width": 375,
+    "mobile_control_height_px": 40,
+    "horizontal_overflow": false,
+    "screenshots": [
+      "compact-before.jpg",
+      "compact-after.jpg",
+      "compact-mobile.jpg"
+    ],
+    "report": "compact-ui-review.md"
+  },
+  "consolidation": {
+    "scope": "within each lesson; all 19 lessons self-contained",
+    "source_example_rows": 419,
+    "source_vocabulary_rows": 1152,
+    "ledger": "consolidation-ledger.json",
+    "overview_and_examples_words_before": 47736,
+    "overview_and_examples_words_after": 30964,
+    "duplicate_examples_between_notes_and_reference": 0
+  },
+  "persistence": {
+    "storage": "browser localStorage",
+    "question_drafts": true,
+    "known_review_ratings": true,
+    "shared_inline_and_quiz": true,
+    "stable_inline_ids": 670,
+    "browser_checks": [
+      "typed draft and Known restored after reload",
+      "blank draft and To review restored after reload"
+    ],
+    "screenshot": "persistent-answers.jpg"
+  },
+  "publication": {
+    "target": "GitHub Pages",
+    "repository_name": "bloc-2-notes",
+    "source_branch": "main",
+    "source_path": "/docs",
+    "status": "prepared for GitHub Pages",
+    "repository": "woodtho/bloc-2-notes"
+  }
+}

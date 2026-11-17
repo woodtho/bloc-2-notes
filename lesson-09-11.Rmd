@@ -1,0 +1,151 @@
+---
+title: "Numbers, ordinals & describing a place"
+pagetitle: "Numbers, ordinals & describing a place | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 2 · 09-11 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-11">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-11">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Cardinal numbers and decimal writing {#lesson-details}
+
+Use **et** in **vingt et un, trente et un, quarante et un, cinquante et un, soixante et un**, and **soixante et onze**. Do not insert it into **quatre-vingt-un** or **quatre-vingt-onze**. Review **cent, mille, dix mille, un million, un milliard**. For 100 and 1,000 there is no initial **un**; million and milliard do take it.
+
+Write large digit groups with spaces: **495 milliards**, **619 millions**, **1 945 milliards**. French decimals use a comma, pronounced **virgule**: **14,9 %**, **13,6 %**, **48,99 $**. A conversational price may omit the word **virgule**, especially in Canadian usage, but saying the complete currency amount is clearer for practice. Distinguish **treize** (13) and **trente** (30), and identify the scale word before transcribing the rest.
+
+For telephone-number practice, repeat digits and include **poste** (extension). Use fictional numbers such as **[numéro fictif], poste 14**. **Est-ce que vous pouvez répéter, s’il vous plaît ?** asks for a repetition.
+
+**14,9 %** is read **quatorze virgule neuf pour cent**. The full reading **trois millions cinq cent quatre-vingt mille** corresponds to **3 580 000**, with spaces separating digit groups.
+
+## Ordinals and their spelling
+
+Use an ordinal for a rank or position: **J’ai terminé premier/première**, not **J’ai terminé un**. **Premier** is masculine; **première** is feminine. Practise **deuxième, troisième, quatrième, cinquième, sixième, septième, huitième, neuvième, dixième, centième**, and **millième**.
+
+Drop final **e** in **quatre → quatrième** and **mille → millième**. Add **u** in **cinq → cinquième**; change **f → v** in **neuf → neuvième**. **Second/seconde** often suggests two items and **deuxième** can be used for a longer sequence, but this is a usage preference rather than an absolute restriction. Abbreviations include **2e**, **2d**, and **2de**; avoid teaching **2nd/2nde** as the preferred French abbreviation.
+
+For first, abbreviate **premier → 1er** and **première → 1re**.
+
+## Floor-number exercise
+
+This is an invented office plan preserving the original ordinal practice:
+
+| Department or place | Floor |
+|---|---|
+| cafeteria | premier étage |
+| employee services | deuxième étage |
+| planning | troisième étage |
+| troubleshooting / help service | cinquième étage |
+| regional operations | sixième étage |
+| information | septième étage |
+| finance | huitième étage |
+| administration | neuvième étage |
+| storeroom | premier sous-sol |
+| parking | second sous-sol |
+
+**Sous-sol** is a level below **rez-de-chaussée**. Ask **À quel étage est/se trouve/se situe la salle de bain ?** or **À quel étage pouvez-vous trouver la salle de bain ?**. **Au** comes from **à + le**. Building floor conventions vary, so interpret a particular plan using its labels.
+
+Examples: **Le bureau se trouve au cinquième étage** — The office is on the fifth floor; **La réserve est au sous-sol** — The storeroom is in the basement.
+
+## Collective numbers
+
+**Une dizaine, une douzaine, une quinzaine, une vingtaine, une trentaine, une quarantaine, une cinquantaine, une soixantaine, une centaine**, and **un millier** denote approximate groups or conventional quantities. **Une douzaine d’œufs** is a dozen eggs; **être dans la quarantaine** means be in one’s forties. **Un millier** is not **un million**. Note **dix → dizaine**, with **x → z**.
+
+For the source approximation exercise: **13 → une douzaine**, **38 → une quarantaine**, **52 → une cinquantaine**, **18 → une vingtaine**, **9 → une dizaine**. These are useful approximations, not instructions to round every possible number identically.
+
+Before a following noun use **de/d’**: **une vingtaine de chaises**, **une douzaine d’œufs**.
+
+## Numerical listening material
+
+Number-transcription practice: **14,9 %**, **13,6 %**, **37,2 %**, **6,4 %**, **69,8 %**, **49,3 %**, **495 milliards de dollars**, **619 millions de dollars**, and **1 945 milliards de dollars**. The percentages described different markets and the two shares concerned international assets and liabilities. 
+
+1. An office is **au huitième étage, à la première porte à droite des ascenseurs**.
+2. A person is **vingt-neuf ans**; another is **dans la quarantaine**. In a complete age sentence, use **avoir**: **Une personne a vingt-neuf ans**.
+3. A shopping list contains **cinq crayons à billes, sept stylos à billes, quatre gommes à effacer, un ruban adhésif et dix chemises jaunes**. The source’s two pen labels are retained as vocabulary, although **crayon à bille** is less standard than **stylo à bille** in many varieties.
+4. A blue dress costs **145 $** and a small pink dress **125 $**.
+5. The infirmary is **au troisième étage**.
+6. An invented address uses the number **1820**, and an apartment is **au dix-huitième étage**; use a placeholder street instead of anyone’s address.
+7. A meeting needs **une vingtaine de chaises**. The source was uncertain between room **409** and **402**; neither should become a definitively graded answer without the audio.
+8. A call includes a telephone number and **poste quatorze**; practise with a fictional number.
+9. A person is **soixante-dix-huitième** on a list.
+10. **Trois millions cinq cent quatre-vingt mille dollars** is **3 580 000 $**, not **3 588 $**.
+11. Two similar phone numbers were difficult to distinguish; ask for a digit-by-digit repeat rather than retaining a private contact detail.
+12. **48,99 $ + 35,45 $ = 84,44 $**. The conflicting intermediate guesses **84,45 $ / 85,45 $** were not the final arithmetic result.
+
+## Questions with the verb’s preposition
+
+**Nous faisons partie de trois comités → De combien de comités faisons-nous partie ?** Keep **de** from **faire partie de**. **Préparer l’exposé pour une centaine de personnes → Pour combien de personnes préparez-vous l’exposé ?** Keep **pour** from the audience relationship. **Parler à** retains **à**; **avoir besoin de** retains **de**. In a question about a manager’s associations, the manager remains the singular subject; **associations** is not the subject of **fait partie**.
+
+## House-description exercise
+
+Use a fictional house of **trois étages**. The garage, kitchen and entrance are on the first labelled level; the main bedroom and office are on the second; the bathroom is on the third. The garage contains a **voiture verte**. There are **deux fenêtres**, **deux grands arbres roses**, and **deux lampes**. **Rose** is pink; **rouge** is red.
+
+Ask **Combien de fenêtres y a-t-il dans la maison ?** Answer **Il y a deux fenêtres / Il y en a deux**. Ask **Combien d’arbres y a-t-il devant la maison ?** for a count; **De quelle couleur est la voiture ? / Quelle est la couleur de la voiture ?** for colour. **Combien** asks a quantity, while **à quel étage** asks which floor.
+
+The chair count depends on whether an orange bench is counted as a chair: **cinq ou six**. One breakdown has four kitchen chairs, one office chair and one entrance seat. State the counting convention rather than treating an ambiguous picture as having one unqualified answer.
+
+In **y a-t-il**, the linking **t** supports inversion. **Vert/verte** agrees with gender; the **t** is normally silent in **vert** and heard in **verte**. **Lit** means bed and normally has a silent final **t**; the presence of a following vowel does not require pronouncing that noun’s **t** in every context.
+
+For partner practice, give one person a plan and the other a description with gaps. Write questions for the missing quantities, colours and floors, then compare with the plan. The source referenced workbook activities **9, 12, 13, 16** and optional **17–19**; these files do not contain the missing workbook or its audio.
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| une virgule | a comma |  |
+| un nombre ordinal | an ordinal number |  |
+| premier / première | first |  |
+| deuxième | second |  |
+| cinquième | fifth |  |
+| neuvième | ninth |  |
+| un étage | a floor / storey |  |
+| le rez-de-chaussée | the ground floor |  |
+| le sous-sol | the basement |  |
+| une dizaine | about ten |  |
+| une douzaine | a dozen |  |
+| une vingtaine | about twenty |  |
+| une centaine | about a hundred |  |
+| un millier | about a thousand / a group of a thousand |  |
+| une fenêtre | a window |  |
+| se trouver | to be located |  |
+| de quelle couleur | what colour |  |
+| répéter | to repeat |  |
+
+## Questions
+
+<details class="lesson-question" data-question-id="09-11-q01"><summary><span>1. What is the French word for the decimal comma?</span></summary><p>virgule</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q02"><summary><span>2. Write 81 in French.</span></summary><p>quatre-vingt-un</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q03"><summary><span>3. Write 91 in French.</span></summary><p>quatre-vingt-onze</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q04"><summary><span>4. Translate “first” for a feminine noun.</span></summary><p>première</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q05"><summary><span>5. Translate “fifth.”</span></summary><p>cinquième</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q06"><summary><span>6. Translate “ninth.”</span></summary><p>neuvième</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q07"><summary><span>7. Translate “about twenty chairs.”</span></summary><p>une vingtaine de chaises</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q08"><summary><span>8. Translate “a dozen eggs.”</span></summary><p>une douzaine d’œufs</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q09"><summary><span>9. Complete: Le bureau est ___ troisième étage.</span></summary><p>au</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q10"><summary><span>10. Ask which floor the room is on.</span></summary><p>À quel étage se trouve la salle ?</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q11"><summary><span>11. Answer with en: There are two windows.</span></summary><p>Il y en a deux.</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q12"><summary><span>12. Complete the feminine form: une voiture vert___.</span></summary><p>verte</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q13"><summary><span>13. Explain how a quantity question differs from a floor question.</span></summary><p>Combien asks how many; à quel étage asks which floor.</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q14"><summary><span>14. Read 14,9 % in French.</span></summary><p>quatorze virgule neuf pour cent</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q15"><summary><span>15. Write 3 580 000 in French.</span></summary><p>trois millions cinq cent quatre-vingt mille</p></details>
+
+<details class="lesson-question" data-question-id="09-11-q16"><summary><span>16. Does second have an absolute rule limiting it to a two-item sequence?</span></summary><p>No. It often suggests two items, but the distinction is not an absolute grammatical limit.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-11">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-11">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-09.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-09-14.html">Next lesson</a></nav>

@@ -1,0 +1,226 @@
+---
+title: "Event dates & regular -ir verbs"
+pagetitle: "Event dates & regular -ir verbs | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 15 · 10-26 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-26">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-26">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Event dates, times and agreement {#lesson-details}
+
+**Avoir lieu** means take place. Use a pronoun matching the event noun: **la réunion / la conférence / la rencontre → elle a lieu**; **le congrès / le départ → il a lieu**. **L’arrivée** and **l’inauguration** are feminine. Ask **Quand a lieu la conférence ?**, **À quelle heure a lieu le départ ?**, **À quelle date et à quelle heure a lieu la conférence ?**, or **Quelle est la date de l’événement ?**
+
+Give the date with **le**, time with **à**, and year with **en**: **La réunion a lieu le 26 mars à neuf heures; Nous sommes en 2004** (We are in 2004). Normally present the date before the time in a professional confirmation. A full written date can be **le lundi 26 octobre 2026** (weekday, day, month, year); ISO numeric dates may use year-month-day. The details can be presented as separate fields instead. Use no extra **à** before the numerical date in this event pattern; other prepositions remain possible when their meaning requires them.
+
+For ordinary well-being use **Comment allez-vous ? — Je vais bien / Tu vas bien**. **Je suis bien** can mean I feel comfortable/good in a situation; **C’est quelqu’un de bien** describes a decent person. These expressions are not interchangeable in every context.
+
+## Reading years and quatre-vingt(s)
+
+**Quatre-vingts** takes **s** when multiplied and final in an ordinary cardinal number. Omit it before another numeral: **quatre-vingt-un, quatre-vingt-six, quatre-vingt-huit, quatre-vingt-dix**. A rank/number label also omits it: **la page quatre-vingt, la chambre quatre-vingt**. **1986 = mille neuf cent quatre-vingt-six**; **1976 = mille neuf cent soixante-seize**; **91 = quatre-vingt-onze**. Distinguish **soixante-six** (66), **soixante-dix** (70), **1970** and **1976** while listening. Practise readings slowly, then at normal speed. Useful times include **dix heures quarante-cinq**, **quatre heures et demie**, and **treize heures trente**.
+
+## Recognize the verb group and subject
+
+The first group has regular **-er** verbs, except irregular **aller**. Regular second-group **-ir** verbs follow **finir, choisir, réussir**. Other verbs form the third group, including **croire, craindre, peindre, joindre, mordre** and some **-ir** verbs. **Confiner** ends in **-er**; it is not a second-group **-ir** verb despite its mistaken listing in the source.
+
+The subjects are **je, tu, il, elle, on, nous, vous, ils, elles**. **Il/elle/on** share a conjugation. Separate **sujet** (subject), **radical** (stem) and **terminaison** (ending). For these regular second-group verbs, remove infinitive **-ir** and add **-is, -is, -it, -issons, -issez, -issent**. The plural includes **-iss-**. The **s** of **je finis** is a verb ending, not a plural-subject marker; a final **s** on many subject nouns does mark plural and requires plural agreement.
+
+## Regular -ir conjugation reference
+
+Each cell follows **je; tu; il/elle/on; nous; vous; ils/elles**. Use **j’** before a vowel.
+
+| Infinitive | Present forms |
+|---|---|
+| finir | finis; finis; finit; finissons; finissez; finissent |
+| choisir | choisis; choisis; choisit; choisissons; choisissez; choisissent |
+| réussir | réussis; réussis; réussit; réussissons; réussissez; réussissent |
+| accomplir | accomplis; accomplis; accomplit; accomplissons; accomplissez; accomplissent |
+| avertir | avertis; avertis; avertit; avertissons; avertissez; avertissent |
+| atterrir | atterris; atterris; atterrit; atterrissons; atterrissez; atterrissent |
+| agrandir | agrandis; agrandis; agrandit; agrandissons; agrandissez; agrandissent |
+| réagir | réagis; réagis; réagit; réagissons; réagissez; réagissent |
+| remplir | remplis; remplis; remplit; remplissons; remplissez; remplissent |
+| réunir | réunis; réunis; réunit; réunissons; réunissez; réunissent |
+| rougir | rougis; rougis; rougit; rougissons; rougissez; rougissent |
+
+Keep **é** in every form of **réussir**. Do not substitute **compléter** for **accomplir**, **grandir** (grow) for **agrandir** (enlarge/zoom), or **rayonner** (radiate/shine) for **réunir** (gather). Keep the initial **a-** in **j’agrandis** and the full stem in **nous agrandissons**, not *nous agrissons*. Use present **il finit / ils finissent** when the exercise asks for the present, rather than compound-past **il a fini / ils ont fini**. **Les employés rougissent** requires **-iss-**, not *rougent*. **Réagir à / aux données** retains its preposition.
+
+## Finir and sentence construction
+
+| Pattern | Meaning | Model |
+|---|---|---|
+| finir + object | finish something | Il finit son livre. (He finishes his book) |
+| finir de + infinitive | finish doing something | Tu finis de lire ton roman. |
+| finir par + infinitive | eventually/end up doing something | Tant bien que mal, nous finissons par atteindre le sommet. (Even with difficulty, we end up reaching the summit) |
+| finir à + clock time | finish at a time | Elle finit à quatre heures et demie. |
+| finir dans + duration | finish in a specified time | On finit dans trois minutes. |
+
+Other **finir de** examples cover **tricoter une écharpe, repasser le linge, atteindre le sommet**. **Nous finissons d’atteindre le sommet** describes completing the reaching process, whereas **finissons par atteindre** emphasizes eventually succeeding. **Nous finissons aujourd’hui** is grammatical when the task is understood; adding **une tâche** meets an exercise that specifically asks for an object. Ask **Je finis à quelle heure demain ?** or **À quelle heure est-ce que…?**, and use **en quelle saison est-ce que…?** for seasons. **Je choisis un film pour ce soir** (I'm choosing a film for tonight) is another complete present statement. **En quelle saison est-ce que les feuilles rougissent au Canada ?** (In which season do the leaves turn red in Canada?) links the verb to autumn vocabulary.
+
+## Pronunciation: endings, ss, elision and liaison
+
+The final **s/t** of singular **choisis/choisit, finis/finit** is normally silent; so is present plural **-ent**. **Ils choisissent** ends with /s/, not a nasal /ɑ̃/. Between vowels, single **s** in **choisissons** gives /z/, while **ss** gives /s/. Retain and pronounce the plural **-iss-** with /s/ in **finissent, accomplissons, avertissez, agrandissons, rougissent**.
+
+Vowel-initial verbs require **je → j’**: **j’accomplis, j’avertis, j’atterris, j’agrandis**. Connect **nous/vous/ils/elles + vowel-initial verb** with the required /z/ liaison: **nous accomplissons, vous accomplissez, ils accomplissent**. A gentle throat-vibration check can help distinguish voiced /z/ from /s/; speak as a connected group on one breath without forcing it. A consonant-initial verb such as **remplir, réunir, rougir** has no such liaison into its initial consonant; retain the subject pronoun even if its final written letters are silent.
+
+Workplace examples involve staff (**le personnel**), forms, leave requests, project planning and evaluations; **clavardage** is Canadian French for online chat. **Les feuilles rougissent** supplies an autumn context. Workbook activity **16, page 20, parts A/B** provided the original practice reference; optional time details can be varied without changing the conjugation rule.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| La réunion a lieu le 26 mars à 9 heures. | The meeting takes place on March 26 at 9 o'clock. |  |
+| Elle est née en 1970. | she was born in 1970. |  |
+| La salariée prend sa retraite en 2012. | the employee retires in 2012. |  |
+| Cet édifice date de 1918. | This building dates from 1918. |  |
+| Le nouveau programme a commencé en 1996. | The new program began in 1996. |  |
+| Il a immigré au Canada en 1976. | he immigrated to Canada in 1976. |  |
+| On a inauguré le musée en 1991. | The museum was inaugurated in 1991. |  |
+| Deux femmes se sont mariées en 2000. | Two women got married in 2000. |  |
+| Mes collègues et moi, nous accomplissons notre tâche chaque semaine. | My colleagues and I accomplish our task each week. |  |
+| Le gestionnaire avertit l'équipe des changements de procédure. | The manager notifies the team of the procedure changes. |  |
+| Les avions gouvernementaux atterrissent à Ottawa ce soir. | The government planes land in Ottawa this evening. |  |
+| L'organisation agrandit son équipe à l'automne. | The organization is expanding its team in the fall. |  |
+| L'analyste réagit rapidement aux nouvelles données. | The analyst reacts quickly to the new data. |  |
+| Je remplis un formulaire pour une demande de congé. | I fill out a form for a leave request. |  |
+| Les employés rougissent parfois quand ils font une présentation. | Employees sometimes blush when they give a presentation. |  |
+| On réunit tout le personnel mercredi prochain à dix heures quarante-cinq. | We are gathering all the staff on Wednesday, 2026-10-28, at 10:45. |  |
+| D'habitude, est-ce que vous remplissez vos déclarations d'impôts en mars ? | Do you usually fill out your income tax returns in March? |  |
+| On avertit les employés de sortir de l'édifice avant 18 heures. | We warn employees to leave the building before 6 p.m. |  |
+| Le cours de français finit en novembre. | The French course finishes in November. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| avoir lieu | to take place | il/elle a lieu depending on gender of the noun |
+| la réunion | the meeting | feminine → elle a lieu |
+| la conférence | the conference | feminine |
+| le congrès | the congress | masculine → il a lieu |
+| la rencontre | the meeting/encounter | feminine |
+| le départ | the departure | masculine (confused in lesson) → il a lieu |
+| l'arrivée | the arrival | feminine |
+| l'inauguration | the inauguration | feminine |
+| la date | the date |  |
+| l'heure | the time/hour |  |
+| prendre sa retraite | to retire |  |
+| naître (né/née) | to be born | né (m.) / née (f.) |
+| immigrer | to immigrate | he a immigré au Canada |
+| se marier | to get married | se sont mariés |
+| inaugurer | to inaugurate | on a inauguré le musée |
+| l'édifice | the building | cet édifice date de 1918 |
+| la fonction publique | the public service | entré à la fonction publique |
+| le centième anniversaire | the hundredth anniversary |  |
+| finir | to finish | 2nd group; main model verb |
+| choisir | to choose | 2nd group; model verb |
+| réussir | to succeed | 2nd group; accent é stays constant throughout |
+| accomplir | to accomplish/complete | vowel-initial → j'accomplis + liaison in plural |
+| avertir | to warn / to notify | vowel-initial 2nd-group verb |
+| atterrir | to land | keep double s in nous atterrissons |
+| agrandir | to enlarge/zoom | related to grandir; don't confuse |
+| grandir | to grow | related to agrandir |
+| remplir | to fill / fill out | remplir un formulaire |
+| réunir | to gather / bring together | don't confuse with rayonner |
+| rougir | to blush / turn red | easier pronunciation; les feuilles rougissent |
+| réagir / agir | to react / to act | réagir takes preposition à (réagir aux données) |
+| confiner | to confine | Confiner ends in -er, not -ir; it was misclassified in the source. |
+| finaliser | to finalize | on finalise notre œuvre |
+| le sujet | the subject | part of conjugation |
+| le radical | the stem/root | part that doesn't change |
+| la terminaison | the ending | the part that changes per subject |
+| conjuguer | to conjugate |  |
+| la liaison | liaison | linking pronunciation between words |
+| le gestionnaire | the manager |  |
+| l'équipe (f.) | the team |  |
+| le formulaire | the form |  |
+| une demande de congé | a leave request |  |
+| l'évaluation annuelle | the annual evaluation/review |  |
+| la tâche | the task | accomplir une tâche |
+| chaque semaine | each week |  |
+| le personnel | the staff | On réunit tout le personnel |
+| un représentant | a representative |  |
+| une salle de réunion | a meeting room |  |
+| une déclaration d'impôt | income tax return |  |
+| la planification | planning | la planification du projet |
+| la pause café | coffee break |  |
+| tricoter | to knit | finir de tricoter |
+| une écharpe | a scarf |  |
+| repasser le linge | to iron the laundry | le linge = laundry/linen |
+| un goûter | a snack | Je finis mon goûter |
+| un devoir | homework/assignment | ton devoir de français |
+| un roman | a novel | finir de lire ton roman |
+| le sommet | the summit/peak | atteindre le sommet |
+| un rapport | a report | Elle finit son rapport |
+| une feuille | a leaf | les feuilles rougissent |
+
+## Questions
+
+<details class="source-question" data-question-id="10-26-source-001"><summary><span>1. Translate: &quot;the meeting&quot; (feminine event) → ?</span></summary><p>la réunion</p></details>
+
+<details class="source-question" data-question-id="10-26-source-002"><summary><span>2. Translate: &quot;to take place&quot; → ?</span></summary><p>avoir lieu</p></details>
+
+<details class="source-question" data-question-id="10-26-source-003"><summary><span>3. Complete: Il a immigré au Canada ___ 1976.</span></summary><p>en</p></details>
+
+<details class="source-question" data-question-id="10-26-source-004"><summary><span>4. Translate into English: avertir, accomplir, remplir, réunir, rougir, atterrir, agrandir, réagir.</span></summary><p>to warn; to accomplish; to fill/fill out; to gather; to blush; to land; to enlarge/zoom; to react</p></details>
+
+<details class="source-question" data-question-id="10-26-source-005"><summary><span>5. Translate to French: &quot;to succeed,&quot; &quot;to warn,&quot; &quot;a snack,&quot; &quot;income tax return.&quot;</span></summary><p>réussir; avertir; un goûter; une déclaration d&#x27;impôt</p></details>
+
+<details class="source-question" data-question-id="10-26-source-006"><summary><span>6. Which verb means &quot;to react&quot; and takes the preposition à?</span></summary><p>réagir (réagir à / aux)</p></details>
+
+<details class="source-question" data-question-id="10-26-source-007"><summary><span>7. Fill in the blank: On réunit tout le mercredi prochain. (the staff)</span></summary><p>personnel</p></details>
+
+<details class="source-question" data-question-id="10-26-source-008"><summary><span>8. Replace la conférence with the correct pronoun in ___ a lieu à dix heures.</span></summary><p>Elle a lieu à dix heures. Conférence is feminine.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-009"><summary><span>9. Replace le congrès with the correct pronoun in ___ a lieu le 3 octobre.</span></summary><p>Il a lieu le 3 octobre. Congrès is masculine.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-010"><summary><span>10. Fill in the correct preposition: La réunion a lieu 26 mars 9 heures.</span></summary><p>le 26 mars à 9 heures</p></details>
+
+<details class="source-question" data-question-id="10-26-source-011"><summary><span>11. Write 1986 in words (watch the quatre-vingt rule).</span></summary><p>mille neuf cent quatre-vingt-six (no -s on vingt because followed by six)</p></details>
+
+<details class="source-question" data-question-id="10-26-source-012"><summary><span>12. True or false: quatre-vingt keeps its -s when followed by another number.</span></summary><p>False — it drops the -s when followed by another number.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-013"><summary><span>13. Which three subject pronouns share the same conjugation form?</span></summary><p>il, elle, on</p></details>
+
+<details class="source-question" data-question-id="10-26-source-014"><summary><span>14. Give the six present-tense endings for second-group (-ir) verbs.</span></summary><p>is, -is, -it, -issons, -issez, -issent</p></details>
+
+<details class="source-question" data-question-id="10-26-source-015"><summary><span>15. Conjugate finir fully in the present tense.</span></summary><p>je finis, tu finis, il/elle/on finit, nous finissons, vous finissez, ils/elles finissent</p></details>
+
+<details class="source-question" data-question-id="10-26-source-016"><summary><span>16. Conjugate réussir fully in the present tense.</span></summary><p>je réussis, tu réussis, il/elle/on réussit, nous réussissons, vous réussissez, ils/elles réussissent</p></details>
+
+<details class="source-question" data-question-id="10-26-source-017"><summary><span>17. Conjugate choisir for nous and ils.</span></summary><p>nous choisissons, ils choisissent</p></details>
+
+<details class="source-question" data-question-id="10-26-source-018"><summary><span>18. Why does accomplir become j&#x27;accomplis with je?</span></summary><p>Because accomplir begins with a vowel, so je contracts to j&#x27; (elision).</p></details>
+
+<details class="source-question" data-question-id="10-26-source-019"><summary><span>19. Choose the correct ending: Elle fini son rapport. (-s or -t?)</span></summary><p>t → Elle finit son rapport.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-020"><summary><span>20. Complete: Nous (agrandir) cette salle cet hiver.</span></summary><p>agrandissons</p></details>
+
+<details class="source-question" data-question-id="10-26-source-021"><summary><span>21. Build a question asking at what time the departure takes place.</span></summary><p>À quelle heure a lieu le départ ?</p></details>
+
+<details class="source-question" data-question-id="10-26-source-022"><summary><span>22. Build a sentence stating that the conference takes place on October 15 at 2 p.m.</span></summary><p>La conférence a lieu le 15 octobre à 14 heures.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-023"><summary><span>23. Build a sentence using choisir + je.</span></summary><p>(Example) Je choisis un film pour ce soir.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-024"><summary><span>24. Build a sentence using finir de + infinitif.</span></summary><p>(Example) Je finis de lire mon roman.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-025"><summary><span>25. Build a sentence using finir par + infinitif.</span></summary><p>(Example) Nous finissons par atteindre le sommet.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-026"><summary><span>26. Write the plural forms (nous, vous, ils) of avertir.</span></summary><p>nous avertissons, vous avertissez, ils avertissent</p></details>
+
+<details class="source-question" data-question-id="10-26-source-027"><summary><span>27. Correct: &quot;Je suis bien, merci.&quot; (meaning &quot;I&#x27;m doing well&quot;)</span></summary><p>Je vais bien, merci is the neutral reply about general well-being. Je suis bien can mean I feel comfortable/good in a particular situation.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-028"><summary><span>28. Correct: &quot;Le départ elle a lieu à 8 heures 30.&quot;</span></summary><p>Le départ il a lieu à 8 heures 30. (départ is masculine)</p></details>
+
+<details class="source-question" data-question-id="10-26-source-029"><summary><span>29. Correct: Il a fini (present tense requested for finir).</span></summary><p>Il finit.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-030"><summary><span>30. Correct: Nous agrissons l&#x27;image.</span></summary><p>Nous agrandissons l&#x27;image.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-031"><summary><span>31. Correct: Les employés rougent pendant la réunion.</span></summary><p>Les employés rougissent pendant la réunion.</p></details>
+
+<details class="source-question" data-question-id="10-26-source-032"><summary><span>32. Correct: On finit à trois minutes.</span></summary><p>On finit dans trois minutes. (or à treize heures trente)</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-26">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-26">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-23.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-28.html">Next lesson</a></nav>

@@ -1,0 +1,293 @@
+---
+title: "Time questions & polite requests"
+pagetitle: "Time questions & polite requests | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 16 · 10-28 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-28">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-28">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Present-tense patterns and pronunciation {#lesson-details}
+
+Regular second-group **-ir** verbs add **-iss-** in the plural. The complete model is **je finis, tu finis, il/elle/on finit, nous finissons, vous finissez, ils/elles finissent**. Practise **atterrir** (land), **réagir** (react), **avertir** (warn), **accomplir** (accomplish), **remplir** (fill) and **réunir** (gather). Not every verb ending in *-ir* follows this pattern.
+
+- With a vowel at the beginning of the verb, connect subject and verb: **nous atterrissons, vous atterrissez, ils atterrissent**, with /z/ liaison. With **réagir** and **remplir**, the consonant beginning the verb prevents that liaison: **je réagis, tu réagis, il réagit, nous réagissons, vous réagissez, ils réagissent**.
+- Say **j’avertis**, with the French *j* sound, rather than *z’avertis*. **J’accomplis** flows as one sound group; do not add an extra “sh” sound. A hand under the chin can help you notice articulation, but listening to a model is more reliable for liaison.
+- Write **je finis**, rather than *je finit*. **La conférence finit à quelle heure ?** means “What time does the conference end?” **Les employées de la section finissent vers 17 h** means “The section’s female employees finish around 5 p.m.” **Je finis les exercices de danse et d’aérobic à huit heures** means “I finish the dance and aerobic exercises at eight.”
+- In first-group **-er** verbs, third-person singular ends in **-e** and plural in silent **-ent**: **organise, engage, visite, passe, quitte, ferme / organisent, engagent, visitent, passent, quittent, ferment**. The final *s* in **réunions** marks plural in writing without an ordinary final /s/ sound.
+
+## General and specific time questions
+
+**Quand** means “when” and has no gender/number agreement. It asks a broad time question: **Quand est-ce que la responsable organise ces réunions ?** It is widely useful, but the source’s claim that it works “in every case” is too broad: **depuis quand** asks “since when”; **jusqu’à quand** asks “until when”. Specific questions tell the listener the kind of answer needed.
+
+| Question expression | Noun agreement / requested information |
+|---|---|
+| à quelle heure | *heure*, feminine: exact clock time |
+| à quel moment | *moment*, masculine: a moment or time period |
+| à quelle date | *date*, feminine: calendar date |
+| quel jour | *jour*, masculine: day |
+| en quel mois | *mois*, masculine: month |
+| en quelle année | *année*, feminine: year |
+| en quelle saison | *saison*, feminine: season |
+
+The complete interrogative adjective is **quel, quelle, quels, quelles**, agreeing with the noun. **Quel** and **quelle** sound alike, although their spelling differs. Use **à quel moment**, rather than *à quelle moment*. All relevant adjectives agree with their nouns, including plural forms.
+
+**À quelle heure arrivez-vous ?** (What time do you arrive?) **/ À quelle heure est-ce que vous arrivez au bureau ?** (What time do you arrive at the office?) ask the exact arrival time. **À quel moment partez-vous ?** (At what moment do you leave?) permits a broader answer. **À quel moment est-ce qu’il faut se rencontrer cet après-midi ?** (At what time should we meet this afternoon?) **— Il faut se rencontrer l’après-midi.** asks when to meet this afternoon; a clock time would make that answer more precise.
+
+Use **en janvier, en 2026, en automne**, but **au printemps**. Accordingly: **En quelle saison fait-on la déclaration d’impôts ?** (In which season do we file the tax return?), **En quelle année avez-vous commencé à travailler ?** (In which year did you start working?) A preposition can belong to the verb, but a time expression can also supply its own preposition: **à quelle heure** is not chosen solely by the verb.
+
+**Avoir lieu** means “take place”: **Quel jour est-ce que la conférence a lieu ? — Elle a lieu vendredi.** (What day does the conference take place? — It takes place on Friday) Do not add *à* before **quel jour** in this pattern. This does not prohibit time prepositions: **La conférence a lieu à 14 h / en octobre** are correct.
+
+For today’s day/date: **On est quel jour ? — On est mercredi.** (What day is it? — It's Wednesday) **On est quelle date ? — On est le 17 octobre.** A full date may include a weekday: **le lundi 17 octobre**; not every answer needs every component.
+
+All four written forms **quel, quelle, quels, quelles** normally sound alike. **Est-ce que** is a neutral, widely useful question structure, not inherently impolite or limited to informal speech.
+
+## Build direct questions, then polite indirect questions
+
+Assemble **quand + est-ce que + subject + conjugated verb + complement**. Identify the subject first, conjugate the verb to match, then add the rest. Practise with rising question intonation. **Est-ce que** is common in speech; inversion is more characteristic of careful/formal language, but both are valid direct-question structures. An intonation question keeps statement order: **La conférence finit à quelle heure ?**
+
+1. **Quand est-ce que la responsable organise ces réunions ?** — When does the manager organize these meetings?
+2. **Quand est-ce qu’il prend ses vacances ?** — When does he take his holidays?
+3. **Quand est-ce que l’année financière est finie ?** (When does the financial year end?) — When is the financial year over? The subject is **l’année financière**, not a person called *la financière*. **Quand est-ce que l’année financière finit ?** is another natural form.
+4. **Quand est-ce que l’employé fait des heures supplémentaires ?** — When does the employee work overtime? Use **faire**, rather than *finir*, for “do overtime”.
+5. **Quand est-ce que le gouvernement engage des étudiants ?** — When does the government hire students?
+6. **Quand est-ce que les touristes visitent la capitale ?** — When do the tourists visit the capital?
+7. **Quand est-ce que la candidate passe l’entrevue ?** — When does the candidate have her interview?
+8. **Quand est-ce que les fonctionnaires quittent le bureau ?** (When do the civil servants leave the office?) — When do the public servants leave the office?
+9. **Quand est-ce que les centres d’emploi ferment ?** — When do the employment centres close?
+10. **Quand est-ce qu’elle prend sa retraite ?** — When does she retire? **Que** elides to **qu’** before **elle**; no person’s name is needed to demonstrate this.
+
+For a softer request, use **Est-ce que vous savez + question word + subject + verb ?** or **Pouvez-vous me dire + question word + subject + verb ?** The embedded question keeps statement order, without a second inversion or *est-ce que*: **Est-ce que vous savez quand la conférence finit ? Pouvez-vous me dire à quelle heure les bureaux sont ouverts ?** **Peux-tu me dire…?** addresses someone informally. The longer wording often suits professional requests.
+
+Additional models: **En quelle année est-il né ? — Il est né en 1928.** (In what year was he born? — He was born in 1928) **En quel mois faut-il présenter sa déclaration d’impôts ? — Dans cet exercice, il faut la présenter en avril. À quelle date est-ce qu’on publie le rapport ? — On le publie le 12 juillet.** Read **douze**, rather than **deux**: the model is July 12, not July 2.
+
+A plural object does not make a singular subject’s verb plural. Compare **Quand est-ce que la réunion commence ?** — When does the meeting begin? — with **À quelle heure est-ce qu’elle finit ?** — What time does it finish?
+
+## Noun gender, people’s roles and possessives
+
+Some nouns for people have masculine/feminine forms: **un employé / une employée; un conjoint / une conjointe**. An abstract or mass noun keeps its own gender irrespective of the person: **prendre sa retraite**, **l’argent**. Do not add another *e* to *retraite* because the person is female. Nouns have lexical gender; this is distinct from adjective agreement. These are useful tendencies, not a claim that every name for a person or animal must change form.
+
+**La poste** is the postal service/post office; **le poste** is a job/position (and can mean a station or device in other contexts). The gender changes the meaning. **La traductrice** means a female translator; *la traduisette* is not the word. Spell **le commis** with two *m*s. **Convoquer des gens à une réunion** means to summon people to a meeting. For arranging the event itself, use **organiser une réunion**.
+
+**An** often counts units: **deux ans, l’an dernier, l’an prochain**. **Année** often presents a year as a period or with a description: **cette année, une bonne année, certaines années, chaque année**. Numbers can accompany *année* too: **trois belles années**; this is not an absolute numeric ban.
+
+Possessives agree with the possessed noun, not the owner’s gender: **ma fille**, whether the speaker is male or female; **elle répond à son courrier**, because *courrier* is masculine. **Mon amie** uses *mon* before a feminine singular noun starting with a vowel sound. Plural **mes/ses/leurs** agrees with the number of things possessed.
+
+Possessive forms also include **sa lettre / ses messages**. Before a feminine vowel-initial noun use **mon/ton/son**, as in **son amie**.
+
+## Time-of-day practice
+
+Ask **À quel moment de la journée…?** and give an answer with the same subject or an appropriate pronoun. Practise these subjects: **l’agent de dotation, le commis, les employés, la directrice, l’administratrice, vous, votre famille, les enfants, les étudiants**. Practise these actions: **poster des lettres, rappeler, prendre ses messages, répondre à son courrier, convoquer des gens à une réunion, aller au cinéma, discuter avec ses collègues, écouter la radio, regarder la télévision, sortir**.
+
+- **À quel moment de la journée les employés prennent-ils leurs messages ? — Ils prennent leurs messages dans l’après-midi.** (They take their messages in the afternoon)
+- **À quel moment de la journée est-ce que la directrice répond à son courrier ? — Elle répond à son courrier à l’heure du midi.** (She replies to her mail at noon)
+- **À quel moment de la journée l’administratrice convoque-t-elle des gens à une réunion ?** (At what time of day does the administrator summon people to a meeting?) **— Elle convoque des gens à une réunion le matin.**
+- **À quel moment de la journée discute-t-il avec ses collègues ? — Il discute avec ses collègues dans la matinée.** (He talks with his colleagues in the morning)
+- **À quel moment de la journée est-ce que vous allez au cinéma ? — Nous allons au cinéma dans la soirée.**
+- **À quel moment la traductrice fait-elle ses révisions ? — Elle fait ses révisions tôt le matin.** (At what moment does the translator do her reviews? — early in the morning)
+- **Le commis poste ces lettres. Il rappelle le Canada dans la matinée.**  A singular staffing officer takes a singular verb: **l’agent de dotation rappelle**, rather than **les agents rappellent** if the given subject is singular.
+- **Ils regardent la télévision l’après-midi. Ils convoquent des gens à la réunion le matin.** Keep plural agreement in **discutent** as well.
+
+**Le matin** can mean “in the morning” or, in context, “every morning”. **Dans la matinée** means at some time during the morning; **en matinée** is also used, particularly in Canadian contexts. Prefer **dans la matinée**, rather than *dans le matin*, for this meaning; **dans la soirée**, rather than *dans le soir*. The corresponding periods are **dans la journée, dans l’après-midi, dans la nuit**. **En matinée** has no *la*; do not combine the alternatives as *en la matinée*. Other answers include **tôt le matin, toute la journée, à l’heure du midi**. Canadian **l’avant-midi** refers to the period before noon, not necessarily only late morning.
+
+In inversion add **-t-** when needed between a third-person verb ending in a vowel and **il/elle/on**: **convoque-t-elle, discute-t-il**. Do not add another *t* to **finit-il** or **prend-il**. With a noun subject retain it, then use a matching pronoun: **les employés prennent-ils…?** **Vous** can be polite singular or plural; **nous** normally means “we”, not polite “you”.
+
+Independent practice: activities **3, 4, 12, 13 and 14**, including the time-of-day work on pages **16–17**, were the source’s exercise references. Use the models above without requiring access to the original workbook.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Je finis les exercices de danse et d'aérobic à 8. | I finish the dance and aerobic exercises at 8. |  |
+| Pouvez-vous dire à quelle heure les bureaux sont ouverts ? | Can you tell me what time the offices are open? |  |
+| En quel mois il faut présenter sa déclaration d'impôts ? — Il faut la présenter en avril. | In what month must one file the tax return? — One must file it in April. |  |
+| Il appelle/rappelle le Canada dans la matinée. | He calls Canada in the morning. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| atterrir | to land | Regular -ir; vowel-initial, so connect nous/vous/ils with liaison. |
+| réagir | to react | Regular -ir; consonant-initial, so no liaison into the verb. |
+| finir | to finish | Regular second-group -ir verb. |
+| avertir | to warn / notify | Vowel-initial; j’avertis begins with j, not z. |
+| accomplir | to accomplish | Vowel-initial; pronounce j’accomplis as a connected sound group. |
+| remplir | to fill | Consonant-initial. |
+| réunir | to gather / reunite | Regular second-group -ir verb. |
+| la conférence | the conference |  |
+| les employés / les employées | employees (m. / f.) | Masculine employés / feminine employées; written gender agreement in the job noun. |
+| la section | the section/department |  |
+| les exercices | the exercises |  |
+| à quelle heure | at what time | Asks for exact clock time. |
+| quand | when | General question about when; constructions such as depuis quand add meaning. |
+| à quel / à quelle | at which | Choose gender to match the specific time noun. |
+| vers | around (time) | Vers 17 h — around 5 p.m. |
+| une heure | an hour / time | Feminine: quelle heure. |
+| une date | a date | Feminine: quelle date. |
+| un moment | a moment | Masculine: quel moment. |
+| une saison | a season | Feminine: quelle saison. |
+| une année / un an | a year; année is feminine, an is masculine | Année is feminine: quelle année; an is masculine. |
+| un mois | a month | Masculine: quel mois. |
+| le jour | day | Masculine: quel jour. |
+| le bureau | the office |  |
+| la déclaration d'impôts | tax declaration / tax return |  |
+| savoir | to know | Used to soften a request for information. |
+| dire | to tell / to say | Pouvez-vous me dire…? — Can you tell me…? |
+| arriver | to arrive |  |
+| partir | to leave |  |
+| adoucir | to soften | Adoucir une demande — soften a request. |
+| une réunion | a meeting | Plural des réunions; final s is normally silent. |
+| les vacances | holidays / vacation | Normally plural in the holiday/vacation sense. |
+| l'année financière | the financial / fiscal year | The financial/fiscal year is the subject in l’année financière est finie. |
+| les heures supplémentaires | overtime (hours) | Faire des heures supplémentaires — work overtime. |
+| le gouvernement | the government | Masculine. |
+| engager | to hire / to engage | First-group -er verb. |
+| un étudiant | a student | Plural: des étudiants. |
+| les touristes | the tourists |  |
+| la capitale | the capital (city) |  |
+| passer l'entrevue / l'interview | to have/take the interview | Passer is a first-group verb in passer l’entrevue. |
+| les fonctionnaires | civil servants | Quitter le bureau — leave the office. |
+| quitter | to leave (a place) | First-group verb. |
+| les centres d'emploi | employment / job centres |  |
+| fermer | to close | First-group verb. |
+| prendre sa retraite | to retire | Retraite is already a feminine noun; it does not change with the person. |
+| un conjoint / une conjointe | a spouse / partner | Masculine/feminine forms for a spouse/partner. |
+| l'argent (m.) | money | Masculine mass noun; it does not become feminine because the person is female. |
+| la poste | the post office | Postal service/post office: la poste près de chez moi. |
+| le poste | the job / position | Gender changes the meaning: la poste versus le poste. |
+| un casse-tête | a puzzle / brain-teaser | A puzzle/brain-teaser; metaphor for assembling a question. |
+| à quel moment | at what time / moment | Moment is masculine. |
+| avoir lieu | to take place | Take place: Quel jour la conférence a-t-elle lieu ? No à before quel jour here; clock times can take à. |
+| la traductrice | translator (f.) | Female translator; not the invented word traduisette. |
+| la directrice | the (female) director |  |
+| l'administratrice | the (female) administrator |  |
+| l'agent de dotation | staffing officer | Singular staffing officer; subject in the time-of-day exercise. |
+| le commis | a clerk | Masculine model takes pronoun il; spell commis with double m. |
+| l'agent d'adaptation | adaptation/integration officer | Adaptation/integration officer; the exact job title in the transcript was uncertain. |
+| rappeler | to call back | L’agent rappelle le Canada — The officer calls Canada back. |
+| convoquer | to summon / call (people to a meeting) | Convoquer des gens à une réunion — summon people to a meeting; organiser une réunion for organizing the event. |
+| se rencontrer | to meet |  |
+| une révision | a review/revision | Faire ses révisions — do one’s review/revisions. |
+| prendre le message | to take the message | Ils prennent leurs messages — They take/check their messages. |
+| répondre à son courrier | to reply to one's mail | Elle répond à son courrier — She replies to her mail. |
+| discuter avec des collègues | to talk with colleagues | Learn with avec. |
+| écouter la radio | to listen to the radio |  |
+| regarder la télévision | to watch television |  |
+| le matin | morning / every morning | Use le matin by itself, or dans la matinée for during the morning. |
+| la matinée | the morning (period) | Dans la matinée / en matinée — during the morning. |
+| la soirée | the evening (period) | Dans la soirée — during the evening. |
+| la journée | the day (period) | Dans la journée — during the day. |
+| la nuit | night | Dans la nuit is acceptable. |
+| à l'heure du midi | at noon / lunchtime |  |
+| l’avant-midi | the morning / period before noon (Canadian usage) | Canadian/Quebec usage for the before-noon period. |
+| le soir | evening | Time of day: evening. |
+| tôt le matin | early in the morning |  |
+| toute la journée | all day long | All day long; possible time-of-day answer. |
+
+## Questions
+
+<details class="source-question" data-question-id="10-28-source-001"><summary><span>1. Translate “to land”.</span></summary><p>atterrir</p></details>
+
+<details class="source-question" data-question-id="10-28-source-002"><summary><span>2. Translate “to fill”.</span></summary><p>remplir</p></details>
+
+<details class="source-question" data-question-id="10-28-source-003"><summary><span>3. What does vers 17 h mean?</span></summary><p>around 5 p.m.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-004"><summary><span>4. Translate “the conference”.</span></summary><p>la conférence</p></details>
+
+<details class="source-question" data-question-id="10-28-source-005"><summary><span>5. Translate “a season”.</span></summary><p>une saison</p></details>
+
+<details class="source-question" data-question-id="10-28-source-006"><summary><span>6. Translate “to soften a request”.</span></summary><p>adoucir une demande</p></details>
+
+<details class="source-question" data-question-id="10-28-source-007"><summary><span>7. Complete la ___ d’impôts (tax return).</span></summary><p>déclaration</p></details>
+
+<details class="source-question" data-question-id="10-28-source-008"><summary><span>8. Translate les heures supplémentaires.</span></summary><p>overtime / overtime hours</p></details>
+
+<details class="source-question" data-question-id="10-28-source-009"><summary><span>9. Translate prendre sa retraite.</span></summary><p>to retire</p></details>
+
+<details class="source-question" data-question-id="10-28-source-010"><summary><span>10. Distinguish la poste and le poste.</span></summary><p>La poste: postal service/post office; le poste: job/position (also other meanings by context).</p></details>
+
+<details class="source-question" data-question-id="10-28-source-011"><summary><span>11. Translate les fonctionnaires.</span></summary><p>public servants / civil servants</p></details>
+
+<details class="source-question" data-question-id="10-28-source-012"><summary><span>12. Give the genders of date, heure, moment, jour, mois, année and saison.</span></summary><p>date f.; heure f.; moment m.; jour m.; mois m.; année f.; saison f.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-013"><summary><span>13. Translate “to take place”.</span></summary><p>avoir lieu</p></details>
+
+<details class="source-question" data-question-id="10-28-source-014"><summary><span>14. Translate “early in the morning”.</span></summary><p>tôt le matin</p></details>
+
+<details class="source-question" data-question-id="10-28-source-015"><summary><span>15. Translate “to summon people to a meeting”.</span></summary><p>convoquer des gens à une réunion</p></details>
+
+<details class="source-question" data-question-id="10-28-source-016"><summary><span>16. Translate “at noon/lunchtime”.</span></summary><p>à l’heure du midi / à midi</p></details>
+
+<details class="source-question" data-question-id="10-28-source-017"><summary><span>17. Conjugate finir in the present for all persons.</span></summary><p>je finis, tu finis, il/elle/on finit, nous finissons, vous finissez, ils/elles finissent</p></details>
+
+<details class="source-question" data-question-id="10-28-source-018"><summary><span>18. Conjugate réagir for nous, vous and ils; explain liaison.</span></summary><p>nous réagissons; vous réagissez; ils réagissent. No liaison before the consonant /r/.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-019"><summary><span>19. Why is there liaison in nous atterrissons, vous atterrissez and ils atterrissent?</span></summary><p>The verb begins with a vowel; these subject-pronoun connections require /z/ liaison.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-020"><summary><span>20. Ask when the conference ends using est-ce que.</span></summary><p>Quand est-ce que la conférence finit ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-021"><summary><span>21. Choose quel/quelle: À ___ heure ? En ___ année ? ___ mois ?</span></summary><p>quelle; quelle; quel</p></details>
+
+<details class="source-question" data-question-id="10-28-source-022"><summary><span>22. Which preposition introduces months, years and most seasons? Give the seasonal exception.</span></summary><p>en; au printemps</p></details>
+
+<details class="source-question" data-question-id="10-28-source-023"><summary><span>23. Rewrite À quelle heure arrivez-vous au bureau ? using est-ce que.</span></summary><p>À quelle heure est-ce que vous arrivez au bureau ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-024"><summary><span>24. Conjugate engager for third-person singular in the present.</span></summary><p>il/elle/on engage</p></details>
+
+<details class="source-question" data-question-id="10-28-source-025"><summary><span>25. Conjugate visiter for third-person plural in the present.</span></summary><p>ils/elles visitent</p></details>
+
+<details class="source-question" data-question-id="10-28-source-026"><summary><span>26. Elide correctly: Quand est-ce que elle prend sa retraite ?</span></summary><p>Quand est-ce qu’elle prend sa retraite ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-027"><summary><span>27. Complete ___ quelle heure; ___ quel mois; ___ quelle année.</span></summary><p>à; en; en</p></details>
+
+<details class="source-question" data-question-id="10-28-source-028"><summary><span>28. Correct À quel jour la conférence a lieu ?</span></summary><p>Quel jour est-ce que la conférence a lieu ? For this day question omit à; avoir lieu can still take à for a clock time.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-029"><summary><span>29. Choose: dans le matin / dans la matinée.</span></summary><p>dans la matinée</p></details>
+
+<details class="source-question" data-question-id="10-28-source-030"><summary><span>30. Complete Ils ___ des gens à la réunion (convoquer).</span></summary><p>convoquent</p></details>
+
+<details class="source-question" data-question-id="10-28-source-031"><summary><span>31. Complete with inversion: À quel moment de la journée l’administratrice ___ des gens à une réunion ?</span></summary><p>convoque-t-elle</p></details>
+
+<details class="source-question" data-question-id="10-28-source-032"><summary><span>32. Ask the finishing time with à quelle heure and finir.</span></summary><p>La conférence finit à quelle heure ? / À quelle heure est-ce que la conférence finit ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-033"><summary><span>33. Translate “The employees finish around 5 p.m.”</span></summary><p>Les employés finissent vers 17 h.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-034"><summary><span>34. Politely ask what time the offices are open using pouvez-vous me dire.</span></summary><p>Pouvez-vous me dire à quelle heure les bureaux sont ouverts ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-035"><summary><span>35. Ask when employment centres close with quand est-ce que.</span></summary><p>Quand est-ce que les centres d’emploi ferment ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-036"><summary><span>36. Ask when the government hires students.</span></summary><p>Quand est-ce que le gouvernement engage des étudiants ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-037"><summary><span>37. Ask in what year someone was born.</span></summary><p>En quelle année est-il né ? / En quelle année est-elle née ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-038"><summary><span>38. Ask what day it is in everyday spoken French.</span></summary><p>On est quel jour ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-039"><summary><span>39. Ask what time of day the singular staffing officer calls back.</span></summary><p>À quel moment de la journée est-ce que l’agent de dotation rappelle ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-040"><summary><span>40. Ask “At what time of day do the employees take their messages?”</span></summary><p>À quel moment de la journée les employés prennent-ils leurs messages ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-041"><summary><span>41. Translate “They watch television in the afternoon”.</span></summary><p>Ils regardent la télévision l’après-midi / dans l’après-midi.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-042"><summary><span>42. Correct Je finit les exercices.</span></summary><p>Je finis les exercices.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-043"><summary><span>43. Correct z’avertis mes collègues.</span></summary><p>J’avertis mes collègues. Use the French j sound, not z.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-044"><summary><span>44. Correct Est-ce que vous savez arrivez-vous ? to ask an arrival time.</span></summary><p>Est-ce que vous savez à quelle heure vous arrivez ? No inversion inside the indirect question.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-045"><summary><span>45. Correct Quand est-ce que l’employé finit des heures supplémentaires ?</span></summary><p>Quand est-ce que l’employé fait des heures supplémentaires ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-046"><summary><span>46. Correct Quand est-ce que la financière finit l’année ?</span></summary><p>Quand est-ce que l’année financière est finie ? / Quand est-ce que l’année financière finit ?</p></details>
+
+<details class="source-question" data-question-id="10-28-source-047"><summary><span>47. Correct On le publie le 2 juillet if the intended day is twelve.</span></summary><p>On le publie le 12 juillet.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-048"><summary><span>48. Change Les agents de dotation rappellent to a singular staffing officer.</span></summary><p>L’agent de dotation rappelle. The matching pronoun is il for this masculine model.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-049"><summary><span>49. Correct Je vais au cinéma dans le soir.</span></summary><p>Je vais au cinéma dans la soirée.</p></details>
+
+<details class="source-question" data-question-id="10-28-source-050"><summary><span>50. Correct Mon fille écoute la radio.</span></summary><p>Ma fille écoute la radio.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-28">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-28">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-26.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-11-04.html">Next lesson</a></nav>

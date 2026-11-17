@@ -1,0 +1,401 @@
+---
+title: "Questions, quantities & everyday French"
+pagetitle: "Questions, quantities & everyday French | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 1 · 09-09 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-09">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Conversation, names and professions {#lesson-details}
+
+**Bonjour** means hello/good morning. Ask **Comment ça va ?** — How are you? Replies include **Ça va bien, merci** — I’m doing well, thanks; and **Comme ci comme ça** — So-so. **Vous** addresses one person politely or several people; **tu** addresses one person informally. **Avez-vous fini ?** asks whether someone has finished; **C’est parti** starts an activity; **À tout à l’heure** means see you shortly. **Je vous laisse cinq minutes** means I’ll give you five minutes.
+
+In a **vrai-faux-faux** activity, write three sentences: **une vraie, deux fausses** — one true, two false. The implied noun **phrase** is feminine, so use **vraie/fausses**, not *une vrai, deux faux*. Read them and have a partner **poser des questions** (ask questions). **Sur vous** means about you; **ensuite** means then.
+
+For an occupation, use **être + profession** without an indefinite article in the basic statement, or **travailler en tant que + profession**: **Je suis programmeur** (I am a programmer) **/ Je travaille en tant que programmeur** — I am/work as a programmer. *Je travaille, grammaire* does not express that occupation. Related vocabulary includes **un statisticien** and **un langage de programmation**.
+
+Use **s’appeler** for a name: **Comment s’appelle votre fille ? — Elle s’appelle [prénom]** — What is your daughter’s name? — Her name is [first name]. To ask how a name is pronounced: **Comment prononcez-vous votre nom ?** The placeholder can refer to a fictional person or animal.
+
+## Places, age, pets and instruments
+
+Use **habiter à / vivre à + city**: **J’habite à Ottawa** (habiter à + city) **/ Guelph / Calgary / Toronto**, or **Je vis à Ottawa** (I live in Ottawa). Ask **Dans quelle ville habitez-vous ?**, **Tu habites où ?**, or **Habitez-vous ici ?** A province may use **en**: **Est-ce que vous vivez en Alberta ?** **Dans quel arrondissement de Paris ?** asks which administrative district/borough.
+
+French uses **avoir + number + ans** for age: **Quel âge a-t-elle ?** (How old is she?; Inversion with -t-) **— Elle a onze ans** (She is eleven years old; Age uses avoir) **/ deux ans**. Do not use *elle est onze ans*. **Un chien / un chat** are grammatically masculine; **une femelle / un mâle** describe the animal’s sex. When referring to a particular female dog, **elle** is possible even after the general noun **un chien**. **J’ai une fille** means I have a daughter; **votre** is the polite/plural possessive in the question above.
+
+Use **jouer de + instrument**: **Je joue du piano** — I play the piano, with **de + le = du**. Do not use *jouer à piano*. For ongoing duration use **depuis + period**, usually with the present where English uses “have been”: **Je joue depuis deux ans** — I have been playing for two years. Ask **Depuis combien de temps ?** — For how long?
+
+## Present, past experience and future time
+
+The French simple present can translate English continuous forms: **Je lis** means I read / I am reading. Use **elle parle**, not *elle est parle*. For an ongoing situation, add **depuis** when needed; do not assume the present alone expresses every English present-perfect meaning.
+
+**Depuis que + clause** supplies a starting point: **Depuis que je suis au Canada, j’ai eu trois voitures** — Since I have been in Canada, I have had three cars. It combines present **je suis** with compound past **j’ai eu**; it can describe accumulated experiences over a continuing period. **Pas depuis que j’étais enfant** means not since I was a child.
+
+The **passé composé** uses an auxiliary plus a past participle: **j’ai eu** — I had/have had; **j’ai visité** — I visited/have visited. **Tomber** takes **être** in this use: **Un arbre est tombé sur une voiture** — A tree fell on a car. Travel examples include **J’ai visité Banff / toutes les provinces du Canada**; **ne… jamais** expresses never. **Les territoires du Nord, le Yukon, l’Île-du-Prince-Édouard, Terre-Neuve, l’Alberta** and **le Stampede** are geographical/cultural vocabulary. French accents vary by region, including European and Quebec French; neither is intrinsically better.
+
+**Quitter** takes a direct object: **quitter le Canada / une ville / un emploi** — leave Canada/a city/a job. **Je pars** also means I’m leaving. **Dans un an**, or **pile dans un an**, means in one year/exactly one year; **en un an** instead describes the time taken to complete something. Country names commonly retain their article here: **le Canada**, not *quitter Canada*. **Mon abonnement expire dans un an** (My subscription expires in one year) is a future-time model; **un permis de travail** remains reusable vocabulary.
+
+## Questions and grammatical roles
+
+Use **est-ce que + subject + conjugated verb** without reversing subject and verb. **Pourquoi est-ce que tu quittes le Canada ?** asks why; **parce que + clause** gives a reason. **Quelle est la marque de vos voitures ?** (What is the make/brand of your cars?) asks the cars’ make/brand; **quelle** agrees with feminine **marque**. Preserve the original subject and verb when making a question: do not substitute **toi** for **on/nous**, or **avoir** for **proposer**.
+
+Formal inversion reverses verb and subject pronoun and uses a hyphen. Insert **-t-** where required: **propose-t-on**, not *propose-on*. The inversion of **il y a** is **y a-t-il**: **Combien de personnes y a-t-il dans ce service ?** (How many people are there in this department?) **/ Combien y a-t-il de personnes dans ce service ?** No initial **de** is needed merely because the sentence uses **il y a**. A full question needs a verb; **Combien de personnes ?** can be a short follow-up, but is not the full construction.
+
+In **J’ai trois chats** (I have three cats), the subject is **je**, the conjugated verb is **ai** (from **avoir**), and the direct object/COD is **trois chats**. Subjects identify who/what the verb concerns; verbs can express states as well as actions. A direct object is attached without the preposition that an indirect complement requires.
+
+## Quantity, price and en
+
+**Combien** means how much/how many. Use **combien de + noun** for an ordinary quantity question: **Combien de voitures avez-vous en ce moment ?** (How many cars do you have right now?) Before a vowel, **de → d’**: **combien d’enfants**. Both **Combien de chats avez-vous ?** and **Combien avez-vous de chats ?** (How many cats do you have?) are possible. Practise with **photocopies, chats, voitures, chiens, médailles, enfants, pièces dans une maison, employés, questions, bureaux, projets, programmes**.
+
+When **en** replaces the counted noun, keep the number: **J’en ai un / une / deux / trois**, or **Il y en a huit / dix**. **Un/une** agrees with the understood noun: **une voiture → J’en ai une; un chien → J’en ai un**. Do not repeat that noun in the basic replacement: *J’en ai un chien* becomes **J’en ai un** (I have one of them); *J’ai une* needs **en** when the noun is omitted. You can instead retain the whole noun phrase: **J’ai trois chats**.
+
+For price use **Combien coûte ce livre ?** (How much does this book cost?), **Combien ce livre coûte ?** in conversational order, or **C’est combien, la lampe de bureau ?** (How much is the desk lamp?) Answers state a price: **Ce livre coûte vingt dollars;** (This book costs twenty dollars) **Ça coûte cinquante dollars**. These price answers do not need a quantity pronoun **en**. Distinguish **Il y en a huit** (There are eight of them) (eight objects) from **Ça coûte huit dollars** (their price).
+
+## Keep each verb’s preposition
+
+| Construction | Quantity question | Meaning |
+|---|---|---|
+| donner quelque chose à quelqu’un | À combien de personnes donnez-vous une copie ? | Give something to someone; retain à before the recipient. |
+| avoir besoin de | De combien de CD avez-vous besoin ? (How many CDs do you need?) | Need; retain both the expression’s de and the counted noun’s de. |
+| parler à quelqu’un | À combien de collègues la responsable parle-t-elle ? (How many colleagues does the manager speak to?) | Speak to someone; keep à when transforming parler à. |
+| appartenir à | À combien d’associations votre patron appartient-il ? (How many associations does your boss belong to?) | Belong to; retain à and elide de before associations. |
+
+**Parler de quelque chose** means talk about something; **parler avec quelqu’un** is another valid construction, but it changes the preposition in an exercise based on **parler à**. Missing **à** in *donner quelque chose quelqu’un* or **de** in *avoir besoin quelque chose* loses the required construction. **Combien propose-t-on de nouveaux projets ?** (How many new projects are proposed/offered?) keeps the verb **proposer** and the inserted linking **t**.
+
+## Numbers, scale words and pronunciation
+
+Learn the forms **un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix; onze, douze, treize, quatorze, quinze, seize; dix-sept, dix-huit, dix-neuf, vingt**. The forms 11–16 are individual words; 17–19 build on **dix**. Use **et un** in **vingt et un, trente et un, quarante et un, cinquante et un, soixante et un**. Standard 70–79 are **soixante-dix, soixante et onze, soixante-douze, soixante-treize, soixante-quatorze, soixante-quinze, soixante-seize, soixante-dix-sept, soixante-dix-huit, soixante-dix-neuf**. 90 is **quatre-vingt-dix**; 81 and 91 do not add **et**.
+
+For 100 say **cent**, not *un cent*: **deux cents, trois cents, quatre cents, cinq cents, six cents, sept cents, huit cents, neuf cents**. For 1,000 say **mille**, not *un mille*: **deux mille, trois mille, quatre mille, cinq mille, six mille, sept mille, huit mille, neuf mille, dix mille, onze mille, douze mille**. **Cent mille** is 100,000; **un million** is one million and **un milliard** is one English billion. **Million/milliard** are nouns: **deux millions**. A number must keep its scale word; a million is not a billion.
+
+In a guessing activity, **C’est plus** (It’s higher) means guess higher and **C’est moins** (It’s lower) means guess lower. The sequence **sept cents → sept cent cinquante → sept cent quarante → sept cent vingt et un → sept cent treize** practises the readings, not a change in the meanings of plus/moins. Also read **deux cent cinquante**. Distinguish **chiffre** (digit) and **nombre** (number).
+
+In **Terre-Neuve**, use the established compound name. Connect inversion forms **y a-t-il / propose-t-on** smoothly; the inserted **t** supports pronunciation and is not part of the verb stem. Elide **de** before a vowel, as in **d’enfants**. Practise new numbers slowly, then at natural speed.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Trois phrases sur vous. | Three sentences about yourself. |  |
+| les autres personnes posent des questions. | The other people ask questions. |  |
+| Quel âge a [prénom] ? | How old is [first name]? | Age question. |
+| J'ai visité toutes les provinces du Canada. | I have visited all the provinces of Canada. / I visited all the provinces of Canada. |  |
+| Je quitte le Canada dans un an. | I am leaving Canada in one year. | Uses le Canada. |
+| Je quitte le Canada parce que je change de travail. | I am leaving Canada because I am changing jobs. |  |
+| Je n'ai jamais voyagé dans les Yukons ou dans les territoires du Nord. Jamais. | I have never traveled in the Yukon or in the northern territories. Never. |  |
+| Le Canada est trop grand. | Canada is too big. |  |
+| Je n'ai pas visité l'Île du Prince Edouard et la Terre - Neuve, jamais. | I have not visited Prince Edward Island and Newfoundland, never. |  |
+| Combien voulez-vous de photocopies? | How many photocopies do you want? |  |
+| Je veux deux photocopies. | I want two photocopies. |  |
+| Combien avez-vous d'enfants? | How many children do you have? |  |
+| Combien avez-vous de pièces dans votre maison? | How many rooms do you have in your house? |  |
+| Il y a combien d'employés ici? | How many employees are there here? |  |
+| Il y a vingt-cinq personnes dans ce service. | There are twenty-five people in this department. |  |
+| Il y a combien de personnes dans le service? | How many people are there in the department? |  |
+| Combien coûte le défilé? | How much does the parade/show cost? |  |
+| Combien de nouveaux bureaux est-ce que vous achetez? | How many new desks/offices are you buying? |  |
+| la responsable parle à ses trois collègues. | the manager speaks to her three colleagues. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| Bonjour | Hello / good morning | Greeting. |
+| Comment ça va ? | How are you? | Common conversational question. |
+| Comme ci comme ça | So-so | Response to Comment ça va ? |
+| Ça va bien. | I’m doing well / It’s going well. | Common response. |
+| parfait | perfect |  |
+| vrai | true | Masculine form. |
+| vraie | true | Feminine form; used with phrase. |
+| faux | false | Masculine form. |
+| fausse / fausses | false | Feminine singular/plural. |
+| vrai-faux-faux | true-false-false | Activity: one true sentence, two false ones. |
+| phrase | sentence | Feminine noun. |
+| trois phrases | three sentences |  |
+| sur vous | about yourself | Used in activity instructions. |
+| une vraie | one true one | Refers to une phrase vraie. |
+| deux fausses | two false ones | Refers to deux phrases fausses. |
+| ensuite | then / afterward | Sequencing word. |
+| lire | to read | Used in class instructions. |
+| les autres personnes | the other people |  |
+| poser des questions | to ask questions | Important speaking structure. |
+| Avez-vous fini ? | Have you finished? | Formal/plural question. |
+| C’est parti | Let’s go / here we go |  |
+| À tout à l’heure. | See you later. |  |
+| pause | break |  |
+| J’habite à Calgary. | I live in Calgary. | City with à. |
+| J’habite à Toronto. | I live in Toronto. | City with à. |
+| Je suis programmeur. | I am a programmer. | Profession with être. |
+| programmeur | programmer | Profession. |
+| statisticien | statistician | Profession. |
+| langage de programmation | programming language |  |
+| chat | cat | Masculine noun. |
+| chien | dog | Masculine noun. |
+| femelle | female | Used for animals. |
+| mâle | male | Used for animals. |
+| Elle a deux ans. | She is two years old. | Age with avoir. |
+| Depuis combien de temps ? | For how long? | Useful question pattern. |
+| depuis | since / for | Used with duration. |
+| depuis que | since | Introduces a clause. |
+| Pas depuis que j’étais enfant. | Not since I was a child. |  |
+| depuis que je suis au Canada | since I have been in Canada | Starting point expression. |
+| j’ai eu | I had / I have had | Passé composé of avoir. |
+| j’ai visité | I visited / I have visited | Passé composé of visiter. |
+| toutes les provinces du Canada | all the provinces of Canada | Travel vocabulary. |
+| Île du Prince Édouard | Prince Edward Island | Canadian province. |
+| Terre-Neuve | Newfoundland | Province name. |
+| les territoires | the territories | Northern Canadian territories. |
+| le nord | the north | Used with territories. |
+| le Yukon | Yukon |  |
+| jamais | never | Often used with ne. |
+| trop grand | too big | Used to describe Canada. |
+| Le Canada | Canada | Masculine country; uses article le. |
+| quitter | to leave | Takes a direct object. |
+| je quitte | I leave / I am leaving | From quitter. |
+| je pars | I am leaving | From partir. |
+| dans un an | in one year | Future time expression. |
+| pile dans un an | exactly in one year | pile = exactly. |
+| permis de travail | work permit |  |
+| expire | expires | From expirer. |
+| voiture | car | Feminine noun: une voiture. |
+| marque | brand / make | Used for cars. |
+| en ce moment | right now / at the moment | Time expression. |
+| arbre | tree |  |
+| tomber | to fall | Used in Un arbre est tombé. |
+| arrondissement | district / borough | Used for Paris. |
+| Dans quel arrondissement de Paris ? | In which arrondissement of Paris? | Place question. |
+| les chiffres | numbers / digits |  |
+| les nombres | numbers |  |
+| chiffre | digit / number / figure | Also used in guessing game. |
+| quantité | quantity | Key concept for combien de and en. |
+| combien | how much / how many | Quantity or price. |
+| combien de | how many / how much of |  |
+| C’est plus. | It’s higher / more. | Number guessing. |
+| C’est moins. | It’s lower / less. | Number guessing. |
+| cent | one hundred / hundred | No un before cent for 100. |
+| mille | one thousand / thousand | No un before mille for 1000. |
+| un million | one million | Uses un. |
+| un milliard | one billion | French uses milliard, not English “billion.” |
+| photocopie | photocopy | Quantity question. |
+| médaille | medal | Feminine noun. |
+| enfant | child | Used in quantity questions. |
+| pièce | room | In the context of a house. |
+| maison | house | Used in pièces dans votre maison. |
+| employé | employee | Used with il y a. |
+| lampe de bureau | desk lamp | Price example. |
+| livre | book | Price example. |
+| coûter | to cost | Used with combien coûte… ? |
+| donner | to give | Requires à before the recipient. |
+| donner quelque chose à quelqu’un | to give something to someone | Verb-preposition pattern. |
+| avoir besoin de | to need | Requires de. |
+| appartenir à | to belong to | Requires à. |
+| association | association / organization | Used with appartenir à. |
+| patron | boss | Used in example. |
+| sujet | subject | The doer of the action. |
+| verbe | verb | The action. |
+| COD | direct object | Object receiving the action. |
+| personne | person | In vingt-cinq personnes. |
+| service | department / service | Workplace context. |
+| défilé | parade / show | Used in price question. |
+| deux millions | two million | Number expression. |
+| bureau / bureaux | office / desk; offices / desks | Plural bureaux. |
+| section | section / department | Workplace context. |
+| collègue | colleague | Used with parler à. |
+| parler à | to speak to | Requires à before the person. |
+| parler de | to talk about | Different meaning from parler à. |
+| CD | CD | Used in quantity question. |
+| proposer | to propose / to offer | Used with propose-t-on. |
+| programme | program | Used with “new programs.” |
+| projet | project | Used in corrected question. |
+| éviter | to avoid |  |
+| litige | dispute / litigation |  |
+| liaison | liaison | Linking pronunciation concept. |
+| bientôt | soon |  |
+
+## Questions
+
+<details class="source-question" data-question-id="09-09-source-001"><summary><span>1. Translate: vrai</span></summary><p>vrai = true</p></details>
+
+<details class="source-question" data-question-id="09-09-source-002"><summary><span>2. Translate: fausse</span></summary><p>fausse = false, feminine singular</p></details>
+
+<details class="source-question" data-question-id="09-09-source-003"><summary><span>3. Translate: Je vous laisse cinq minutes.</span></summary><p>Je vous laisse cinq minutes. = I’ll give you five minutes.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-004"><summary><span>4. Translate: dans un an</span></summary><p>dans un an = in one year</p></details>
+
+<details class="source-question" data-question-id="09-09-source-005"><summary><span>5. Translate: quitter</span></summary><p>quitter = to leave</p></details>
+
+<details class="source-question" data-question-id="09-09-source-006"><summary><span>6. Translate: jamais</span></summary><p>jamais = never</p></details>
+
+<details class="source-question" data-question-id="09-09-source-007"><summary><span>7. Translate: Je suis programmeur.</span></summary><p>Je suis programmeur. = I am a programmer.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-008"><summary><span>8. Translate: J’habite à Calgary.</span></summary><p>J’habite à Calgary. = I live in Calgary.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-009"><summary><span>9. Translate: Elle s’appelle [first name].</span></summary><p>Elle s’appelle [first name]. = Her name is [first name].</p></details>
+
+<details class="source-question" data-question-id="09-09-source-010"><summary><span>10. Translate: À tout à l’heure.</span></summary><p>À tout à l’heure. = See you later.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-011"><summary><span>11. What does un milliard mean in English?</span></summary><p>un milliard = one billion</p></details>
+
+<details class="source-question" data-question-id="09-09-source-012"><summary><span>12. What does C’est moins mean in the number guessing game?</span></summary><p>C’est moins = it’s lower / less.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-013"><summary><span>13. Translate: combien</span></summary><p>combien = how much / how many</p></details>
+
+<details class="source-question" data-question-id="09-09-source-014"><summary><span>14. Translate: combien de</span></summary><p>combien de = how many / how much of</p></details>
+
+<details class="source-question" data-question-id="09-09-source-015"><summary><span>15. Translate: avoir besoin de</span></summary><p>avoir besoin de = to need</p></details>
+
+<details class="source-question" data-question-id="09-09-source-016"><summary><span>16. Translate: parler à</span></summary><p>parler à = to speak to</p></details>
+
+<details class="source-question" data-question-id="09-09-source-017"><summary><span>17. Translate into French: “two million.”</span></summary><p>deux millions</p></details>
+
+<details class="source-question" data-question-id="09-09-source-018"><summary><span>18. Translate into French: “colleague.”</span></summary><p>collègue</p></details>
+
+<details class="source-question" data-question-id="09-09-source-019"><summary><span>19. Translate into French: “quantity.”</span></summary><p>quantité</p></details>
+
+<details class="source-question" data-question-id="09-09-source-020"><summary><span>20. Fill in the blank: Une vraie, deux .</span></summary><p>fausses</p></details>
+
+<details class="source-question" data-question-id="09-09-source-021"><summary><span>21. Fill in the blank: Mon abonnement expire un an.</span></summary><p>dans</p></details>
+
+<details class="source-question" data-question-id="09-09-source-022"><summary><span>22. Which verb is used for age in French: être or avoir?</span></summary><p>avoir</p></details>
+
+<details class="source-question" data-question-id="09-09-source-023"><summary><span>23. Correct the sentence: [first name] est onze ans.</span></summary><p>Elle a onze ans.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-024"><summary><span>24. Fill in the blank: Je joue piano.</span></summary><p>du</p></details>
+
+<details class="source-question" data-question-id="09-09-source-025"><summary><span>25. Fill in the blank: Je joue depuis deux .</span></summary><p>ans</p></details>
+
+<details class="source-question" data-question-id="09-09-source-026"><summary><span>26. Choose the correct form for “one thousand”: un mille or mille.</span></summary><p>mille</p></details>
+
+<details class="source-question" data-question-id="09-09-source-027"><summary><span>27. Choose the correct form for “one hundred”: un cent or cent.</span></summary><p>cent</p></details>
+
+<details class="source-question" data-question-id="09-09-source-028"><summary><span>28. How do you say 70 in French?</span></summary><p>soixante-dix</p></details>
+
+<details class="source-question" data-question-id="09-09-source-029"><summary><span>29. How do you say 90 in French?</span></summary><p>quatre-vingt-dix</p></details>
+
+<details class="source-question" data-question-id="09-09-source-030"><summary><span>30. How do you say 71 in French?</span></summary><p>soixante et onze</p></details>
+
+<details class="source-question" data-question-id="09-09-source-031"><summary><span>31. Identify the tense: J’ai visité toutes les provinces du Canada.</span></summary><p>Passé composé</p></details>
+
+<details class="source-question" data-question-id="09-09-source-032"><summary><span>32. What is the auxiliary verb in: j’ai eu trois voitures</span></summary><p>avoir, as in j’ai</p></details>
+
+<details class="source-question" data-question-id="09-09-source-033"><summary><span>33. Correct the mistake: Pourquoi est-ce que tu quittes Canada ?</span></summary><p>Pourquoi est-ce que tu quittes le Canada ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-034"><summary><span>34. Which article is used with Canada in the lesson: le, la, or les?</span></summary><p>le Canada</p></details>
+
+<details class="source-question" data-question-id="09-09-source-035"><summary><span>35. Why are vraie and fausses feminine in une vraie, deux fausses?</span></summary><p>They refer to phrase, which is feminine.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-036"><summary><span>36. Complete the question: Combien avez-vous chats ?</span></summary><p>de</p></details>
+
+<details class="source-question" data-question-id="09-09-source-037"><summary><span>37. Answer using en: Combien avez-vous de voitures ? You have one car.</span></summary><p>J’en ai une.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-038"><summary><span>38. Answer using en: Combien avez-vous de chiens ? You have one dog.</span></summary><p>J’en ai un.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-039"><summary><span>39. Answer using en: Combien y a-t-il de questions ? There are ten.</span></summary><p>Il y en a dix.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-040"><summary><span>40. Which answer is correct? - J’en ai un chien. - J’en ai un.</span></summary><p>Correct: J’en ai un.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-041"><summary><span>41. Why is it J’en ai une for voiture?</span></summary><p>Because voiture is feminine: une voiture.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-042"><summary><span>42. Form a price question from: Ce livre coûte vingt dollars.</span></summary><p>Combien coûte ce livre ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-043"><summary><span>43. What preposition goes with donner quelque chose quelqu’un?</span></summary><p>à</p></details>
+
+<details class="source-question" data-question-id="09-09-source-044"><summary><span>44. What preposition is part of avoir besoin ?</span></summary><p>de</p></details>
+
+<details class="source-question" data-question-id="09-09-source-045"><summary><span>45. Is en used in price answers like Ça coûte cinquante dollars?</span></summary><p>No. En is used for quantity, not price.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-046"><summary><span>46. Fill in the blank: Combien personnes travaillent dans ce service?</span></summary><p>de</p></details>
+
+<details class="source-question" data-question-id="09-09-source-047"><summary><span>47. Which preposition does parler use when meaning “to speak to someone”?</span></summary><p>à</p></details>
+
+<details class="source-question" data-question-id="09-09-source-048"><summary><span>48. Correct the inversion: propose-on</span></summary><p>propose-t-on</p></details>
+
+<details class="source-question" data-question-id="09-09-source-049"><summary><span>49. Correct the question: Combien de CD avez-vous besoin?</span></summary><p>De combien de CD avez-vous besoin?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-050"><summary><span>50. Translate “I am reading” using the French form taught in class. Create French sentences or questions using lesson structures.</span></summary><p>Je lis.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-051"><summary><span>51. Translate into French: “I am leaving Canada in one year.”</span></summary><p>Je quitte le Canada dans un an.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-052"><summary><span>52. Translate into French: “How are you?”</span></summary><p>Comment ça va ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-053"><summary><span>53. Translate into French: “I visited Montréal.”</span></summary><p>J’ai visité Montréal.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-054"><summary><span>54. Translate into French: “I have one car right now.”</span></summary><p>J’ai une voiture en ce moment.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-055"><summary><span>55. Translate into French: “I have never traveled in the northern territories.”</span></summary><p>Je n&#x27;ai jamais voyagé dans les territoires du Nord.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-056"><summary><span>56. Translate into French: “Why are you leaving Canada?”</span></summary><p>Pourquoi est-ce que tu quittes le Canada ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-057"><summary><span>57. Translate into French: “Canada is too big.”</span></summary><p>Le Canada est trop grand.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-058"><summary><span>58. Translate into French: “I live in Toronto.”</span></summary><p>J’habite à Toronto.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-059"><summary><span>59. Translate into French: “I work as a programmer.”</span></summary><p>Je travaille en tant que programmeur.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-060"><summary><span>60. Translate into French: “What is your daughter’s name?”</span></summary><p>Comment s’appelle votre fille ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-061"><summary><span>61. Translate into French: “How old is [first name]?”</span></summary><p>Quel âge a [first name] ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-062"><summary><span>62. Translate into French: “I have been playing for two years.”</span></summary><p>Je joue depuis deux ans.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-063"><summary><span>63. Translate into French: “How many photocopies do you want?”</span></summary><p>Combien voulez-vous de photocopies?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-064"><summary><span>64. Translate into French: “I want two photocopies.”</span></summary><p>Je veux deux photocopies.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-065"><summary><span>65. Translate into French: “How many cats do you have?”</span></summary><p>Combien avez-vous de chats?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-066"><summary><span>66. Translate into French: “I have three cats.”</span></summary><p>J’ai trois chats.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-067"><summary><span>67. Translate into French: “I have one of them,” referring to une voiture.</span></summary><p>J’en ai une.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-068"><summary><span>68. Translate into French: “There are eight of them.”</span></summary><p>Il y en a huit.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-069"><summary><span>69. Translate into French: “How much does this book cost?”</span></summary><p>Combien coûte ce livre ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-070"><summary><span>70. Translate into French: “This book costs twenty dollars.”</span></summary><p>Ce livre coûte vingt dollars.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-071"><summary><span>71. Build a question from: Il y a vingt-cinq personnes dans ce service.</span></summary><p>Possible answer: Il y a combien de personnes dans le service?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-072"><summary><span>72. Build a question from: Le défilé coûte deux millions.</span></summary><p>Combien coûte le défilé?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-073"><summary><span>73. Ask how many colleagues the manager speaks to.</span></summary><p>À combien de collègues la responsable parle-t-elle ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-074"><summary><span>74. Ask: “How many CDs do you need?”</span></summary><p>De combien de CD avez-vous besoin?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-075"><summary><span>75. Ask: “How many new projects are proposed?” Correct the following.</span></summary><p>Combien propose-t-on de nouveaux projets?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-076"><summary><span>76. Correct or explain the issue: Je quitte Canada dans un an.</span></summary><p>Je quitte le Canada dans un an.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-077"><summary><span>77. Correct or explain the issue: Une vrai, deux faux.</span></summary><p>Une vraie, deux fausses.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-078"><summary><span>78. Correct or explain the issue: Combien voitures avez-vous en ce moment ?</span></summary><p>Combien de voitures avez-vous en ce moment ?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-079"><summary><span>79. Correct or explain the issue: Je suis onze ans.</span></summary><p>J’ai onze ans.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-080"><summary><span>80. Correct or explain the issue: Je joue à piano.</span></summary><p>Je joue du piano.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-081"><summary><span>81. Correct or explain the issue: un mille</span></summary><p>mille</p></details>
+
+<details class="source-question" data-question-id="09-09-source-082"><summary><span>82. Correct or explain the issue: Un million = one billion.</span></summary><p>Un milliard = one billion.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-083"><summary><span>83. Correct or explain the issue: J’en ai un chien.</span></summary><p>J’en ai un.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-084"><summary><span>84. Correct or explain the issue: J’ai une. Context: answering Combien avez-vous de voitures ?</span></summary><p>J’en ai une.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-085"><summary><span>85. Correct or explain the issue: J’en ai un. Context: answering about une voiture.</span></summary><p>J’en ai une.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-086"><summary><span>86. Correct or explain the issue: donner quelque chose quelqu’un</span></summary><p>donner quelque chose à quelqu’un</p></details>
+
+<details class="source-question" data-question-id="09-09-source-087"><summary><span>87. Correct or explain the issue: avoir besoin quelque chose</span></summary><p>avoir besoin de quelque chose</p></details>
+
+<details class="source-question" data-question-id="09-09-source-088"><summary><span>88. Correct or explain the issue: Reformulate Avec combien de collègues la responsable parle ? using the source construction parler à.</span></summary><p>À combien de collègues la responsable parle-t-elle ? Parler avec is also a possible construction, but the exercise asks to retain parler à.</p></details>
+
+<details class="source-question" data-question-id="09-09-source-089"><summary><span>89. Correct or explain the issue: Combien propose-on de nouveaux projets?</span></summary><p>Combien propose-t-on de nouveaux projets?</p></details>
+
+<details class="source-question" data-question-id="09-09-source-090"><summary><span>90. Correct or explain the issue: Incorrect idea: translating “I am reading” with a separate French form for “am.”</span></summary><p>Je lis.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-09">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lessons.html">All lessons</a> <a href="lesson-09-11.html">Next lesson</a></nav>

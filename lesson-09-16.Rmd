@@ -1,0 +1,131 @@
+---
+title: "Review & reserving a meeting room"
+pagetitle: "Review & reserving a meeting room | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 4 · 09-16 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-16">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-16">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Quantity questions {#lesson-details}
+
+Use **combien** for “how much/how many”, **combien de + noun** for a quantity and **combien coûte…?** for a price. A full question normally needs a verb: **Combien de personnes y a-t-il ?** — How many people are there? The construction is **il y a**, with **il** retained in an ordinary “there are” answer. Do not add a redundant *nombre* in *Combien de nombre de personnes ?*
+
+- **De combien de copies as-tu besoin ?** — How many copies do you need? **De combien de tables avez-vous besoin ? — De deux tables.** Both initial **de** and **de** before the counted noun have a role: **avoir besoin de** requires its preposition. The source’s versions without initial **de** have been corrected.
+- **Combien coûte cet agenda ?** — How much does this planner cost? **Quel est le prix de ces imprimantes ?** — What is the price of these printers?
+- **Dans combien de provinces parle-t-on français ?** — In how many provinces is French spoken?
+- **À combien d’associations appartenez-vous ?** — How many associations do you belong to? **De** elides to **d’** before *associations*, while **à** belongs to **appartenir à**.
+- **Pour combien de personnes préparez-vous le petit déjeuner le matin ?** — For how many people do you prepare breakfast in the morning? Here it is **préparer pour**, not *préparer de*. For capacity ask **Pour combien de personnes la salle de réunion est-elle prévue ?**, a more natural model than the source’s *Pour combien de personnes la salle de réunion est-elle prévue ?*
+- **Combien d’années d’expérience avez-vous ?** — How many years of experience do you have?
+- **À combien de clients parles-tu chaque jour ?** — How many clients do you speak to each day? **Parler à quelqu’un** means speak to someone; **parler avec quelqu’un** is also possible, with a slightly different construction.
+
+Learn verb-preposition pairings and consult a reference when needed; the exercise’s focus is forming the question, rather than guessing every verb’s preposition.
+
+**Combien de personnes ?** can be an elliptical conversational follow-up; **Combien de personnes y a-t-il ?** is the complete question being practised.
+
+## Numbers, prices and spelling
+
+Distance practice uses **Une ville est à cinq cent quatre-vingt-onze kilomètres d’une autre ville** — One city is 591 kilometres from another.  Also read **471: quatre cent soixante et onze** and **61: soixante et un**.
+
+**Vingt** takes **s** when multiplied and final in an ordinary number: **quatre-vingts**, but **quatre-vingt-un**. **Cent** similarly takes **s** when multiplied and not followed by another numeral: **six cents**, but **cent cinquante, six cent cinquante**. **Mille** is invariable: **deux mille, trois mille, quatre mille**. **Million** and **milliard** are nouns: **un million, un milliard**.
+
+Hyphen examples include **soixante-quatorze, quatre-vingt-dix, quatre-vingt-dix-huit**. For the complete quantity **1998**, say **mille neuf cent quatre-vingt-dix-huit**. A traditional year reading is **dix-neuf cent quatre-vingt-dix-huit**; it is an established French form, not simply the English “nineteen ninety-eight”. Traditional and rectified spelling differ in hyphenation: **vingt et un / vingt-et-un** are the respective systems.
+
+French decimals use a **virgule** (comma): **3,80**. A clear money reading is **trois dollars et quatre-vingts cents** or **trois euros quatre-vingts** when that is the currency. Conversational **trois quatre-vingt** omits the currency; do not assume it means 380. **Trois virgule huit zéro** explicitly reads the decimal digits. The source’s *trois dollars virgule quatre-vingt* mixes styles; use the clearer money/decimal patterns. Write amounts such as **3,80 $**; **dollars** is plural in this example. Printer-price practice includes **240: deux cent quarante** and **650: six cent cinquante**; the export did not specify a currency, so none is inferred.
+
+## Ordinals, gender and demonstratives
+
+Practise **premier/première, troisième, quinzième, vingt et unième**. **Première** ends in **-ère** with a grave accent; **troisième** also has **è**. Models: **La première étape est complétée** — The first step is completed; **au troisième étage** — on the third floor; **au quinzième** — on the fifteenth.
+
+**Deuxième** and **second/seconde** can both mean second. *Second* often suggests a pair, but “only two” is not an absolute rule; context may not distinguish them. The written **c** in **second/seconde** is pronounced /g/.
+
+**Une imprimante / des imprimantes** is feminine. **Cette directrice est exigeante** — This director is demanding: the adjective agrees with feminine *directrice*. **Un bureau, un agenda, un fauteuil** are masculine; **une voiture** is feminine. A **fauteuil** is an armchair, for example beside a sofa.
+
+**Ce/cet** precede masculine singular nouns: **ce fauteuil, cet agenda**. Use **cet** before a vowel sound or mute h. A demonstrative pronoun replaces the noun: **celui** masculine, **celle** feminine. **Ma voiture est petite. Celle de mon ami est grande** — My car is small; my friend’s is large. With **bureau**, use **celui-ci / celui-là** — this one/that one. **Mon amie** uses *mon* before a feminine vowel-initial noun; in **mon ami**, the noun itself is masculine.
+
+**Une chaise** is feminine, while **un fauteuil** is masculine. **Ce bureau est grand. Celui-là est petit** — This desk is large; that one is small — illustrates replacing masculine **bureau** with **celui-là**.
+
+## Phone dialogue
+
+The caller organizes a reunion and wants a hotel reception/conference room. Ask about room size, capacity, tables, refreshments and all costs. Invent the dialogue from the situation rather than reading an answer.  Use a role label and a fictional contact placeholder if practising contact questions.
+
+| Speaker | French | English |
+|---|---|---|
+| Caller | Bonjour, je voudrais réserver une grande salle de conférence. | Hello, I would like to book a large conference room. |
+| Reception | Pour combien de personnes ? | For how many people? |
+| Caller | Il y a cent vingt personnes. | There are 120 people. |
+| Caller | Quelle est la taille de la salle ? | How large is the room? |
+| Reception | De combien de tables avez-vous besoin ? | How many tables do you need? |
+| Caller | D’une dizaine de tables. | About ten tables. |
+| Reception | Avez-vous besoin de café ou de thé ? | Do you need coffee or tea? |
+| Caller | Je voudrais du café. Combien coûte le café ? | I would like some coffee. How much does the coffee cost? |
+| Reception | Les boissons coûtent deux cents dollars et la salle coûte quatre cents dollars. | Drinks cost $200 and the room costs $400. |
+| Caller | Cela fait six cents dollars au total ? | Is that $600 altogether? |
+| Reception | Oui. À quel nom dois-je faire la réservation ? Quel numéro de téléphone puis-je noter ? | Yes. What name should I put on the booking? What phone number may I note? |
+| Caller | Au nom de [nom fictif]. Voici un numéro fictif. | Under [fictional name]. Here is a fictional number. |
+
+**Je voudrais** is followed by an infinitive in **je voudrais réserver**, or by a noun phrase in **je voudrais du café**. **Compris** means included; **une réservation** means a booking.
+
+After booking, ask **Est-ce que le café est compris ?** — Is coffee included? — and **Pouvez-vous confirmer la réservation ?** — Can you confirm the booking? Change people, date, start/end times and refreshments to practise the same patterns. **Du café** is a partitive amount in **je voudrais du café**.
+
+## Alphabet and speaking practice
+
+Practise reciting and spelling aloud with the French alphabet, particularly the names of **H, I, J, K, L, M, N, O, P, Q, R** through **Z**. **H** is *ache*, **J** is *ji*, **G** is *gé*: avoid switching English J/G names. Spell the number words above, then answer quantity and reservation questions without reading.
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| un agenda | a planner / diary |  |
+| une imprimante | a printer |  |
+| une chaise | a chair |  |
+| un fauteuil | an armchair |  |
+| une salle de conférence | a conference room |  |
+| réserver | to reserve / book |  |
+| une réservation | a reservation |  |
+| compris | included |  |
+| le café | coffee |  |
+| le thé | tea |  |
+| un prix | a price |  |
+| une table | a table |  |
+| une étape | a stage / step |  |
+
+## Questions
+
+<details class="lesson-question" data-question-id="09-16-q01"><summary><span>1. Complete: ___ combien de tables avez-vous besoin ?</span></summary><p>De</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q02"><summary><span>2. Ask how much this planner costs.</span></summary><p>Combien coûte cet agenda ?</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q03"><summary><span>3. Translate “I would like to reserve a conference room.”</span></summary><p>Je voudrais réserver une salle de conférence.</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q04"><summary><span>4. Complete: Avez-vous besoin ___ café ?</span></summary><p>de</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q05"><summary><span>5. Complete: Je voudrais ___ café.</span></summary><p>du</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q06"><summary><span>6. Choose the correct demonstrative: ___ fauteuil.</span></summary><p>ce</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q07"><summary><span>7. Choose the correct demonstrative: ___ agenda.</span></summary><p>cet</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q08"><summary><span>8. Translate “on the fifteenth floor.”</span></summary><p>au quinzième étage</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q09"><summary><span>9. Write 650 in traditional spelling.</span></summary><p>six cent cinquante</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q10"><summary><span>10. Write 80 in French.</span></summary><p>quatre-vingts</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q11"><summary><span>11. Write 81 in French.</span></summary><p>quatre-vingt-un</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q12"><summary><span>12. Translate “a chair.”</span></summary><p>une chaise</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q13"><summary><span>13. Translate “an armchair.”</span></summary><p>un fauteuil</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q14"><summary><span>14. Ask how many people there are.</span></summary><p>Combien de personnes y a-t-il ?</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q15"><summary><span>15. What form follows je voudrais when another verb is added?</span></summary><p>an infinitive</p></details>
+
+<details class="lesson-question" data-question-id="09-16-q16"><summary><span>16. Name four details to confirm in a meeting-room booking.</span></summary><p>Confirm the date, start and end times, attendee count and price; room and refreshment needs are also useful.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-16">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-16">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-14.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-09-23.html">Next lesson</a></nav>

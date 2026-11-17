@@ -1,0 +1,234 @@
+---
+title: "Demonstratives & number agreement"
+pagetitle: "Demonstratives & number agreement | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 3 · 09-14 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-14">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-14">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Number formation, plural endings and hyphens {#lesson-details}
+
+For 100 and 1,000, use **cent** and **mille**, without **un**. For a million and a billion, retain **un**: **un million** (One million), **un milliard**. **Million** is a noun: **un million**, **deux millions**, **neuf millions neuf cent mille** (Nine million nine hundred thousand) (9,900,000). The last expression contains **cent**; **neuf millions neuf mille** would instead mean 9,009,000.
+
+**Cent** takes **s** only when it is multiplied and is not followed by another numeral: **mille quatre cents** (1,400), but **mille cinq cent quarante** (1,540). Merely being the last word does not make **cent** plural: 100 is **cent**, not **cents**. **Mille** remains unchanged.
+
+Traditional spelling uses **soixante-sept**, **quatre-vingt-huit**, and **mille neuf cent quatre-vingt-neuf** (1989). It leaves spaces in **soixante et un** and between larger groups. The 1990 recommendations also permit consistent full hyphenation: **soixante-et-un**, **mille-neuf-cent-quatre-vingt-neuf**. The source mixed these systems; both systems are valid, but “every two-part number always has a hyphen” is not a complete account of traditional spelling.
+
+**Quatre-vingts** takes **s** when final in an ordinary cardinal number, but **quatre-vingt-un** does not. Before a following noun, an exact million/billion uses **de**: **deux millions de personnes**.
+
+## Determiners accompany nouns
+
+The traditional term “demonstrative adjective” refers here to a determiner. It agrees with the following noun, not with the person speaking.
+
+| Form | Use | Examples |
+|---|---|---|
+| ce | masculine singular before a consonant or aspirated h | ce chien; ce bureau-là |
+| cet | masculine singular before a vowel or mute h | cet arbre; cet édifice; cet endroit-là (This tree) |
+| cette | feminine singular | cette balle; cette personne; cette note-là (This ball) |
+| ces | plural, either gender | ces chiens; ces arbres; ces bureaux-là; ces étagères-là (These trees) |
+
+**Cet** is masculine even though it sounds like **cette**. **Une personne** remains grammatically feminine when it refers to a man. **Un bureau → des bureaux** uses a written, normally silent **x**. **Une étagère** is a shelf, the place where books are put. **Un ciseau** is a chisel; **des ciseaux** ordinarily means scissors.
+
+## Pronouns replace nouns
+
+| Gender and number | Near / this one | Far / that one |
+|---|---|---|
+| masculine singular | celui-ci | celui-là |
+| feminine singular | celle-ci | celle-là |
+| masculine plural | ceux-ci | ceux-là |
+| feminine plural | celles-ci | celles-là |
+
+Do not repeat the noun after a replacing pronoun: **celle-ci**, rather than **celle-ci étagère**. If you retain the noun, use a determiner: **cette étagère-ci**. English “this one / that one / these ones / those ones” is a useful cue. A complement can also identify the noun: **celle de ma collègue**. In comparisons, **celle-ci coûte 205 et celle-là coûte 185** (This one costs 205 and that one costs 185) refers back to a feminine noun such as **étagère**.
+
+The bare forms are **celui, celle, ceux, celles**, normally with a complement or **-ci/-là**. Compare **Ce livre est court; celui-là est long** — This book is short; that one is long; and **Ma voiture est petite; celle de ma collègue est grande** — My car is small; my colleague’s is large.
+
+## Neutral forms and c’est
+
+**Ceci**, **cela**, and **ça** can refer generally to something or to an idea without specifying a masculine or feminine noun. **Ça** is the ordinary shortened form of **cela**, common in conversation; **ceci/cela** are more formal. The conventional contrast is **ceci… cela…**. **On envoie ça à tous les employés de la section** means “We are sending that to all the section’s employees.” **Aimes-tu ça, travailler au centre-ville ? — Comme ci, comme ça** means “Do you like working downtown? — So-so.”
+
+**Ça coûte 205** is a neutral price statement. The source recommended **celle-ci/celle-là** when comparing identified feminine objects; this is a useful precise choice, but **ça** is not grammatically limited to a situation with exactly one object.
+
+**C’est fatigant** (It's tiring) means “It is tiring.” **C’est** contains the verb **est**, whereas **ça** can be the subject of another verb: **ça coûte**, **ça va**. The source’s claim that **c’** is used “before any verb” is too broad: in this construction **ce** elides before **est**. **Cela est** is possible but often more formal or less natural in ordinary speech.
+
+## Quantity, price and the verb’s preposition
+
+Use **combien de + noun**, even when the noun is plural. Before a vowel, use **d’**, as in **combien d’exemplaires**. In this ordinary indefinite quantity construction, do not change **de** into **des**.
+
+The full verb expression determines a separate preposition at the beginning of a question:
+
+- **Faire partie de** → **De combien de groupes faites-vous partie ?** (How many groups are you part of?)
+- **Appartenir à** → **À combien de groupes appartenez-vous ?**
+- **Faire confiance à** → **À combien de personnes faites-vous confiance ?** (How many people do you trust?)
+- **Voyager dans** → **Dans combien de pays avez-vous voyagé ?**
+- **Avoir besoin de** → **De combien d’exemplaires de ce formulaire avez-vous besoin ?** (How many copies of this form do you need?)
+- **Accorder quelque chose à quelqu’un** → **À combien de candidats accordez-vous une entrevue ?** (To how many candidates do you grant an interview?)
+
+**Coûter** needs no extra preposition for its price complement: **Combien coûte ce café ?** (How much does this coffee cost?), **Combien coûtent ces photocopieuses ?** Another conversational price model is **À combien sont ces deux sortes de lampes ?** The source’s proposed equation “de = how much; par = how many” is not a rule: countability and the whole construction determine the meaning. **Par** often means per, as in **par personne**.
+
+When replacing a quantity noun with **en**, keep the number: **J’en ai trois** (I have three (of them)). With **avoir besoin**, a clear model is **Il nous en faut quinze** (We need fifteen of them) or **Nous avons besoin de quinze exemplaires**. The source also recorded **Nous en avons besoin de quinze / J’en ai besoin de quinze**; these are conversational quantity constructions, not a reason to add **de** after every verb with **en**. For a standard answer without a possible redundant construction, use **Il m’en faut quinze**. Compare **Il y en a trois** with the incorrect basic replacement **Il y en a trois chats**.
+
+## Question patterns and pronunciation
+
+**Qu’est-ce que vous avez fait ?** asks “What did you do?” **Est-ce que vous avez des questions sur la semaine passée ?** asks whether someone has questions about the previous week. Check **masculine/feminine** and **singular/plural** before choosing a demonstrative.
+
+Both **Combien y a-t-il de directions générales dans ce ministère ?** (How many general directorates are there in this ministry?) and **Il y a combien d’étages dans cet édifice ?** are usable, with a different question structure/register. **Y a-t-il** is the inversion of **il y a**, with an inserted linking **t**.
+
+Pronounce the **t** of **cet arbre / cet édifice / cet endroit-là** and make the /z/ liaison in **ces arbres**. Spell the forms **C-E-T**, **C-E-T-T-E**, **C-E-S**. Watch **v-i-n-g-t**, the written plural **s** in **exemplaires**, and the silent **x** in **bureaux**. In **coûtent**, the verb ending **-ent** is silent: it sounds like **coûte**, not **coûtant**. Traditional spelling retains **û**; **couter** is also accepted under the spelling recommendations.
+
+## Vocabulary and register
+
+**Faire le plein** means fill up with fuel. **La fin de semaine** is common Canadian French for weekend; **le week-end** is widespread in France. Administrative examples use **un ministère**, **une direction générale**, **un formulaire**, **un exemplaire**, **une copie de l’ordre du jour**, **une photocopieuse**, and **une entrevue/un entretien**. The formal **vous** forms in the questions suit that setting.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Combien est-ce que ça coûte ? | How much does it cost? |  |
+| Je connais bien cet endroit-là. | I know that place well. |  |
+| Combien de fenêtres y a-t-il dans ce bureau-là ? | How many windows are there in that office? |  |
+| Ah non, pas celui-là. Tiens, le voilà. | Oh no, not that one. Here it is. |  |
+| Cette photocopieuse coûte 546 dollars. | This photocopier costs 546 dollars. |  |
+| Combien de copies de l'ordre du jour avez-vous besoin pour cette personne ? | How many copies of the agenda do you need for this person? |  |
+| Combien coûtent ces deux sortes de lampes ? / À combien sont ces deux sortes de lampes ? | How much do these two kinds of lamps cost? |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| la fin de semaine | the weekend | Canadian French; le week-end is common in France. |
+| réviser | to review | Regular -er verb. |
+| un point de grammaire | a grammar point |  |
+| un tiret | a hyphen / dash | Key term for number spelling. |
+| un chiffre | a digit / figure |  |
+| un numéro | a number |  |
+| écrire | to write | Écrire en lettres means write in words. |
+| les lettres | the letters |  |
+| cent | hundred | Plural s when multiplied and not followed by another numeral; cent alone has no s. |
+| mille | thousand | No un before mille for 1,000. |
+| un million / des millions | a million / millions | Plural millions; use un for one million. |
+| un milliard | a billion | Use un for one billion. |
+| compliqué | complicated |  |
+| une balle | a ball (small) | Feminine. |
+| un ballon | a ball (large) / balloon | Masculine. |
+| un chien | a dog | Masculine. |
+| un arbre | a tree | Masculine and vowel-initial: cet arbre. |
+| une étagère | a shelf | Feminine; a shelf on which books can be placed. |
+| coûter | to cost | No preposition before the price; present endings are often silent. |
+| un édifice | a building | Masculine and vowel-initial: cet édifice. |
+| un endroit | a place / spot | Masculine: cet endroit-là. |
+| un centre d'emploi | an employment centre | Masculine. |
+| un bureau / des bureaux | an office / a desk | Masculine; x marks plural. |
+| une fenêtre | a window | Feminine. |
+| une personne | a person | Grammatically feminine even when referring to a man. |
+| un ciseau / des ciseaux | a chisel / scissors | Masculine; scissors commonly uses plural des ciseaux. |
+| une note | a note / memo | Feminine: cette note-là. |
+| faire le plein | to fill up (gas) | Idiomatic expression. |
+| comme ci, comme ça | so-so | Fixed expression. |
+| C'est fatigant | It's tiring | Adjective after c’est. |
+| combien | how much / how many | Can ask a price/quantity without a following noun. |
+| combien de | how many of | De introduces the counted noun; this does not depend solely on the verb. |
+| faire partie de | to be part of | Learn with de. |
+| appartenir à | to belong to | Similar meaning to faire partie de; learn with à. |
+| voyager dans / à | to travel in/to | Voyager dans can describe travel within/across places; à can identify a city destination. This is not simply a count of places. |
+| avoir besoin de | to need | Learn with de. |
+| faire confiance à | to trust | Learn with à. |
+| enseigner … à … | to teach (sth) to (sb) | Enseigner un sujet à quelqu’un — teach a subject to someone. |
+| y avoir / il y a | there is / there are | Inverted question: y a-t-il. |
+| un étage | floor / storey |  |
+| un ministère | ministry |  |
+| une photocopieuse | photocopier | Feminine: cette photocopieuse. |
+| un exemplaire | copy | De combien d’exemplaires…? |
+| un formulaire | form (document) | Masculine. |
+| une direction générale | general directorate | Feminine. |
+| une copie | a copy |  |
+| l'ordre du jour | the agenda |  |
+| une sorte de lampe | a kind of lamp | Plural: sortes de lampes. |
+| un candidat | a candidate |  |
+| accorder | to grant / to allow | Accorder quelque chose à quelqu’un — grant something to someone. |
+| une entrevue / un entretien | an interview |  |
+| le pronom « en » | the pronoun "en" | Pronoun used in quantity expressions; retain the number when needed. |
+
+## Questions
+
+<details class="source-question" data-question-id="09-14-source-001"><summary><span>1. Translate un tiret into English.</span></summary><p>a hyphen / dash</p></details>
+
+<details class="source-question" data-question-id="09-14-source-002"><summary><span>2. Translate “to review” into French.</span></summary><p>réviser</p></details>
+
+<details class="source-question" data-question-id="09-14-source-003"><summary><span>3. What is a common Canadian French term for “weekend”?</span></summary><p>la fin de semaine</p></details>
+
+<details class="source-question" data-question-id="09-14-source-004"><summary><span>4. Translate “a shelf”.</span></summary><p>une étagère</p></details>
+
+<details class="source-question" data-question-id="09-14-source-005"><summary><span>5. Translate “a tree”.</span></summary><p>un arbre</p></details>
+
+<details class="source-question" data-question-id="09-14-source-006"><summary><span>6. What is the grammatical gender of personne?</span></summary><p>Feminine, regardless of the person’s gender: une personne.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-007"><summary><span>7. What does comme ci, comme ça mean?</span></summary><p>so-so</p></details>
+
+<details class="source-question" data-question-id="09-14-source-008"><summary><span>8. Translate “to trust” and “to need”; give a synonym for faire partie de.</span></summary><p>faire confiance à; avoir besoin de; appartenir à</p></details>
+
+<details class="source-question" data-question-id="09-14-source-009"><summary><span>9. Does coûter require a preposition before the price?</span></summary><p>No: Ce livre coûte vingt dollars.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-010"><summary><span>10. Translate “to grant/allow”, including the recipient construction.</span></summary><p>accorder quelque chose à quelqu’un</p></details>
+
+<details class="source-question" data-question-id="09-14-source-011"><summary><span>11. True or false: use un before mille for the number 1,000.</span></summary><p>False: mille. Similarly, 100 is cent.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-012"><summary><span>12. When does cent take a plural s in an ordinary cardinal number?</span></summary><p>When multiplied and not followed by another numeral: deux cents, but deux cent dix. Being final alone is insufficient: cent has no s.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-013"><summary><span>13. Write 1,400 and 1,540 in words.</span></summary><p>mille quatre cents; mille cinq cent quarante. Rectified hyphenation: mille-quatre-cents; mille-cinq-cent-quarante.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-014"><summary><span>14. Complete: ___ arbre; ___ balle; ___ chiens.</span></summary><p>cet arbre; cette balle; ces chiens</p></details>
+
+<details class="source-question" data-question-id="09-14-source-015"><summary><span>15. Which demonstrative pronoun replaces a masculine plural noun?</span></summary><p>ceux; ceux-ci / ceux-là</p></details>
+
+<details class="source-question" data-question-id="09-14-source-016"><summary><span>16. Write “one million” and “two million”.</span></summary><p>un million; deux millions</p></details>
+
+<details class="source-question" data-question-id="09-14-source-017"><summary><span>17. Complete: ___ combien de personnes faites-vous confiance ?</span></summary><p>À combien de personnes faites-vous confiance ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-018"><summary><span>18. Complete: ___ combien de pays avez-vous voyagé ?</span></summary><p>Dans combien de pays avez-vous voyagé ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-019"><summary><span>19. Complete: ___ combien d’exemplaires avez-vous besoin ?</span></summary><p>De combien d’exemplaires avez-vous besoin ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-020"><summary><span>20. Before a counted plural noun, does combien normally take de or des?</span></summary><p>de: combien de livres. Distinguish combien des livres… when selecting among previously specified books.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-021"><summary><span>21. Which preposition introduces the recipient with accorder?</span></summary><p>à: accorder quelque chose à quelqu’un</p></details>
+
+<details class="source-question" data-question-id="09-14-source-022"><summary><span>22. Politely ask what someone did at the weekend.</span></summary><p>Qu’est-ce que vous avez fait la fin de semaine ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-023"><summary><span>23. Ask whether someone has questions about last week.</span></summary><p>Est-ce que vous avez des questions sur la semaine passée ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-024"><summary><span>24. Compare two shelves priced at 205 and 185 using demonstrative pronouns.</span></summary><p>Celle-ci coûte 205 et celle-là coûte 185. The currency must be specified by context.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-025"><summary><span>25. Ask the price of an unnamed object.</span></summary><p>Combien est-ce que ça coûte ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-026"><summary><span>26. Translate “How much does this photocopier cost?”</span></summary><p>Combien coûte cette photocopieuse ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-027"><summary><span>27. Ask “How many groups do you belong to?”</span></summary><p>De combien de groupes faites-vous partie ? / À combien de groupes appartenez-vous ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-028"><summary><span>28. Give two price questions for two lamps.</span></summary><p>Combien coûtent ces deux lampes ? / À combien sont ces deux lampes ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-029"><summary><span>29. Correct mille-cinq-cents-quarante.</span></summary><p>mille-cinq-cent-quarante</p></details>
+
+<details class="source-question" data-question-id="09-14-source-030"><summary><span>30. Correct un mille when it means 1,000.</span></summary><p>mille</p></details>
+
+<details class="source-question" data-question-id="09-14-source-031"><summary><span>31. Correct Ce étagère est jolie.</span></summary><p>Cette étagère est jolie.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-032"><summary><span>32. Write 9,900,000, distinguishing it from neuf millions neuf mille.</span></summary><p>neuf millions neuf cent mille. Neuf millions neuf mille is grammatical but means 9,009,000.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-033"><summary><span>33. Correct Une personne ? Oui, ce personne travaille ici.</span></summary><p>Une personne ? Oui, cette personne travaille ici.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-034"><summary><span>34. Correct Ce endroit est magnifique.</span></summary><p>Cet endroit est magnifique.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-035"><summary><span>35. Correct Combien de groupes vous faites partie ? in a formal question.</span></summary><p>De combien de groupes faites-vous partie ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-036"><summary><span>36. Avoid repeating the noun in Il y en a trois chats.</span></summary><p>Il y en a trois. If the intended meaning is “I have three”: J’en ai trois.</p></details>
+
+<details class="source-question" data-question-id="09-14-source-037"><summary><span>37. Correct Combien de candidats accordez-vous une entrevue ?</span></summary><p>À combien de candidats accordez-vous une entrevue ?</p></details>
+
+<details class="source-question" data-question-id="09-14-source-038"><summary><span>38. Refer back to the needed objects when saying “We need fifteen”.</span></summary><p>Il nous en faut quinze. Nous avons besoin de quinze exemplaires is also correct with the noun. The source’s Nous en avons besoin de quinze is not the safest neutral model.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-14">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-14">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-11.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-09-16.html">Next lesson</a></nav>

@@ -1,0 +1,230 @@
+---
+title: "Months, seasons, years & greetings"
+pagetitle: "Months, seasons, years & greetings | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 12 · 10-19 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-19">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-19">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Days and months in complete sentences {#lesson-details}
+
+Ask **Quel jour sommes-nous aujourd’hui ?**, **Quel jour étions-nous hier ?**, and **Quel jour serons-nous demain ?**. The source’s plural **quels jours** is unnecessary when asking about one day. Answers include **Aujourd’hui, c’est lundi** (Today is Monday), **Nous sommes lundi**, **Hier, nous étions dimanche** (It was Sunday), **Demain, nous serons mardi / Ce sera mardi / On sera mardi**. Three days before Monday is Friday: **Nous étions vendredi il y a trois jours** (Three days ago it was Friday), not Saturday.
+
+Do not put **à** after **étions** for a weekday: **Nous étions dimanche**, not **Nous étions à dimanche**. Day and month names are normally lowercase except at the start of a sentence or where title conventions require a capital. Thus **en septembre**, not a capitalized month in the middle of an ordinary sentence.
+
+For a month, use **en** even before a vowel: **Nous sommes en octobre** (It is October) **/ On est en octobre**. Ask **Quel mois sommes-nous ? / On est en quel mois ?**. Spell all twelve: **janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre**.
+
+The first letters correspond to the English month names, but watch the next letters in **avril/April** and **août/August**. The endings **-bre** in **septembre, octobre, novembre, décembre** differ from English **-ber**. Write **mai**, with **i**, not **mais**, which means but.
+
+For numerical dates use **le + day + month**: **le 15 octobre**. The first of a month uses **premier** (**le premier mai**); other days use cardinal numbers. **Quelle est la date de l’événement ? — L’événement a lieu le 15 octobre** asks and answers an event date.
+
+## Birthdays, tasks and year expressions
+
+Ask **Quand est ton/votre anniversaire ?**, **C’est quand ton anniversaire ?**, or in Québec **Quand est ta fête ?**. **Quelle est la date de ton anniversaire ?** is a clear date question; the source’s **Quel est ton anniversaire ?** is less natural for this purpose. Generic answers can be **L’anniversaire est en juin / en mars / en septembre / en mai**.
+
+Task questions include **En quel mois fait-on la déclaration d’impôts ?** (In which month do we do the tax return?), **En quel mois fait-on un dépôt au REER ?**, **En quel mois est le jour de l’an ?**, and **En quel mois est votre anniversaire ?**. Answer **C’est en + month**. These are language structures, not guidance on actual filing or contribution deadlines.
+
+The source’s administrative exercise associated **avril** with the federal fiscal-year start and typical tax-return discussion, **mars** with a year-end/performance-review context, **mars/avril** or sometimes **novembre** with a budget discussion, **novembre** with **le jour du souvenir**, **octobre** with Halloween, and **mai** with Victoria Day. A suggested **5 juillet** annual-report answer was unresolved. Keep these as source exercise examples; actual administrative schedules vary and were not verified in the lesson.
+
+For a year, **en 1967 / en 2000 / en 2026** is the basic construction. Practise **mille neuf cent soixante-sept**, **deux mille**, **deux mille vingt-six**, and **mille neuf cent quatre-vingt-dix**. The full **mille…** reading is dependable. Contrary to the source’s blanket “Anglicism” label, **dix-neuf cent soixante-sept** is an established way to read certain years, not automatically incorrect French. A particular course may prefer one model, but that preference is not a universal rule.
+
+Ask **En quelle année es-tu né/ née ? / Tu es né/ née en quelle année ?**. In these examples, **Je suis né en deux mille dix** (I was born in 2010) and **Je suis née en deux mille dix** differ in participle agreement. For ordinary **être** birth constructions, agreement follows the subject’s gender and number. Practise **J’ai commencé un nouvel emploi** (I started a new job) **/ J’ai obtenu un poste / J’ai commencé à travailler pour un programme statistique**. **Commencé** needs the accent; **commence** is another form. **Commencer à travailler** needs **à** before the infinitive, whereas **travailler** can take several complements, not always **à**.
+
+Proper organization names follow their official capitalization: **Statistique Canada** is the French name, **Statistics Canada** the English name.  **Le programme de l’indice des prix à la consommation** supplies additional administrative vocabulary.
+
+For feminine/masculine/plural birth subjects, the forms include **il est né, elle est née, ils sont nés, elles sont nées**. **1986** reads **mille neuf cent quatre-vingt-six**.
+
+## Seasons and their different constructions
+
+Ask **En quelle saison sommes-nous ? / C’est quelle saison ?**. Use **C’est l’automne** (It's autumn) **/ l’été / l’hiver** to identify the season, or **On est en automne / en été / en hiver** to locate the present in it. These communicate similar information but have different grammatical structures. **Le printemps** takes **au**: **Les fleurs poussent au printemps** (The flowers grow in spring).
+
+Ask **Quelle est votre saison préférée ?**. A model is **Ma saison préférée, c’est l’hiver parce que j’aime faire de la planche à neige** (My favourite season is winter because I like to snowboard); another is **Je préfère le printemps parce que les fleurs poussent**.  **Comment dit-on le printemps en anglais ?** asks for the English term, spring; English autumn/fall both correspond to **automne**.
+
+## Greeting versus parting, with every form
+
+| Purpose | Forms |
+|---|---|
+| greet during the day | bonjour |
+| greet in the evening | bonsoir |
+| informal greeting | salut |
+| greet on the telephone; regional casual greeting | allô |
+| wish someone a good day/evening | bonne journée / bonne soirée |
+| wish a good period before/after noon | bon avant-midi / bon après-midi; feminine après-midi also occurs |
+| wish a good lunch in Canadian usage | bon dîner (Enjoy your lunch (Quebec)) |
+| part until a known time | à demain / à mercredi / à bientôt / à tout à l’heure / à tout de suite (See you Wednesday) |
+| bedtime/nighttime parting | bonne nuit (Good night (I'm going to bed)) |
+
+The short/long contrast is useful: **le jour → la journée**, **le soir → la soirée**, **bonjour/bonsoir** for greeting versus **bonne journée/bonne soirée** for a wish on parting. **Une nuitée** does exist, particularly for an overnight stay, but it is not the normal farewell word; say **bonne nuit**. **Après-midi** can be masculine or feminine; masculine is often preferred in formal references. **Avant-midi** is especially Canadian and its gender varies by reference and use.
+
+**Bonne nuit** is generally for bedtime or a nighttime farewell, not the normal greeting on entering an evening gathering; use **bonsoir** then. **Bon matin** is heard in Québec and other Canadian contexts, with usage advice varying; **bonjour** is the broadly useful default. **Dîner** often means lunch in Canada but the evening meal in France. **Allô** is not exclusive to Québec: it is also a common telephone greeting elsewhere.
+
+The time-noun pairs include **jour/journée, matin/matinée, soir/soirée**. Long forms emphasize a period/experience, as in **une bonne journée / une longue soirée**; they can still take numbers, as in **trois belles années**.
+
+## Pronunciation and accent marks
+
+**Août** can be pronounced with or without final /t/, according to region and speaker; neither variant should be reduced to a universal “correct in Canada, wrong elsewhere” rule. **Mars** normally has a pronounced final /s/ and also an /r/; the source’s approximate “mass” spelling must not imply that the r disappears. **Mai** commonly sounds like **mets**. Practise **janvier, février, juin, juillet**. The first consonant of **juillet** is French /ʒ/, not exactly the English /dʒ/ in “juice.”
+
+French rhythm gives prominence to the end of a group; it is not a rule to artificially stress every month’s last syllable. **En** has a nasal vowel. **Printemps** ends with a nasal vowel and normally silent final **s**; **été** has the /e/ vowels rather than the source’s “liti” guess; **hiver** has a mute **h** and a pronounced final **r**. **Ou** (or) and **où** (where) are normally pronounced the same: the written accent distinguishes their meaning, not a different “u” sound.
+
+Accents belong to correct spelling. Use a keyboard layout or character entry method that lets you write **é, è, ê, à, ç**, etc. **Bon après-midi** and **bonne après-midi** may sound very similar in connected speech, though gender agreement remains visible in writing.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| On sera mercredi. | We will be (on) Wednesday. |  |
+| Mon anniversaire est en mai. | My birthday is in May. |  |
+| Quand est votre anniversaire ? | When is your birthday? |  |
+| Le jour du souvenir, c'est en novembre. | Remembrance Day is in November. |  |
+| On est en hiver. | We are in the winter. |  |
+| J'ai commencé à travailler pour le programme de l'indice des prix à la consommation. | I started working for the Consumer Price Index program. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| lundi | Monday |  |
+| mardi | Tuesday | Lowercase day name; distinguish its written ending from isolated letter-name drills. |
+| mercredi | Wednesday |  |
+| vendredi | Friday |  |
+| dimanche | Sunday |  |
+| aujourd'hui | today |  |
+| hier | yesterday |  |
+| avant-hier | the day before yesterday |  |
+| demain | tomorrow |  |
+| après-demain | the day after tomorrow |  |
+| janvier | January | Lowercase; starts j-a; practise pronunciation. |
+| février | February | Practise pronunciation of février. |
+| mars | March | Normally /maʁs/, including r and final s; named after Mars. The source’s “mass” cue omitted r. |
+| avril | April | Its first two letters differ from English April. |
+| mai | May | Replace English May’s y with i; no final s; often sounds like met/mets. |
+| juin | June | Begins ju; practise its rounded vowel and nasal ending. |
+| juillet | July | Practise the French /ʒ/ and following vowel/glide; English juice is only a rough cue. |
+| août | August | Pronunciations with and without final /t/ exist; regional variation is not a strict Canada/Europe split. The written a is not sounded separately. |
+| septembre | September | French septembre places r/e differently from English September. |
+| octobre | October |  |
+| novembre | November |  |
+| décembre | December |  |
+| le mois | the month |  |
+| l'année | the year |  |
+| le printemps | spring | Masculine: au printemps, the seasonal preposition exception. Practise /pʁɛ̃tɑ̃/ rather than reading the English-looking cue literally. |
+| l'été | summer | Masculine, vowel-initial: l’été / en été. |
+| l'automne | autumn / fall | Masculine, vowel-initial; US English fall. |
+| l'hiver | winter | Masculine, mute h: l’hiver / en hiver. |
+| les quatre saisons | the four seasons |  |
+| la saison | the season |  |
+| l'anniversaire | birthday | Birthday or anniversary, depending on context. |
+| la fête | celebration / name day | Quand est ta fête ? can ask a birthday in Quebec usage; fête can mean other celebrations too. |
+| mon anniversaire | my birthday |  |
+| bon anniversaire | happy birthday | Birthday wish. |
+| né / née | born | Past participle of naître: né masculine / née feminine. |
+| la déclaration d'impôts / les impôts | tax return / taxes | Déclarer ses impôts — file one’s taxes; vocabulary only. |
+| le dépôt au REER | RRSP deposit | REER = Régime enregistré d’épargne-retraite; a vocabulary expansion, not contribution guidance. |
+| le jour de l'an | New Year's Day | New Year’s Day is in January; en janvier. |
+| l'année financière / fiscale | fiscal / financial year | A fictional federal fiscal-year exercise uses April; fiscal calendars vary by organization. |
+| le rapport d'évaluation du rendement | performance evaluation report | Performance-evaluation report; the exercise associates it with March, not a universal deadline. |
+| le budget (fédéral) | (federal) budget |  |
+| le rapport annuel | annual report | Annual report of a service/department. |
+| le jour du souvenir | Remembrance Day | Remembrance Day, in November. |
+| un nouvel emploi | a new job |  |
+| j'ai obtenu mon poste | I got my position |  |
+| la planche à neige | snowboarding | Faire de la planche à neige — go snowboarding. |
+| la météo | the weather / forecast | Le temps est doux — The weather is mild; la météo is the weather/forecast. |
+| Il fait beau | the weather is nice |  |
+| doux / douce | mild / soft |  |
+| les fleurs | flowers |  |
+| pousser | to grow (plants) | Les fleurs poussent — Flowers grow. |
+| Statistique Canada | Statistics Canada | Official French organization name, capitalized. |
+| commencer | to begin |  |
+| travailler | to work | Travailler à / pour — work at/for, according to construction. |
+| le jour / la journée | day | Jour masculine / journée feminine; calendar unit versus period/experience. |
+| le soir / la soirée | evening | Soir masculine / soirée feminine; time of day versus period/experience. |
+| la nuit | night | Feminine. |
+| le matin | morning | Masculine. |
+| le midi | noon | Masculine. |
+| l’avant-midi | the morning / period before noon (Canadian usage) | Both genders are accepted in Canadian usage; before noon. |
+| l'après-midi | afternoon | Both masculine and feminine are accepted. |
+| bonjour | hello (daytime) | Neutral greeting, suitable in formal settings too. |
+| bonsoir | good evening | Evening greeting, often somewhat more formal than salut. |
+| bonne nuit | good night | Farewell wishing a good night, typically before sleeping. |
+| bonne journée | have a good day | Farewell wish for a good day. |
+| bonne soirée | have a good evening | Common farewell wish for a good evening. |
+| bon matin | good morning | Heard in Quebec/Canada; sometimes criticized as an English calque. Bonjour is the neutral alternative. |
+| bon avant-midi / bon après-midi | have a good morning/afternoon | Farewell wishes for the before-noon/afternoon period. |
+| bon dîner | enjoy your lunch | In Quebec, dîner commonly means lunch. |
+| bon appétit | enjoy your meal | Wish someone an enjoyable meal at any mealtime. |
+| allô | hi / hello | Very common in Quebec; also a telephone greeting elsewhere. |
+| salut / ciao / bye | hi / bye | Informal greeting/farewell forms; context matters. |
+| au revoir | goodbye | Standard farewell. |
+| à demain / à mardi / à mercredi | see you tomorrow/Tuesday/Wednesday |  |
+| à tout de suite / à tout à l'heure | see you right away / later |  |
+| à bientôt | see you soon |  |
+
+## Questions
+
+<details class="source-question" data-question-id="10-19-source-001"><summary><span>1. Translate “the day after tomorrow”.</span></summary><p>après-demain</p></details>
+
+<details class="source-question" data-question-id="10-19-source-002"><summary><span>2. Translate “the day before yesterday”.</span></summary><p>avant-hier</p></details>
+
+<details class="source-question" data-question-id="10-19-source-003"><summary><span>3. Give the French for January, July and August.</span></summary><p>janvier; juillet; août</p></details>
+
+<details class="source-question" data-question-id="10-19-source-004"><summary><span>4. Complete Nous sommes ___ octobre.</span></summary><p>en</p></details>
+
+<details class="source-question" data-question-id="10-19-source-005"><summary><span>5. Which two month names do not share their first two letters with English?</span></summary><p>avril (April); août (August)</p></details>
+
+<details class="source-question" data-question-id="10-19-source-006"><summary><span>6. Translate spring, summer, autumn and winter.</span></summary><p>le printemps; l’été; l’automne; l’hiver</p></details>
+
+<details class="source-question" data-question-id="10-19-source-007"><summary><span>7. Translate “snowboarding” using Canadian French.</span></summary><p>la planche à neige</p></details>
+
+<details class="source-question" data-question-id="10-19-source-008"><summary><span>8. What is the official French name of Statistics Canada?</span></summary><p>Statistique Canada. </p></details>
+
+<details class="source-question" data-question-id="10-19-source-009"><summary><span>9. Translate le jour du Souvenir.</span></summary><p>Remembrance Day</p></details>
+
+<details class="source-question" data-question-id="10-19-source-010"><summary><span>10. What does bon dîner wish someone in Quebec usage?</span></summary><p>An enjoyable lunch. Dîner commonly denotes the midday meal there.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-011"><summary><span>11. Which Canadian greeting corresponds to good morning, and what is the neutral alternative?</span></summary><p>Bon matin is heard in Canadian French and is sometimes criticized as an English calque; bonjour is the widely accepted neutral greeting.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-012"><summary><span>12. Complete Hier, nous ___ dimanche.</span></summary><p>étions</p></details>
+
+<details class="source-question" data-question-id="10-19-source-013"><summary><span>13. Give two future ways to say “Tomorrow will be Tuesday”.</span></summary><p>Demain, on sera mardi / ce sera mardi / nous serons mardi.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-014"><summary><span>14. True or false: French month names always begin with capitals.</span></summary><p>False: normally lowercase, except at the start of a sentence or where another capitalization convention applies.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-015"><summary><span>15. Read 1967 in full French number words.</span></summary><p>mille neuf cent soixante-sept</p></details>
+
+<details class="source-question" data-question-id="10-19-source-016"><summary><span>16. Read 2026 and 2005.</span></summary><p>deux mille vingt-six; deux mille cinq</p></details>
+
+<details class="source-question" data-question-id="10-19-source-017"><summary><span>17. Which preposition means “in” before a year?</span></summary><p>en</p></details>
+
+<details class="source-question" data-question-id="10-19-source-018"><summary><span>18. Complete Je suis ___ en deux mille dix for a feminine subject.</span></summary><p>née</p></details>
+
+<details class="source-question" data-question-id="10-19-source-019"><summary><span>19. Complete On est ___ hiver; les fleurs poussent ___ printemps.</span></summary><p>en; au</p></details>
+
+<details class="source-question" data-question-id="10-19-source-020"><summary><span>20. Give the farewell wishes corresponding to jour and soir.</span></summary><p>Bonne journée; bonne soirée</p></details>
+
+<details class="source-question" data-question-id="10-19-source-021"><summary><span>21. Is après-midi masculine, feminine or both?</span></summary><p>Both genders are accepted.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-022"><summary><span>22. Say that today is Monday.</span></summary><p>Aujourd’hui, c’est lundi / Nous sommes lundi.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-023"><summary><span>23. Informally ask when someone’s birthday is.</span></summary><p>C’est quand ton anniversaire ? / Quand est ton anniversaire ?</p></details>
+
+<details class="source-question" data-question-id="10-19-source-024"><summary><span>24. Use 2010 as a birth year in a sentence.</span></summary><p>Je suis né(e) en deux mille dix. Match né/née to the subject.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-025"><summary><span>25. Give a favourite season and a reason.</span></summary><p>Ma saison préférée, c’est l’été parce que j’aime le beau temps.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-026"><summary><span>26. Say “See you Wednesday”.</span></summary><p>À mercredi.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-027"><summary><span>27. Correct Nous étions à samedi.</span></summary><p>Nous étions samedi.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-028"><summary><span>28. Is Je suis né en dix-neuf cent quatre-vingt-dix inherently incorrect? Give the full-number alternative.</span></summary><p>No. Dix-neuf cent is an established year reading. The full alternative is Je suis né en mille neuf cent quatre-vingt-dix. A particular exercise may ask for that form.</p></details>
+
+<details class="source-question" data-question-id="10-19-source-029"><summary><span>29. Correct en printemps.</span></summary><p>au printemps</p></details>
+
+<details class="source-question" data-question-id="10-19-source-030"><summary><span>30. Greet a colleague arriving at 9 a.m. instead of saying Bonne nuit.</span></summary><p>Bonjour; allô/salut in suitable informal contexts. Bonne nuit is a farewell before sleep.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-19">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-19">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-14.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-21.html">Next lesson</a></nav>

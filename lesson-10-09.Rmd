@@ -1,0 +1,263 @@
+---
+title: "Weekdays, routines & preferences"
+pagetitle: "Weekdays, routines & preferences | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 10 · 10-09 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-09">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Asking the day, capitalization and calendar order {#lesson-details}
+
+**Quel jour sommes-nous aujourd’hui ?** is a formal model. **Quel jour on est aujourd’hui ? / On est quel jour ?** are conversational. Answers include **On est lundi**, **On est mardi aujourd’hui**, and **Nous sommes vendredi**. Starting with **on** is common, but **Aujourd’hui, nous sommes…** is also correct.
+
+Weekday names are lowercase except at the beginning of a sentence: **Lundi, je travaille** (On Monday I work), but **Le mardi, je joue au football** (On Tuesdays, I play football). Monday is the first day in ISO-style and many French calendars; calendar layouts in Canada and the United States also commonly start on Sunday. The source’s all-calendar claim is not universal.
+
+The complete weekday sequence is **lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche** — Monday through Sunday. Match tense to time: **Hier, nous étions mardi; demain, nous serons jeudi**. **À lundi !** is the farewell “See you Monday”, distinct from adding *à* before an ordinary event’s weekday.
+
+## Prepositions, articles and repeated days
+
+For when an action happens, use **Je travaille dimanche / Je sors samedi** (I'm going out Saturday), without English-style **sur** or unnecessary **à**. **À dimanche** is a farewell meaning “See you Sunday.”
+
+A bare weekday often identifies one occasion: **Lundi, je travaille**. **Le mardi** often describes a recurring Tuesday routine. General preferences also use the article: **J’aime le samedi parce que je me repose** (I like Saturday(s) because I rest), **Je déteste le lundi** (I hate Monday). **J’aime les samedis** can also be grammatical when the plural occasions are intended; the source’s singular correction was a preferred practice model, not a ban on plural weekdays.
+
+**Tous les samedis** means every Saturday. **Tout le samedi** instead means the whole of a particular Saturday. Thus **Je vais au cinéma tous les samedis** is the repeated habit; **tout le samedi** would express duration, not recurrence. Keep **tous**, **les**, and **samedis** plural.
+
+**Tous les jours** means every day; **toute la journée** means all day. **Tous les lundis** has plural **tous/lundis**. **Lundi prochain / lundi dernier** identify next/last Monday.
+
+## Present, past and future of être
+
+| Reference | on | nous | Example |
+|---|---|---|---|
+| present | est | sommes | On est vendredi. (It's Friday) |
+| future | sera | serons | Demain, on sera samedi. (It will be Saturday) |
+| past background | était | étions | Hier, nous étions jeudi. (Yesterday, it was Thursday) |
+
+The source introduced these forms for recognition even before a full future-tense lesson.
+
+## Reflexive verbs and plans
+
+**Se reposer** means rest: **je me repose / je ne me repose pas**. Match the reflexive pronoun to its subject. Other models are **Je me couche tard** (I go to bed late), **Je me réveille de bonne heure** (I wake up early), and **On se promène** (we/people take a walk).
+
+Use **aller + infinitive** for a future intention: **Vendredi soir, je vais regarder un film**, **Je vais rester à la maison**, **Je vais me reposer** (I'm going to rest). For taking a child to an activity, **Je vais accompagner mon enfant au cours de karaté** is clearer than the source’s English-influenced **prendre ma fille au karaté**. A generic country example is **Des voyageurs vont au Pakistan**, with **à + le → au**.
+
+**Habituellement** marks a routine: **Habituellement, le vendredi soir, une personne travaille sur un projet personnel, puis elle se couche tard**. Another generic example is **Le vendredi soir, une famille mange habituellement de la pizza et regarde la télévision ou un film**.
+
+The reflexive pronouns are **je me, tu te, il/elle se, nous nous, vous vous, ils/elles se**. **Nous nous reposons le dimanche** — We rest on Sundays — illustrates plural agreement; before an infinitive use the pronoun matching its understood subject.
+
+## Preferences, reasons and a complete role-play
+
+Use **aimer, détester, préférer**. Ask **Quel est ton/votre jour préféré de la semaine ?**, **Quel jour de la semaine aimes-tu le moins ?** (Which day of the week do you like the least?), or **Quel jour aimez-vous le moins ?**. **Le moins** means least. The same interview pattern applies to work tasks: **Quelle tâche aimez-vous le moins ?**
+
+Give a full answer: **Je préfère le jeudi et le samedi** (I prefer Thursday and Saturday), rather than only **Jeudi et samedi** when practising sentence construction. Reasons can use **parce que + clause**:
+
+- **Parce que c’est le dernier / le premier jour de travail de la semaine.**
+- **Parce que ça annonce le week-end.** (Because it signals the weekend)
+- **Parce que je peux passer du temps avec ma famille.**
+- **Parce qu’un enfant ne va pas à la garderie ce jour-là.**
+- **Une personne aime le moins le mardi parce qu’un membre de sa famille a des cours.**
+
+Full generic interview:
+
+> — Excusez-moi, quel jour sommes-nous aujourd’hui ?  
+> — Aujourd’hui, nous sommes vendredi.  
+> — Quel est votre jour préféré de la semaine ?  
+> — Je préfère le samedi.  
+> — Pourquoi aimez-vous ce jour ?  
+> — Parce que je peux passer du temps avec ma famille.  
+> — Quel est votre programme pour vendredi soir ?  
+> — Vendredi soir, je vais regarder un film.  
+> — Préférez-vous sortir ou rester à la maison ?  
+> — Je préfère rester à la maison.  
+> — Avec qui passez-vous le week-end ?  
+> — Je passe le week-end avec ma famille et mes amis.  
+> — Merci beaucoup. Bonne journée.  
+> — À vous aussi. Au revoir.
+
+## Pronunciation
+
+Practise **lundi, mardi, mercredi**, particularly **mercredi**. In quick speech, **la fin de semaine** may reduce toward **fin d’semaine**. Unstressed vowels can be reduced in **fenêtre, maintenant, samedi**; the source incorrectly referred to dropping an **r** in **maintenant**, a word containing no **r**. This is about vowel/syllable reduction, not removing an r.
+
+**É** is generally a closer /e/ vowel and **è** a more open /ɛ/. The source’s “under/over 90 degrees” mouth-angle analogy and exaggerated smile were mnemonics, not measurable phonetic rules. This contrast can help with past-tense endings, though regional mergers and variation exist.
+
+**Moi** contains /wa/; **moins** adds a nasal vowel in its usual pronunciation. Regional French vowels differ; the claim that Canadian vowels “have not evolved since the nineteenth century” is an oversimplification. Exposure to multiple accents is useful. Practise **famille, travaille, fille**, where the letter sequence represents a /j/-type sound; this is not a rule for every double **l** word. Contrast **bon** with **bonne**: the latter has a pronounced /n/ and a different vowel. **Bonne journée** must not be reduced to **bon journée** in a careful practice answer.
+
+**Au revoir** is not pronounced by sounding out every letter independently. **Aujourd’hui** contains the elements **au / jour** in its history, but is learned as a word. Practise **je préfère** and the accents in **préféré/préférée**. Distinguish **mon fils** (son), **ma fille** (daughter), **mes filles** (daughters); their spelling/pronunciation differs.
+
+## Regional and cultural vocabulary
+
+**L’Action de grâce** is Canadian Thanksgiving; a standard greeting is **Joyeuse Action de grâce**. **La fin de semaine** is common Canadian French; **le week-end** is common in France and also understood in Canada. **Un anniversaire** is a birthday; in Québec, **bonne fête** commonly means happy birthday, whereas in France **fête** may refer to a name day or celebration. The source reversed/blurred that regional distinction.
+
+**Le film** is a movie; **le cinéma** can mean the cinema building, the art, or the activity of going to movies. **Se promener** means take a walk; **aller au parc** only specifies going to the park. **La navette** is a shuttle; **un stationnement complet** is a full parking lot. These remain useful vocabulary even though the original actual outing details are excluded.
+
+**La déprime / le blues du dimanche soir** describes Sunday-evening blues. **Quand on aime ce qu’on fait, on n’a plus trop la déprime du dimanche** (When you like what you do, you no longer really get the Sunday blues) demonstrates generic **on** and **ne… plus**. **Ça me donne des frissons** (it gives me chills) **, mais c’est intéressant** is an idiomatic contrast. The source discussed traditional Wednesday school schedules in France; this is not a universal current rule for every age or school. Keep the vocabulary **jour de repos, activités, tennis, danse, théâtre**, rather than presenting one school schedule as fixed.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Ma famille va à une cérémonie de mariage pour mon cousin. | My family is going to a wedding ceremony for my cousin. |  |
+| Je prépare le dîner pour l'Action de grâce avec ma famille samedi. | I'm preparing dinner for Thanksgiving with my family on Saturday. |  |
+| Je vais au parc avec mon chien. | I'm going to the park with my dog. |  |
+| Je reste chez moi, je passe mon temps avec mon chat et je déconnecte. | I'm staying home, I spend my time with my cat, and I disconnect. |  |
+| Mes parents vont au Pakistan. | My parents are going to Pakistan. |  |
+| Je préfère le week-end, le samedi et le dimanche. | I prefer the weekend, Saturday and Sunday. |  |
+| Parce que c'est le dernier jour de travail de la semaine. | Because it's the last workday of the week. |  |
+| Le lundi, c'est mon jour de repos et je suis avec ma fille. | Monday is my day off and I'm with my daughter. |  |
+| Je préfère vendredi, parce que c'est le début du week-end. | I prefer Friday, because it's the start of the weekend. |  |
+| Habituellement, le vendredi soir, je travaille sur mes projets personnels, comme les jeux. Et je me couche tard. | Usually, on Friday evenings, I work on my personal projects, like games. And I go to bed late. |  |
+| Le vendredi soir, ma famille mange habituellement de la pizza et je regarde la télévision ou un film. | On Friday evenings, my family usually eats pizza and I watch TV or a movie. |  |
+| J'aime le moins le mardi parce que mon fils a des cours. | I like Tuesday the least because my son has classes. |  |
+| On va au parc et on se promène. | We go to the park and take a walk. |  |
+| Ça me donne des frissons, mais oui, c'est intéressant. | It gives me chills, but yes, it's interesting. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| l’Action de grâce / Joyeuse Action de grâce | Thanksgiving / Happy Thanksgiving |  |
+| hier | yesterday |  |
+| aujourd'hui | today |  |
+| demain | tomorrow |  |
+| avant-hier | the day before yesterday |  |
+| après-demain | the day after tomorrow |  |
+| lundi | Monday |  |
+| mardi | Tuesday |  |
+| mercredi | Wednesday |  |
+| jeudi | Thursday |  |
+| vendredi | Friday |  |
+| samedi | Saturday |  |
+| dimanche | Sunday |  |
+| le week-end | the weekend |  |
+| la fin de semaine / la fin de la semaine | the weekend / the end of the week |  |
+| le début du week-end | the start of the weekend |  |
+| le jour préféré | the favorite day |  |
+| le début de la semaine | the beginning of the week |  |
+| le dernier jour de travail | the last workday |  |
+| aimer | to like / love |  |
+| aimer le moins / le plus | to like the least / the most |  |
+| détester | to hate / detest |  |
+| préférer | to prefer |  |
+| se reposer | to rest |  |
+| se promener | to take a walk |  |
+| se réveiller de bonne heure | to wake up early |  |
+| se coucher tard | to go to bed late |  |
+| sortir (avec des amis) | to go out (with friends) |  |
+| le travail / le boulot | work / work (informal) |  |
+| le repos / mon jour de repos | rest / my day off |  |
+| un jour de congé | a day off |  |
+| les cours | classes |  |
+| une tâche | a task |  |
+| la citrouille | pumpkin |  |
+| la tarte aux citrouilles | pumpkin pie |  |
+| cuisiner | to cook |  |
+| la navette | shuttle (bus) |  |
+| le stationnement | parking |  |
+| la randonnée | hike / hiking |  |
+| le mariage | wedding |  |
+| la restauration | the restaurant/catering industry |  |
+| le commerce | retail / trade |  |
+| la déprime du dimanche soir / le blues du dimanche soir / la petite déprime du dimanche | the Sunday-evening blues |  |
+| les vacances | holidays / vacation |  |
+| un souvenir d'enfance | a childhood memory |  |
+| l'école primaire | primary school |  |
+| la garderie | daycare |  |
+| les embouteillages | traffic jams |  |
+| en voiture | by car |  |
+| le polar | crime/thriller film |  |
+| la comédie | comedy |  |
+| le film d'action | action film |  |
+| l'horreur | horror |  |
+| la série / les séries télévisées | TV show / TV series |  |
+| un film | a movie |  |
+| le cinéma | the cinema |  |
+| ça dépend | it depends |  |
+| la fenêtre | window |  |
+| maintenant | now |  |
+| bonne journée | have a good day |  |
+| au revoir | goodbye |  |
+| habituellement | usually |  |
+
+## Questions
+
+<details class="source-question" data-question-id="10-09-source-001"><summary><span>1. Translate “the day before yesterday”.</span></summary><p>avant-hier</p></details>
+
+<details class="source-question" data-question-id="10-09-source-002"><summary><span>2. Translate “the day after tomorrow”.</span></summary><p>après-demain</p></details>
+
+<details class="source-question" data-question-id="10-09-source-003"><summary><span>3. Give a Canadian French term for “the weekend”.</span></summary><p>la fin de semaine</p></details>
+
+<details class="source-question" data-question-id="10-09-source-004"><summary><span>4. Translate la tarte aux citrouilles.</span></summary><p>pumpkin pie</p></details>
+
+<details class="source-question" data-question-id="10-09-source-005"><summary><span>5. Complete Je ___ au parc avec mon chien (aller).</span></summary><p>vais</p></details>
+
+<details class="source-question" data-question-id="10-09-source-006"><summary><span>6. Translate “the Sunday-evening blues”.</span></summary><p>la déprime du dimanche soir / le blues du dimanche soir</p></details>
+
+<details class="source-question" data-question-id="10-09-source-007"><summary><span>7. Translate mon jour de repos.</span></summary><p>my day off / my rest day</p></details>
+
+<details class="source-question" data-question-id="10-09-source-008"><summary><span>8. What does un polar mean?</span></summary><p>a detective/crime novel or film; it does not necessarily mean true crime</p></details>
+
+<details class="source-question" data-question-id="10-09-source-009"><summary><span>9. Translate “daycare”.</span></summary><p>la garderie</p></details>
+
+<details class="source-question" data-question-id="10-09-source-010"><summary><span>10. Translate “traffic jams”.</span></summary><p>les embouteillages</p></details>
+
+<details class="source-question" data-question-id="10-09-source-011"><summary><span>11. Translate “It depends”.</span></summary><p>Ça dépend.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-012"><summary><span>12. Give the affirmative je form of se reposer.</span></summary><p>je me repose</p></details>
+
+<details class="source-question" data-question-id="10-09-source-013"><summary><span>13. Give the negative je form of se reposer.</span></summary><p>je ne me repose pas</p></details>
+
+<details class="source-question" data-question-id="10-09-source-014"><summary><span>14. Contract Mes parents vont à + le Pakistan.</span></summary><p>Mes parents vont au Pakistan.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-015"><summary><span>15. Name the three preference verbs introduced.</span></summary><p>aimer, détester, préférer</p></details>
+
+<details class="source-question" data-question-id="10-09-source-016"><summary><span>16. Complete Je travaille ___ dimanche for one specific Sunday.</span></summary><p>Je travaille dimanche, with no added article/preposition.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-017"><summary><span>17. Add the habitual article: Je joue au football ___ mardi.</span></summary><p>le</p></details>
+
+<details class="source-question" data-question-id="10-09-source-018"><summary><span>18. Complete Demain, on ___ samedi with the future of être.</span></summary><p>sera</p></details>
+
+<details class="source-question" data-question-id="10-09-source-019"><summary><span>19. Complete Hier, nous ___ jeudi with a past form of être.</span></summary><p>étions</p></details>
+
+<details class="source-question" data-question-id="10-09-source-020"><summary><span>20. Change Quel jour aimes-tu le moins ? to polite vous.</span></summary><p>Quel jour aimez-vous le moins ?</p></details>
+
+<details class="source-question" data-question-id="10-09-source-021"><summary><span>21. Complete Vendredi soir, je ___ un film with the near future of regarder.</span></summary><p>vais regarder</p></details>
+
+<details class="source-question" data-question-id="10-09-source-022"><summary><span>22. Add “because”: J’aime le moins le mercredi ___ je suis fatiguée.</span></summary><p>parce que</p></details>
+
+<details class="source-question" data-question-id="10-09-source-023"><summary><span>23. Rewrite Je mange de la pizza le vendredi soir using habituellement.</span></summary><p>Habituellement, je mange de la pizza le vendredi soir.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-024"><summary><span>24. Formally ask what day it is today.</span></summary><p>Quel jour sommes-nous aujourd’hui ?</p></details>
+
+<details class="source-question" data-question-id="10-09-source-025"><summary><span>25. Ask what day it is today in everyday spoken French.</span></summary><p>On est quel jour aujourd’hui ? / Quel jour on est aujourd’hui ?</p></details>
+
+<details class="source-question" data-question-id="10-09-source-026"><summary><span>26. Say that a family’s parents are going to Pakistan.</span></summary><p>Mes parents vont au Pakistan.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-027"><summary><span>27. Say that Friday is your favourite day, as a practice answer.</span></summary><p>Je préfère le vendredi.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-028"><summary><span>28. Ask “What day is it?” using a common spoken structure.</span></summary><p>On est quel jour ?</p></details>
+
+<details class="source-question" data-question-id="10-09-source-029"><summary><span>29. Say Friday is a favourite because it is the last workday.</span></summary><p>Mon jour préféré est le vendredi parce que c’est le dernier jour de travail de la semaine.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-030"><summary><span>30. Say Saturday is a favourite because you can spend time with family.</span></summary><p>Je préfère le samedi parce que je peux passer du temps avec ma famille.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-031"><summary><span>31. Ask about someone’s plans for Friday evening.</span></summary><p>Quel est votre programme pour vendredi soir ?</p></details>
+
+<details class="source-question" data-question-id="10-09-source-032"><summary><span>32. Correct Je repose ce week-end for “I am resting”.</span></summary><p>Je me repose ce week-end.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-033"><summary><span>33. Correct Mes parents vont à l’Epakistan.</span></summary><p>Mes parents vont au Pakistan.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-034"><summary><span>34. Correct Je sors sur samedi.</span></summary><p>Je sors samedi.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-035"><summary><span>35. Give the ordinary generic-day version of J’aime les samedis parce que je me repose.</span></summary><p>J’aime le samedi parce que je me repose. The plural les samedis is also grammatical when referring to Saturdays collectively; it is not an inherent error.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-036"><summary><span>36. Correct Je déteste lundi when referring to Mondays in general.</span></summary><p>Je déteste le lundi.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-037"><summary><span>37. Remove the stray word in Je préfère père le samedi.</span></summary><p>Je préfère le samedi.</p></details>
+
+<details class="source-question" data-question-id="10-09-source-038"><summary><span>38. Why does bonne journée not sound like bon journée?</span></summary><p>Bonne has a non-nasal vowel followed by /n/; bon ordinarily has a nasal vowel. Journée is feminine, so use bonne.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-09">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-07.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-14.html">Next lesson</a></nav>

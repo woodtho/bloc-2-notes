@@ -1,0 +1,295 @@
+---
+title: "Time markers & choosing a tense"
+pagetitle: "Time markers & choosing a tense | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 18 · 11-09 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-09">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Place an event before, at or after now {#lesson-details}
+
+Answer **quand ?** by identifying both the time expression and the verb form. A **ligne de temps** is a timeline; **situer un événement dans le temps** means to locate an event in time. A time word helps interpretation but does not mechanically dictate one tense.
+
+| Past indicators | Present/current indicators | Future indicators |
+|---|---|---|
+| hier — yesterday | aujourd’hui — today | demain — tomorrow |
+| hier soir — last night | maintenant — now | après-demain — the day after tomorrow |
+| avant-hier — the day before yesterday | actuellement — currently | bientôt — soon |
+| autrefois — formerly/in the past | présentement — currently | tantôt — later today in relevant regional use |
+| le mois dernier — last month | en ce moment — right now | à l’avenir — from now on/in future |
+| la semaine dernière — last week | à l’heure actuelle — at present | dans l’avenir / dans un proche avenir — in the future / near future |
+| samedi dernier — last Saturday | ce matin / cet après-midi / cette semaine — this morning/afternoon/week | mardi prochain / la semaine prochaine / le mois prochain — next Tuesday/week/month |
+| à ce moment(-là) — at that moment |  | dans + duration — in a specified time |
+| il y a + duration — a specified time ago |  |  |
+
+**Ce matin** and **cette semaine** can also occur with past or future actions within that period. **Après-midi** has both genders; **cet après-midi** is the usual demonstrative phrase. **Cette semaine** is feminine. No extra article/preposition is needed in **demain, aujourd’hui, ce matin** when they function directly as time adjuncts.
+
+Initial time phrases set the scene, often followed by a comma: **Hier, j’ai travaillé.** (Yesterday, I worked) **Hier soir, j’ai étudié.** (Last night, I studied) **Avant-hier, j’étais au bureau. À ce moment-là, j’étais en réunion.** (At that moment, I was in a meeting) Final placement is also possible. The source’s “beginning only” and “end only” placement claims are overly restrictive: **J’ai terminé la réunion il y a deux heures** (I finished the meeting two hours ago) and **Il y a deux heures, j’ai terminé la réunion** are both grammatical. Similarly, **La réunion commence dans trois heures** (The meeting starts in three hours) **/ Dans trois heures, la réunion commence**, **Je pars en vacances dans trois semaines** (I'm leaving on vacation in three weeks), **Je termine ce projet dans deux jours**. No *passé* is needed in *il y a passé deux jours*: say **Je l’ai vu il y a deux jours**.
+
+## The two meanings of il y a
+
+1. Existence/quantity: **Il y a trois cents employés maintenant dans l’édifice** — There are three hundred employees in the building now. This is present, not past.
+2. Elapsed time: **il y a deux jours / dix ans / vingt ans** — two days/ten years/twenty years ago. In this ordinary “ago” construction keep **il y a**, even with a past main verb: **Il y a dix ans, j’ai acheté un appartement dans une rue résidentielle**. 
+
+Counting commonly uses **jours, ans, heures, semaines**: **dans six ans, il y a deux jours**. Longer forms emphasize a period or its character: **une belle journée, trois longues années**. Numbers do not absolutely prohibit the long forms.
+
+## Current time and regional vocabulary
+
+**Aujourd’hui, je travaille au bureau** (Today, I work at the office) **/ Je travaille au bureau aujourd’hui** differ in emphasis, not correctness. **Je suis disponible maintenant.** (I am available now) **Je travaille actuellement dans un organisme. Nous sommes présentement en période de formation.** (We are currently in a training period) **En ce moment, je suis très occupé et je travaille.** (Right now, I am very busy and I am working) **Ce matin, j’ai une réunion.** (This morning, I have a meeting) **Cet après-midi, je travaille à la maison. Cette semaine, nous avons une formation.** 
+
+**Actuellement** is a false friend: it means “currently”, not “actually”. Translate English “actually” as **en fait, en réalité**, or **vraiment** where the meaning is “really”. Substituting **présentement** is a useful check for the “currently” meaning.
+
+**À l’heure actuelle** is useful in reports or formal/professional writing: **À l’heure actuelle, le ministère utilise un nouveau système.** (At the present time, the ministry is using a new system) **À l’heure actuelle, chaque fonctionnaire dispose d’un ordinateur.** (At the present time, each public servant has a computer) It can signal a contrast with the past. It can also occur later in a sentence; “always first” is not a grammar rule. **Actuellement/présentement** often follow the verb but can open a sentence too.
+
+**Présentement** is especially ordinary in Canadian French; register/frequency vary elsewhere. Avoid the sweeping source claim that it is essentially confined to archaic/legal French in all of Europe. **Tantôt** can mean earlier or later today depending on region, context and tense. It is familiar in Quebec/Ontario and also in some European regions; it is not universally forbidden in France. **À bientôt / On se voit bientôt** (we'll see each other soon; Farewell without a precise appointment time) are polite farewells with no fixed promise of minutes/hours. **Bientôt** can precede the sentence: **Bientôt, nous partirons**, as well as **Nous partirons bientôt**.
+
+## Future expressions and agreement
+
+**Demain, j’ai du travail au bureau.** (Tomorrow, I have work at the office) **Après-demain, j’ai une réunion.** A present form can describe an arranged future action. The time expressions can also follow the verb. **Dans + duration** tells how long until the event, not a physical location. There is no liaison before the consonant in **dans deux jours**; **deux heures** has /z/ liaison.
+
+**À l’avenir, veuillez vérifier les dates** is a recommendation: “From now on, please check the dates.” **Dans l’avenir, cette technologie pourrait changer notre façon de travailler** (In the future, this technology could change the way we work) looks ahead more generally/speculatively. These are useful tendencies, not encoded percentages of certainty.
+
+**Prochain** is an adjective: **mardi prochain, le mois prochain, la semaine prochaine**. Add plural agreement where needed: **les semaines prochaines**. Masculine **prochain** has a nasal vowel; feminine **prochaine** has an audible /n/ and a non-nasal vowel. **Mardi prochain, j’ai un rendez-vous.** (Next Tuesday, I have an appointment) **La semaine prochaine, nous commençons un nouveau projet.** (Next week, we start a new project)
+
+The simple future also occurs in promises and softened instructions, not only predictions. Neither its certainty nor its distance from now is fixed by the tense alone.
+
+## Recognize every verb form introduced in the source
+
+The **indicative mood** presents events/situations as facts or realities from the speaker’s viewpoint. The imperative is a separate mood. The source emphasizes active practice of the **passé composé** and **imparfait**, with recognition of the more complex tenses.
+
+| Form | Construction and example | English / use |
+|---|---|---|
+| present | **je mange** | I eat / I am eating; current action, habit or contextually future plan |
+| imperative | **mange, mangez, mangeons** | eat / let’s eat; command or instruction |
+| present progressive expression | **être en train de + infinitive: je suis en train de manger** | I am in the process of eating |
+| imperfect | **je mangeais** | I used to eat / I was eating; habit, description, background |
+| compound past | **present avoir/être + past participle: j’ai mangé, elle est arrivée** | I ate / have eaten; a bounded past event |
+| recent past expression | **venir de + infinitive: je viens de manger** | I have just eaten |
+| pluperfect | **imperfect avoir/être + past participle: j’avais mangé, elle était arrivée** | I had eaten / she had arrived; earlier than a past reference point |
+| near future | **present aller + infinitive: je vais manger** | I am going to eat |
+| simple future | **je mangerai** | I will eat; stem plus future ending, with no separate word “will” |
+| future perfect | **future avoir/être + past participle: j’aurai mangé, elle sera arrivée** | I will have eaten / she will have arrived |
+
+The source omitted **être** from the pluperfect/future-perfect construction: both auxiliaries are possible, according to the main verb. French has no obligatory progressive tense matching every English “-ing”; **je mange** already means “I am eating”. **Être en train de** adds emphasis on the ongoing process.
+
+**J’avais déjà mangé quand tu es arrivé** — I had already eaten when you arrived. **Je mangeais des frites tous les mercredis après l’école** — I used to eat fries every Wednesday after school.
+
+## Completed events, background and future plans
+
+**Hier** often accompanies **passé composé**, but can also accompany **imparfait**: **Hier, il pleuvait quand je suis sorti**. **Autrefois** often introduces an old habit/state: **Autrefois, je travaillais à Montréal.** (In the past, I used to work in Montreal) **Autrefois, j’habitais à Paris. Autrefois, il n’y avait pas de ministère de l’environnement.** (In the past, there was no ministry of the environment) **Il y a vingt ans, peu de fonctionnaires avaient accès à un ordinateur.** It does not impose an absolute ban on a completed-event tense. For a completed purchase use **Il y a dix ans, j’ai acheté un appartement**, rather than a present *j’achète* in an ordinary account.
+
+**Hier, tout le monde a assisté à la réunion qui a validé le document 102** — Yesterday everyone attended the meeting that approved document 102. The source’s *pièce 102* was ambiguous between a room and a document; this model chooses the document meaning rather than treating room approval as a universal phrase.
+
+**Futur proche** often presents an intention, plan or development connected with now; **futur simple** often presents a future fact/prediction. Either can express strong or weak certainty. The source’s estimates of 51%, 65%, 95% or 98% are not grammatical probabilities and should not be learned as rules. Nor does a tense establish whether a political promise is honest. Temporal distance alone does not determine the choice.
+
+- **Chaque sous-équipe va présenter le compte rendu de ses discussions.** — Each sub-team is going to present its discussion report.
+- **Dans l’avenir, la France aura de plus en plus d’importance.** — In the future, France will become more important. 
+- **Dans un proche avenir, tous les fonctionnaires auront un visiophone.** — In the near future, all public servants will have a video phone. This dated workbook prediction illustrates future wording, not current technology expectations.
+- **Je la verrai encore dans six ans quand je prendrai ma retraite.** — I will still see her/it in six years when I retire. 
+- **Ils arriveront. Nous terminerons. Tu travailleras. Je parlerai. On entendra.** — They will arrive; we will finish; you will work; I will speak; one will hear. The future stem’s **r** is a useful clue, but an /r/ alone does not identify every tense.
+
+## Pronunciation and spelling corrections
+
+The French **r** is commonly uvular, produced toward the back of the mouth; a gentle gargling comparison can help locate it. Pronunciation varies. The source’s claim “pronounce every written r” is false: the final *r* in many **-er** infinitives is not pronounced. Avoid forcing or painfully scraping the throat.
+
+**É** normally represents a close /e/ and **è** an open /ɛ/: compare the two vowels in **élève**. A somewhat narrower/more open mouth is a useful cue; exact mouth angles are not phonetic rules. **Arrivé** has an acute accent, not *arrivè*. **J’ai travaillé / Hier soir, j’ai étudié** have /e/ at the end of their past participles.
+
+Distinguish **disposer** (infinitive, ending /e/), **dispose** (present, final written *e* silent) and **disposé** (past participle, ending /e/). Infinitive and participle can sound the same, but are not the same grammatical form; **a disposé** needs the auxiliary for compound past. The source’s “silent -er in the present” means use the conjugated form **dispose**, not that *-er* is silent in the infinitive.
+
+## Ten listening-recognition items as text practice
+
+| Sentence | Meaning | Time reference |
+|---|---|---|
+| Demain, il pleuvra. | It will rain tomorrow. | future, simple future |
+| Je termine mon rapport aujourd’hui. | I am finishing my report today. | present |
+| Pourquoi est-il si content ce matin ? | Why is he so happy this morning? | present |
+| Votre section va déménager la semaine prochaine ? | Is your section going to move next week? | future, near future |
+| Hier, j’ai lavé ma voiture. | Yesterday I washed my car. | past, compound past |
+| Il y a trois cents employés maintenant dans l’édifice. | There are three hundred employees in the building now. | present; existence, not “ago” |
+| J’ai été malade le mois dernier. | I was ill last month. | past |
+| Vous recevrez ma requête dans cinq jours. | You will receive my request in five days. | future, simple future |
+| Elle est arrivée au Canada il y a dix ans. | She arrived in Canada ten years ago. | past |
+| Cette semaine, je prends un congé pour obligation familiale. | This week I am taking leave for a family obligation. | present form/current week |
+
+**Je faisais** is imperfect, not present **je fais**; it can pair with **samedi dernier** in a suitable past account. Distinguish **une raquette** (racket/snowshoe) and **une requête** (request). **Faire de la raquette** means to snowshoe; **inutile de rêver** means “no use dreaming”. Workbook references in the source: activity **2, pages 4–5**, and activities **3 and 5** for timeline/listening recognition.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Hier, tout le monde a assisté à la réunion qui a validé la pièce 102. | Yesterday, everyone attended the meeting that validated room/document 102. |  |
+| Il y a dix ans, j'ai acheté un condo sur la promenade du centre. | Ten years ago, I bought a condo on the Centre promenade. |  |
+| Je travaille actuellement à Statistique Canada. | I currently work at Statistics Canada. |  |
+| Dans un proche avenir, tous les fonctionnaires auront le visiophone. | In the near future, all public servants will have the video phone. |  |
+| Ils arriveront. / Je parlerai. | They will arrive. / I will speak. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| les indicateurs de référence | reference/time indicators | Time-reference indicators, the lesson topic. |
+| un indicateur de temps | a time indicator | Word/expression signaling time. |
+| situer un événement dans le temps | to place an event in time | Locate an event in time. |
+| la ligne de temps | the timeline | Visual tool for past/present/future. |
+| quand | when | When, the question these indicators answer. |
+| le passé / le présent / le futur | the past / present / future | Three regions of the timeline. |
+| hier | yesterday | Yesterday; can open or end a sentence; past tense depends on the action/background. |
+| hier soir | last night / yesterday evening | Can introduce a sentence or occur later. |
+| avant-hier | the day before yesterday | Can introduce a sentence or occur later. |
+| il y a (+ durée) | ago | Ago with a duration; initial or final placement is possible. |
+| autrefois | formerly / in the past (formel) | Often an old habit/state with imperfect; not an absolute ban on other tenses. |
+| le mois dernier | last month | Past time; compound past for a completed event, imperfect for background/habit. |
+| la semaine dernière | last week | Past time; choose tense by the intended viewpoint. |
+| à ce moment / à ce moment-là | at that moment | Can introduce the time frame at the beginning. |
+| samedi dernier | last Saturday | Past-time indicator. |
+| il y a dix ans / vingt ans | ten / twenty years ago | Ago: a past time relative to now. |
+| aujourd'hui | today | Flexible placement at beginning or end. |
+| maintenant | now | Flexible placement. |
+| actuellement | currently | False friend: currently, not actually. |
+| présentement | currently / at the moment; especially common in Canadian French | Especially common in Canada; frequency/register vary elsewhere. Not universally archaic in Europe. |
+| en ce moment | right now | Conversational expression for right now. |
+| ce matin | this morning | No extra article/preposition in the direct time phrase; matin is masculine. |
+| cet après-midi | this afternoon | Après-midi accepts both genders; cet après-midi is the usual demonstrative form. |
+| cette semaine | this week | Feminine: cette semaine. |
+| à l'heure actuelle | at the present time | Useful in professional/formal writing; it can occur initially or later. |
+| demain | tomorrow | No extra article/preposition for tomorrow; placement is flexible. |
+| après-demain | the day after tomorrow | The day after tomorrow; placement is flexible. |
+| bientôt | soon | Adverb; may follow the verb or begin a sentence. |
+| à bientôt | see you soon | Farewell with no fixed minutes/hours deadline. |
+| tantôt | earlier or later today in relevant regional usage; context and tense clarify | Regional earlier/later today; context and tense matter, including some European usage. |
+| à l'avenir | from now on / in the future | Often a recommendation/intention, as with veuillez. |
+| dans l'avenir / dans un proche avenir | in the future / in the near future | Future reference; does not alone require futur simple or encode uncertainty. |
+| dans (+ durée) | in (X time) | Time remaining before an event; may occur initially or finally. |
+| prochain / prochaine | next | Adjective agreeing in gender/number. |
+| mardi prochain | next Tuesday | Mardi is masculine; prochain has a nasal vowel. |
+| la semaine prochaine | next week | Semaine is feminine; prochaine has an audible n. |
+| le mois prochain | next month | Mois is masculine. |
+| en réalité / en fait / vraiment | actually | Actually translates by meaning: en fait/en réalité; vraiment for really. |
+| une réunion | a meeting |  |
+| assister à | to attend | A assisté is compound past. |
+| une formation | a training |  |
+| le ministère | the ministry |  |
+| en sous-équipe | in a sub-team |  |
+| le compte rendu | the report / minutes |  |
+| la séance plénière | the plenary session |  |
+| se munir de | to equip oneself with |  |
+| un fonctionnaire | a public servant / civil servant |  |
+| disposer de | to have at one's disposal | Present dispose has silent final e; infinitive disposer ends /e/. |
+| un visiophone | a video phone | Video phone, a dated technology example; not a current forecast. |
+| un condo | a condo |  |
+| la retraite | retirement | Prendre ma retraite — retire. |
+| faire de la raquette | to go snowshoeing |  |
+| une raquette / une requête | a racket / a request | Listening contrast: racket/snowshoe versus request. |
+| inutile de rêver | no use dreaming |  |
+| un élève | a pupil / student | Contrast é/è in élève. |
+| un congé | a leave / time off | Obligation familiale — family obligation. |
+| déménager | to move (house/office) |  |
+| un édifice | a building |  |
+| le mode indicatif | the indicative mood | Mood presenting actions/states as facts from the speaker’s viewpoint. |
+| la concordance des temps | sequence of tenses | Verb tense and time reference must work together; context and viewpoint matter. |
+| manger | to eat | Model verb for recognizing tenses. |
+| venir de | to have just (done) | Forms the recent past with an infinitive. |
+| être en train de | to be in the process of | Expresses an action currently in progress with an infinitive. |
+
+## Questions
+
+<details class="source-question" data-question-id="11-09-source-001"><summary><span>1. Translate hier soir.</span></summary><p>last night / yesterday evening</p></details>
+
+<details class="source-question" data-question-id="11-09-source-002"><summary><span>2. Translate avant-hier.</span></summary><p>the day before yesterday</p></details>
+
+<details class="source-question" data-question-id="11-09-source-003"><summary><span>3. Translate “last week”.</span></summary><p>la semaine dernière</p></details>
+
+<details class="source-question" data-question-id="11-09-source-004"><summary><span>4. Translate “two years ago”.</span></summary><p>il y a deux ans</p></details>
+
+<details class="source-question" data-question-id="11-09-source-005"><summary><span>5. Give the word meaning formerly/in the past.</span></summary><p>autrefois</p></details>
+
+<details class="source-question" data-question-id="11-09-source-006"><summary><span>6. Translate “two hours ago”.</span></summary><p>il y a deux heures</p></details>
+
+<details class="source-question" data-question-id="11-09-source-007"><summary><span>7. Translate autrefois and describe its usual nuance.</span></summary><p>formerly / in the past; often a distant past habit or state</p></details>
+
+<details class="source-question" data-question-id="11-09-source-008"><summary><span>8. Give French translations of English “actually”.</span></summary><p>en réalité / en fait; vraiment when the sense is really</p></details>
+
+<details class="source-question" data-question-id="11-09-source-009"><summary><span>9. What does actuellement mean?</span></summary><p>currently / at the present time</p></details>
+
+<details class="source-question" data-question-id="11-09-source-010"><summary><span>10. Translate “in two days” and “next week”.</span></summary><p>dans deux jours; la semaine prochaine</p></details>
+
+<details class="source-question" data-question-id="11-09-source-011"><summary><span>11. Explain regional tantôt without treating it as universally forbidden in France.</span></summary><p>It can mean earlier/later today in Quebec and other regions, depending on tense/context. Frequency and meaning vary; it is also used in some European regions.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-012"><summary><span>12. Distinguish à l’avenir and dans l’avenir.</span></summary><p>À l’avenir often introduces a recommendation/intention “from now on”; dans l’avenir looks ahead more generally. These are contextual tendencies, not certainty percentages.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-013"><summary><span>13. Translate autrefois, à l’heure actuelle, un fonctionnaire and après-demain.</span></summary><p>formerly; at present; a public servant; the day after tomorrow</p></details>
+
+<details class="source-question" data-question-id="11-09-source-014"><summary><span>14. Translate faire de la raquette.</span></summary><p>to go snowshoeing</p></details>
+
+<details class="source-question" data-question-id="11-09-source-015"><summary><span>15. Give the construction meaning “a specified time ago”.</span></summary><p>il y a + duration</p></details>
+
+<details class="source-question" data-question-id="11-09-source-016"><summary><span>16. What central question do time indicators answer?</span></summary><p>Quand ? — When? They help place an event in the past, present or future.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-017"><summary><span>17. Which tense often accompanies autrefois? Is it compulsory in every sentence?</span></summary><p>The imperfect is common for a former habit/state. Autrefois does not impose an absolute prohibition on other past tenses.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-018"><summary><span>18. Must il y a + duration and dans + duration always end the sentence?</span></summary><p>No. Both initial and final positions are possible: Il y a deux jours, je suis parti / Je suis parti il y a deux jours; Dans deux jours, je partirai.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-019"><summary><span>19. In the ordinary “ago” construction, must avoir in il y a change to a past tense?</span></summary><p>No: J’ai fini il y a deux heures retains il y a.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-020"><summary><span>20. Does ce matin need an extra article or preposition as a direct time expression?</span></summary><p>No: Ce matin, je travaille. Ce/cet/cette already supplies the demonstrative determiner.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-021"><summary><span>21. Must à l’heure actuelle always begin a sentence?</span></summary><p>No. Initial position is common in formal reports, but it can appear elsewhere: Le système est disponible à l’heure actuelle.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-022"><summary><span>22. Put Nous terminons le rapport into the simple future.</span></summary><p>Nous terminerons le rapport.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-023"><summary><span>23. Choose: le mois prochain/prochaine; la semaine prochain/prochaine.</span></summary><p>le mois prochain; la semaine prochaine</p></details>
+
+<details class="source-question" data-question-id="11-09-source-024"><summary><span>24. Which two past tenses does this lesson prioritize for study?</span></summary><p>l’imparfait and le passé composé. This is the source’s study priority, not a complete official proficiency requirement.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-025"><summary><span>25. Give formulas for near future, recent past and ongoing-action expression.</span></summary><p>present aller + infinitive; venir de + infinitive; être en train de + infinitive</p></details>
+
+<details class="source-question" data-question-id="11-09-source-026"><summary><span>26. Does hier always require passé composé?</span></summary><p>No. It refers to yesterday; passé composé describes a completed event, while imparfait can describe background: Hier, il pleuvait.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-027"><summary><span>27. Identify je mangerai and its ending.</span></summary><p>Simple future; je ending -ai with the future stem manger-.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-028"><summary><span>28. Do futur proche and futur simple encode fixed probabilities such as 98% and 51%?</span></summary><p>No. The source’s percentages are not grammar rules. Both forms can express more or less certainty depending on context.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-029"><summary><span>29. Conjugate avoir in the simple future for elle and ils.</span></summary><p>elle aura; ils auront</p></details>
+
+<details class="source-question" data-question-id="11-09-source-030"><summary><span>30. Complete Autrefois, il n’y ___ pas de ministère de l’environnement.</span></summary><p>avait; imperfect background/state</p></details>
+
+<details class="source-question" data-question-id="11-09-source-031"><summary><span>31. Translate “two weeks ago”.</span></summary><p>il y a deux semaines</p></details>
+
+<details class="source-question" data-question-id="11-09-source-032"><summary><span>32. Translate “last month”.</span></summary><p>le mois dernier</p></details>
+
+<details class="source-question" data-question-id="11-09-source-033"><summary><span>33. Translate “Tomorrow I have a meeting”.</span></summary><p>Demain, j’ai une réunion.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-034"><summary><span>34. Translate “I finished the training two days ago” using il y a.</span></summary><p>J’ai terminé la formation il y a deux jours.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-035"><summary><span>35. Use aujourd’hui at the beginning to emphasize the time.</span></summary><p>Aujourd’hui, je travaille au bureau.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-036"><summary><span>36. Build a future-time sentence with dans + duration.</span></summary><p>Je pars en vacances dans trois semaines.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-037"><summary><span>37. Write a recommendation with à l’avenir.</span></summary><p>À l’avenir, veuillez envoyer vos requêtes à l’avance.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-038"><summary><span>38. Translate “I am going to eat” with aller + infinitive.</span></summary><p>Je vais manger.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-039"><summary><span>39. Say “I am in the process of eating”.</span></summary><p>Je suis en train de manger.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-040"><summary><span>40. Use the simple future with dans l’avenir.</span></summary><p>Dans l’avenir, cette technologie changera notre façon de travailler. </p></details>
+
+<details class="source-question" data-question-id="11-09-source-041"><summary><span>41. Correct Je l’ai vu il y a passé deux jours.</span></summary><p>Je l’ai vu il y a deux jours. Il y a already conveys ago.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-042"><summary><span>42. Replace Actuellement if the intended sense is “Actually, I am very tired”.</span></summary><p>En réalité / En fait, je suis très fatigué.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-043"><summary><span>43. Give the ordinary former-habit/state version of Autrefois, j’ai habité à Paris.</span></summary><p>Autrefois, j’habitais à Paris. The imperfect suits this reading; the source’s universal ban on compound past was too broad.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-044"><summary><span>44. Is Bientôt je vais au bureau necessarily wrong? Give another position.</span></summary><p>No. Bientôt can open a sentence; a comma helps separate the frame. Je vais bientôt au bureau is another natural ordering.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-045"><summary><span>45. Is Il y a trois cents employés maintenant past tense? Explain.</span></summary><p>No. This il y a expresses present existence/quantity, not elapsed time; maintenant confirms now.</p></details>
+
+<details class="source-question" data-question-id="11-09-source-046"><summary><span>46. Correct the accent in arrivè in il est arrivè.</span></summary><p>arrivé; acute accent é</p></details>
+
+<details class="source-question" data-question-id="11-09-source-047"><summary><span>47. Correct Il y a dix ans, j’achète un condo in an ordinary completed-event account.</span></summary><p>Il y a dix ans, j’ai acheté un condo. The purchase is a completed past event.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-09">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-09">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-11-04.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-11-16.html">Next lesson</a></nav>

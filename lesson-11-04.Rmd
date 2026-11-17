@@ -1,0 +1,126 @@
+---
+title: "Appointments & hotel reservations"
+pagetitle: "Appointments & hotel reservations | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 17 · 11-04 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-04">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-04">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Requests, availability and suitability {#lesson-details}
+
+**Je voudrais + infinitive** makes a polite request:
+
+> Je voudrais prendre rendez-vous avec le dentiste, s’il vous plaît.  
+> Je voudrais réserver une chambre, s’il vous plaît.  
+> Je voudrais modifier ma réservation, s’il vous plaît.  
+> Je voudrais changer mon rendez-vous avec le dentiste, s’il vous plaît. (I would like to make an appointment with the dentist, please)
+
+Ask for openings with **Est-ce que vous avez une disponibilité jeudi prochain** (Do you have an opening next Thursday?) **/ cette semaine / vendredi matin ?**. Decline a proposed time with **Je suis désolé/désolée, je ne suis pas disponible à cette heure-là**. **Quelqu’un qui est disponible** means someone who is available; for an unfamiliar contact, a more natural help request than the source’s **compétent dans ma question** is **Je cherche quelqu’un qui pourrait répondre à ma question** (I am looking for someone who could answer my question).
+
+**Est-ce que ça vous convient ?** asks whether an option suits the listener. **Ça** is the subject; **vous** is an indirect object placed before the verb. English often puts “for you/to you” after its verb, while French puts the pronoun before it. Thus **ça vous convient / ça me convient**, not **ça vous convenez** or **ça tu conviens**. **Tu conviens/vous convenez** are valid forms when **tu/vous** really are the subjects, but they are not the construction here.
+
+With plural **ces horaires** as subject, use **Ces horaires vous conviennent** — These times suit you. Add **s’il vous plaît** where appropriate and repeat the agreed date/time.
+
+## Dates and time expressions
+
+Use **le + number + month** for a date. The source’s generic booking exercise used **vendredi le 13 novembre**, **jeudi le 12 novembre à 15 h 30**, and **du 16 au 18 novembre pour deux nuits**. A standard alternative is **le vendredi 13 novembre**. For a schedule, read **15 h 30** as **quinze heures trente**. The source also mixed **13 heures et quart** with 24-hour time; use **treize heures quinze** in a standard 24-hour reading, or **une heure et quart** in the 12-hour system.
+
+Other expressions are **à neuf heures**, **à neuf heures trente**, **à partir de quinze heures** (from 3 p.m. onward), and **avant onze heures** (before 11 a.m.). **Jeudi prochain** can be interpreted differently depending on current day and regional habit; the source scenario intended November 12 rather than November 5. Repeat the numerical date to remove ambiguity instead of teaching one universal interpretation of “next Thursday.”
+
+A specific weekday usually has no added preposition: **mercredi à quinze heures**; **le mercredi** can indicate a recurring Wednesday routine.
+
+## A complete extension exercise
+
+The following dates belong to an invented booking scenario, not anyone’s travel:
+
+1. **Je voudrais une chambre pour deux nuits, du lundi 16 novembre au mercredi 18 novembre.** (I would like a room for two nights from Monday November 16th to Wednesday November 18th) — I would like a room for two nights, from Monday November 16 to Wednesday November 18.
+2. **Est-ce que je peux prolonger ma réservation jusqu’au jeudi 19 novembre ?** — Can I extend my reservation until Thursday November 19?
+3. **L’arrivée est lundi à partir de quinze heures. Le départ est jeudi avant onze heures.** — Check-in is Monday from 3 p.m. Check-out is Thursday before 11 a.m.
+4. **Votre réservation est du 16 au 19 novembre pour trois nuits.** — Your reservation is November 16–19 for three nights.
+
+After extending the stay, update the departure day and night count. Leaving **mercredi** in the final departure statement would contradict the extension.
+
+## Confirming information
+
+**Pourriez-vous me donner l’adresse du cabinet, s’il vous plaît ?** politely asks for the practice’s address. **Voulez-vous me donner… ?** is another request, with a different nuance. **Pourriez-vous me confirmer les dates de la réservation ?** asks for confirmation. Repeat the dates, price, taxes, arrival and departure times rather than relying only on **ça vous convient**.
+
+## Rooms, beds and pronunciation
+
+**Une chambre** means bedroom or hotel room; **une pièce** is a general room in a building; **une salle** is a room associated with an activity, as in **une salle de conférence**. **Un lit simple / un lit double** mean single/double bed. **Un grand lit / un très grand lit** often correspond to queen/king in Canadian hotel terminology; **un lit queen / un lit king** are also heard. Actual dimensions and labels vary, so ask if the exact size matters. Useful models: **Souhaitez-vous un grand lit ?**, **Nous avons des chambres avec un très grand lit**, **Nous avons des chambres avec un lit king**.
+
+**La taxe / les taxes** appear in prices such as **100,50 $ plus les taxes**. **Un voyage professionnel** is a business trip. **Disponibilité** is a long word worth practising syllable by syllable. Distinguish **convient** from **conviennent**: the plural verb’s ending **-ent** is not pronounced as a separate syllable, but the internal consonant difference matters. No phonetic transcription or audio was supplied in the original note.
+
+Other room terms include **un lit simple** (single bed), **un lit double** (double bed), **deux lits jumeaux** (twin beds), and **compris/inclus** (included). Ask **Quel est le prix par nuit ? Le petit déjeuner est-il compris ? À quelle heure peut-on arriver ?** when booking.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Oui, jeudi le 12 novembre à 15h30. Est-ce que ça vous convient ? | Yes, Thursday November 12th at 3:30 PM. Does that suit you? |  |
+| Je suis désolé, je ne suis pas disponible à cette heure-là. | I'm sorry, I'm not available at that time. |  |
+| L'arrivée est lundi à partir de 15 heures. Le départ est mercredi avant 11 heures. | Check-in is Monday from 3 PM. Check-out is Wednesday before 11 AM. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| une disponibilité | an availability / an opening | Common noun for an available appointment slot. |
+| convenir (ça vous convient ?) | to suit (does it suit you?) | In ça vous convient, ça is the subject and vous the object. |
+| un rendez-vous | an appointment |  |
+| modifier | to modify / change |  |
+| confirmer | to confirm |  |
+| annuler | to cancel |  |
+| prolonger | to extend | Prolonger ma réservation jusqu’au jeudi — extend my booking until Thursday. |
+| réserver | to book / reserve |  |
+| une réservation | a reservation |  |
+| le cabinet | the office (dental/medical practice) | L’adresse du cabinet — the office/practice address; no real address is needed. |
+| le dentiste | the dentist |  |
+| la réceptionniste / le réceptionniste | the receptionist |  |
+| le patient / la patiente | the patient |  |
+| le client / la cliente | the customer / guest |  |
+| une chambre | a bedroom / hotel room | Bedroom or hotel room; not every room in a building. |
+| une pièce | a room (general term) | General term for a room in a building. |
+| une salle | a room (for an activity/function) | Room associated with an activity/function. |
+| un lit simple | a single bed |  |
+| un lit double | a double bed |  |
+| un grand lit | a queen-size bed | Grand lit is a general large/double-bed expression; exact bed categories and dimensions vary by region. |
+| un lit queen | a queen bed | Borrowed booking term lit queen is used. |
+| un très grand lit | a king-size bed |  |
+| un lit king | a king bed | Borrowed booking term lit king is used. |
+| l'arrivée | the arrival / check-in | L’arrivée est lundi à partir de 15 h — Check-in is Monday from 3 p.m. |
+| le départ | the departure / check-out | Le départ est mercredi avant 11 h — Check-out is Wednesday before 11 a.m. |
+| la taxe / les taxes | tax(es) | 100,50 $ plus les taxes — $100.50 plus tax. |
+| un voyage professionnel | a business trip |  |
+
+## Questions
+
+<details class="source-question" data-question-id="11-04-source-001"><summary><span>1. Translate “availability” for an appointment slot.</span></summary><p>une disponibilité</p></details>
+
+<details class="source-question" data-question-id="11-04-source-002"><summary><span>2. Translate “to extend a reservation”.</span></summary><p>prolonger une réservation</p></details>
+
+<details class="source-question" data-question-id="11-04-source-003"><summary><span>3. Give French terms for queen-size and king-size beds.</span></summary><p>un grand lit; un très grand lit. Lit queen / lit king are also used. Exact dimensions vary by region/product.</p></details>
+
+<details class="source-question" data-question-id="11-04-source-004"><summary><span>4. Distinguish chambre, pièce and salle.</span></summary><p>Chambre: bedroom/hotel room; pièce: general room; salle: room associated with a function/activity.</p></details>
+
+<details class="source-question" data-question-id="11-04-source-005"><summary><span>5. Complete L’___ est lundi à partir de 15 heures; le ___ est mercredi avant 11 heures.</span></summary><p>arrivée; départ</p></details>
+
+<details class="source-question" data-question-id="11-04-source-006"><summary><span>6. Complete Est-ce que ça vous ___ (convenir).</span></summary><p>convient</p></details>
+
+<details class="source-question" data-question-id="11-04-source-007"><summary><span>7. If today is Thursday November 5, what might jeudi prochain mean, and how can you avoid ambiguity?</span></summary><p>It would commonly mean Thursday November 12 in this context. Usage varies around next/this weekdays; confirm the explicit date rather than treating the phrase as exceptionless.</p></details>
+
+<details class="source-question" data-question-id="11-04-source-008"><summary><span>8. Complete Je voudrais une chambre ___ lundi 16 novembre ___ mercredi 18 novembre.</span></summary><p>du; au</p></details>
+
+<details class="source-question" data-question-id="11-04-source-009"><summary><span>9. Use Je voudrais + infinitive to cancel an appointment.</span></summary><p>Je voudrais annuler mon rendez-vous, s’il vous plaît.</p></details>
+
+<details class="source-question" data-question-id="11-04-source-010"><summary><span>10. Politely ask for another available appointment.</span></summary><p>Est-ce que vous avez une disponibilité vendredi matin ?</p></details>
+
+<details class="source-question" data-question-id="11-04-source-011"><summary><span>11. Correct Est-ce que ça vous convenez ?</span></summary><p>Est-ce que ça vous convient ? The subject is ça; vous is the object.</p></details>
+
+<details class="source-question" data-question-id="11-04-source-012"><summary><span>12. After extending a booking to Thursday, correct Le départ est mercredi avant 11 h.</span></summary><p>Le départ est jeudi avant 11 h.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-04">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-04">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-28.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-11-09.html">Next lesson</a></nav>

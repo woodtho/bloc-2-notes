@@ -1,0 +1,170 @@
+---
+title: "Choosing and placing y & en"
+pagetitle: "Choosing and placing y & en | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 8 · 10-05 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-05">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-05">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Generic introductions and complete speaking prompts {#lesson-details}
+
+For an informal introduction, practise **Salut, moi c’est [prénom fictif]. J’habite dans cette ville, mais je viens d’une autre région à la base. Dans la vie, je suis analyste. Sinon, je fais du vélo, des randonnées et plein d’autres trucs.** — Hi, I’m [fictional first name]. I live in this city, but I’m originally from another region. I’m an analyst. Otherwise, I cycle, hike and do lots of other things.  **Salut, tu vois, sinon, enfin, voilà quoi** are conversational expressions, used sparingly and appropriately for register.
+
+After **être**, a bare profession normally has no indefinite article: **Je suis professeur**, rather than a literal English *Je suis un professeur* in the simple occupation statement. Other constructions can take an article, for example **C’est un professeur** or a characterized profession.
+
+Workplace practice covers what is on a desk; work location; schedules; responsibilities; preferences; difficult tasks; titles and supervisors. Name at least three desk objects: **Sur mon bureau, il y a une tasse de café, un stylo et un sac-repas**. Give reasons and complete sentences. Examples: **J’aime mes collègues / les analyses numériques / la couture. Mon travail consiste à analyser des industries pour estimer le produit intérieur brut (PIB).** — I like my colleagues/numerical analyses/sewing. My work involves analysing industries to estimate gross domestic product. 
+
+**Analyste principal / analyste supérieur** places the senior modifier after the job noun; a feminine form can be **analyste principale / supérieure**. **Un superviseur, un méthodologiste, un responsable de formation, un partenaire** are role vocabulary. The unclear source count corrected from five to four is not assigned a factual meaning. **Barcelone** is the French name for Barcelona; **C’était très beau** is a travel-description model.
+
+Use the 24-hour clock: **Je finis mon travail à 14 heures** — I finish work at 2 p.m. The final *s* in **collègues** is normally silent. Practice can address **tu** informally or **vous** politely/plurally.
+
+Speaking practice: enjoying restaurant meals, **la cuisine italienne/japonaise**, a beach holiday **au Mexique**, wanting **apprendre la guitare** without having started, **des pâtes à la bolognaise**, good colleague relationships and daily communication, a television series, and a trip **à Barcelone**. Ask about interests, plans and experiences; add an explanation rather than a one-word answer. 
+
+## Pour and depuis: planned versus continuing duration
+
+**Je pars à Montréal pour deux jours** — I am going to Montreal for two days: **pour** gives the planned period. **Depuis** marks a situation beginning in the past and continuing now, with the present where English uses “have been”: **Je travaille depuis 2021. Elle étudie depuis ce matin. J’habite dans cette ville depuis dix ans.** — I have worked since 2021; she has studied since this morning; I have lived in this city for ten years. Do not substitute **pour** for **depuis** in this continuing-duration meaning.
+
+## Choosing y or en by construction and meaning
+
+Identify what is replaced and its preposition. **Y** commonly replaces a location/destination, or **à + thing/idea**; **en** commonly replaces **de + phrase**, an indefinite/partitive object, or the noun in a quantity expression. Do not choose solely by spotting a written preposition: **Elle habite en Champagne depuis trois ans → Elle y habite depuis trois ans** replaces a place despite **en** in the original. Countries **en France, en Suisse, en Italie** can similarly become **y**. A source/place of departure with **de** becomes **en**, as in **de mon travail → en** when the verb means coming from it. Distinguish the preposition *en* from the pronoun *en*.
+
+For a person, **Je parle à ma collègue → Je lui parle** uses an indirect-object pronoun; **Je pense à ma collègue → Je pense à elle** uses a stressed pronoun.
+
+## Y: every position and transformation
+
+| Original | With y | Point |
+|---|---|---|
+| On est au magasin. | On y est. | Place before the verb. |
+| Je vais en France ce week-end. | J’y vais ce week-end. | Country destination. |
+| Il est dans sa chambre. | Il y est. | **Dans** location. |
+| Elle est chez le docteur. | Elle y est. | **Chez** location. |
+| Je travaille dans cette ville. | J’y travaille. | Generic workplace location. |
+| On s’habitue à cela. | On s’y habitue. | Reflexive pronoun before **y**. |
+| Je ne crois pas à cette histoire. | Je n’y crois pas. | **Ne + y + verb + pas**. |
+| Je vais réfléchir à cela. | Je vais y réfléchir. | Before the infinitive it complements. |
+| Tu as goûté à ce gâteau. | Tu y as goûté. | Before the compound-tense auxiliary. |
+| Je m’intéresse à la peinture. | Je m’y intéresse. | Reflexive + thing/idea. |
+| Ils jouent au football. | Ils y jouent. | **Au = à + le**. |
+| Je vais au bureau. | J’y vais. | Destination. |
+| Je participe à la réunion. | J’y participe. | Participation. |
+| Je ne participe pas à la réunion. | Je n’y participe pas. | Negative participation. |
+| Nous allons à New York chaque année. | Nous y allons chaque année. | Repeated destination. |
+
+Learn these with **à**: **assister à, croire à, goûter à, s’habituer à, s’intéresser à, jouer à, participer à, penser à, réfléchir à**. For a person, choose the appropriate personal construction (**je pense à lui**, for example), rather than mechanically replacing every **à** phrase with **y**.
+
+**Assister à** means attend, often witnessing rather than contributing; **participer à** means take part. English “assist” usually translates **aider**; **attendre** means wait, not attend. Useful expressions: **il y a** — there is/are; **vas-y** — go ahead (informal singular); **allez-y** — go ahead (polite/plural); **allons-y** — let’s go (we). The source’s description of *allons-y* merely as the plural of *vas-y* missed the different subject.
+
+The compound-tense pattern places the pronoun before the auxiliary: **J’y ai travaillé** — I worked there. Negate the conjugated verb/auxiliary: **Je n’y travaille pas** — I don’t work there. **Je vais y travailler** — I’m going to work there — places it before the infinitive.
+
+## En: every position, quantity and transformation
+
+| Original | With en | Point |
+|---|---|---|
+| Je ne mange pas de viande. | Je n’en mange pas. | **Ne + en + verb + pas**. |
+| Il s’occupe de ce problème. | Il s’en occupe. | Reflexive pronoun before **en**. |
+| Est-ce que tu as du lait ? | Oui, j’en ai. | Partitive **du**. |
+| Elle boit de l’eau. | Elle en boit. | Partitive **de l’**. |
+| Il m’a donné des tomates. | Il m’en a donné. | **Me + en** before auxiliary. |
+| Tu as beaucoup d’argent. | Tu en as beaucoup. | Keep the quantity. |
+| J’ai deux verres. | J’en ai deux. | Keep the number. |
+| On a trois chiens. | On en a trois. | Keep the number. |
+| J’ai trois réunions. | J’en ai trois. | Keep the number. |
+| Je veux deux cafés. | J’en veux deux. | Keep the number. |
+| J’ai besoin de temps. | J’en ai besoin. | **Avoir besoin de**. |
+| Elle a envie de chocolat. | Elle en a envie. | **Avoir envie de**. |
+| Est-ce que tu as peur du noir ? | Est-ce que tu en as peur ? | **Avoir peur de**. |
+| On a hérité de la maison de nos parents. | On en a hérité. | **Hériter de**; fictional inheritance example. |
+| Elle parle de ses recettes. | Elle en parle. | **Parler de**. |
+| Ils sortent de la maison. | Ils en sortent. | Source/place left. |
+| J’essaye de me passer de sucre. | J’essaye de m’en passer. | **Se passer de** — do without/eliminate. |
+| Je parle de mon travail. | J’en parle. | Affirmative. |
+| Je ne parle pas de mon travail. | Je n’en parle pas. | Negative. |
+
+Forms **du, des, de la, de l’** can all be relevant. **En** is common for things/quantities; reference to people is possible in some constructions, especially counted groups, so “never people” would be too broad.
+
+Retain **un/une** with its noun’s gender: **J’en ai un / J’en ai une**. **J’en ai deux, un chat et un chien** adds an explanatory list. To deny having any use **Je n’en ai aucun**; to refuse any use **Je n’en veux pas**. To deny only a quantity keep it: **Je n’en ai pas trois, mais j’en ai deux. Je n’en veux pas deux** — I do not want two (which is different from wanting none).
+
+Connect **J’en ai trois** with /n/ enchaînement, and practise **Je n’en ai pas pris un** as a smooth sound group. Do not confuse this with a rule that every final written consonant is pronounced.
+
+Do not repeat the same noun in a basic **en** replacement. **Je veux un café → J’en veux un**; **Tu as beaucoup de travail → Tu en as beaucoup**.
+
+## Idioms and register
+
+- **J’en ai marre / J’en ai assez / J’en ai ras le bol** — I have had enough/I’m fed up. *Marre/ras le bol* are conversational; *assez* is more neutral.
+- **Je m’en moque / Je m’en fiche** (I don’t care. (informal)) **/ Je m’en fous** — I don’t care. The last is coarse and inappropriate in many professional contexts.
+- **Je m’en vais** — I’m leaving. **Ne t’en fais pas** — Don’t worry.
+- **Je suis en route** — I’m on my way. **Je suis en train de…** — I’m in the process of… These contain a preposition, rather than an interchangeable quantity pronoun.
+- **Qu’est-ce que tu en penses ?** — What do you think of it? Here **penser de** asks for an opinion; **penser à** means think about and can lead to **y** for a thing/idea.
+
+## Mixed practice and roleplay
+
+Place prompts **à la cafétéria, au parc, à l’école, à Montréal** lead to **y** when replacing a destination/location. Quantity/object prompts **de la soupe, des médicaments, des pâtes, de la crème glacée, de la pizza, des pensées** lead to **en** in the appropriate sentences.
+
+Practise each response: **Oui, j’en veux un peu. Non, je n’en prends pas. Oui, j’en ai trois. Oui, je vais y manger. Oui, je veux y aller tout de suite. Oui, j’y vais.** For a gift: **J’en ai acheté un** — I bought one; **un** denotes one object, not a destination.
+
+Improvise a journalist–traveller dialogue, using **y** for places and **en** for quantities: **J’y vais souvent** — I go there often; **J’en prends trois fois par mois** — I take some three times a month; **Je travaille au bureau ou à la maison et j’y travaille souvent** — I work at the office or at home, and I work there often. Make the location being referred to clear. Review affirmative, negative, reflexive and multi-verb transformations, learning each verb with its required preposition.
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| y | there; replaces a location or an appropriate à phrase |  |
+| en | of it / of them / some; replaces an appropriate de phrase or quantity |  |
+| assister à | to attend |  |
+| participer à | to participate in |  |
+| aider | to help |  |
+| attendre | to wait |  |
+| s’intéresser à | to be interested in |  |
+| s’habituer à | to get used to |  |
+| réfléchir à | to think about / reflect on |  |
+| avoir besoin de | to need |  |
+| avoir envie de | to feel like / want |  |
+| se passer de | to do without |  |
+| s’occuper de | to take care of |  |
+| depuis | since / for an ongoing situation |  |
+| pour | for; can introduce a planned duration |  |
+| Ne t’en fais pas. | Don’t worry. |  |
+| Allons-y ! | Let’s go! |  |
+| Allez-y ! | Go ahead! (polite or plural) |  |
+| Vas-y ! | Go ahead! (one person, informal) |  |
+
+## Questions
+
+<details class="lesson-question" data-question-id="10-05-q01"><summary><span>1. Replace the place: On est au magasin.</span></summary><p>On y est.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q02"><summary><span>2. Replace the idea: Je pense à ce projet.</span></summary><p>J’y pense.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q03"><summary><span>3. Replace the topic: Je parle de ce projet.</span></summary><p>J’en parle.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q04"><summary><span>4. Replace the quantity: Je bois de l’eau.</span></summary><p>J’en bois.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q05"><summary><span>5. Replace the quantity: J’ai deux verres.</span></summary><p>J’en ai deux.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q06"><summary><span>6. Replace the complement: Il s’occupe de ce problème.</span></summary><p>Il s’en occupe.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q07"><summary><span>7. Replace the complement: Je m’intéresse à la peinture.</span></summary><p>Je m’y intéresse.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q08"><summary><span>8. Make J’en parle negative.</span></summary><p>Je n’en parle pas.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q09"><summary><span>9. Replace the complement: Je vais réfléchir à cela.</span></summary><p>Je vais y réfléchir.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q10"><summary><span>10. Replace the location: J’ai travaillé au bureau.</span></summary><p>J’y ai travaillé.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q11"><summary><span>11. Translate “I have been studying for two years.”</span></summary><p>J’étudie depuis deux ans.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q12"><summary><span>12. Translate “I am leaving for two days.”</span></summary><p>Je pars pour deux jours.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q13"><summary><span>13. Translate “let’s go.”</span></summary><p>Allons-y.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q14"><summary><span>14. Which French verb usually translates English “to assist” meaning help?</span></summary><p>aider</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q15"><summary><span>15. Explain the difference between assister à and participer à.</span></summary><p>Assister à means attend; participer à means take an active part.</p></details>
+
+<details class="lesson-question" data-question-id="10-05-q16"><summary><span>16. Explain Je n’en veux pas versus Je n’en veux pas deux.</span></summary><p>The first denies wanting any; the second denies wanting two and may allow a different quantity.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-05">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-05">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-28.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-07.html">Next lesson</a></nav>

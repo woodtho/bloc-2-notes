@@ -1,0 +1,285 @@
+---
+title: "Aller, destinations & directions"
+pagetitle: "Aller, destinations & directions | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 9 · 10-07 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-07">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-07">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Present of aller and the three destination groups {#lesson-details}
+
+**Je vais, tu vas, il/elle/on va, nous allons, vous allez, ils/elles vont**. Compare **ils font** from **faire** and **ils vont** from **aller**: the initial consonant changes in that pair, but the whole paradigms are different.
+
+For an ordinary place noun, choose its article: **au magasin / au parc / au cinéma**, **à la plage / à la gare / à la patinoire / à la réception**, **à l’église / à l’aéroport / à l’hôpital**, **aux toilettes**. **À l’** applies before a vowel or mute **h**, not every **h**. Plural **aux** is independent of gender.
+
+Use **chez** with a person or premises identified through a person: **chez une amie**, **chez le dentiste**, **chez le médecin**, **chez le coiffeur**, **chez l’avocat**, **chez mes parents**, **chez mes amis**, **chez votre frère**, **chez moi/toi/lui**. General place nouns instead use **au magasin, à la cafétéria, à l’université, au restaurant**. A shop name can take **chez** in established usage, including large brands; **chez** is not limited to a physically small business. Avoid **chez le magasin** or **chez supermarché** for the general destination noun.
+
+For geographic names, use **à + city**, **en + feminine country**, **au + masculine consonant-initial country**, **en + masculine vowel-initial country**, **aux + plural country**. Country names ending in **-e** are often feminine, but learn the gender individually. Explicit masculine exceptions in the source were **le Mexique, le Cambodge, le Mozambique, le Zimbabwe, le Belize**: **au Mexique**, etc. The rule is not simply “all other countries are masculine.”
+
+Complete models: **Elle va à Vancouver / à Toronto; on va à Paris;** (We are going to Paris) **ils vont au Japon; nous allons au Canada; tu vas en Belgique; il va en France** (He's going to France) **/ en Colombie / en Égypte; on va aux États-Unis; nous allons aux Philippines; vous allez aux Pays-Bas** (You are going to the Netherlands).
+
+**Ça va bien** means things are going well/I’m doing well. **Aller + infinitive** also forms the near future: **Je vais étudier** — I am going to study.
+
+## Destination, origin, passage and endpoint
+
+**À** commonly answers where to; **de** answers from where. **À + le/les → au/aux**, **de + le/les → du/des**. **Sortez du parc** (Leave the park) **/ des magasins** expresses the origin. Keep **à la/de la** and **à l’/de l’** as appropriate.
+
+**Dans** describes being in or moving into a space: **Vous montez dans la cabine** (You get into the cabin). For a normal city/country destination, use **à Montréal / au Canada**, rather than **dans Montréal / dans le Canada**. The source’s broader claim that **dans** is impossible with any country/city was incorrect: other contexts can describe movement or distribution within a geographic area.
+
+**Par** marks a route or opening: **passer par**, **entrer par**. **Vers** points toward a general direction: **Je vais vers la bibliothèque**, compared with **Je vais à la bibliothèque** as a destination. **Jusqu’à** marks the limit: **jusqu’à la sortie**, **jusqu’à l’entrée**, **jusqu’au parc/magasin**, **jusqu’aux bureaux**. Example: **Vous continuez jusqu’à la route** (You continue up to the road).
+
+For origin, country constructions include **Je viens du Canada, de France, d’Iran, des États-Unis**. **Chez une amie** means at/to a friend’s home; **à la pharmacie** identifies the place rather than a person’s professional premises.
+
+## Virer has three relevant meanings
+
+1. Turn: **virer à droite**, particularly common in regional/Canadian speech; **tourner** is broadly useful.
+2. Dismiss/fire or eject: **Il est viré pour un mauvais comportement**; **Une personne a été virée de la réunion**. This register is informal.
+3. Transfer money: **Je vire cinq cents euros sur un compte bancaire**. The money-transfer example is generic and demonstrates a distinct lexical meaning, not a financial instruction.
+
+## Subject agreement, endings and floors
+
+**Une collègue et moi entendons… / Vous et moi traversons…** use **nous** agreement because the speaker is included. A combined subject is not automatically **nous** if it does not include the speaker.
+
+The conjugated present third-person plural ending **-ent** is silent: **ils arrivent, ils passent**. Compare pronounced nasal endings in nouns/adverbs such as **gouvernement, maintenant, prudemment, rapidement**. The source confused the written labels **-ent/-ont**; do not use that confusion as a pronunciation rule for every word.
+
+For a building level, say **au deuxième étage / au troisième étage**, not **sur le deuxième étage**. **Plancher** is the floor surface; **étage** is the level. **Le bout** often names a physical end (**le bout de la rue / du stylo**); **la fin** often names the end of an event or narrative (**la fin du film / de la réunion**).
+
+## Direction question patterns
+
+> De chez toi, comment est-ce qu’on va à l’épicerie ? — From your home, how does one get to the grocery store?  
+> Au travail, par où est-ce qu’on passe pour aller à la salle de formation ? — At work, which way do we go to get to the training room?  
+> De chez toi, par quelle rue est-ce qu’on passe pour aller au parc ? — Which street does one take from your home to the park?  
+> Comment est-ce qu’on va de l’entrée à la salle de réunion ? — How do we get from the entrance to the meeting room?  
+> Où allez-vous ? — Je vais au dépanneur. — Where are you going? — I’m going to the convenience store.
+
+These are templates for a fictional map; do not supply anyone’s real home route. Statement models include **On prend la rue principale et on continue tout droit** and **Ensuite, on tourne à droite et le bureau est à gauche**.
+
+## Connected imperative directions
+
+**Prenez l’ascenseur. Continuez tout droit. Tournez à droite. Allez tout droit jusqu’au bout. Sortez de l’ascenseur.** No subject pronouns are needed. Use either **tu** throughout or **vous** throughout. **Prends… Prenez…** is inconsistent if it addresses the same person in one register.
+
+Other complete models are **Prenez la première rue et continuez jusqu’à la suivante**, **Continuez sur cent mètres et tournez à droite**, **Prenez l’ascenseur jusqu’au deuxième étage, tournez à droite et continuez jusqu’à la salle de formation** (Take the elevator to the second floor, turn right and continue to the training room), and **Allez tout droit jusqu’à l’ascenseur. Prenez l’ascenseur et sortez au septième étage** (Go straight to the elevator. Take the elevator and get off on the seventh floor).
+
+## Pronunciation and regional vocabulary
+
+**Tout droit** has a normally silent final **t**; **à droite** has a pronounced /t/. This difference comes from the word forms, not a “magic r” that activates consonants. **Dans** has a nasal vowel and no final /s/; **danse** ends with /s/ and has a different vowel realization. The **t** of **bout** is normally silent. Spell **laissez-passer** with double **s**. **Suivez** ends in the sound /e/; **coin** has a nasal vowel and is not pronounced like English “coin.” **Au/aux** normally sound /o/; **aux États-Unis** adds a /z/ liaison. **Jusqu’au** is pronounced as a connected word; **jusqu’à l’entrée** retains its separate article construction.
+
+Standard **je vais** is useful in formal speech. Very informal Québec forms transcribed **m’a / m’as** may be heard in future expressions, but their exact analysis and regional distribution are more complex than simply replacing every **je vais**. Recognize them without using them as the default written conjugation. A conjugation resource with audio can help compare forms; the source mentioned Reverso as one tool, not required software.
+
+**Les toilettes** is the usual expression for a washroom, especially in France, and takes **aux**. Canadian **la salle de bain / la salle de bains** can also refer to a washroom. The singular **une toilette** has regional meanings and should not be dismissed with the source’s literal joke. **La médecine** is the medical field; **le médecin** is the doctor, so **chez le médecin**, not **chez la médecine**.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Je vais au magasin. | I'm going to the store. |  |
+| Elle va à la plage. | She's going to the beach. |  |
+| Vous allez à l'église. | You are going to the church. |  |
+| Elles vont à l'hôpital. | They are going to the hospital. |  |
+| Je vais aux toilettes. | I'm going to the washroom. |  |
+| Je vais chez moi. | I'm going home. |  |
+| Tu vas chez le coiffeur. | You are going to the hairdresser. |  |
+| Vous allez chez le médecin. | You're going to the doctor('s). |  |
+| Elle va à Toronto. | She is going to Toronto. |  |
+| Je vais au Mexique. | I'm going to Mexico. |  |
+| Il va en Égypte. | He is going to Egypt. |  |
+| On va au cinéma. | We're going to the cinema. |  |
+| il va au bureau de son patron. | he goes to his boss's office. |  |
+| L'entrée principale est à votre gauche. | The main entrance is on your left. |  |
+| Je traverse la rue pour aller au restaurant d'en face à mon heure de dîner. | I cross the street to go to the restaurant across from me at my dinner hour. |  |
+| Tu ne descends pas l'escalier prudemment ? | Aren't you going down the stairs carefully? |  |
+| Nous n'entrons pas dans les édifices du gouvernement sans laissez-passer. | We don't enter government buildings without a pass. |  |
+| Vous tournez à gauche au bout du couloir pour aller au bureau de jeunes. | You turn left at the end of the hallway to go to the youth office. |  |
+| Vous continuez tout droit sur la rue principale et le ministère est à votre gauche. | You continue straight ahead on the main street and the ministry is on your left. |  |
+| Je monte l'escalier pour me rendre à la réunion au deuxième étage. | I go up the stairs to get to the meeting on the second floor. |  |
+| Vous et moi traversons chaque jour un pont pour aller travailler. | You and I cross a bridge every day to go to work. |  |
+| Tout droit jusqu'au bout, jusqu'au bout de la rue. | Straight to the end, to the end of the street. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| aller | to go | Irregular verb of movement. |
+| le dépanneur | convenience store | Quebec term. |
+| le magasin | the store | Masculine: au magasin. |
+| le parc | the park | Masculine: au parc. |
+| le cinéma | the movie theatre | Masculine: au cinéma. |
+| la plage | the beach | Feminine: à la plage. |
+| la gare | the train station | Feminine. |
+| la patinoire | the ice rink | Feminine. |
+| la bibliothèque | library | À la bibliothèque. |
+| la piscine | swimming pool | À la piscine. |
+| l'université | university | À l’université. |
+| la cafétéria | cafeteria | À la cafétéria, not chez la cafétéria in the ordinary place expression. |
+| l'église | the church | Feminine, vowel-initial. |
+| l'aéroport | the airport | Masculine, vowel-initial. |
+| l'hôpital | the hospital | Begins with mute h: à l’hôpital. |
+| les toilettes | the washroom/toilet | The standard facilities expression is plural: aux toilettes; singular uses exist regionally/in other senses. |
+| la salle de bain | bathroom (with shower) | Bathroom; salle de bains/toilettes usage varies by region and context. |
+| le coiffeur / la coiffeuse | hairdresser | Chez le coiffeur / chez la coiffeuse; a person’s professional premises. |
+| le médecin | doctor | Chez le médecin; distinguish la médecine, the field of medicine. |
+| le dentiste | dentist | Chez le dentiste. |
+| l'avocat | lawyer | Chez l’avocat. |
+| le/la massothérapeute | massage therapist | Chez le/la massothérapeute. |
+| le chiropraticien | chiropractor | Chez le chiropraticien. |
+| chez | at the home/place of | With a person or associated home/premises; not restricted to small businesses. |
+| la préposition | preposition | Links a place/direction to its construction. |
+| le verbe de mouvement | verb of movement | Examples: aller, arriver, sortir. |
+| dans | in / into | In/within; not restricted to sealed spaces. Use au Canada / à Montréal for ordinary destinations. |
+| par | by / through | Route/passage: passer par, entrer par. |
+| vers | toward(s) | General direction; can also mean around a time. |
+| jusqu'à / jusqu'au | up to / until / as far as | Endpoint: jusqu’à + le becomes jusqu’au. |
+| la cabine | cabin / booth | Vous montez dans la cabine — You climb/get into the cabin. |
+| la sortie / la porte de sortie | exit / exit door | Jusqu’à la sortie — as far as the exit. |
+| l'entrée (principale) | the (main) entrance | Jusqu’à l’entrée — as far as the entrance. |
+| monter (dans) | to go up / get in | Monter l’escalier — go up the stairs; direct object here. |
+| descendre | to go down | Descendre l’escalier — go down the stairs. |
+| traverser | to cross | Je traverse la rue — I cross the street. |
+| tourner | to turn | Vous tournez — You turn. |
+| continuer | to continue | Vous continuez jusqu’à la route — You continue to the road. |
+| passer (par) | to pass (through) |  |
+| prendre | to take | Prenez l’ascenseur — Take the lift/elevator. |
+| sortir | to exit / go out | Sortez de l’ascenseur — Leave the elevator. |
+| le bureau | the office | Il va au bureau de son patron — He goes to his manager’s office. |
+| le patron | the boss |  |
+| virer | to turn / to be fired / to transfer (money) | Turn; dismiss/fire someone; transfer money. Construction/context distinguish meanings. |
+| prudemment | carefully | Adverb in -ment, with a nasal final vowel. |
+| rapidement | quickly | Adverb. |
+| un laissez-passer | a pass / permit | Double ss has /s/, like a hissing sound. |
+| un édifice | a building | Les édifices du gouvernement — government buildings. |
+| au bout du couloir | at the end of the hallway | Final t in bout is normally silent. |
+| le coin de la rue | the corner of the street | French coin means corner; English coin is a piece of money. |
+| un stationnement | a parking lot |  |
+| une bretelle (d'accès) | a (highway) ramp / strap | Also a clothing strap; bretelle d’accès is an access/slip road. |
+| un étage | a floor (storey) | A building level, unlike the physical surface plancher. |
+| un plancher | a floor (the ground surface) | Physical floor surface; not the usual word for a storey. |
+| le ministère des Affaires étrangères | Ministry of Foreign Affairs |  |
+| un pont | a bridge |  |
+| un feu rouge | a red light |  |
+| le directeur général | the general manager/director |  |
+| l'épicerie | the grocery store |  |
+| la reconnaissance | reconnaissance / survey | Faire la reconnaissance de l’île — reconnoitre/survey the island. |
+| les apprenants | the learners |  |
+| la salle de formation | training room |  |
+| la salle de réunion | meeting room |  |
+| l'ascenseur (m.) | elevator |  |
+| le couloir / le corridor | hallway / corridor | Often interchangeable for a hallway. |
+| le bout | physical end (of something) | Bout de la rue / bout du stylo — end of a street/pen. |
+| la fin | end (of a movie, meeting) | End of an event/story; bout is more idiomatic for many physical route endpoints, but fin is not universally forbidden in directions. |
+| en direction (de) l'Est | towards the East |  |
+| à gauche | to the left |  |
+| à droite | to the right |  |
+| tout droit | straight ahead | Straight ahead, unlike à droite, to the right. |
+| la friterie | fries shop |  |
+| le café | café |  |
+| le restaurant | restaurant |  |
+| la pharmacie | pharmacy |  |
+| l'arrêt d'autobus / l'arrêt de l'autobus | bus stop |  |
+| le Japon | Japan | Masculine country: au Japon. |
+| le Canada | Canada | Masculine country: au Canada. |
+| le Mexique | Mexico | Masculine despite final e: au Mexique. |
+| le Cambodge / le Mozambique / le Zimbabwe / le Belize | Cambodia / Mozambique / Zimbabwe / Belize | Masculine exceptions ending in e: use au. |
+| la Belgique | Belgium | Feminine country: en Belgique. |
+| la France | France | Feminine country: en France. |
+| la Suisse | Switzerland | Feminine country: en Suisse. |
+| l'Égypte / la Colombie / l'Allemagne | Egypt / Colombia / Germany | Feminine countries: en Égypte / en Colombie / en Allemagne. |
+| les États-Unis | the United States | Plural country: aux États-Unis. |
+| les Philippines | the Philippines | Plural country: aux Philippines. |
+| les Pays-Bas | the Netherlands | Plural country: aux Pays-Bas. |
+
+## Questions
+
+<details class="source-question" data-question-id="10-07-source-001"><summary><span>1. Translate “the convenience store” using a Quebec term.</span></summary><p>le dépanneur</p></details>
+
+<details class="source-question" data-question-id="10-07-source-002"><summary><span>2. Translate “the ice rink”.</span></summary><p>la patinoire</p></details>
+
+<details class="source-question" data-question-id="10-07-source-003"><summary><span>3. Why use les toilettes for the restroom? Is singular toilette impossible?</span></summary><p>Les toilettes is the standard plural expression for the facilities. Singular toilette has other meanings and occurs regionally; the source’s claim that it necessarily means standing in the bowl is false.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-004"><summary><span>4. Translate “to the restroom” and “at the dentist’s”.</span></summary><p>aux toilettes; chez le dentiste</p></details>
+
+<details class="source-question" data-question-id="10-07-source-005"><summary><span>5. Translate par, vers, jusqu’à and dans.</span></summary><p>by/through; toward/around; up to/until; in/into</p></details>
+
+<details class="source-question" data-question-id="10-07-source-006"><summary><span>6. Say “He is fired” and “I was fired” using virer.</span></summary><p>Il est viré. J’ai été viré(e). Informal employment usage.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-007"><summary><span>7. Distinguish étage and plancher.</span></summary><p>Étage is a building level; plancher is the physical floor surface.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-008"><summary><span>8. Translate un laissez-passer.</span></summary><p>a pass / permit</p></details>
+
+<details class="source-question" data-question-id="10-07-source-009"><summary><span>9. Give two words for “the hallway”.</span></summary><p>le couloir; le corridor</p></details>
+
+<details class="source-question" data-question-id="10-07-source-010"><summary><span>10. Distinguish le bout and la fin.</span></summary><p>Bout often means a physical end: le bout de la rue. Fin often means the end of an event/story: la fin du film. Their uses can overlap.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-011"><summary><span>11. Conjugate aller in the present for all persons.</span></summary><p>je vais, tu vas, il/elle/on va, nous allons, vous allez, ils/elles vont</p></details>
+
+<details class="source-question" data-question-id="10-07-source-012"><summary><span>12. Complete Nous allons ___ patinoire.</span></summary><p>à la</p></details>
+
+<details class="source-question" data-question-id="10-07-source-013"><summary><span>13. Complete Ils vont ___ aéroport.</span></summary><p>à l’</p></details>
+
+<details class="source-question" data-question-id="10-07-source-014"><summary><span>14. Complete Je vais ___ Mexique.</span></summary><p>au</p></details>
+
+<details class="source-question" data-question-id="10-07-source-015"><summary><span>15. Complete Il va ___ France.</span></summary><p>en</p></details>
+
+<details class="source-question" data-question-id="10-07-source-016"><summary><span>16. Complete Vous allez ___ Pays-Bas.</span></summary><p>aux</p></details>
+
+<details class="source-question" data-question-id="10-07-source-017"><summary><span>17. Choose en, au or aux: Tu vas ___ Philippines.</span></summary><p>aux</p></details>
+
+<details class="source-question" data-question-id="10-07-source-018"><summary><span>18. Contract de + les in Sortez ___ magasins.</span></summary><p>des</p></details>
+
+<details class="source-question" data-question-id="10-07-source-019"><summary><span>19. Contract jusqu’à + le parc.</span></summary><p>jusqu’au parc</p></details>
+
+<details class="source-question" data-question-id="10-07-source-020"><summary><span>20. Choose à or vers when the library is the destination, not merely a direction: Je vais ___ la bibliothèque.</span></summary><p>à</p></details>
+
+<details class="source-question" data-question-id="10-07-source-021"><summary><span>21. Is dans le Canada impossible? Give the normal destination form.</span></summary><p>Use au Canada for the ordinary country destination. Dans can describe being within a geographical area in suitable contexts; it does not require a physically enclosed room.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-022"><summary><span>22. Complete Vous et moi ___ chaque jour un pont (traverser).</span></summary><p>traversons</p></details>
+
+<details class="source-question" data-question-id="10-07-source-023"><summary><span>23. Give three uses of virer.</span></summary><p>turn; fire/dismiss someone; transfer money. Context and construction distinguish them.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-024"><summary><span>24. Complete Je monte l’escalier pour me rendre à la réunion ___ deuxième étage.</span></summary><p>au</p></details>
+
+<details class="source-question" data-question-id="10-07-source-025"><summary><span>25. Give vous commands: prendre l’ascenseur, tourner à droite, continuer tout droit.</span></summary><p>Prenez l’ascenseur; tournez à droite; continuez tout droit.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-026"><summary><span>26. Why do imperative directions omit subject pronouns?</span></summary><p>The imperative normally has no expressed subject: Prenez l’ascenseur. A statement such as Elle va à l’hôpital still needs its subject. The source’s answer to this question was mismatched.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-027"><summary><span>27. Translate “She is going to the hospital”.</span></summary><p>Elle va à l’hôpital.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-028"><summary><span>28. Translate “You (tu) are going to the hairdresser”.</span></summary><p>Tu vas chez le coiffeur.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-029"><summary><span>29. Use vous + aller to say you are going to the doctor’s.</span></summary><p>Vous allez chez le médecin.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-030"><summary><span>30. Use monter dans with an enclosed space.</span></summary><p>Je monte dans la cabine.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-031"><summary><span>31. Build a sentence with passer par.</span></summary><p>Nous passons par le parc.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-032"><summary><span>32. Give directions using tout droit and à droite.</span></summary><p>On continue tout droit, puis on tourne à droite.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-033"><summary><span>33. Ask how to get to the grocery store from someone’s home.</span></summary><p>De chez toi, comment est-ce qu’on va à l’épicerie ?</p></details>
+
+<details class="source-question" data-question-id="10-07-source-034"><summary><span>34. Ask which street to take from someone’s home to the library.</span></summary><p>De chez toi, par quelle rue est-ce qu’on passe pour aller à la bibliothèque ?</p></details>
+
+<details class="source-question" data-question-id="10-07-source-035"><summary><span>35. Give vous directions: take the main street and continue to the next street.</span></summary><p>Prenez la rue principale et continuez jusqu’à la rue suivante. </p></details>
+
+<details class="source-question" data-question-id="10-07-source-036"><summary><span>36. Correct Je vais chez le magasin.</span></summary><p>Je vais au magasin.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-037"><summary><span>37. Give the standard restroom expression instead of Je vais à la toilette.</span></summary><p>Je vais aux toilettes. Singular usage exists regionally; use the plural as the general learner model.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-038"><summary><span>38. Correct Vous allez chez la cafétéria.</span></summary><p>Vous allez à la cafétéria.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-039"><summary><span>39. Correct Elle va au Égypte.</span></summary><p>Elle va en Égypte.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-040"><summary><span>40. Give the ordinary destination form instead of Nous allons dans Montréal.</span></summary><p>Nous allons à Montréal. Dans Montréal can mean within Montreal in a suitable context.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-041"><summary><span>41. Which means straight ahead: droit or droite?</span></summary><p>Tout droit; final t is normally silent. À droite means to the right, with audible /t/.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-042"><summary><span>42. Correct Je vais sur le troisième plancher when referring to the building level.</span></summary><p>Je vais au troisième étage.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-043"><summary><span>43. Give a natural direction to the physical end of a street.</span></summary><p>Allez tout droit jusqu’au bout de la rue. Fin is understandable but bout is idiomatic here.</p></details>
+
+<details class="source-question" data-question-id="10-07-source-044"><summary><span>44. Make Prends l’ascenseur et sortez au deuxième étage consistent.</span></summary><p>Prenez l’ascenseur et sortez au deuxième étage. Alternatively, Prends… et sors… for tu.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-07">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-07">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-05.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-09.html">Next lesson</a></nav>

@@ -1,0 +1,279 @@
+---
+title: "Instructions, pronouns & commuting"
+pagetitle: "Instructions, pronouns & commuting | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 11 · 10-14 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-14">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-14">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Identify the requested mood and person {#lesson-details}
+
+A present-tense exercise ordinarily supplies a subject: **Vous prenez la première rue**. A direct imperative omits it: **Prenez la première rue**. For regular **-er** verbs, remove **-er** and select the ending for the subject; **-es** is the present **tu** ending, not the ending for every person. **Aller** is irregular.
+
+The imperative has **tu/nous/vous** forms. **Aime, travaille, entre, tourne, continue, va** lose the final **s** of the corresponding **tu** present form; **suis, prends, sors** keep theirs. The source’s “every non-er verb keeps s” is only a useful pattern for these examples: special imperative forms such as **sache, aie, veuille** show why it is not absolute.
+
+Without context, **Va / Allons / Allez au cinéma demain**, **Sors / Sortons / Sortez par la porte principale**, and **Suis / Suivons / Suivez le guide** (Follow the guide) can each be appropriate. With context, keep the required person: a friend may take **tu**, a group takes **vous**, and a shared proposal including the speaker takes **nous**. **Vous** is the safe polite choice with an unknown person. Colleagues may agree to **tu**, but their equal rank alone does not make it mandatory.
+
+## Preposition and article review
+
+**Prendre la rue** and **traverser le pont** take direct objects. **Aller vers l’ouest / conduire vers le nord** indicates direction. **Tourner à gauche / à droite** contains **à** but no article. For a destination, use **aller à** and the appropriate article: **à la gare**, **au centre-ville**, or **à + city**.
+
+**Passer par / entrer par la porte** clearly indicate passage through a door. The source contradicted itself by both forbidding **aller par** and accepting **allez par la porte**. **Aller par** is possible for a route; **passer par/entrer par** are simply more precise for the doorway exercise. Do not turn the exercise preference into a universal prohibition.
+
+Use **entre** for two landmarks: **entre la première et la deuxième rue**. **Sous les magasins** means under the stores when that matches the map, as for an underground parking area. **Étage** is masculine: **Monte au troisième étage** (Go up to the third floor), never **à la troisième étage** or the English calque **sur le troisième étage** for a floor location.
+
+Contract **à + le/les → au/aux** and **de + le/les → du/des**. Write **aux** with **x**. Keep **à la** before feminine **rue**: **jusqu’à la rue principale**. Use **jusqu’au centre-ville** with **le centre-ville**.
+
+Retain **à la, à l’, de la, de l’** without contractions. **À la mezzanine** is feminine, whereas **au premier/deuxième/troisième étage** uses masculine **étage**.
+
+## Pronoun transformation set
+
+| Full phrase | Replacement | Meaning |
+|---|---|---|
+| Nous arrivons du cinéma. | Nous en arrivons. | We are arriving from there. |
+| On sort du musée. | On en sort. | We are coming out of it. |
+| Ils reviennent du sud. | Ils en reviennent. | They are coming back from there. |
+| Elles vont à la ville. | Elles y vont. | They are going there. |
+| Vous êtes au bureau du responsable. | Vous y êtes. | You are there. |
+
+**En** expresses the origin/from-there complement here; **y** replaces the destination/location. Put these pronouns before the relevant verb in a statement. Link plural subject pronouns to vowel-initial **en/y**: **nous en**, **ils en**, **elles y** have a /z/-type liaison. **On en** uses the linking **n** sound with the usual connected pronunciation. The source’s general model was subject + **en/y** + verb.
+
+For imperative placement: **Allez au bureau → Allez-y**, but **N’allez pas au bureau → N’y allez pas**. The positive attaches the pronoun after the verb with a hyphen; the negative places it before the verb.
+
+## Negatives and complete corrections
+
+**Je n’ai pas de questions** means I have no questions. **Je n’ai plus de questions** means I have no more questions/no longer have questions. Both are grammatical; the latter fits a situation in which questions have now been answered. Do not label the former an error without considering meaning.
+
+Correct **Vous allez l’ouest → Vous allez vers l’ouest** (You go toward the west). Match **tu viens** with **vous venez**: English “you” does not show the same distinction. If the prompt requires **tu**, use **Prends l’escalier à gauche** (Take the stairs on the left), rather than **Prenez**. Write **tourne / continue**, not **tours / continues**, for those **tu** commands.
+
+For ordinary present **habiter**, use **J’habite en ville**, not **Je suis habité…**. A home-office model is **Je vais à pied à mon bureau à domicile / à mon bureau à la maison**. **Un arrêt** is masculine. **Une gare** is a train station; **un stationnement** is a parking lot. Use **le transport en commun / les transports en commun**, not **transport autocommunal**. To get off at a stop, use **Je descends à l’arrêt**, not **Je descends l’arrêt**.
+
+## Commute questions and reusable answers
+
+> Comment viens-tu au bureau ? / Comment allez-vous au bureau ? — How do you get to the office?  
+> Je viens en voiture / en bus / à pied. — I come by car / bus / on foot.  
+> Est-ce que les transports en commun sont pratiques dans cette ville ? — Is public transportation convenient in this city?  
+> Est-ce que le bureau est loin de l’arrêt ? — Is the office far from the stop?  
+> Combien de temps dure ton trajet ? — How long does your journey take?  
+> Je mets quarante minutes / environ trente minutes. — It takes me forty minutes / about thirty minutes.  
+> Dans cet exemple, la personne met trente minutes le matin et quarante-cinq minutes l’après-midi. — In this example, the journey takes thirty minutes in the morning and forty-five in the afternoon.  
+> Où prends-tu le train ? — Where do you take the train?  
+> Je prends le train jusqu’au centre-ville, puis je marche. — I take the train downtown, then walk.  
+> La gare est à cinq minutes à pied. — The station is a five-minute walk away.  
+> Je n’aime pas prendre le bus. / Pas vraiment. — I do not like taking the bus. / Not really.  
+> Je préfère conduire parce que c’est plus rapide. — I prefer driving because it is faster.  
+> J’espère que le service va s’améliorer. — I hope the service will improve.  
+> J’aime le train parce que la gare est près du bâtiment. — I like the train because the station is near the building.  
+> Merci pour les informations. — De rien. — Thanks for the information. — You are welcome. (How long does your commute last?) (I prefer to drive because it's faster)
+
+The examples are invented; none describes an actual class member’s home, workplace or route. Change the transport, distance, preference and reason to practise both positive and negative answers.
+
+**Le trajet dure vingt minutes** — The journey lasts twenty minutes — is another duration model. **Mais** adds a contrast: **Le bus est pratique, mais il est parfois en retard** — The bus is convenient but sometimes late. **Dirigez-vous vers la gare** means head toward the station.
+
+## Remaining example and sound details
+
+**Par où passe-t-on pour aller à l’aéroport ?** (Which way do we go to get to the airport?) uses **passer** and linking **-t-on**. **La piste cyclable suit la rivière** (The bicycle path follows the river) is a description with singular **suit**, not an imperative. **Je pars immédiatement** (I leave immediately) is spelled **P-A-R-S**. **Elle descend l’escalier du sous-sol** (She goes down the basement stairs) is third-person present. **Nous prenons l’autoroute** is a present statement; the source incorrectly called it an imperative. The corresponding imperative is **Prenons l’autoroute**.
+
+Use **Tourne à gauche après le panneau “arrêt”, puis continue jusqu’au pont**. The sign noun is **arrêt**, whereas **arrête** is a verb form. **Prends l’autoroute, sors et entre dans le complexe** (Take the highway, exit… and enter the complex) combines two **tu** commands retaining **s** with **entre**, which loses it. **Viens me voir à mon bureau** (Come see me at my office) is informal; **Venez me voir…** is polite/plural. **Allez au centre des congrès** (Go to the Convention Centre) uses **au**. **Pouvez-vous stationner l’auto dans le stationnement du centre ?** restores the missing subject in the original question. **Conduis vers le nord** is the correct **tu** instruction; **conduit** is third-person present or a participle, not this command.
+
+Distinguish **derrière** (behind) from **dernier** (last). Practise **s’améliorer** rather than the source’s uncertain phonetic guesses. **Parce que** is often reduced in quick speech, but informal spellings such as “parska” are not the written expression. **Jusqu’au** is connected in speech. Canadian **fin de semaine** and **clavardage** are regional vocabulary, not private class information.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Vous prenez la rue Principale. | You take the main street. |  |
+| Traverse le pont. | Cross the bridge. |  |
+| Vous tournez à gauche. | You turn left. |  |
+| Nous prenons l'autoroute d'Edmonton. | We take the Edmonton highway. |  |
+| Tourne à gauche après le panneau de signalisation « arrête » et continue jusqu'au… | Turn left after the stop sign and continue until… |  |
+| Prenez la promenade Principale jusqu'à la rue Secondaire. | Take the main road up to the second street. |  |
+| Pouvez stationner l'auto dans le stationnement du Secondaire Centre ? | Can [you] park the car in the Secondaire Centre parking lot? |  |
+| Vous devez passer par la rue principale. | You must pass by the main street. |  |
+| Votre hôtel est tout près de là, entre les rues principale et secondaire. | Your hotel is very near there, between the main and secondary streets. |  |
+| Et conduit vers le nord. | And drive toward the north. |  |
+| Les bus sont souvent en retard. | The buses are often late. |  |
+| Je mets environ trente minutes. | It takes me about thirty minutes. |  |
+| Je prends le bus près de chez moi. | I take the bus near my home. |  |
+| Ensuite je marche tout droit et je tourne à droite. | Then I walk straight ahead and I turn right. |  |
+| Au feu rouge, je continue jusqu'au bureau. | At the red light, I continue up to the office. |  |
+| C'est à cinq minutes à pied. | It's five minutes on foot. |  |
+| Il y a beaucoup de circulation. | There is a lot of traffic. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| une fin de semaine | a weekend | Canadian term for weekend. |
+| un dictionnaire | a dictionary | Monolingual dictionaries such as Larousse/Robert or bilingual dictionaries can help. |
+| passer | to pass / to go through | Par où passe-t-on ? — Which way does one go? |
+| passer par | to pass through / by | Passer is compatible with par for a route. |
+| prendre | to take | Prends (tu), prenez (vous), prenons (nous); direct object for what is taken. |
+| aller | to go | Aller vers for a direction; irregular tu imperative va. |
+| louer | to rent |  |
+| traverser | to cross | No preposition before the object |
+| tourner | to turn | Tourne (tu, no s), tournez (vous); tourner à gauche / à droite. |
+| continuer | to continue | Continue (tu command, no s). |
+| suivre | to follow | Suis (tu command) retains s; suivre is not an -er verb. |
+| monter | to go up / climb | Monte au troisième étage — Go up to the third floor. |
+| sortir | to go out / exit | Sors retains s; on en sort means one comes out of it/there. |
+| partir | to leave | Je pars immédiatement — I leave immediately. |
+| descendre | to go down / to get off | Elle descend l’escalier — She goes down the stairs; je descends à l’arrêt — I get off at the stop. |
+| venir | to come | Viens (tu), venez (vous); ils viennent (present). |
+| revenir | to come back | Ils reviennent / ils en reviennent — They return / return from there. |
+| arriver | to arrive | Nous en arrivons — We are arriving from there. |
+| entrer | to enter | compatible with par |
+| conduire | to drive | Il conduit vers le nord — He drives north; je conduis for I drive. |
+| stationner l'auto | to park the car |  |
+| changer de bus | to change buses | Je change de bus à cet arrêt — I change buses at this stop. Do not omit de for this meaning. |
+| mettre (du temps) | to take (time) | Je mets environ trente minutes — It takes me about thirty minutes. |
+| s'améliorer | to improve | J’espère que le service va s’améliorer — I hope the service will improve; practise the reflexive pronunciation. |
+| le pont | the bridge |  |
+| le feu de circulation / le feu rouge | traffic light / red light | Au feu, je continue — At the light, I continue. This is a language model, not an instruction to proceed through a red signal. |
+| la piste cyclable | bicycle path | La piste cyclable suit la rivière — The cycle path follows the river. |
+| le panneau de signalisation | road/traffic sign |  |
+| l'autoroute (f) | highway |  |
+| l'ascenseur (m) | elevator |  |
+| l'escalier (m) | staircase / stairs |  |
+| le sous-sol | basement |  |
+| l'immeuble (m) | building |  |
+| le complexe | complex |  |
+| l'étage (m) | floor / storey | Masculine: au troisième étage. Étage ends in -age, not -er as the source annotation stated. |
+| le Centre des Congrès | the Convention Centre | Centre is masculine: au centre des congrès. |
+| la promenade Principale | the main road |  |
+| la rue Secondaire | the second street | Rue is feminine: jusqu’à la rue principale. |
+| le stationnement | the parking lot | Masculine. |
+| la gare | the (train) station | Station, unlike stationnement, parking lot. |
+| un arrêt | a stop | Masculine: un arrêt. |
+| l'arrêt (du bus) | the (bus) stop |  |
+| le train / l'O-Train | the train / Ottawa's O-Train | Train/light-rail vocabulary; no personal route is retained. |
+| le bureau | the office | Destination in the commute model. |
+| le bureau à domicile | the home office | Domicile is where one lives. |
+| le centre-ville | downtown | Masculine: jusqu’au centre-ville. |
+| la rue principale | the main street |  |
+| à gauche | to/on the left | Fixed expression without an article. |
+| à droite | to/on the right | Fixed expression without an article. |
+| tourner à droite | to turn right |  |
+| vers | toward(s) | With compass directions: vers le nord / le sud / l’est / l’ouest. |
+| vers l'ouest | toward the west | Toward the west. |
+| tout droit | straight ahead | Allez tout droit — Go straight ahead. |
+| entre les rues X et Y | between X and Y streets | Two landmarks: between streets X and Y. |
+| sous les magasins | under the stores | Under the shops; a possible underground-parking context. |
+| tout près de là | very near there |  |
+| à pied | on foot / walking | Je vais à pied — I go on foot. |
+| à cinq minutes à pied | five minutes on foot |  |
+| près de chez moi | near my home |  |
+| le trajet | the journey / commute | Masculine. |
+| venir au bureau | to come to the office | Comment viens-tu au bureau ? — How do you get to the office? |
+| en voiture | by car | Means of transport. |
+| le transport en commun | public transportation | Use transport en commun, not transport communal/autocommunal for public transport. |
+| les bus | the buses | Les bus sont souvent en retard — The buses are often late. |
+| en retard | late |  |
+| une interruption de service | a service disruption/interruption |  |
+| la circulation | traffic | Il y a beaucoup de circulation — There is a lot of traffic. |
+| pratique | convenient / practical |  |
+| plus rapide | faster |  |
+| loin | far | Est-ce que le bureau est loin ? — Is the office far away? |
+| parce que (parska) | because |  |
+| derrière | behind | Behind; distinguish dernier, last. |
+| mais | but |  |
+| c'est dommage | that's too bad | That’s too bad / That’s a shame. |
+| Merci pour les informations | Thanks for the information | Closing thanks: Thank you for the information. |
+| De rien | You're welcome |  |
+| À bientôt | See you soon |  |
+| Bonne journée | Have a good day |  |
+
+## Questions
+
+<details class="source-question" data-question-id="10-14-source-001"><summary><span>1. Translate “to cross the bridge”.</span></summary><p>traverser le pont</p></details>
+
+<details class="source-question" data-question-id="10-14-source-002"><summary><span>2. Complete Vous allez ___ l’ouest.</span></summary><p>vers</p></details>
+
+<details class="source-question" data-question-id="10-14-source-003"><summary><span>3. Translate tourner à gauche.</span></summary><p>to turn left</p></details>
+
+<details class="source-question" data-question-id="10-14-source-004"><summary><span>4. Translate “the traffic light”.</span></summary><p>le feu de circulation</p></details>
+
+<details class="source-question" data-question-id="10-14-source-005"><summary><span>5. Translate “the bicycle path”.</span></summary><p>la piste cyclable</p></details>
+
+<details class="source-question" data-question-id="10-14-source-006"><summary><span>6. Give two verbs used with par for passing/entering through a route.</span></summary><p>passer par; entrer par</p></details>
+
+<details class="source-question" data-question-id="10-14-source-007"><summary><span>7. What gender is étage, and how do you say “to/on the second floor”?</span></summary><p>Masculine: au deuxième étage (à + le = au).</p></details>
+
+<details class="source-question" data-question-id="10-14-source-008"><summary><span>8. Translate “public transportation”.</span></summary><p>le transport en commun</p></details>
+
+<details class="source-question" data-question-id="10-14-source-009"><summary><span>9. Translate “the parking lot” in Canadian French.</span></summary><p>le stationnement</p></details>
+
+<details class="source-question" data-question-id="10-14-source-010"><summary><span>10. Which means behind: dernier or derrière?</span></summary><p>derrière</p></details>
+
+<details class="source-question" data-question-id="10-14-source-011"><summary><span>11. Translate “on foot”.</span></summary><p>à pied</p></details>
+
+<details class="source-question" data-question-id="10-14-source-012"><summary><span>12. Translate “There is a lot of traffic”.</span></summary><p>Il y a beaucoup de circulation.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-013"><summary><span>13. Translate C’est dommage.</span></summary><p>That’s too bad / That’s a shame.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-014"><summary><span>14. Complete Vous ___ la rue principale (prendre, present).</span></summary><p>prenez</p></details>
+
+<details class="source-question" data-question-id="10-14-source-015"><summary><span>15. Give the contractions à + le, à + les, de + le and de + les.</span></summary><p>au; aux; du; des</p></details>
+
+<details class="source-question" data-question-id="10-14-source-016"><summary><span>16. Which of traverser, prendre and aller can introduce direction with vers? Must it always use vers?</span></summary><p>Aller: aller vers l’ouest. Aller also allows other complements, such as aller à la banque; vers is not obligatory for every use.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-017"><summary><span>17. Give the tu imperative of aller.</span></summary><p>va</p></details>
+
+<details class="source-question" data-question-id="10-14-source-018"><summary><span>18. Give the tu imperative of prendre.</span></summary><p>prends</p></details>
+
+<details class="source-question" data-question-id="10-14-source-019"><summary><span>19. Why is it entre but sors in a tu command?</span></summary><p>Entrer is an -er verb and drops the present tu -s; sortir retains it. Special forms such as vas-y are separate exceptions.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-020"><summary><span>20. Replace du cinéma in Nous arrivons du cinéma.</span></summary><p>Nous en arrivons.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-021"><summary><span>21. Replace à Ottawa in Elles vont à Ottawa.</span></summary><p>Elles y vont.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-022"><summary><span>22. Complete Le stationnement ___ centre commercial est sous les magasins (de + le).</span></summary><p>du</p></details>
+
+<details class="source-question" data-question-id="10-14-source-023"><summary><span>23. Complete Prenez la promenade jusqu’___ rue principale.</span></summary><p>à la</p></details>
+
+<details class="source-question" data-question-id="10-14-source-024"><summary><span>24. Change Je n’ai pas de questions to mean “I have no more questions”.</span></summary><p>Je n’ai plus de questions. Pas was already grammatical; plus changes the meaning.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-025"><summary><span>25. Complete Je préfère conduire ___ c’est plus rapide.</span></summary><p>parce que</p></details>
+
+<details class="source-question" data-question-id="10-14-source-026"><summary><span>26. Complete Je descends ___ l’arrêt du centre-ville.</span></summary><p>à</p></details>
+
+<details class="source-question" data-question-id="10-14-source-027"><summary><span>27. Tell someone politely to turn left.</span></summary><p>Tournez à gauche. Vous tournez à gauche is a descriptive statement and can serve as a spoken instruction, but is not an imperative form.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-028"><summary><span>28. Build a direction with aller vers.</span></summary><p>Vous allez vers l’ouest.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-029"><summary><span>29. Tell a stranger to turn right at the bridge.</span></summary><p>Tournez à droite au pont.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-030"><summary><span>30. Tell a friend to continue straight ahead.</span></summary><p>Continue tout droit.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-031"><summary><span>31. Informally ask a colleague how they get to the office.</span></summary><p>Comment viens-tu au bureau ?</p></details>
+
+<details class="source-question" data-question-id="10-14-source-032"><summary><span>32. Say the journey takes you forty minutes.</span></summary><p>Je mets quarante minutes.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-033"><summary><span>33. Translate “I like the train because the station is behind the house”.</span></summary><p>J’aime le train parce que la gare est derrière la maison.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-034"><summary><span>34. Say you take the bus near your home.</span></summary><p>Je prends le bus près de chez moi.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-035"><summary><span>35. Translate “Then I walk straight ahead and turn right”.</span></summary><p>Ensuite, je marche tout droit et je tourne à droite.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-036"><summary><span>36. Correct Vous allez l’ouest.</span></summary><p>Vous allez vers l’ouest.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-037"><summary><span>37. Change Tu viens vers l’ouest to vous.</span></summary><p>Vous venez vers l’ouest.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-038"><summary><span>38. Change Prenez l’escalier à gauche to a tu command.</span></summary><p>Prends l’escalier à gauche.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-039"><summary><span>39. Correct Montez sur le troisième étage, retaining vous.</span></summary><p>Montez au troisième étage. For tu: Monte au troisième étage.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-040"><summary><span>40. Give alternative verbs in Allez par la porte.</span></summary><p>Passez par la porte / Entrez par la porte. Aller par can occur in route expressions; the alternatives are natural here.</p></details>
+
+<details class="source-question" data-question-id="10-14-source-041"><summary><span>41. Correct Je suis habité à Ottawa.</span></summary><p>J’habite à Ottawa. </p></details>
+
+<details class="source-question" data-question-id="10-14-source-042"><summary><span>42. Correct une arrêt.</span></summary><p>un arrêt</p></details>
+
+<details class="source-question" data-question-id="10-14-source-043"><summary><span>43. Correct Est-ce que le transport communal est pratique ?</span></summary><p>Est-ce que le transport en commun est pratique ?</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=10-14">Practise questions</a><a class="button secondary" href="cards.html?lesson=10-14">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-10-09.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-10-19.html">Next lesson</a></nav>

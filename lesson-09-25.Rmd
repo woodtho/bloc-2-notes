@@ -1,0 +1,277 @@
+---
+title: "Giving directions & movement verbs"
+pagetitle: "Giving directions & movement verbs | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 6 · 09-25 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-25">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-25">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#examples">Examples</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Present statements, infinitives and instructions {#lesson-details}
+
+The imperative gives orders, advice, suggestions and directions. In the ordinary patterns here, take the present **tu/nous/vous** form and remove the subject pronoun. Drop final **s** in the **tu** imperative of **-er** verbs; **aller → va** also follows this final-s pattern although it belongs to the irregular group. **Ne… pas** surrounds the negative imperative: **N’oublie pas tes billets** (Don't forget your tickets).
+
+For a direct spoken instruction, use **Allez / Va**, not the infinitive **aller**. An infinitive can appear in signs or general written instructions, but that is a different construction. **Vous allez prenez…** incorrectly combines two conjugated forms; choose **Prenez…** for a command, or **Vous allez prendre…** for the near future.
+
+| Verb | tu imperative | nous imperative | vous imperative |
+|---|---|---|---|
+| venir | viens | venons | venez |
+| prendre | prends | prenons | prenez |
+| suivre | suis | suivons | suivez |
+| aller | va | allons | allez |
+| faire | fais | faisons | faites |
+| être | sois | soyons | soyez |
+
+The source game answered **suis** for the **tu** imperative of **être**. The correct form is **sois**; **suis** is the present of **être** or an imperative of **suivre**. **Venons** is spelled **V-E-N-O-N-S**. Use **vous** for respectful directions and **tu** for a familiar listener.
+
+## Third-person present forms
+
+The source game also asked for **il/elle/ils/elles** present forms; these are statements, not imperative persons.
+
+| Verb | il / elle | ils / elles |
+|---|---|---|
+| venir | vient | viennent |
+| prendre | prend | prennent |
+| suivre | suit | suivent |
+| arriver | arrive | arrivent |
+| passer | passe | passent |
+| monter | monte | montent |
+| aller | va | vont |
+
+Write **vient** (**V-I-E-N-T**), not **vene/bene/venons** for **il/elle**. Write **prend** (**P-R-E-N-D**) in the singular and **prennent** (**P-R-E-N-N-E-N-T**) in the plural: double **n**, no extra **a**, and no **m**. Also review **j’ai**, **je vais**, **tu vas**, and **tu manges**. The **-ont** in **ils vont** does not license using that ending with other subjects. In a regular present **-er** verb, use **-ent** with **ils/elles**.
+
+The final **-ent** of **prennent, suivent, arrivent, passent, montent** is silent. Spelling the forms aloud helps distinguish the written endings. **Roman** and **romain** also differ in their nasal vowel sounds.
+
+Other movement models include **ils descendent → descendez**, **ils sortent → sortez**, **ils partent → partez**, **ils conduisent → conduisez**. Their stems differ; they are not all regular **-er** or second-group **-ir** verbs.
+
+## Route and suggestion models
+
+> Sortez du bâtiment, puis traversez le jardin. — Leave the building, then cross the garden.  
+> Allez dans la rue principale. Tournez à droite. Prenez la première rue. — Go onto the main street, turn right, then take the first street.  
+> Passez six intersections. Continuez et prenez la sortie. — Go past six intersections. Continue and take the exit.  
+> Suivez l’autoroute jusqu’à la prochaine sortie. — Follow the highway to the next exit.  
+> Choisissez un stationnement. — Choose a parking lot.  
+> Va au parc et fais de la randonnée. — Go to the park and go hiking.  
+> Fais la randonnée jusqu’au sommet. — Take the hike to the summit.  
+> Prends le train et visite le musée. — Take the train and visit the museum.  
+> Prends l’autobus et marche jusqu’au bâtiment. — Take the bus and walk to the building.  
+> Arrive tôt. Réserve un billet d’avion. Achète le billet en ligne. — Arrive early. Book a plane ticket. Buy the ticket online.  
+> N’oublie pas tes billets. — Do not forget your tickets.  
+> Au feu, tournez à gauche dans la rue principale. — At the traffic light, turn left onto the main street.  
+> Continuez et prenez la sortie de l’autoroute 417 en direction de l’est. — Continue and take the exit from highway 417 heading east.
+
+**Je pars de la rue principale** means “I start/set off from the main street.” **Allez tout droit jusqu’à la prochaine rue** means continue straight to the next street. **En direction de l’est / en direction du nord** gives a compass direction. **Vous êtes arrivé. Où êtes-vous ?** checks the final destination.
+
+For position, use **au coin de la rue** (at the street corner), **en face du parc / des bureaux** (opposite the park/offices), **près de** (near) and **loin de** (far from). **Jusqu’à** contracts with articles: **jusqu’au pont / jusqu’aux feux**.
+
+A connected model is **Prenez la première rue à gauche. Continuez tout droit jusqu’au pont. Traversez le pont, puis tournez à droite. La gare est en face du parc** — Take the first street on the left, continue to the bridge, cross it and turn right; the station is opposite the park. As a routine: **Je prends le bus, je descends à la gare et je marche jusqu’au bureau** — I take the bus, get off at the station and walk to the office.
+
+## Wants, negative wants and conversational questions
+
+| Pattern | Example | Meaning |
+|---|---|---|
+| Je veux + infinitive | Je veux découvrir une ville. | I want to discover a city. |
+| Je veux + infinitive | Je veux aller à Paris. | I want to go to Paris. |
+| Je voudrais + infinitive | Je voudrais lire le nouveau livre. | I would like to read the new book. |
+| Je ne veux pas + infinitive | Je ne veux pas cuire le poisson. Je veux manger au restaurant. (I don't want to cook the fish. I want to eat at the restaurant) | I do not want to cook the fish. I want to eat at the restaurant. |
+| Je veux + infinitive | Je veux lire un nouveau roman en français. | I want to read a new novel in French. |
+
+For food in general, **Je veux manger du poisson** is the usual form; **manger les poissons** refers to particular fish. **Vous enseignez combien d’heures par semaine ?** asks how many hours someone teaches per week. **Qu’est-ce que vous faites pendant la fin de semaine ?** asks about weekend activities. An answer is **Je passe la fin de semaine avec ma famille**. **Est-ce que c’est difficile d’avoir trente-six personnes dans un groupe ?** practises **c’est difficile de + infinitive**, with elision before **avoir**. 
+
+## New, a novel, and a Roman
+
+**Nouveau** (masculine) and **nouvelle** (feminine) mean new. **Un roman** means a novel; it is not **romain/romaine**, meaning Roman. Use **un nouveau roman en français**, not **une nouvelle romaine** for a new novel. **Une nouvelle** can also mean a piece of news or a short story in other contexts; distinguish the adjective from the noun.
+
+**Une bibliothèque** is a library where books can be borrowed. **Une librairie** is a bookshop; it is a false friend of English “library.” **En ligne** means online. **Faire l’épicerie** is common Canadian French for grocery shopping; **faire les courses** is common in France. **La fin de semaine** and **le week-end** can both refer to the weekend. **Le clavardage** means online text chat.
+
+Use **nouvel** before a masculine vowel or mute h: **un nouvel immeuble**, alongside **un nouveau pont** and **une nouvelle route**. **Une autoroute** is feminine: **la nouvelle autoroute**. In **tout droit**, final **t** is normally silent; **à droite** has an audible /t/.
+
+## Highways, geography and tourism vocabulary
+
+Use a feminine article when an understood noun is **autoroute**: **la 401, la 416, la 417**. Read the highway number as a number, not as **quatre cents à seize**. A city normally takes **à**: **aller à Gatineau**, not **au Gatineau** when the city is intended. A park takes the construction appropriate to its full name, such as **au parc**.
+
+Geographic vocabulary in the source included a canal, downtown, a history/civilization museum, art galleries, a pedestrian shopping street, parliament, a centennial flame, bridges and a national gallery. These are useful landmarks for invented directions. The source’s travel discussion also used **le Louvre**, **les Champs-Élysées**, **la Riviera / la Côte d’Azur**, **des escargots**, and **un pain au chocolat**. The Riviera is not in Paris. **Gatineau** is in Québec, across from **Ottawa** in Ontario. Ticket availability and admission rules are changeable travel information, not a French grammar rule; the useful language is **réserver/obtenir un billet**, **gratuit**, and **acheter en ligne**.
+
+## Examples
+
+| French | English | Usage |
+|---|---|---|
+| Je suis professeur aussi. | I am a teacher too. |  |
+| Je passe la fin de semaine avec ma fille. | I spend the weekend with my daughter. |  |
+| On va au parc. | We go to the park. / We're going to the park. |  |
+| On fait l'épicerie. | We do the grocery shopping. |  |
+| Il, elle vient. | He/she comes. |  |
+| Je veux découvrir Ottawa. | I want to discover Ottawa. |  |
+| Va à Gatineau Park et fais les randonnées. | Go to Gatineau Park and do the hikes. |  |
+| Prends le train et visite les Champs-Élysées. | Take the train and visit the Champs-Élysées. |  |
+| Sortez du Parlement du Canada, traversez le jardin. | Exit the Parliament of Canada, cross the garden. |  |
+| Au feu, tournez à gauche sur la promenade Principale. | At the traffic light, turn left onto the main road. |  |
+| Suivez l'autoroute jusqu'à la sortie Parker. | Follow the highway until the Parker exit. |  |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| professeur | teacher / professor | Je suis professeur aussi — I am a teacher too; no article in this basic profession statement. |
+| les statistiques | statistics | An academic subject: statistics. |
+| les mathématiques | mathematics |  |
+| une plateforme en ligne | online platform | Use en ligne rather than inserting English online. |
+| enseigner | to teach | Vous enseignez combien d’heures par semaine ? — How many hours do you teach per week? |
+| la fin de semaine | weekend | Canadian usage; le week-end is common in France. |
+| faire l'épicerie | to do grocery shopping | Canadian expression for grocery shopping. |
+| le parc | park | On va au parc — We go/are going to the park. |
+| une sieste | a nap |  |
+| la bicyclette | bicycle | Also le vélo. |
+| la cuisine | kitchen | Dans la cuisine — in the kitchen. |
+| les directions | directions | Giving directions. |
+| la droite | the right | Tourner à droite — turn right. |
+| la gauche | the left | Tourner à gauche — turn left. |
+| le nord | north |  |
+| le sud | south |  |
+| l'est (m.) | east | En direction de l’est — eastward. |
+| l'ouest (m.) | west |  |
+| tout droit | straight ahead | Allez tout droit — Go straight ahead. |
+| jusqu'à | until / up to | Jusqu’à la rue principale — as far as the main street. |
+| une intersection | an intersection |  |
+| le feu | the traffic light | Au feu, tournez à gauche — At the light, turn left. |
+| le pont | the bridge | Generic models: le pont principal / le pont suivant. |
+| la rue | the street | Generic models: la rue principale / la rue suivante. |
+| la promenade | the parkway / drive | Generic model: la promenade du centre. |
+| l'autoroute (f.) | the highway | La 401 / la 416 / la 417; feminine from autoroute. |
+| la sortie | the exit | Generic model: la première sortie. |
+| le stationnement | the parking lot | Trois stationnements — three parking lots. |
+| un trajet | a journey / route | Un long trajet — a long journey. |
+| le jardin | the garden |  |
+| le Parlement | Parliament |  |
+| aller | to go | Allez tout droit — Go straight ahead. |
+| venir | to come | Irregular: il/elle vient. |
+| prendre | to take | Prends le train / Prenez la rue — Take the train/street. |
+| sortir (de) | to exit / go out of | Sortez du bâtiment — Leave the building. |
+| traverser | to cross | Traversez le jardin / le pont — Cross the garden/bridge. |
+| tourner | to turn | Tournez à droite — Turn right. |
+| passer | to pass | Passez six intersections — Pass six intersections. |
+| descendre | to go down / descend |  |
+| monter | to go up / climb | Ils/elles montent — They go up. |
+| continuer | to continue | Continuez jusqu’à la rue suivante — Continue to the next street. |
+| suivre | to follow | Suivez l’autoroute — Follow the highway. |
+| partir (de) | to leave / start from | Je pars de… — I am leaving from… |
+| arriver | to arrive | Ils/elles arrivent; arrive tôt — They arrive; arrive early (tu command). |
+| marcher | to walk | Marche — Walk (tu command). |
+| sauter | to jump | Sautez — Jump (vous command). |
+| entrer | to enter | Entrons — Let’s enter (nous command). |
+| être | to be |  |
+| découvrir | to discover | Je veux découvrir cette ville — I want to discover this city. |
+| acheter | to buy | Acheter un guide / le billet en ligne — Buy a guide/the ticket online. |
+| visiter | to visit | Visite le centre-ville — Visit the city centre. |
+| réserver | to reserve / book | Réserver un billet d’avion — Book a plane ticket. |
+| oublier | to forget | N’oublie pas — Don’t forget. |
+| le guide | guidebook | Can be a guidebook or a person who guides. |
+| le centre-ville | downtown |  |
+| le musée | museum | Le musée de civilisation — the museum of civilization. |
+| la galerie d'art | art gallery |  |
+| le voyage | journey / trip |  |
+| la randonnée | hike | Faire de la randonnée — go hiking. |
+| le billet d'avion | plane ticket |  |
+| le billet | ticket | N’oublie pas tes billets — Don’t forget your tickets. |
+| le prix | price | Le prix est bas — The price is low. |
+| bas / basse | low |  |
+| le train | train |  |
+| l'autobus | bus |  |
+| arriver tôt | to arrive early | Arrive tôt — Arrive early. |
+| déjà | already | Already; placement depends on construction: J’ai déjà réservé. |
+| en ligne | online | Acheter le billet en ligne — Buy the ticket online. |
+| le pain au chocolat | chocolate bread/pastry |  |
+| le croissant au chocolat | chocolate croissant |  |
+| la boulangerie | bakery | Le boulanger — a baker. |
+| la pâtisserie | pastry shop / pastry |  |
+| le dessert | dessert |  |
+| l'escargot | snail | Manger des escargots — eat snails. |
+| la nourriture | food | Bonne nourriture — good food. |
+| le poisson | fish | Les poissons — fish (plural). |
+| cuire | to cook | Cuire le poisson — cook the fish. |
+| un roman | a novel | Masculine novel; distinguish romain, meaning Roman. |
+| nouveau / nouvelle | new | Nouveau masculine / nouvelle feminine: un nouveau roman. |
+| lire | to read | Infinitive. |
+| la bibliothèque | the library | A place where books may be borrowed. |
+| la librairie | the bookstore | False friend: bookstore, not library. |
+| le livre | the book |  |
+
+## Questions
+
+<details class="source-question" data-question-id="09-25-source-001"><summary><span>1. Translate “a nap”.</span></summary><p>une sieste</p></details>
+
+<details class="source-question" data-question-id="09-25-source-002"><summary><span>2. Translate “to do grocery shopping”.</span></summary><p>faire l’épicerie</p></details>
+
+<details class="source-question" data-question-id="09-25-source-003"><summary><span>3. How do you say “online”?</span></summary><p>en ligne</p></details>
+
+<details class="source-question" data-question-id="09-25-source-004"><summary><span>4. Translate “to discover”.</span></summary><p>découvrir</p></details>
+
+<details class="source-question" data-question-id="09-25-source-005"><summary><span>5. Translate “the plane ticket”.</span></summary><p>le billet d’avion</p></details>
+
+<details class="source-question" data-question-id="09-25-source-006"><summary><span>6. What does n’oublie pas mean?</span></summary><p>Don’t forget.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-007"><summary><span>7. Translate la boulangerie.</span></summary><p>the bakery</p></details>
+
+<details class="source-question" data-question-id="09-25-source-008"><summary><span>8. Complete Je veux manger des ___ à Paris with “snails”.</span></summary><p>escargots</p></details>
+
+<details class="source-question" data-question-id="09-25-source-009"><summary><span>9. Distinguish “bookstore” and “library”.</span></summary><p>la librairie — bookstore; la bibliothèque — library</p></details>
+
+<details class="source-question" data-question-id="09-25-source-010"><summary><span>10. Translate east, west, north and south.</span></summary><p>l’est, l’ouest, le nord, le sud</p></details>
+
+<details class="source-question" data-question-id="09-25-source-011"><summary><span>11. What does un stationnement mean in Canadian French?</span></summary><p>a parking lot / parking area</p></details>
+
+<details class="source-question" data-question-id="09-25-source-012"><summary><span>12. True or false: roman means “Roman”.</span></summary><p>False: un roman is a novel; romain means Roman.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-013"><summary><span>13. Give the nous imperative of aller.</span></summary><p>allons</p></details>
+
+<details class="source-question" data-question-id="09-25-source-014"><summary><span>14. Give the vous imperative of descendre.</span></summary><p>descendez</p></details>
+
+<details class="source-question" data-question-id="09-25-source-015"><summary><span>15. Conjugate prendre for ils/elles in the present.</span></summary><p>ils/elles prennent</p></details>
+
+<details class="source-question" data-question-id="09-25-source-016"><summary><span>16. Conjugate venir for il/elle in the present.</span></summary><p>il/elle vient</p></details>
+
+<details class="source-question" data-question-id="09-25-source-017"><summary><span>17. Give the tu imperative of traverser.</span></summary><p>traverse</p></details>
+
+<details class="source-question" data-question-id="09-25-source-018"><summary><span>18. Conjugate arriver for ils/elles in the present.</span></summary><p>ils/elles arrivent</p></details>
+
+<details class="source-question" data-question-id="09-25-source-019"><summary><span>19. Conjugate aller for je, tu and ils/elles.</span></summary><p>je vais; tu vas; ils/elles vont</p></details>
+
+<details class="source-question" data-question-id="09-25-source-020"><summary><span>20. Give the tu imperative of prendre.</span></summary><p>prends</p></details>
+
+<details class="source-question" data-question-id="09-25-source-021"><summary><span>21. Give the vous imperative of aller.</span></summary><p>allez</p></details>
+
+<details class="source-question" data-question-id="09-25-source-022"><summary><span>22. Turn Tu vas dans cette ville into a tu command.</span></summary><p>Va dans cette ville.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-023"><summary><span>23. Give a vous command to turn right.</span></summary><p>Tournez à droite.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-024"><summary><span>24. Correct Je voudrais lire une nouvelle roman.</span></summary><p>Je voudrais lire un nouveau roman. Roman is masculine.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-025"><summary><span>25. How is highway 416 commonly referred to in French, with its article?</span></summary><p>la 416; l’autoroute 416</p></details>
+
+<details class="source-question" data-question-id="09-25-source-026"><summary><span>26. Ask a friend about their weekend activities.</span></summary><p>Qu’est-ce que tu fais pendant la fin de semaine ? The vous version is polite/plural.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-027"><summary><span>27. Say “Let’s go to the park” as a command.</span></summary><p>Allons au parc !</p></details>
+
+<details class="source-question" data-question-id="09-25-source-028"><summary><span>28. Use Je veux + infinitive to talk about visiting a museum.</span></summary><p>Je veux visiter le musée.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-029"><summary><span>29. Tell a friend to take the train and visit a famous avenue.</span></summary><p>Prends le train et visite les Champs-Élysées. </p></details>
+
+<details class="source-question" data-question-id="09-25-source-030"><summary><span>30. Build a sentence with Je pars de…</span></summary><p>Je pars de la maison.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-031"><summary><span>31. Give a direction with Allez tout droit jusqu’à…</span></summary><p>Allez tout droit jusqu’à la rue principale.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-032"><summary><span>32. Correct Nous vens as an imperative of venir.</span></summary><p>Venons !</p></details>
+
+<details class="source-question" data-question-id="09-25-source-033"><summary><span>33. Correct Il prenne in the present indicative.</span></summary><p>Il prend.</p></details>
+
+<details class="source-question" data-question-id="09-25-source-034"><summary><span>34. Replace the infinitive in Aller au parc ! with a tu command.</span></summary><p>Va au parc !</p></details>
+
+<details class="source-question" data-question-id="09-25-source-035"><summary><span>35. Correct au Gatineau when referring to going to the city.</span></summary><p>à Gatineau</p></details>
+
+<details class="source-question" data-question-id="09-25-source-036"><summary><span>36. Correct Va à la librairie pour emprunter un livre if “library” is intended.</span></summary><p>Va à la bibliothèque pour emprunter un livre.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=09-25">Practise questions</a><a class="button secondary" href="cards.html?lesson=09-25">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-09-23.html">Previous lesson</a> <a href="lessons.html">All lessons</a> <a href="lesson-09-28.html">Next lesson</a></nav>
