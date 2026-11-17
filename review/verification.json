@@ -28,7 +28,7 @@
     "temporary_override_reset": true
   },
   "preview": "review/library-preview.jpg",
-  "published": false,
+  "published": true,
   "plaud_modified": false,
   "copy_cleanup": {
     "study_guide_removed": true,
@@ -98,7 +98,19 @@
     "repository_name": "bloc-2-notes",
     "source_branch": "main",
     "source_path": "/docs",
-    "status": "prepared for GitHub Pages",
-    "repository": "woodtho/bloc-2-notes"
+    "status": "live",
+    "repository": "woodtho/bloc-2-notes",
+    "url": "https://woodtho.github.io/bloc-2-notes/",
+    "repository_url": "https://github.com/woodtho/bloc-2-notes",
+    "verified_date": "2026-11-17",
+    "github_pages_build": "built",
+    "live_content_verification": "23 pages and 3 application/style assets match the local build",
+    "browser_checks": [
+      "19-lesson library",
+      "lesson draft and Known rating restored after reload",
+      "automatic short-answer quiz grading",
+      "lesson-specific worked-example flashcards and answer reveal"
+    ],
+    "screenshot": "github-pages-live.jpg"
   }
 }

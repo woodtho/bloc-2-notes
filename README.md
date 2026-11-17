@@ -1,5 +1,7 @@
 # Bloc 2 notes
 
+[Website](https://woodtho.github.io/bloc-2-notes/) · [Repository](https://github.com/woodtho/bloc-2-notes)
+
 An R Markdown website built from 19 French lesson exports dated September 9–November 16, 2026.
 
 ## Use
