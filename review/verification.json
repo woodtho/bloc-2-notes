@@ -105,7 +105,7 @@
     "repository_url": "https://github.com/woodtho/bloc-2-notes",
     "verified_date": "2026-11-18",
     "github_pages_build": "built",
-    "live_content_verification": "24 pages and 3 application/style assets match the local build",
+    "live_content_verification": "25 pages and 5 application/style assets match the local build",
     "browser_checks": [
       "19-lesson library",
       "lesson draft and Known rating restored after reload",
@@ -113,7 +113,7 @@
       "lesson-specific worked-example flashcards and answer reveal"
     ],
     "screenshot": "github-pages-live.jpg",
-    "verified_content_commit": "2f6699d5941bbb3477666be11b02b47d467d8123"
+    "verified_content_commit": "4c6086e5c042adb8a1ba51e2c8677a1ea7935508"
   },
   "lesson_11_18": {
     "source_questions": 37,
@@ -143,7 +143,7 @@
     "balanced_short_sessions": true,
     "result_breakdown": true,
     "missed_and_unanswered_retry": true,
-    "status": "validated locally; prepared for publication",
+    "status": "live",
     "review": "exam-prep-review.md",
     "browser_checks": [
       "pending selection restored after reload",
@@ -151,11 +151,14 @@
       "results include unanswered items",
       "retry excludes the correctly answered question",
       "26-question mixed session",
-      "390px layout: no horizontal overflow, 48px answer rows"
+      "390px layout: no horizontal overflow, 48px answer rows",
+      "published section loads all 78 questions and 13 topic choices"
     ],
     "screenshots": [
       "exam-prep-desktop.jpg",
       "exam-prep-mobile.jpg"
-    ]
+    ],
+    "url": "https://woodtho.github.io/bloc-2-notes/exam-prep.html",
+    "live_content_verified": true
   }
 }
