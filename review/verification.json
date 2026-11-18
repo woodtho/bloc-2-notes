@@ -79,7 +79,8 @@
     "ledger": "consolidation-ledger.json",
     "overview_and_examples_words_before": 47736,
     "overview_and_examples_words_after": 30964,
-    "duplicate_examples_between_notes_and_reference": 0
+    "duplicate_examples_between_notes_and_reference": 0,
+    "word_count_scope": "Historical word counts describe the first 19 lessons; lesson 20 coverage is recorded separately."
   },
   "persistence": {
     "storage": "browser localStorage",
@@ -104,14 +105,15 @@
     "repository_url": "https://github.com/woodtho/bloc-2-notes",
     "verified_date": "2026-11-18",
     "github_pages_build": "built",
-    "live_content_verification": "Prior deployment verified; lesson 20 deployment will be checked after push.",
+    "live_content_verification": "24 pages and 3 application/style assets match the local build",
     "browser_checks": [
       "19-lesson library",
       "lesson draft and Known rating restored after reload",
       "automatic short-answer quiz grading",
       "lesson-specific worked-example flashcards and answer reveal"
     ],
-    "screenshot": "github-pages-live.jpg"
+    "screenshot": "github-pages-live.jpg",
+    "verified_content_commit": "2f6699d5941bbb3477666be11b02b47d467d8123"
   },
   "lesson_11_18": {
     "source_questions": 37,
@@ -120,7 +122,7 @@
     "source_flashcards": 39,
     "new_practice_cards": 144,
     "review": "lesson-11-18-review.md",
-    "status": "validated locally; prepared for publication",
+    "status": "live",
     "browser_checks": [
       "draft and Known restored after reload",
       "37 questions selected by lesson link",
@@ -128,6 +130,8 @@
       "worked-example card reveals its English meaning",
       "no raw Markdown or desktop horizontal overflow"
     ],
-    "screenshot": "lesson-11-18-preview.jpg"
+    "screenshot": "lesson-11-18-preview.jpg",
+    "url": "https://woodtho.github.io/bloc-2-notes/lesson-11-18.html",
+    "live_content_verified": true
   }
 }
