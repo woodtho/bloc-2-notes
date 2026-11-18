@@ -1,10 +1,10 @@
 {
   "rmarkdown_build": "passed",
   "interaction_tests": {
-    "passed": 13,
+    "passed": 21,
     "failed": 0
   },
-  "html_pages": 24,
+  "html_pages": 25,
   "broken_local_links": 0,
   "lessons": 20,
   "original_self_test_items": 659,
@@ -37,7 +37,7 @@
     "repeated_intro_and_editorial_copy_removed": true,
     "built_html_audit": "passed"
   },
-  "current_revision_verification": "R Markdown build; 13 interaction tests; 24-page HTML/link/privacy/coverage audit; 37 new source questions; 144 new cards; browser draft/rating reload, quiz selection and example-card reveal; earlier data and IDs unchanged.",
+  "current_revision_verification": "R Markdown build; 21 interaction tests; 25-page link/privacy/format/coverage audit; 78 exam questions across 13 topics; browser answer and feedback reload, scoring, retry and mobile controls.",
   "site_name": "Bloc 2 notes",
   "lesson_format_review": "all 19 lesson heading counts match the rendered HTML; missing Markdown block boundaries repaired",
   "inline_question_ui": {
@@ -133,5 +133,29 @@
     "screenshot": "lesson-11-18-preview.jpg",
     "url": "https://woodtho.github.io/bloc-2-notes/lesson-11-18.html",
     "live_content_verified": true
+  },
+  "exam_prep": {
+    "topics": 13,
+    "questions": 78,
+    "multiple_choice_only": true,
+    "questions_per_topic": 6,
+    "saved_session": true,
+    "balanced_short_sessions": true,
+    "result_breakdown": true,
+    "missed_and_unanswered_retry": true,
+    "status": "validated locally; prepared for publication",
+    "review": "exam-prep-review.md",
+    "browser_checks": [
+      "pending selection restored after reload",
+      "checked answer and feedback restored after reload",
+      "results include unanswered items",
+      "retry excludes the correctly answered question",
+      "26-question mixed session",
+      "390px layout: no horizontal overflow, 48px answer rows"
+    ],
+    "screenshots": [
+      "exam-prep-desktop.jpg",
+      "exam-prep-mobile.jpg"
+    ]
   }
 }

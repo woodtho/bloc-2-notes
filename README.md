@@ -14,6 +14,9 @@ Each lesson is self-contained. Repeated overviews, rules and corrections within 
 - 659 reviewed original self-test questions, plus supplementary practice: 969 quiz items.
 - All 438 source example-bank entries and 1,221 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
 - 2,647 flashcards, filterable by lesson, topic and material.
+- Final exam prep: 78 multiple-choice questions across all 13 checklist topics. Full review covers every question; shorter mixed sessions balance the topics. Topic practice, English feedback, scores by topic and missed/unanswered-question retries are included.
+
+Exam selections, checked answers, option order and session position also survive reloads.
 
 Lesson answer drafts and Known/To review ratings save automatically in browser local storage, shared with the corresponding quiz questions. Flashcard ratings also persist. Saved progress belongs to that browser and website address; it does not sync between devices or move automatically from local files to the published site. If storage is unavailable, practice still works and the page reports that answers cannot be saved.
 
@@ -38,11 +41,11 @@ Publish the `main` branch’s `/docs` directory using Settings → Pages → Dep
 ## Verification
 
 ```text
-node --test tests/study.test.cjs
+node --test tests/study.test.cjs tests/exam.test.cjs
 python tests/audit.py
 ```
 
-The 13 interaction tests cover grading, filters, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 24 pages, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
+The 21 interaction tests cover grading, filters, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 25 pages, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
 
 An optional local-only source-name blocklist can be supplied using `BLOC2_PRIVACY_PATTERNS_FILE`. The blocklist and raw exports are outside this repo. Automated checks complement editorial review; they cannot independently prove semantic completeness or anonymization.
 

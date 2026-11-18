@@ -169,3 +169,16 @@ input[type=search],select{font-size:16px}
 .question-controls .button{min-height:40px}
 .source-question summary,.lesson-question summary{min-height:32px}
 }
+
+/* Multiple-choice exam practice */
+.exam-options{border:0;margin:0 0 12px;padding:0;min-width:0}
+.exam-options legend{font-size:14px;color:var(--muted);margin-bottom:8px;padding:0}
+.exam-choice{display:flex;align-items:flex-start;gap:12px;padding:10px 12px;border:1px solid var(--line);margin:0 0 8px;cursor:pointer;min-height:44px}
+.exam-choice input{margin:6px 0 0;accent-color:var(--accent);flex-shrink:0}
+.exam-choice>span:first-of-type{flex:1;min-width:0;overflow-wrap:anywhere}
+.exam-choice.is-correct{border-color:#20583a;background:#f3f7f4}
+.exam-choice.is-wrong{border-color:#a1342b;background:#fbf5f4}
+.exam-choice-note{font-size:14px;color:var(--muted)}
+.exam-breakdown{list-style:none;padding:0;margin:8px 0 20px;max-width:720px}
+.exam-breakdown li{display:flex;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);padding:6px 0;margin:0;font-size:15px}
+@media(max-width:760px){.exam-choice{flex-wrap:wrap}.exam-choice-note{width:100%;padding-left:28px}}

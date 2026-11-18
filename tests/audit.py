@@ -28,7 +28,7 @@ class Page(HTMLParser):
   if self.browser_title:self.title_text+=data
 
 pages={p.name:Page(p.read_text(encoding='utf-8')) for p in SITE.glob('*.html')}
-assert len(pages)==24,(len(pages),'expected 24 HTML pages')
+assert len(pages)==25,(len(pages),'expected 25 HTML pages')
 assert 'about.html' not in pages,'Study guide page was not removed'
 broken=[]
 for name,page in pages.items():
@@ -57,6 +57,7 @@ for name,page in pages.items():
   assert script in page.scripts,(name,'missing practice script',script)
 assert not broken,broken
 text='\n'.join(' '.join(p.text) for p in pages.values())+(ROOT/'assets/data.js').read_text(encoding='utf-8')
+text+=(ROOT/'assets/exam-data.js').read_text(encoding='utf-8')
 for removed in ('French notes for English-speaking learners','French lessons explained in English, with examples, vocabulary, quizzes and flashcards.','Study guide','Examples are fictional or generic. Names, personal routes and identifying details have been removed. Explanations are in English.'):
  assert removed not in text,('removed site copy remains',removed)
 # Optional local-only source-name patterns are never committed with the site.
@@ -112,3 +113,13 @@ new_source=(ROOT/'lesson-11-18.Rmd').read_text(encoding='utf-8')
 for q in (q for q in data['questions'] if q['lesson']=='11-18'):
  assert f'<span>{q["source_item"]}. {html.escape(q["prompt"])}</span>' in new_source,('inline/quiz prompt mismatch',q['id'])
  assert f'<p>{html.escape(q["answer"])}</p>' in new_source,('inline/quiz answer mismatch',q['id'])
+
+# The new standalone exam scripts must be present and match their editable source.
+assert 'exam-prep.html' in pages
+for asset in ['exam-data.js','exam.js']:
+ assert 'assets/'+asset in pages['exam-prep.html'].scripts
+ assert (ROOT/'assets'/asset).read_text(encoding='utf-8')==(SITE/'assets'/asset).read_text(encoding='utf-8'),asset
+exam_raw=(ROOT/'assets/exam-data.js').read_text(encoding='utf-8')
+exam=json.loads(exam_raw[exam_raw.index('{'):exam_raw.rindex(';')])
+assert len(exam['topics'])==13 and len(exam['questions'])==78
+assert all((SITE/f"lesson-{q['lesson']}.html").exists() for q in exam['questions'])

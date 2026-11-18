@@ -1,0 +1,15 @@
+---
+title: "Final exam prep"
+pagetitle: "Final exam prep | Bloc 2 notes"
+---
+
+<section id="exam-setup" class="practice-setup"><div class="filter-row"><label for="exam-topic">Topic<select id="exam-topic"></select></label><label for="exam-length">Questions<select id="exam-length"><option value="13">13 questions</option><option value="26">26 questions</option><option value="all" selected>All matching questions</option></select></label></div><div class="setup-bottom"><p id="exam-available" aria-live="polite"></p><button id="exam-start" class="button" type="button">Start practice</button></div></section>
+
+<section id="exam-play" class="quiz-panel" hidden><div class="practice-top"><span id="exam-position"></span><span id="exam-score" role="status"></span></div><progress id="exam-progress" value="0" max="78" aria-label="Exam practice progress"></progress><p id="exam-topic-label" class="small-note"></p><h2 id="exam-prompt" tabindex="-1"></h2><form id="exam-form"><fieldset class="exam-options"><legend>Choose one answer</legend><div id="exam-choices"></div></fieldset><button id="exam-check" type="submit" class="button" disabled>Check answer</button></form><div id="exam-feedback" class="answer-feedback" role="status" hidden></div><a id="exam-lesson" class="small-link" href="lessons.html">Review lesson</a><div class="quiz-bottom"><button id="exam-end" type="button" class="text-button">End session</button><button id="exam-next" type="button" class="button" disabled>Next question</button></div></section>
+
+<section id="exam-results" class="results-panel" hidden tabindex="-1"><h2 id="exam-result-title"></h2><p id="exam-result-detail"></p><h3>By topic</h3><ul id="exam-breakdown" class="exam-breakdown"></ul><div class="hero-actions"><button id="exam-retry" type="button" class="button">Retry missed questions</button><button id="exam-new" type="button" class="button secondary">Choose another session</button></div><div id="exam-review"></div></section>
+
+<p id="exam-storage-note" class="small-note" role="status" hidden>Progress cannot be saved in this browser.</p>
+<noscript><p>Enable JavaScript to run the multiple-choice practice.</p></noscript>
+<script src="assets/exam-data.js?v=20261118-exam"></script>
+<script src="assets/exam.js?v=20261118-exam"></script>
