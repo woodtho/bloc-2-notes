@@ -264,5 +264,21 @@
     "original_vocabulary_entries": 73,
     "original_example_bank_entries": 43,
     "consolidated_example_locations": 9
+  },
+  {
+    "lesson": "11-18",
+    "title": "Tense review, spelling & the near future",
+    "source_sha256": "2bff9760cf2b32440a966af6d27d8dcba1f0bcc2936b8a2d845454af0830a096",
+    "source": "11-18 French Lesson_ Tenses, Conjugation Rules, and Final Test Review-Summary.md",
+    "vocabulary_entries": 69,
+    "quiz_questions": 37,
+    "original_self_test_questions": 37,
+    "example_bank_entries": 0,
+    "editing": "English consolidated lesson; corrected grammar qualifications; personal and administrative material removed; item 33 adapted to a generic date exercise.",
+    "original_vocabulary_entries": 69,
+    "original_example_bank_entries": 19,
+    "consolidated_example_locations": 19,
+    "original_flashcard_entries": 39,
+    "practice_cards": 144
   }
 ]

@@ -109,10 +109,10 @@ test('blocked or malformed answer storage does not prevent practice',()=>{
   assert.equal(walk(reload.inlineParent).find(x=>x.tagName==='TEXTAREA').value,'Recovered');
 });
 
-test('19 complete lessons and valid practice references',()=>{
-  const r=runtime();assert.equal(r.data.lessons.length,19);assert.equal(r.data.questions.length,932);assert.equal(r.data.cards.length,2503);
-  assert.equal(r.data.questions.filter(q=>q.origin==='reviewed original self-test').length,622);
-  assert.equal(r.data.cards.filter(c=>c.kind==='Examples').length,419);
+test('20 complete lessons and valid practice references',()=>{
+  const r=runtime();assert.equal(r.data.lessons.length,20);assert.equal(r.data.questions.length,969);assert.equal(r.data.cards.length,2647);
+  assert.equal(r.data.questions.filter(q=>q.origin==='reviewed original self-test').length,659);
+  assert.equal(r.data.cards.filter(c=>c.kind==='Examples').length,438);
   const manifest=JSON.parse(fs.readFileSync(path.join(root,'review/source-manifest.json'),'utf8'));
   for(const m of manifest){
     const sourceItems=r.data.questions.filter(q=>q.lesson===m.lesson&&q.origin==='reviewed original self-test');
@@ -179,14 +179,26 @@ test('reverse direction affects vocabulary, not rule cards; blocked storage does
   r.$('card-start').fire('click');assert.equal(r.$('card-front').textContent,'Explain the rule');
 });
 test('library search and sorting render the expected lesson subset',()=>{
-  const r=runtime('lessons');assert.equal(r.$('lesson-grid').children.length,19);
-  r.$('lesson-search').value='imparfait';r.$('lesson-search').fire('input');assert.equal(r.$('lesson-grid').children.length,1);
+  const r=runtime('lessons');assert.equal(r.$('lesson-grid').children.length,20);
+  r.$('lesson-search').value='imparfait';r.$('lesson-search').fire('input');assert.equal(r.$('lesson-grid').children.length,2);
   assert.match(r.$('lesson-grid').allText,/Passé composé/);
   r.$('lesson-search').value='no such material';r.$('lesson-search').fire('input');assert.match(r.$('lesson-grid').allText,/No lessons match/);
 });
 test('home opens the searchable lesson list',()=>{
-  const r=runtime('home');assert.equal(r.$('lesson-grid').children.length,19);
+  const r=runtime('home');assert.equal(r.$('lesson-grid').children.length,20);
   r.$('lesson-search').value='imparfait';r.$('lesson-search').fire('input');
-  assert.equal(r.$('lesson-grid').children.length,1);
+  assert.equal(r.$('lesson-grid').children.length,2);
   assert.match(r.$('lesson-grid').allText,/Passé composé/);
+});
+
+test('new lesson has selectable quizzes, cards and stable source question identities',()=>{
+  const quiz=runtime('quizzes',false,'?lesson=11-18');
+  assert.equal(quiz.$('quiz-lesson').value,'11-18');
+  assert.match(quiz.$('quiz-available').textContent,/37 questions/);
+  const cards=runtime('cards',false,'?lesson=11-18');
+  cards.$('card-kind').value='Examples';cards.$('card-kind').fire('change');
+  assert.match(cards.$('card-available').textContent,/19 cards match/);
+  assert.equal(cards.data.questions.filter(q=>q.lesson==='11-18').length,37);
+  const library=runtime('lessons');library.$('lesson-order').value='recent';library.$('lesson-order').fire('change');
+  assert.match(library.$('lesson-grid').children[0].allText,/Tense review, spelling/);
 });

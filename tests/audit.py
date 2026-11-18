@@ -2,7 +2,7 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
-import json,re,os,unicodedata
+import json,re,os,unicodedata,html
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'docs'
@@ -28,7 +28,7 @@ class Page(HTMLParser):
   if self.browser_title:self.title_text+=data
 
 pages={p.name:Page(p.read_text(encoding='utf-8')) for p in SITE.glob('*.html')}
-assert len(pages)==23,(len(pages),'expected 23 HTML pages')
+assert len(pages)==24,(len(pages),'expected 24 HTML pages')
 assert 'about.html' not in pages,'Study guide page was not removed'
 broken=[]
 for name,page in pages.items():
@@ -69,12 +69,12 @@ assert not re.search(r'\b(?:\d{3}[- ])?\d{3}[- ]\d{4}\b|[\w.+-]+@[\w.-]+\.[a-z]{
 raw=(ROOT/'assets/data.js').read_text(encoding='utf-8')
 data=json.loads(raw[raw.index('{'):raw.rindex(';')])
 manifest=json.loads((ROOT/'review/source-manifest.json').read_text(encoding='utf-8'))
-assert len(manifest)==19
-assert sum(m['quiz_questions'] for m in manifest)==len(data['questions'])==932
-assert sum(m['original_self_test_questions'] for m in manifest)==622
-assert sum(m['original_example_bank_entries'] for m in manifest)==419
-assert sum(m['original_vocabulary_entries'] for m in manifest)==1152
-assert len(data['cards'])==2503
+assert len(manifest)==20
+assert sum(m['quiz_questions'] for m in manifest)==len(data['questions'])==969
+assert sum(m['original_self_test_questions'] for m in manifest)==659
+assert sum(m['original_example_bank_entries'] for m in manifest)==438
+assert sum(m['original_vocabulary_entries'] for m in manifest)==1221
+assert len(data['cards'])==2647
 assert not list(SITE.glob('*Summary*')),'raw export included in output'
 print(json.dumps({'html_pages':len(pages),'broken_local_links':len(broken),'quiz_questions':len(data['questions']),'flashcards':len(data['cards']),'privacy_scan':'passed','page_structure':'passed'},indent=2))
 
@@ -82,9 +82,9 @@ print(json.dumps({'html_pages':len(pages),'broken_local_links':len(broken),'quiz
 def norm(s):
  return re.sub(r'[^\w]+','',unicodedata.normalize('NFC',s).casefold())
 ledger=json.loads((ROOT/'review/consolidation-ledger.json').read_text(encoding='utf-8'))
-assert len(ledger)==19
-assert sum(len(x['examples']) for x in ledger)==419
-assert sum(len(x['vocabulary']) for x in ledger)==1152
+assert len(ledger)==20
+assert sum(len(x['examples']) for x in ledger)==438
+assert sum(len(x['vocabulary']) for x in ledger)==1221
 question_ids=[]
 for item in ledger:
  source=(ROOT/f"lesson-{item['lesson']}.Rmd").read_text(encoding='utf-8')
@@ -99,6 +99,16 @@ for item in ledger:
   notes=source[:examples.start()]
   assert not any(key in norm(notes) for key in keys),(item['lesson'],'example repeated in notes and reference')
  question_ids+=re.findall(r'data-question-id="([^"]+)"',source)
-assert len(question_ids)==670 and len(set(question_ids))==670
+assert len(question_ids)==707 and len(set(question_ids))==707
 assert set(question_ids)<=set(q['id'] for q in data['questions'])
-print(json.dumps({'source_examples_retained':419,'source_vocabulary_retained':1152,'stable_inline_question_ids':len(question_ids),'consolidation_coverage':'passed'},indent=2))
+print(json.dumps({'source_examples_retained':438,'source_vocabulary_retained':1221,'stable_inline_question_ids':len(question_ids),'consolidation_coverage':'passed'},indent=2))
+
+# The new source flashcards all map to usable practice cards after consolidation.
+new_lesson=next(x for x in ledger if x['lesson']=='11-18')
+assert len(new_lesson['flashcards'])==39
+assert all(entry['card_id'] in {c['id'] for c in data['cards']} for entry in new_lesson['flashcards'])
+
+new_source=(ROOT/'lesson-11-18.Rmd').read_text(encoding='utf-8')
+for q in (q for q in data['questions'] if q['lesson']=='11-18'):
+ assert f'<span>{q["source_item"]}. {html.escape(q["prompt"])}</span>' in new_source,('inline/quiz prompt mismatch',q['id'])
+ assert f'<p>{html.escape(q["answer"])}</p>' in new_source,('inline/quiz answer mismatch',q['id'])

@@ -227,6 +227,18 @@ window.FRENCH_STUDY = {
       "summary": "Form the main past tenses, choose an auxiliary, and distinguish completed events from background.",
       "slug": "lesson-11-16",
       "order": 19
+    },
+    {
+      "date": "11-18",
+      "title": "Tense review, spelling & the near future",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "summary": "Form the imparfait and futur proche, check conjugation spelling, and practise ordering takeout.",
+      "slug": "lesson-11-18",
+      "order": 20
     }
   ],
   "questions": [
@@ -15782,6 +15794,653 @@ window.FRENCH_STUDY = {
       ],
       "mode": "self",
       "origin": "adapted source question"
+    },
+    {
+      "id": "11-18-source-001",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: le linge",
+      "answer": "the laundry",
+      "accepted": [
+        "the laundry",
+        "laundry",
+        "washing",
+        "the washing"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 1
+    },
+    {
+      "id": "11-18-source-002",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: un déguisement",
+      "answer": "a disguise",
+      "accepted": [
+        "a disguise",
+        "disguise",
+        "a costume",
+        "costume"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 2
+    },
+    {
+      "id": "11-18-source-003",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What does sécher mean?",
+      "answer": "to dry",
+      "accepted": [
+        "to dry",
+        "dry"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 3
+    },
+    {
+      "id": "11-18-source-004",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate into French: \"I'm delighted to see you.\"",
+      "answer": "Je suis ravi(e) de vous voir.",
+      "accepted": [
+        "Je suis ravi(e) de vous voir."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 4
+    },
+    {
+      "id": "11-18-source-005",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"Who won?\"",
+      "answer": "Qui a gagné?",
+      "accepted": [
+        "Qui a gagné?"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 5
+    },
+    {
+      "id": "11-18-source-006",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: la pause",
+      "answer": "the break",
+      "accepted": [
+        "the break",
+        "a break",
+        "break",
+        "pause",
+        "the pause"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 6
+    },
+    {
+      "id": "11-18-source-007",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What does recevoir mean?",
+      "answer": "to receive",
+      "accepted": [
+        "to receive",
+        "receive"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 7
+    },
+    {
+      "id": "11-18-source-008",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"every day\"",
+      "answer": "tous les jours",
+      "accepted": [
+        "tous les jours"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 8
+    },
+    {
+      "id": "11-18-source-009",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"yesterday\"",
+      "answer": "hier",
+      "accepted": [
+        "hier"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 9
+    },
+    {
+      "id": "11-18-source-010",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What is the usual learner distinction between visiter and rendre visite à?",
+      "answer": "Visiter is the usual model for places; rendre visite à is the standard model for visiting people. Contextual/regional uses of visiter with people exist.",
+      "accepted": [
+        "Visiter is the usual model for places; rendre visite à is the standard model for visiting people. Contextual/regional uses of visiter with people exist."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 10
+    },
+    {
+      "id": "11-18-source-011",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: vider la poubelle",
+      "answer": "to empty the trash",
+      "accepted": [
+        "to empty the trash",
+        "empty the trash",
+        "to empty the garbage",
+        "empty the garbage"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 11
+    },
+    {
+      "id": "11-18-source-012",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Fill in the blank: faire la [blank] means to do the laundry.",
+      "answer": "lessive",
+      "accepted": [
+        "lessive"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 12
+    },
+    {
+      "id": "11-18-source-013",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"a takeout order.\"",
+      "answer": "une commande à emporter",
+      "accepted": [
+        "une commande à emporter"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 13
+    },
+    {
+      "id": "11-18-source-014",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"to come and get / to pick up.\"",
+      "answer": "venir chercher",
+      "accepted": [
+        "venir chercher"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 14
+    },
+    {
+      "id": "11-18-source-015",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "State the three-step formula for forming the imparfait and its main stem exception.",
+      "answer": "Take the present nous form, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient. Être uses ét-. Check spelling adjustments such as mangions/mangiez.",
+      "accepted": [
+        "Take the present nous form, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient. Être uses ét-. Check spelling adjustments such as mangions/mangiez."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 15
+    },
+    {
+      "id": "11-18-source-016",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Give the six imperfect endings in order.",
+      "answer": "-ais, -ais, -ait, -ions, -iez, -aient.",
+      "accepted": [
+        "-ais, -ais, -ait, -ions, -iez, -aient."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 16
+    },
+    {
+      "id": "11-18-source-017",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate sécher in the imperfect, 3rd person singular (il/elle).",
+      "answer": "il séchait",
+      "accepted": [
+        "il séchait",
+        "elle séchait",
+        "séchait"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 17
+    },
+    {
+      "id": "11-18-source-018",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "How do you find the imparfait stem of voir? Give the il, nous and vous forms.",
+      "answer": "Nous voyons gives voy-: il voyait, nous voyions, vous voyiez. Retain the i after y.",
+      "accepted": [
+        "Nous voyons gives voy-: il voyait, nous voyions, vous voyiez. Retain the i after y."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 18
+    },
+    {
+      "id": "11-18-source-019",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate recevoir in the present for je, tu, il/elle/on, nous, vous and ils/elles.",
+      "answer": "je reçois; tu reçois; il/elle/on reçoit; nous recevons; vous recevez; ils/elles reçoivent",
+      "accepted": [
+        "je reçois; tu reçois; il/elle/on reçoit; nous recevons; vous recevez; ils/elles reçoivent"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 19
+    },
+    {
+      "id": "11-18-source-020",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "True or false: ordinary c before o or a gives /s/. Explain the role of ç.",
+      "answer": "False: ordinary c before a/o/u normally gives /k/. Ç keeps /s/ before those vowels. Ordinary c before e/i/y normally gives /s/; c + r is not a soft-c rule.",
+      "accepted": [
+        "False: ordinary c before a/o/u normally gives /k/. Ç keeps /s/ before those vowels. Ordinary c before e/i/y normally gives /s/; c + r is not a soft-c rule."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 20
+    },
+    {
+      "id": "11-18-source-021",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "In which two imparfait forms of manger is the extra e omitted? Contrast the present nous form.",
+      "answer": "Nous mangions and vous mangiez omit the extra e before i. The other imparfait forms have mangea-. Present nous mangeons retains e before o.",
+      "accepted": [
+        "Nous mangions and vous mangiez omit the extra e before i. The other imparfait forms have mangea-. Present nous mangeons retains e before o."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 21
+    },
+    {
+      "id": "11-18-source-022",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate aller in the present tense (all forms).",
+      "answer": "je vais, tu vas, il va, elle va, on va, nous allons, vous allez, ils vont, elles vont.",
+      "accepted": [
+        "je vais, tu vas, il va, elle va, on va, nous allons, vous allez, ils vont, elles vont."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 22
+    },
+    {
+      "id": "11-18-source-023",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Identify the tense in En général, j’avais de bonnes notes and explain the viewpoint.",
+      "answer": "Imparfait: avais describes a habitual/general past situation. En général helps the interpretation but does not mechanically require that tense.",
+      "accepted": [
+        "Imparfait: avais describes a habitual/general past situation. En général helps the interpretation but does not mechanically require that tense."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 23
+    },
+    {
+      "id": "11-18-source-024",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Which expression points to future time: hier, demain or toujours? Does it alone prove futur proche?",
+      "answer": "Demain means tomorrow. It can accompany a present form, futur proche or futur simple; inspect the verb construction.",
+      "accepted": [
+        "Demain means tomorrow. It can accompany a present form, futur proche or futur simple; inspect the verb construction."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 24
+    },
+    {
+      "id": "11-18-source-025",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Is Demain, le président va au sommet du G7 grammatically futur proche or present? Explain.",
+      "answer": "Present: va is present aller followed by a destination, not an infinitive. Demain gives future meaning without changing the verb’s grammatical form.",
+      "accepted": [
+        "Present: va is present aller followed by a destination, not an infinitive. Demain gives future meaning without changing the verb’s grammatical form."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 25
+    },
+    {
+      "id": "11-18-source-026",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "With ordinary être + aller and a masculine singular subject, choose allé or allée.",
+      "answer": "allé",
+      "accepted": [
+        "allé"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 26
+    },
+    {
+      "id": "11-18-source-027",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Convert to the imperfect: Le linge sèche rapidement.",
+      "answer": "Le linge séchait rapidement.",
+      "accepted": [
+        "Le linge séchait rapidement."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 27
+    },
+    {
+      "id": "11-18-source-028",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Write a sentence announcing that it is the next player’s turn.",
+      "answer": "C’est le tour du joueur suivant. General pattern: C’est le tour de + person/role.",
+      "accepted": [
+        "C’est le tour du joueur suivant. General pattern: C’est le tour de + person/role."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 28
+    },
+    {
+      "id": "11-18-source-029",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Build a futur proche sentence meaning \"I'm going to order a pizza.\"",
+      "answer": "Je vais commander une pizza.",
+      "accepted": [
+        "Je vais commander une pizza."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 29
+    },
+    {
+      "id": "11-18-source-030",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Combine an imparfait background action with a passé composé interruption.",
+      "answer": "Example: Je regardais la télévision quand le téléphone a sonné.",
+      "accepted": [
+        "Example: Je regardais la télévision quand le téléphone a sonné."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 30
+    },
+    {
+      "id": "11-18-source-031",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Build a sentence: order a four-cheese pizza using Je vais prendre...",
+      "answer": "Je vais prendre une pizza quatre fromages.",
+      "accepted": [
+        "Je vais prendre une pizza quatre fromages."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 31
+    },
+    {
+      "id": "11-18-source-032",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Build a sentence saying you'll come pick up the order at 1 p.m.",
+      "answer": "Nous allons venir chercher la commande à treize heures.",
+      "accepted": [
+        "Nous allons venir chercher la commande à treize heures."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 32
+    },
+    {
+      "id": "11-18-source-033",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "An appointment is booked for November 30. Correct the mistaken French date: le treize novembre.",
+      "answer": "le trente novembre",
+      "accepted": [
+        "le trente novembre",
+        "trente novembre"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 33
+    },
+    {
+      "id": "11-18-source-034",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct the spelling: \"garcon\" (meaning boy).",
+      "answer": "garçon",
+      "accepted": [
+        "garçon"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 34
+    },
+    {
+      "id": "11-18-source-035",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct if needed: \"Hier, je vais acheter du pain.\" (meaning: Yesterday I bought bread)",
+      "answer": "Incorrect — past meaning needs passé composé: Hier, j'ai acheté du pain.",
+      "accepted": [
+        "Incorrect — past meaning needs passé composé: Hier, j'ai acheté du pain."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 35
+    },
+    {
+      "id": "11-18-source-036",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct if needed: \"Je vais mange.\"",
+      "answer": "Je vais manger.",
+      "accepted": [
+        "Je vais manger."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 36
+    },
+    {
+      "id": "11-18-source-037",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct the agreement for a masculine singular subject: Il est allée au magasin.",
+      "answer": "Il est allé au magasin.",
+      "accepted": [
+        "Il est allé au magasin."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 37
     }
   ],
   "cards": [
@@ -46972,6 +47631,1803 @@ window.FRENCH_STUDY = {
       "front": "j’aime me brosser les dents",
       "back": "I like to brush my teeth",
       "kind": "Examples"
+    },
+    {
+      "id": "11-18-v001",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "en forme",
+      "back": "in good shape / feeling well — \"Tout le monde est en forme ?\"",
+      "kind": "Vocabulary",
+      "translation": "in good shape / feeling well"
+    },
+    {
+      "id": "11-18-v002",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ravi(e)",
+      "back": "delighted — \"Je suis ravi de vous voir.\"",
+      "kind": "Vocabulary",
+      "translation": "delighted"
+    },
+    {
+      "id": "11-18-v003",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un jeu",
+      "back": "a game",
+      "kind": "Vocabulary",
+      "translation": "a game"
+    },
+    {
+      "id": "11-18-v004",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "serpents et échelles",
+      "back": "snakes and ladders — A conjugation-practice board game.",
+      "kind": "Vocabulary",
+      "translation": "snakes and ladders"
+    },
+    {
+      "id": "11-18-v005",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un joueur",
+      "back": "a player — joueur un, joueur deux…",
+      "kind": "Vocabulary",
+      "translation": "a player"
+    },
+    {
+      "id": "11-18-v006",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "lancer le dé",
+      "back": "to roll the dice — Game vocabulary",
+      "kind": "Vocabulary",
+      "translation": "to roll the dice"
+    },
+    {
+      "id": "11-18-v007",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "sécher",
+      "back": "to dry — \"Le linge sèche rapidement\"",
+      "kind": "Vocabulary",
+      "translation": "to dry"
+    },
+    {
+      "id": "11-18-v008",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le linge",
+      "back": "laundry / washing — Masculine noun",
+      "kind": "Vocabulary",
+      "translation": "laundry / washing"
+    },
+    {
+      "id": "11-18-v009",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un déguisement",
+      "back": "a disguise / costume — Metaphor for the imperfect \"disguise\" of a verb",
+      "kind": "Vocabulary",
+      "translation": "a disguise / costume"
+    },
+    {
+      "id": "11-18-v010",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "conjugué / un conjugueur",
+      "back": "conjugated / a conjugation tool — Conjugué is a participle/adjective; un conjugueur is a tool.",
+      "kind": "Vocabulary",
+      "translation": "conjugated / a conjugation tool"
+    },
+    {
+      "id": "11-18-v011",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Reverso",
+      "back": "(brand) online dictionary/translator — Recommended for checking meaning",
+      "kind": "Vocabulary",
+      "translation": "(brand) online dictionary/translator"
+    },
+    {
+      "id": "11-18-v012",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "porter",
+      "back": "to carry / to wear",
+      "kind": "Vocabulary",
+      "translation": "to carry / to wear"
+    },
+    {
+      "id": "11-18-v013",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "voir",
+      "back": "to see — Present nous voyons; imparfait voy-: voyait, voyions, voyiez.",
+      "kind": "Vocabulary",
+      "translation": "to see"
+    },
+    {
+      "id": "11-18-v014",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une orange",
+      "back": "an orange — \"orange, a bit sour\"",
+      "kind": "Vocabulary",
+      "translation": "an orange"
+    },
+    {
+      "id": "11-18-v015",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "blond / blondir",
+      "back": "blond / to become blond — Dye one’s hair blond: se faire teindre les cheveux en blond.",
+      "kind": "Vocabulary",
+      "translation": "blond / to become blond"
+    },
+    {
+      "id": "11-18-v016",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "manger",
+      "back": "to eat — Imparfait mangeais but mangions/mangiez; present nous mangeons preserves soft g.",
+      "kind": "Vocabulary",
+      "translation": "to eat"
+    },
+    {
+      "id": "11-18-v017",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "recevoir",
+      "back": "to receive — Present: je reçois, tu reçois, il/elle/on reçoit, nous recevons, vous recevez, ils/elles reçoivent.",
+      "kind": "Vocabulary",
+      "translation": "to receive"
+    },
+    {
+      "id": "11-18-v018",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "garçon",
+      "back": "boy — Example of cédille use",
+      "kind": "Vocabulary",
+      "translation": "boy"
+    },
+    {
+      "id": "11-18-v019",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "français",
+      "back": "French — Example of cédille use",
+      "kind": "Vocabulary",
+      "translation": "French"
+    },
+    {
+      "id": "11-18-v020",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la pause",
+      "back": "the break / pause — Feminine noun.",
+      "kind": "Vocabulary",
+      "translation": "the break / pause"
+    },
+    {
+      "id": "11-18-v021",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le passé",
+      "back": "the past (tense)",
+      "kind": "Vocabulary",
+      "translation": "the past (tense)"
+    },
+    {
+      "id": "11-18-v022",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le futur",
+      "back": "the future / future tense — French futur has no final e.",
+      "kind": "Vocabulary",
+      "translation": "the future / future tense"
+    },
+    {
+      "id": "11-18-v023",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "les indicateurs",
+      "back": "indicators / markers — Time markers associated with tenses",
+      "kind": "Vocabulary",
+      "translation": "indicators / markers"
+    },
+    {
+      "id": "11-18-v024",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Qui a gagné?",
+      "back": "Who won? — Game-related question",
+      "kind": "Vocabulary",
+      "translation": "Who won?"
+    },
+    {
+      "id": "11-18-v025",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "tous les jours",
+      "back": "every day — A habit can be present or past; check the verb and context.",
+      "kind": "Vocabulary",
+      "translation": "every day"
+    },
+    {
+      "id": "11-18-v026",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "chaque semaine / chaque mois / chaque année",
+      "back": "each week / month / year — Repeated time periods; not restricted to one tense.",
+      "kind": "Vocabulary",
+      "translation": "each week / month / year"
+    },
+    {
+      "id": "11-18-v027",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "en général",
+      "back": "in general — Often describes a general or habitual situation.",
+      "kind": "Vocabulary",
+      "translation": "in general"
+    },
+    {
+      "id": "11-18-v028",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "toujours",
+      "back": "always — Not restricted to the imparfait.",
+      "kind": "Vocabulary",
+      "translation": "always"
+    },
+    {
+      "id": "11-18-v029",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le lundi, le mardi…",
+      "back": "on Mondays, on Tuesdays… — Often habitual; a full date can identify one particular day.",
+      "kind": "Vocabulary",
+      "translation": "on Mondays, on Tuesdays…"
+    },
+    {
+      "id": "11-18-v030",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "hier",
+      "back": "yesterday — Past time; either completed events or background are possible.",
+      "kind": "Vocabulary",
+      "translation": "yesterday"
+    },
+    {
+      "id": "11-18-v031",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "dernier (le mois dernier)",
+      "back": "last (last month) — A past-time expression, not a mechanical tense selector.",
+      "kind": "Vocabulary",
+      "translation": "last (last month)"
+    },
+    {
+      "id": "11-18-v032",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ensuite",
+      "back": "next / then — Orders events; not restricted to past narration.",
+      "kind": "Vocabulary",
+      "translation": "next / then"
+    },
+    {
+      "id": "11-18-v033",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "après (après ça)",
+      "back": "after (after that) — Relative time or sequence; not restricted to passé composé.",
+      "kind": "Vocabulary",
+      "translation": "after (after that)"
+    },
+    {
+      "id": "11-18-v034",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "demain",
+      "back": "tomorrow — Future clue",
+      "kind": "Vocabulary",
+      "translation": "tomorrow"
+    },
+    {
+      "id": "11-18-v035",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "acheter",
+      "back": "to buy — -er verb, 1st group",
+      "kind": "Vocabulary",
+      "translation": "to buy"
+    },
+    {
+      "id": "11-18-v036",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "commander",
+      "back": "to order",
+      "kind": "Vocabulary",
+      "translation": "to order"
+    },
+    {
+      "id": "11-18-v037",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "prendre une douche",
+      "back": "to take a shower — une douche = a shower",
+      "kind": "Vocabulary",
+      "translation": "to take a shower"
+    },
+    {
+      "id": "11-18-v038",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "regarder la télévision",
+      "back": "to watch TV",
+      "kind": "Vocabulary",
+      "translation": "to watch TV"
+    },
+    {
+      "id": "11-18-v039",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "téléphoner à",
+      "back": "to call (phone)",
+      "kind": "Vocabulary",
+      "translation": "to call (phone)"
+    },
+    {
+      "id": "11-18-v040",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire des crêpes",
+      "back": "to make crêpes",
+      "kind": "Vocabulary",
+      "translation": "to make crêpes"
+    },
+    {
+      "id": "11-18-v041",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "étudier",
+      "back": "to study",
+      "kind": "Vocabulary",
+      "translation": "to study"
+    },
+    {
+      "id": "11-18-v042",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "promener le chien",
+      "back": "to walk the dog",
+      "kind": "Vocabulary",
+      "translation": "to walk the dog"
+    },
+    {
+      "id": "11-18-v043",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "partir",
+      "back": "to leave",
+      "kind": "Vocabulary",
+      "translation": "to leave"
+    },
+    {
+      "id": "11-18-v044",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire la lessive / les lessives",
+      "back": "to do the laundry — A faire expression",
+      "kind": "Vocabulary",
+      "translation": "to do the laundry"
+    },
+    {
+      "id": "11-18-v045",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "rendre visite à",
+      "back": "to visit a person — Standard learner model for visiting people.",
+      "kind": "Vocabulary",
+      "translation": "to visit a person"
+    },
+    {
+      "id": "11-18-v046",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "visiter",
+      "back": "to visit a place — Usual model for cities/museums; uses with people exist in some contexts and regions.",
+      "kind": "Vocabulary",
+      "translation": "to visit a place"
+    },
+    {
+      "id": "11-18-v047",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "aider",
+      "back": "to help",
+      "kind": "Vocabulary",
+      "translation": "to help"
+    },
+    {
+      "id": "11-18-v048",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "chercher du travail",
+      "back": "to look for work",
+      "kind": "Vocabulary",
+      "translation": "to look for work"
+    },
+    {
+      "id": "11-18-v049",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "vider la poubelle",
+      "back": "to empty the trash",
+      "kind": "Vocabulary",
+      "translation": "to empty the trash"
+    },
+    {
+      "id": "11-18-v050",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "jouer au foot / football",
+      "back": "to play soccer — American football = football américain",
+      "kind": "Vocabulary",
+      "translation": "to play soccer"
+    },
+    {
+      "id": "11-18-v051",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "aller au lit",
+      "back": "to go to bed",
+      "kind": "Vocabulary",
+      "translation": "to go to bed"
+    },
+    {
+      "id": "11-18-v052",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire des courses",
+      "back": "to go shopping / run errands — Can refer to grocery shopping in context.",
+      "kind": "Vocabulary",
+      "translation": "to go shopping / run errands"
+    },
+    {
+      "id": "11-18-v053",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une commande à emporter",
+      "back": "a takeout order — Authentic everyday phrase",
+      "kind": "Vocabulary",
+      "translation": "a takeout order"
+    },
+    {
+      "id": "11-18-v054",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "des pâtes au saumon",
+      "back": "salmon pasta — Takeout vocabulary",
+      "kind": "Vocabulary",
+      "translation": "salmon pasta"
+    },
+    {
+      "id": "11-18-v055",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une pizza quatre fromages",
+      "back": "four-cheese pizza — Takeout vocabulary",
+      "kind": "Vocabulary",
+      "translation": "four-cheese pizza"
+    },
+    {
+      "id": "11-18-v056",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "venir chercher",
+      "back": "to come and get / to pick up — Very common, useful",
+      "kind": "Vocabulary",
+      "translation": "to come and get / to pick up"
+    },
+    {
+      "id": "11-18-v057",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "aller chercher",
+      "back": "to go and get — Other perspective of same idea",
+      "kind": "Vocabulary",
+      "translation": "to go and get"
+    },
+    {
+      "id": "11-18-v058",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une boisson",
+      "back": "a drink — Ordering vocabulary",
+      "kind": "Vocabulary",
+      "translation": "a drink"
+    },
+    {
+      "id": "11-18-v059",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "prendre un verre",
+      "back": "to have a drink — Idiomatic",
+      "kind": "Vocabulary",
+      "translation": "to have a drink"
+    },
+    {
+      "id": "11-18-v060",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "servir le plat",
+      "back": "to serve the dish",
+      "kind": "Vocabulary",
+      "translation": "to serve the dish"
+    },
+    {
+      "id": "11-18-v061",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "au moins",
+      "back": "at least",
+      "kind": "Vocabulary",
+      "translation": "at least"
+    },
+    {
+      "id": "11-18-v062",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un but",
+      "back": "a goal (sports)",
+      "kind": "Vocabulary",
+      "translation": "a goal (sports)"
+    },
+    {
+      "id": "11-18-v063",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le sommet du G7",
+      "back": "the G7 summit",
+      "kind": "Vocabulary",
+      "translation": "the G7 summit"
+    },
+    {
+      "id": "11-18-v064",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "à tout à l'heure",
+      "back": "see you soon / later — Closing expression",
+      "kind": "Vocabulary",
+      "translation": "see you soon / later"
+    },
+    {
+      "id": "11-18-v065",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "midi / minuit",
+      "back": "noon / midnight — Time expressions.",
+      "kind": "Vocabulary",
+      "translation": "noon / midnight"
+    },
+    {
+      "id": "11-18-v066",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "cet après-midi",
+      "back": "this afternoon — Time expression",
+      "kind": "Vocabulary",
+      "translation": "this afternoon"
+    },
+    {
+      "id": "11-18-v067",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "tout droit",
+      "back": "straight ahead — Direction expression",
+      "kind": "Vocabulary",
+      "translation": "straight ahead"
+    },
+    {
+      "id": "11-18-v068",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "à droite / à gauche",
+      "back": "to the right / to the left — Direction expressions",
+      "kind": "Vocabulary",
+      "translation": "to the right / to the left"
+    },
+    {
+      "id": "11-18-v069",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "jusqu’à",
+      "back": "up to / until — Contract à + le/les: jusqu’au / jusqu’aux; keep jusqu’à la / jusqu’à l’entrée.",
+      "kind": "Vocabulary",
+      "translation": "up to / until"
+    },
+    {
+      "id": "11-18-q001",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: le linge",
+      "back": "the laundry",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q002",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: un déguisement",
+      "back": "a disguise",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q003",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What does sécher mean?",
+      "back": "to dry",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q004",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate into French: \"I'm delighted to see you.\"",
+      "back": "Je suis ravi(e) de vous voir.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q005",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"Who won?\"",
+      "back": "Qui a gagné?",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q006",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: la pause",
+      "back": "the break",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q007",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What does recevoir mean?",
+      "back": "to receive",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q008",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"every day\"",
+      "back": "tous les jours",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q009",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"yesterday\"",
+      "back": "hier",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q010",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What is the usual learner distinction between visiter and rendre visite à?",
+      "back": "Visiter is the usual model for places; rendre visite à is the standard model for visiting people. Contextual/regional uses of visiter with people exist.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q011",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: vider la poubelle",
+      "back": "to empty the trash",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q012",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Fill in the blank: faire la [blank] means to do the laundry.",
+      "back": "lessive",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q013",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"a takeout order.\"",
+      "back": "une commande à emporter",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q014",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"to come and get / to pick up.\"",
+      "back": "venir chercher",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q015",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "State the three-step formula for forming the imparfait and its main stem exception.",
+      "back": "Take the present nous form, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient. Être uses ét-. Check spelling adjustments such as mangions/mangiez.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q016",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Give the six imperfect endings in order.",
+      "back": "-ais, -ais, -ait, -ions, -iez, -aient.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q017",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate sécher in the imperfect, 3rd person singular (il/elle).",
+      "back": "il séchait",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q018",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "How do you find the imparfait stem of voir? Give the il, nous and vous forms.",
+      "back": "Nous voyons gives voy-: il voyait, nous voyions, vous voyiez. Retain the i after y.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q019",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate recevoir in the present for je, tu, il/elle/on, nous, vous and ils/elles.",
+      "back": "je reçois; tu reçois; il/elle/on reçoit; nous recevons; vous recevez; ils/elles reçoivent",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q020",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "True or false: ordinary c before o or a gives /s/. Explain the role of ç.",
+      "back": "False: ordinary c before a/o/u normally gives /k/. Ç keeps /s/ before those vowels. Ordinary c before e/i/y normally gives /s/; c + r is not a soft-c rule.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q021",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "In which two imparfait forms of manger is the extra e omitted? Contrast the present nous form.",
+      "back": "Nous mangions and vous mangiez omit the extra e before i. The other imparfait forms have mangea-. Present nous mangeons retains e before o.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q022",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate aller in the present tense (all forms).",
+      "back": "je vais, tu vas, il va, elle va, on va, nous allons, vous allez, ils vont, elles vont.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q023",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Identify the tense in En général, j’avais de bonnes notes and explain the viewpoint.",
+      "back": "Imparfait: avais describes a habitual/general past situation. En général helps the interpretation but does not mechanically require that tense.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q024",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Which expression points to future time: hier, demain or toujours? Does it alone prove futur proche?",
+      "back": "Demain means tomorrow. It can accompany a present form, futur proche or futur simple; inspect the verb construction.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q025",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Is Demain, le président va au sommet du G7 grammatically futur proche or present? Explain.",
+      "back": "Present: va is present aller followed by a destination, not an infinitive. Demain gives future meaning without changing the verb’s grammatical form.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q026",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "With ordinary être + aller and a masculine singular subject, choose allé or allée.",
+      "back": "allé",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q027",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Convert to the imperfect: Le linge sèche rapidement.",
+      "back": "Le linge séchait rapidement.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q028",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Write a sentence announcing that it is the next player’s turn.",
+      "back": "C’est le tour du joueur suivant. General pattern: C’est le tour de + person/role.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q029",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Build a futur proche sentence meaning \"I'm going to order a pizza.\"",
+      "back": "Je vais commander une pizza.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q030",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Combine an imparfait background action with a passé composé interruption.",
+      "back": "Example: Je regardais la télévision quand le téléphone a sonné.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q031",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Build a sentence: order a four-cheese pizza using Je vais prendre...",
+      "back": "Je vais prendre une pizza quatre fromages.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q032",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Build a sentence saying you'll come pick up the order at 1 p.m.",
+      "back": "Nous allons venir chercher la commande à treize heures.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q033",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "An appointment is booked for November 30. Correct the mistaken French date: le treize novembre.",
+      "back": "le trente novembre",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q034",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct the spelling: \"garcon\" (meaning boy).",
+      "back": "garçon",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q035",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct if needed: \"Hier, je vais acheter du pain.\" (meaning: Yesterday I bought bread)",
+      "back": "Incorrect — past meaning needs passé composé: Hier, j'ai acheté du pain.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q036",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct if needed: \"Je vais mange.\"",
+      "back": "Je vais manger.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-q037",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct the agreement for a masculine singular subject: Il est allée au magasin.",
+      "back": "Il est allé au magasin.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-e001",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je suis ravi de vous voir.",
+      "back": "I'm delighted to see you. — Common greeting; adjective agreement (ravi).",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e002",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Le linge sèche rapidement.",
+      "back": "The laundry dries quickly. — Present tense (3rd person singular) of sécher, used to convert to imperfect.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e003",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rappelle-toi la formule pour l'imparfait.",
+      "back": "Remember the formula for the imperfect. — Imperative + reflexive (se rappeler).",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e004",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rebonjour ! Ça va tout le monde ? Ça s’est bien passé ?",
+      "back": "Hello again! Is everyone doing well? Did it go well? — Use ça s’est bien passé for a completed experience.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e005",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "je reçois / tu reçois / il reçoit / vous recevez",
+      "back": "I receive / you receive / he receives / you (pl./formal) receive — Irregular present; the complete table includes nous recevons and ils/elles reçoivent.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e006",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'étudiais tous les jours.",
+      "back": "I was studying every day. — A repeated past habit.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e007",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "En général, j'avais de bonnes notes.",
+      "back": "In general, I had good grades. — A habitual past situation, not a duration-only rule.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e008",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Le lundi, on allait à la salle de sport.",
+      "back": "On Mondays we used to go to the gym. — Imparfait — habitual action.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e009",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Hier, j'ai été au magasin.",
+      "back": "Yesterday, I went to the store. — A completed visit; avoir été à is conversational. Je suis allé(e) au magasin explicitly expresses movement.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e010",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Il a reçu son diplôme le mois dernier.",
+      "back": "He received his diploma last month. — Passé composé — completed past action.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e011",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je regardais la télévision quand le téléphone a sonné.",
+      "back": "I was watching TV when the phone rang. — Imparfait (background) + passé composé (interruption).",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e012",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'habitais à Nice, puis j'ai déménagé à Lyon.",
+      "back": "I was living in Nice, then I moved to Lyon. — A background state followed by a completed change.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e013",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais acheter du pain.",
+      "back": "I'm going to buy some bread. — Near future; acheter stays infinitive.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e014",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Elles vont aller au lit.",
+      "back": "They are going to go to bed. — aller + aller infinitive.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e015",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Demain, tu vas marquer au moins un but.",
+      "back": "Tomorrow, you're going to score at least one goal. — Futur proche (aller + infinitive).",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e016",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Demain, le président va au sommet du G7.",
+      "back": "Tomorrow, the president goes to the G7 summit. — Present tense (single verb aller), despite future meaning.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e017",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais prendre une commande à emporter, s'il vous plaît.",
+      "back": "I'm going to place a takeout order, please. — Futur proche + practical vocabulary.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e018",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Mon collègue, il va prendre des pâtes au saumon.",
+      "back": "My colleague is going to have the salmon pasta. — Futur proche, 3rd person.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-e019",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Nous allons venir chercher la commande à treize heures.",
+      "back": "We'll come to pick up the order at 1 p.m. — Futur proche + venir chercher.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-18-f002",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ravi(e) de vous voir",
+      "back": "Delighted to see you — adjective agrees in gender/number.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f007",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Imparfait formula",
+      "back": "Present nous form → remove -ons → add -ais, -ais, -ait, -ions, -iez, -aient. Être uses ét-; check spelling adjustments.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f008",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Imperfect endings",
+      "back": "-ais, -ais, -ait, -ions, -iez, -aient.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f009",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rappelle-toi",
+      "back": "Remember (imperative of se rappeler, reflexive).",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f010",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "C'est le tour de…",
+      "back": "It's …'s turn (game phrase).",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f013",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la cédille (ç)",
+      "back": "The mark under c that preserves /s/ before a/o/u, as in garçon, français and reçu.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f017",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Avez-vous des questions?",
+      "back": "Do you have any questions? — formal question form.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f018",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rule: c before e/i/y versus a/o/u",
+      "back": "Ordinary c before e/i/y normally gives /s/; before a/o/u it normally gives /k/. Ç preserves /s/ before a/o/u. C + r does not give /s/.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f019",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "je vais / tu vas / il va…",
+      "back": "Present tense of aller (irregular). Full: je vais, tu vas, il va, elle va, on va, nous allons, vous allez, ils vont, elles vont.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f020",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "aller (present) + infinitif",
+      "back": "Le futur proche — \"going to do something.\" E.g., Je vais manger.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f021",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "l'imparfait",
+      "back": "An ongoing past situation, description, background or repeated habit; not restricted to long actions.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f022",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le passé composé",
+      "back": "An event viewed as a completed whole, a change, decision or narrative step. It can cover a long completed period; present consequences are possible.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f023",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "tous les jours / chaque semaine / en général / toujours / le lundi",
+      "back": "These can indicate a habit in context, in the present or past; the verb and viewpoint determine the tense.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f024",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "hier / dernier / ensuite / après",
+      "back": "Hier and dernier locate past time; ensuite and après order events. None mechanically requires passé composé.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f027",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire la lessive",
+      "back": "to do the laundry (a faire expression).",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f029",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "jouer au football",
+      "back": "to play soccer (NOT American football = football américain).",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f034",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais prendre...",
+      "back": "\"I'm going to have/order...\" — futur proche + noun; used for ordering.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f035",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rule: aller alone vs. aller + infinitive",
+      "back": "Present aller + infinitive forms futur proche in a future construction. Present aller + a destination remains a present form with potentially future meaning; read the whole sentence.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-18-f036",
+      "lesson": "11-18",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Past participle agreement",
+      "back": "Ordinary être participles agree with the subject. With avoir, a preceding direct object can trigger agreement. Reflexive verbs require a separate agreement analysis.",
+      "kind": "Rules & patterns"
     }
   ]
 };

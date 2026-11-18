@@ -8502,5 +8502,679 @@
     "overview_merged": true,
     "notes_words_before": 4015,
     "notes_words_after": 2093
+  },
+  {
+    "lesson": "11-18",
+    "source_sha256": "2bff9760cf2b32440a966af6d27d8dcba1f0bcc2936b8a2d845454af0830a096",
+    "examples": [
+      {
+        "source_example": 1,
+        "french": "Je suis ravi de vous voir.",
+        "english": "I'm delighted to see you.",
+        "location": "notes"
+      },
+      {
+        "source_example": 2,
+        "french": "Le linge sèche rapidement.",
+        "english": "The laundry dries quickly.",
+        "location": "notes"
+      },
+      {
+        "source_example": 3,
+        "french": "Rappelle-toi la formule pour l'imparfait.",
+        "english": "Remember the formula for the imperfect.",
+        "location": "notes"
+      },
+      {
+        "source_example": 4,
+        "french": "Rebonjour ! Ça va tout le monde ? Ça s’est bien passé ?",
+        "english": "Hello again! Is everyone doing well? Did it go well?",
+        "location": "notes"
+      },
+      {
+        "source_example": 5,
+        "french": "je reçois / tu reçois / il reçoit / vous recevez",
+        "english": "I receive / you receive / he receives / you (pl./formal) receive",
+        "location": "notes",
+        "paradigm_forms": [
+          "reçois",
+          "reçoit",
+          "recevons",
+          "recevez",
+          "reçoivent"
+        ]
+      },
+      {
+        "source_example": 6,
+        "french": "J'étudiais tous les jours.",
+        "english": "I was studying every day.",
+        "location": "notes"
+      },
+      {
+        "source_example": 7,
+        "french": "En général, j'avais de bonnes notes.",
+        "english": "In general, I had good grades.",
+        "location": "notes"
+      },
+      {
+        "source_example": 8,
+        "french": "Le lundi, on allait à la salle de sport.",
+        "english": "On Mondays we used to go to the gym.",
+        "location": "notes"
+      },
+      {
+        "source_example": 9,
+        "french": "Hier, j'ai été au magasin.",
+        "english": "Yesterday, I went to the store.",
+        "location": "notes"
+      },
+      {
+        "source_example": 10,
+        "french": "Il a reçu son diplôme le mois dernier.",
+        "english": "He received his diploma last month.",
+        "location": "notes"
+      },
+      {
+        "source_example": 11,
+        "french": "Je regardais la télévision quand le téléphone a sonné.",
+        "english": "I was watching TV when the phone rang.",
+        "location": "notes"
+      },
+      {
+        "source_example": 12,
+        "french": "J'habitais à Nice, puis j'ai déménagé à Lyon.",
+        "english": "I was living in Nice, then I moved to Lyon.",
+        "location": "notes"
+      },
+      {
+        "source_example": 13,
+        "french": "Je vais acheter du pain.",
+        "english": "I'm going to buy some bread.",
+        "location": "notes"
+      },
+      {
+        "source_example": 14,
+        "french": "Elles vont aller au lit.",
+        "english": "They are going to go to bed.",
+        "location": "notes"
+      },
+      {
+        "source_example": 15,
+        "french": "Demain, tu vas marquer au moins un but.",
+        "english": "Tomorrow, you're going to score at least one goal.",
+        "location": "notes"
+      },
+      {
+        "source_example": 16,
+        "french": "Demain, le président va au sommet du G7.",
+        "english": "Tomorrow, the president goes to the G7 summit.",
+        "location": "notes"
+      },
+      {
+        "source_example": 17,
+        "french": "Je vais prendre une commande à emporter, s'il vous plaît.",
+        "english": "I'm going to place a takeout order, please.",
+        "location": "notes"
+      },
+      {
+        "source_example": 18,
+        "french": "Mon collègue, il va prendre des pâtes au saumon.",
+        "english": "My colleague is going to have the salmon pasta.",
+        "location": "notes"
+      },
+      {
+        "source_example": 19,
+        "french": "Nous allons venir chercher la commande à treize heures.",
+        "english": "We'll come to pick up the order at 1 p.m.",
+        "location": "notes"
+      }
+    ],
+    "vocabulary": [
+      {
+        "source_vocabulary": 1,
+        "french": "en forme",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 2,
+        "french": "ravi(e)",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 3,
+        "french": "un jeu",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 4,
+        "french": "serpents et échelles",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 5,
+        "french": "un joueur",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 6,
+        "french": "lancer le dé",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 7,
+        "french": "sécher",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 8,
+        "french": "le linge",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 9,
+        "french": "un déguisement",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 10,
+        "french": "conjugué / un conjugueur",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 11,
+        "french": "Reverso",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 12,
+        "french": "porter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 13,
+        "french": "voir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 14,
+        "french": "une orange",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 15,
+        "french": "blond / blondir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 16,
+        "french": "manger",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 17,
+        "french": "recevoir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 18,
+        "french": "garçon",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 19,
+        "french": "français",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 20,
+        "french": "la pause",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 21,
+        "french": "le passé",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 22,
+        "french": "le futur",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 23,
+        "french": "les indicateurs",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 24,
+        "french": "Qui a gagné?",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 25,
+        "french": "tous les jours",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 26,
+        "french": "chaque semaine / chaque mois / chaque année",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 27,
+        "french": "en général",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 28,
+        "french": "toujours",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 29,
+        "french": "le lundi, le mardi…",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 30,
+        "french": "hier",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 31,
+        "french": "dernier (le mois dernier)",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 32,
+        "french": "ensuite",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 33,
+        "french": "après (après ça)",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 34,
+        "french": "demain",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 35,
+        "french": "acheter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 36,
+        "french": "commander",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 37,
+        "french": "prendre une douche",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 38,
+        "french": "regarder la télévision",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 39,
+        "french": "téléphoner à",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 40,
+        "french": "faire des crêpes",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 41,
+        "french": "étudier",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 42,
+        "french": "promener le chien",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 43,
+        "french": "partir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 44,
+        "french": "faire la lessive / les lessives",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 45,
+        "french": "rendre visite à",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 46,
+        "french": "visiter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 47,
+        "french": "aider",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 48,
+        "french": "chercher du travail",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 49,
+        "french": "vider la poubelle",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 50,
+        "french": "jouer au foot / football",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 51,
+        "french": "aller au lit",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 52,
+        "french": "faire des courses",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 53,
+        "french": "une commande à emporter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 54,
+        "french": "des pâtes au saumon",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 55,
+        "french": "une pizza quatre fromages",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 56,
+        "french": "venir chercher",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 57,
+        "french": "aller chercher",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 58,
+        "french": "une boisson",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 59,
+        "french": "prendre un verre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 60,
+        "french": "servir le plat",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 61,
+        "french": "au moins",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 62,
+        "french": "un but",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 63,
+        "french": "le sommet du G7",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 64,
+        "french": "à tout à l'heure",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 65,
+        "french": "midi / minuit",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 66,
+        "french": "cet après-midi",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 67,
+        "french": "tout droit",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 68,
+        "french": "à droite / à gauche",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 69,
+        "french": "jusqu’à",
+        "location": "vocabulary"
+      }
+    ],
+    "flashcards": [
+      {
+        "source_flashcard": 1,
+        "card_id": "11-18-v001",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 2,
+        "card_id": "11-18-f002",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 3,
+        "card_id": "11-18-v008",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 4,
+        "card_id": "11-18-v007",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 5,
+        "card_id": "11-18-v009",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 6,
+        "card_id": "11-18-v006",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 7,
+        "card_id": "11-18-f007",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 8,
+        "card_id": "11-18-f008",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 9,
+        "card_id": "11-18-f009",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 10,
+        "card_id": "11-18-f010",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 11,
+        "card_id": "11-18-v016",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 12,
+        "card_id": "11-18-v017",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 13,
+        "card_id": "11-18-f013",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 14,
+        "card_id": "11-18-v018",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 15,
+        "card_id": "11-18-v019",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 16,
+        "card_id": "11-18-v024",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 17,
+        "card_id": "11-18-f017",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 18,
+        "card_id": "11-18-f018",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 19,
+        "card_id": "11-18-f019",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 20,
+        "card_id": "11-18-f020",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 21,
+        "card_id": "11-18-f021",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 22,
+        "card_id": "11-18-f022",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 23,
+        "card_id": "11-18-f023",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 24,
+        "card_id": "11-18-f024",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 25,
+        "card_id": "11-18-v034",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 26,
+        "card_id": "11-18-v045",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 27,
+        "card_id": "11-18-f027",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 28,
+        "card_id": "11-18-v052",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 29,
+        "card_id": "11-18-f029",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 30,
+        "card_id": "11-18-v037",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 31,
+        "card_id": "11-18-e011",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 32,
+        "card_id": "11-18-v053",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 33,
+        "card_id": "11-18-v056",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 34,
+        "card_id": "11-18-f034",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 35,
+        "card_id": "11-18-f035",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 36,
+        "card_id": "11-18-f036",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 37,
+        "card_id": "11-18-v069",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 38,
+        "card_id": "11-18-v054",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      },
+      {
+        "source_flashcard": 39,
+        "card_id": "11-18-v059",
+        "editing": "Reviewed; overlapping fronts share a card; misleading rules qualified."
+      }
+    ],
+    "overview_merged": true,
+    "notes_words_before": 3763,
+    "notes_words_after": 2437
   }
 ]

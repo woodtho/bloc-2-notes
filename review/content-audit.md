@@ -67,3 +67,7 @@ The short overview is merged into the fuller topic sections in all 19 lessons. C
 Question drafts and Known/To review ratings persist in browser storage and are shared between inline questions and quizzes. They remain local to a browser and origin. Flashcard mastery uses its existing storage key for compatibility.
 
 Checks verify retained French strings or complete paradigm forms, unique example-reference rows, 670 stable inline question IDs and all 622 original self-test items. Translation and rule completeness also rely on editorial review.
+
+## November 18 addition
+
+Lesson 20 adds 37 reviewed questions and 144 cards. The site now contains 20 lessons, 969 quiz questions and 2,647 cards. Its 69 vocabulary rows, 19 labeled examples and 39 source flashcards are covered in `lesson-11-18-review.md` and the current manifest/ledger. The earlier restoration table above records the original 19-lesson baseline.

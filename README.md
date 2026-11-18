@@ -2,7 +2,7 @@
 
 [Website](https://woodtho.github.io/bloc-2-notes/) · [Repository](https://github.com/woodtho/bloc-2-notes)
 
-An R Markdown website built from 19 French lesson exports dated September 9–November 16, 2026.
+An R Markdown website built from 20 French lesson exports dated September 9–November 18, 2026.
 
 ## Use
 
@@ -10,14 +10,14 @@ Open `docs/index.html` in a browser, or serve `docs/` with a static HTTP server.
 
 Each lesson is self-contained. Repeated overviews, rules and corrections within a lesson are merged into topic sections. English explanations retain French examples, full conjugations, pronunciation, register, distinct examples and exceptions. Personal material is removed or replaced with generic teaching examples.
 
-- 19 editable lesson Rmd sources.
-- 622 reviewed original self-test questions, plus supplementary practice: 932 quiz items.
-- All 419 source example-bank entries and 1,152 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
-- 2,503 flashcards, filterable by lesson, topic and material.
+- 20 editable lesson Rmd sources.
+- 659 reviewed original self-test questions, plus supplementary practice: 969 quiz items.
+- All 438 source example-bank entries and 1,221 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
+- 2,647 flashcards, filterable by lesson, topic and material.
 
 Lesson answer drafts and Known/To review ratings save automatically in browser local storage, shared with the corresponding quiz questions. Flashcard ratings also persist. Saved progress belongs to that browser and website address; it does not sync between devices or move automatically from local files to the published site. If storage is unavailable, practice still works and the page reports that answers cannot be saved.
 
-Original self-tests use model-answer self-assessment because valid wording can vary. Supplementary short-answer drills check accepted forms; accents matter. Quiz results count only answers submitted in that session. Audio is not included; written listening examples are text practice.
+Open questions use model-answer self-assessment because valid wording can vary. Short-answer questions with explicit accepted forms use automatic checks; accents matter. Quiz results count only answers submitted in that session. Audio is not included; written listening examples are text practice.
 
 ## Edit and rebuild
 
@@ -42,7 +42,7 @@ node --test tests/study.test.cjs
 python tests/audit.py
 ```
 
-The 12 interaction tests cover grading, filters, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 23 pages, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
+The 13 interaction tests cover grading, filters, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 24 pages, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
 
 An optional local-only source-name blocklist can be supplied using `BLOC2_PRIVACY_PATTERNS_FILE`. The blocklist and raw exports are outside this repo. Automated checks complement editorial review; they cannot independently prove semantic completeness or anonymization.
 

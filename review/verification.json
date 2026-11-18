@@ -1,17 +1,17 @@
 {
   "rmarkdown_build": "passed",
   "interaction_tests": {
-    "passed": 12,
+    "passed": 13,
     "failed": 0
   },
-  "html_pages": 23,
+  "html_pages": 24,
   "broken_local_links": 0,
-  "lessons": 19,
-  "original_self_test_items": 622,
-  "quiz_questions": 932,
-  "example_bank_entries": 419,
-  "vocabulary_entries": 1152,
-  "flashcards": 2503,
+  "lessons": 20,
+  "original_self_test_items": 659,
+  "quiz_questions": 969,
+  "example_bank_entries": 438,
+  "vocabulary_entries": 1221,
+  "flashcards": 2647,
   "source_item_numbering": "all original item indices present in data and lesson Rmd files",
   "privacy_scan": "known source names/contact patterns passed; editorial anonymization reviewed",
   "browser_checks": [
@@ -37,12 +37,12 @@
     "repeated_intro_and_editorial_copy_removed": true,
     "built_html_audit": "passed"
   },
-  "current_revision_verification": "R Markdown rebuild; 12 interaction tests; 23-page link/privacy/title/heading audit; source example/vocabulary location checks; browser persistence after reload.",
+  "current_revision_verification": "R Markdown build; 13 interaction tests; 24-page HTML/link/privacy/coverage audit; 37 new source questions; 144 new cards; browser draft/rating reload, quiz selection and example-card reveal; earlier data and IDs unchanged.",
   "site_name": "Bloc 2 notes",
   "lesson_format_review": "all 19 lesson heading counts match the rendered HTML; missing Markdown block boundaries repaired",
   "inline_question_ui": {
-    "lessons": 19,
-    "source_questions": 622,
+    "lessons": 20,
+    "source_questions": 659,
     "derived_questions": 48,
     "browser_checks": [
       "typed draft and answer reveal",
@@ -73,9 +73,9 @@
     "report": "compact-ui-review.md"
   },
   "consolidation": {
-    "scope": "within each lesson; all 19 lessons self-contained",
-    "source_example_rows": 419,
-    "source_vocabulary_rows": 1152,
+    "scope": "within each lesson; all 20 lessons self-contained",
+    "source_example_rows": 438,
+    "source_vocabulary_rows": 1221,
     "ledger": "consolidation-ledger.json",
     "overview_and_examples_words_before": 47736,
     "overview_and_examples_words_after": 30964,
@@ -86,7 +86,7 @@
     "question_drafts": true,
     "known_review_ratings": true,
     "shared_inline_and_quiz": true,
-    "stable_inline_ids": 670,
+    "stable_inline_ids": 707,
     "browser_checks": [
       "typed draft and Known restored after reload",
       "blank draft and To review restored after reload"
@@ -102,9 +102,9 @@
     "repository": "woodtho/bloc-2-notes",
     "url": "https://woodtho.github.io/bloc-2-notes/",
     "repository_url": "https://github.com/woodtho/bloc-2-notes",
-    "verified_date": "2026-11-17",
+    "verified_date": "2026-11-18",
     "github_pages_build": "built",
-    "live_content_verification": "23 pages and 3 application/style assets match the local build",
+    "live_content_verification": "Prior deployment verified; lesson 20 deployment will be checked after push.",
     "browser_checks": [
       "19-lesson library",
       "lesson draft and Known rating restored after reload",
@@ -112,5 +112,22 @@
       "lesson-specific worked-example flashcards and answer reveal"
     ],
     "screenshot": "github-pages-live.jpg"
+  },
+  "lesson_11_18": {
+    "source_questions": 37,
+    "source_vocabulary_entries": 69,
+    "source_examples": 19,
+    "source_flashcards": 39,
+    "new_practice_cards": 144,
+    "review": "lesson-11-18-review.md",
+    "status": "validated locally; prepared for publication",
+    "browser_checks": [
+      "draft and Known restored after reload",
+      "37 questions selected by lesson link",
+      "144 cards selected by lesson link",
+      "worked-example card reveals its English meaning",
+      "no raw Markdown or desktop horizontal overflow"
+    ],
+    "screenshot": "lesson-11-18-preview.jpg"
   }
 }

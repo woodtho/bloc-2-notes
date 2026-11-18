@@ -1,0 +1,315 @@
+---
+title: "Tense review, spelling & the near future"
+pagetitle: "Tense review, spelling & the near future | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 20 · 11-18 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-18">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-18">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Form the imparfait {#lesson-details}
+
+Start with the present **nous** form, remove **-ons**, then add **-ais, -ais, -ait, -ions, -iez, -aient**. The stem comes from the conjugated form, not directly from the infinitive: **voir → nous voyons → voy- → il voyait**. **Être** is the main exception: use **ét-**, giving **j’étais, tu étais, il/elle/on était, nous étions, vous étiez, ils/elles étaient**.
+
+| Subject | sécher: nous séchons | voir: nous voyons | porter: nous portons |
+|---|---|---|---|
+| je | séchais | voyais | portais |
+| tu | séchais | voyais | portais |
+| il/elle/on | séchait | voyait | portait |
+| nous | séchions | voyions | portions |
+| vous | séchiez | voyiez | portiez |
+| ils/elles | séchaient | voyaient | portaient |
+
+**Le linge sèche rapidement → Le linge séchait rapidement** — The laundry dries quickly → The laundry dried / was drying quickly. Keep the acute accent in **séchait**; do not copy the present singular’s **è** into the imperfect stem. **Rappelle-toi la formule pour l’imparfait** means remember the formula for the imperfect; **rappelle-toi** is a reflexive imperative. A verb can be pictured in a new **déguisement** (disguise), but the stem and ending still need to be identified separately.
+
+For many verbs, the present **nous** form becomes the imperfect by inserting **i** before **-ons**: **portons → portions**. Check spelling changes rather than applying that shortcut mechanically. Retain **y + i** in **voyions/voyiez**, and both written **i** letters in **étudiions/étudiiez**. Check accents and consonants against the complete form; an extra letter alone does not identify a tense.
+
+## Soft g, cédille and recevoir
+
+The spelling of **manger** preserves soft **g** /ʒ/, as in the sound of French **j**. In the imparfait, keep **e** before the endings beginning with **a**, but omit that extra **e** before **-ions/-iez**. This is an **e**, not an extra **r**.
+
+| Subject | Present | Imparfait |
+|---|---|---|
+| je | mange | mangeais |
+| tu | manges | mangeais |
+| il/elle/on | mange | mangeait |
+| nous | mangeons | mangions |
+| vous | mangez | mangiez |
+| ils/elles | mangent | mangeaient |
+
+The “except nous and vous” reminder belongs to those imparfait spellings. Present **nous mangeons** needs **e** before **o**. Spelling supports pronunciation; it is part of the conjugation rule, not permission to disregard grammar.
+
+Ordinary **c** normally gives /s/ before **e, i, y**, and /k/ before **a, o, u**. Use **ç** to retain /s/ before **a, o, u**: **garçon**, **français**, **reçu**. **C + r** is not a soft-c rule: **crayon** begins /kʁ/. Write **garçon**, not *garcon*, and keep the /s/ sound in **français**; English-like respellings do not reliably represent the French sounds. The name of the mark is **la cédille**.
+
+**Recevoir** means to receive. Its present forms must be learned as an irregular pattern:
+
+| Subject | Present of recevoir |
+|---|---|
+| je | reçois |
+| tu | reçois |
+| il/elle/on | reçoit |
+| nous | recevons |
+| vous | recevez |
+| ils/elles | reçoivent |
+
+Both the singular forms and **ils/elles reçoivent** have **ç** before **oi**. **Nous recevons / vous recevez** have ordinary **c** before **e**. The past participle is **reçu**: **Il a reçu son diplôme le mois dernier** — He received his diploma last month.
+
+## Choose between imparfait and passé composé
+
+Use the **imparfait** for a past situation, description, background or repeated habit, viewed as ongoing at a past reference point. Use the **passé composé** for an event viewed as a completed whole, a change, a decision or a step in a sequence. A past decision can have present consequences, but that is not the only use of the passé composé. Duration alone is not the test: **J’ai travaillé ici pendant vingt ans** presents twenty years as a completed period.
+
+| Model | English | Why this tense? |
+|---|---|---|
+| J’étudiais tous les jours. | I studied / used to study every day. | A repeated past habit. |
+| En général, j’avais de bonnes notes. | In general, I had good grades. | A habitual past situation. |
+| Le lundi, on allait à la salle de sport. | On Mondays, we used to go to the gym. | Repeated Mondays, rather than one identified Monday. |
+| Hier, j’ai été au magasin. | Yesterday, I went to the store. | A completed visit; avoir été à is conversational here. For explicit movement, also use je suis allé(e) au magasin. |
+| Je regardais la télévision quand le téléphone a sonné. | I was watching TV when the phone rang. | Ongoing background followed by an event. |
+| J’habitais à Nice, puis j’ai déménagé à Lyon. | I was living in Nice, then I moved to Lyon. | A past state followed by a change. |
+
+Time expressions help interpret a sentence; they do not choose the tense by themselves:
+
+| Expression | Meaning | What to check |
+|---|---|---|
+| tous les jours; chaque semaine / chaque mois / chaque année | every day; each week / month / year | Often a repeated habit, in the present or past according to the verb and context. |
+| en général; toujours | in general; always | Can describe a general or repeated situation; not restricted to the imparfait. |
+| le lundi, le mardi… | on Mondays, on Tuesdays… | Often habitual. A full date can instead identify one day: le lundi 30 novembre. |
+| hier; le mois dernier | yesterday; last month | Past time, with either a completed event or background: hier, il pleuvait is also possible. |
+| ensuite; après / après ça | next; after / after that | Sequence or relative order; these expressions are not exclusive to past narration. |
+| demain | tomorrow | Future time, which can be expressed by a present form, futur proche or futur simple. |
+
+## Past participles: choose the auxiliary, then check agreement
+
+The **passé composé** uses present **avoir/être + past participle**. For ordinary **être** verbs such as **aller**, choose **allé, allée, allés, allées** to match a masculine singular, feminine singular, masculine/mixed plural or feminine plural subject. Thus **Il est allé au magasin**, without feminine **-e**; **Elle est allée au magasin** includes it. Added agreement letters are often silent.
+
+With **avoir**, the participle normally does not agree with the subject: **Elle a reçu son diplôme**. A preceding direct object can require agreement: **les lettres que j’ai reçues**. Reflexive verbs use **être**, but have their own agreement analysis: **elles se sont lavées**, **elles se sont lavé les mains**, **elles se sont parlé**.
+
+**Ils sont allés voir leur grand-mère** means they went to see their grandmother. **Sont allés** is the passé composé of **aller**; the following **voir** stays infinitive. It is a past construction, even though it contains a second verb. For yesterday’s completed purchase, correct *Hier, je vais acheter du pain* to **Hier, j’ai acheté du pain**.
+
+## Form the futur proche with aller
+
+Use **present aller + infinitive** for “be going to do something.” Conjugate **aller** and leave the following main verb infinitive: **Je vais acheter du pain** — I’m going to buy some bread; *Je vais mange* needs **Je vais manger**. This construction often presents an intention, plan or development connected with now. It can concern a later time too; neither absolute certainty nor a short delay is guaranteed by its form.
+
+| Subject | Present of aller |
+|---|---|
+| je | vais |
+| tu | vas |
+| il/elle/on | va |
+| nous | allons |
+| vous | allez |
+| ils/elles | vont |
+
+Keep the spellings **vais, vas, va, allons, allez, vont**: **allons** and **allez** have two **l** letters; **allez** ends in **-ez**. **On va** often means “we are going” in everyday speech and uses third-person singular conjugation. **Nous allons** remains valid and is common in more formal language.
+
+| Model | English |
+|---|---|
+| Je vais commander une pizza. | I’m going to order a pizza. |
+| Tu vas prendre une douche. | You’re going to take a shower. |
+| On va partir dans cinq minutes. | We’re going to leave in five minutes. |
+| Nous allons rendre visite à mes parents. | We’re going to visit my parents. |
+| Elles vont aller au lit. | They’re going to go to bed. |
+| Vous allez nous aider. | You’re going to help us. |
+| Demain, tu vas marquer au moins un but. | Tomorrow, you’re going to score at least one goal. |
+
+Two occurrences of **aller** can be correct: **vont** supplies the conjugated future construction and **aller** is its infinitive. In **Vous allez nous aider**, object **nous** belongs to **aider**, so it goes before that infinitive. The same construction works with **regarder la télévision, téléphoner à quelqu’un, faire des crêpes, étudier, promener le chien, faire la lessive, chercher du travail, vider la poubelle, jouer au football**, and **faire des courses**.
+
+**Demain, le président va au sommet du G7** — Tomorrow, the president goes to / is going to the G7 summit — has present **va** and a destination, without an infinitive. It has future meaning, but is not the grammatical **futur proche** construction. Likewise **Elle va au cinéma demain** uses a present form for a planned future action. Compare **Elle va regarder un film demain**, which uses **aller + infinitive**. Read the whole construction: movement followed by an infinitive can also express purpose, as in going somewhere to fetch something.
+
+The **futur simple** also occurs in ordinary speech and writing, not only formal or political speeches: **Demain, je commanderai une pizza**. Choosing between future forms depends on the speaker’s viewpoint and context, not a fixed certainty percentage or a rule equating one form with casual speech and the other with seriousness.
+
+## Order takeout and arrange collection
+
+Use **Je vais prendre + noun** to say what you will have/order. Here **prendre** is the infinitive after **vais**; the food or drink follows it.
+
+| Model | English |
+|---|---|
+| Je vais prendre une commande à emporter, s’il vous plaît. | I’m going to place a takeout order, please. |
+| Je vais prendre une pizza quatre fromages. | I’m going to have a four-cheese pizza. |
+| Je vais prendre des pâtes au saumon. | I’m going to have the salmon pasta. |
+| Mon collègue, il va prendre des pâtes au saumon. | My colleague is going to have the salmon pasta. |
+| Je vais commander une boisson. | I’m going to order a drink. |
+| Nous allons venir chercher la commande à treize heures. | We’ll come to pick up the order at 1 p.m. |
+
+Repeating the topic with **il** in **Mon collègue, il…** is conversational; a neutral written form can simply use **Mon collègue va…**. **Venir chercher** means come and get / pick up; **aller chercher** means go and get, with a different direction relative to the speaker or reference place. **Servir le plat** means serve the dish; **prendre un verre** is the idiom have a drink.
+
+For visiting people, **rendre visite à** is the standard learner model; **visiter** is the usual choice for places such as cities or museums, although contextual and regional uses with people exist. **Football / foot** means soccer; **football américain** means American football. **Faire la lessive / les lessives** means do the laundry. **Faire des courses** can mean go shopping or run errands; groceries are one common context.
+
+## Greetings, game language and pronunciation practice
+
+**Je suis ravi de vous voir** — I’m delighted to see you — uses **ravi** for a masculine speaker, **ravie** for a feminine speaker; plural subjects require plural agreement. **Tout le monde est en forme ?** asks whether everyone is feeling well. **Rebonjour ! Ça va tout le monde ? Ça s’est bien passé ?** means hello again, is everyone doing well, did it go well? For a completed experience, use **Ça s’est bien passé ?** rather than *C’était bien passé ?*. **Avez-vous des questions ?** is an inversion question (“Do you have any questions?”); **Ça va tout le monde ?** is informal. Close with **À tout à l’heure** — See you shortly/later.
+
+**Serpents et échelles** is snakes and ladders; **un joueur** is a player. For conjugation practice, choose **Catégorie** (category) and three or four players (**trois / quatre joueurs**), roll with **Lancer le dé**, then change a present-tense sentence to the imparfait. A wrong choice can be marked with **une croix** (an X) and the correct form. Compare the complete answer with a conjugation reference before moving to the next turn. **C’est le tour du joueur suivant** means it’s the next player’s turn; the general pattern is **C’est le tour de + person/role**. **Qui a gagné ?** means who won? A **conjugueur** is a conjugation tool; **conjugué** means conjugated. Use a dictionary such as Reverso to check meaning and a conjugation reference to check forms.
+
+For pronunciation practice, use the **IPA** (English abbreviation) or **API** (**alphabet phonétique international**, French abbreviation), compare mouth positions and discriminate sounds, then read short paragraphs aloud for rhythm and intonation. [Master Your French](https://www.masteryourfrench.com/) provides pronunciation resources. The notes also mention an unnamed Canadian phonetics database and an unnamed 55-video phonetics series; their identities and links are not supplied. The takeout sentences above provide text practice from the listening material; no recording is included.
+
+## Review checklist
+
+| Material | Practice target |
+|---|---|
+| Quantity questions | Choose combien / combien de and retain the verb’s preposition. |
+| Numbers | Read, write and understand French numbers. |
+| Time and parts of the day | Distinguish midi, minuit, cet après-midi and approximate times such as vers midi. |
+| Demonstrative adjectives | Choose ce, cet, cette, ces according to gender, number and the following sound. |
+| Imperative and directions | Practise prendre, suivre, retourner, marcher with tout droit, à droite and à gauche. |
+| y and en | Choose the pronoun for the construction being replaced and place it correctly. |
+| Contractions with jusqu’à | à + le → au; à + les → aux: jusqu’au carrefour, jusqu’aux feux. Keep à la / à l’: jusqu’à la porte, jusqu’à l’entrée. |
+| Regular second-group -ir verbs | Review the present endings -is, -is, -it, -issons, -issez, -issent. |
+| Time indicators and verb forms | Identify both the time reference and the actual present, past or future construction. |
+| Aller in the passé composé | Choose être and the agreement in allé / allée / allés / allées. |
+| Reading comprehension | Locate quantities, responsibilities and job titles in a short passage before answering questions. |
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| en forme | in good shape / feeling well | "Tout le monde est en forme ?" |
+| ravi(e) | delighted | "Je suis ravi de vous voir." |
+| un jeu | a game |  |
+| serpents et échelles | snakes and ladders | A conjugation-practice board game. |
+| un joueur | a player | joueur un, joueur deux… |
+| lancer le dé | to roll the dice | Game vocabulary |
+| sécher | to dry | "Le linge sèche rapidement" |
+| le linge | laundry / washing | Masculine noun |
+| un déguisement | a disguise / costume | Metaphor for the imperfect "disguise" of a verb |
+| conjugué / un conjugueur | conjugated / a conjugation tool | Conjugué is a participle/adjective; un conjugueur is a tool. |
+| Reverso | (brand) online dictionary/translator | Recommended for checking meaning |
+| porter | to carry / to wear |  |
+| voir | to see | Present nous voyons; imparfait voy-: voyait, voyions, voyiez. |
+| une orange | an orange | "orange, a bit sour" |
+| blond / blondir | blond / to become blond | Dye one’s hair blond: se faire teindre les cheveux en blond. |
+| manger | to eat | Imparfait mangeais but mangions/mangiez; present nous mangeons preserves soft g. |
+| recevoir | to receive | Present: je reçois, tu reçois, il/elle/on reçoit, nous recevons, vous recevez, ils/elles reçoivent. |
+| garçon | boy | Example of cédille use |
+| français | French | Example of cédille use |
+| la pause | the break / pause | Feminine noun. |
+| le passé | the past (tense) |  |
+| le futur | the future / future tense | French futur has no final e. |
+| les indicateurs | indicators / markers | Time markers associated with tenses |
+| Qui a gagné? | Who won? | Game-related question |
+| tous les jours | every day | A habit can be present or past; check the verb and context. |
+| chaque semaine / chaque mois / chaque année | each week / month / year | Repeated time periods; not restricted to one tense. |
+| en général | in general | Often describes a general or habitual situation. |
+| toujours | always | Not restricted to the imparfait. |
+| le lundi, le mardi… | on Mondays, on Tuesdays… | Often habitual; a full date can identify one particular day. |
+| hier | yesterday | Past time; either completed events or background are possible. |
+| dernier (le mois dernier) | last (last month) | A past-time expression, not a mechanical tense selector. |
+| ensuite | next / then | Orders events; not restricted to past narration. |
+| après (après ça) | after (after that) | Relative time or sequence; not restricted to passé composé. |
+| demain | tomorrow | Future clue |
+| acheter | to buy | -er verb, 1st group |
+| commander | to order |  |
+| prendre une douche | to take a shower | une douche = a shower |
+| regarder la télévision | to watch TV |  |
+| téléphoner à | to call (phone) |  |
+| faire des crêpes | to make crêpes |  |
+| étudier | to study |  |
+| promener le chien | to walk the dog |  |
+| partir | to leave |  |
+| faire la lessive / les lessives | to do the laundry | A faire expression |
+| rendre visite à | to visit a person | Standard learner model for visiting people. |
+| visiter | to visit a place | Usual model for cities/museums; uses with people exist in some contexts and regions. |
+| aider | to help |  |
+| chercher du travail | to look for work |  |
+| vider la poubelle | to empty the trash |  |
+| jouer au foot / football | to play soccer | American football = football américain |
+| aller au lit | to go to bed |  |
+| faire des courses | to go shopping / run errands | Can refer to grocery shopping in context. |
+| une commande à emporter | a takeout order | Authentic everyday phrase |
+| des pâtes au saumon | salmon pasta | Takeout vocabulary |
+| une pizza quatre fromages | four-cheese pizza | Takeout vocabulary |
+| venir chercher | to come and get / to pick up | Very common, useful |
+| aller chercher | to go and get | Other perspective of same idea |
+| une boisson | a drink | Ordering vocabulary |
+| prendre un verre | to have a drink | Idiomatic |
+| servir le plat | to serve the dish |  |
+| au moins | at least |  |
+| un but | a goal (sports) |  |
+| le sommet du G7 | the G7 summit |  |
+| à tout à l'heure | see you soon / later | Closing expression |
+| midi / minuit | noon / midnight | Time expressions. |
+| cet après-midi | this afternoon | Time expression |
+| tout droit | straight ahead | Direction expression |
+| à droite / à gauche | to the right / to the left | Direction expressions |
+| jusqu’à | up to / until | Contract à + le/les: jusqu’au / jusqu’aux; keep jusqu’à la / jusqu’à l’entrée. |
+
+## Questions
+
+<details class="source-question" data-question-id="11-18-source-001"><summary><span>1. Translate: le linge</span></summary><p>the laundry</p></details>
+
+<details class="source-question" data-question-id="11-18-source-002"><summary><span>2. Translate: un déguisement</span></summary><p>a disguise</p></details>
+
+<details class="source-question" data-question-id="11-18-source-003"><summary><span>3. What does sécher mean?</span></summary><p>to dry</p></details>
+
+<details class="source-question" data-question-id="11-18-source-004"><summary><span>4. Translate into French: &quot;I&#x27;m delighted to see you.&quot;</span></summary><p>Je suis ravi(e) de vous voir.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-005"><summary><span>5. Translate: &quot;Who won?&quot;</span></summary><p>Qui a gagné?</p></details>
+
+<details class="source-question" data-question-id="11-18-source-006"><summary><span>6. Translate: la pause</span></summary><p>the break</p></details>
+
+<details class="source-question" data-question-id="11-18-source-007"><summary><span>7. What does recevoir mean?</span></summary><p>to receive</p></details>
+
+<details class="source-question" data-question-id="11-18-source-008"><summary><span>8. Translate: &quot;every day&quot;</span></summary><p>tous les jours</p></details>
+
+<details class="source-question" data-question-id="11-18-source-009"><summary><span>9. Translate: &quot;yesterday&quot;</span></summary><p>hier</p></details>
+
+<details class="source-question" data-question-id="11-18-source-010"><summary><span>10. What is the usual learner distinction between visiter and rendre visite à?</span></summary><p>Visiter is the usual model for places; rendre visite à is the standard model for visiting people. Contextual/regional uses of visiter with people exist.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-011"><summary><span>11. Translate: vider la poubelle</span></summary><p>to empty the trash</p></details>
+
+<details class="source-question" data-question-id="11-18-source-012"><summary><span>12. Fill in the blank: faire la [blank] means to do the laundry.</span></summary><p>lessive</p></details>
+
+<details class="source-question" data-question-id="11-18-source-013"><summary><span>13. Translate: &quot;a takeout order.&quot;</span></summary><p>une commande à emporter</p></details>
+
+<details class="source-question" data-question-id="11-18-source-014"><summary><span>14. Translate: &quot;to come and get / to pick up.&quot;</span></summary><p>venir chercher</p></details>
+
+<details class="source-question" data-question-id="11-18-source-015"><summary><span>15. State the three-step formula for forming the imparfait and its main stem exception.</span></summary><p>Take the present nous form, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient. Être uses ét-. Check spelling adjustments such as mangions/mangiez.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-016"><summary><span>16. Give the six imperfect endings in order.</span></summary><p>-ais, -ais, -ait, -ions, -iez, -aient.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-017"><summary><span>17. Conjugate sécher in the imperfect, 3rd person singular (il/elle).</span></summary><p>il séchait</p></details>
+
+<details class="source-question" data-question-id="11-18-source-018"><summary><span>18. How do you find the imparfait stem of voir? Give the il, nous and vous forms.</span></summary><p>Nous voyons gives voy-: il voyait, nous voyions, vous voyiez. Retain the i after y.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-019"><summary><span>19. Conjugate recevoir in the present for je, tu, il/elle/on, nous, vous and ils/elles.</span></summary><p>je reçois; tu reçois; il/elle/on reçoit; nous recevons; vous recevez; ils/elles reçoivent</p></details>
+
+<details class="source-question" data-question-id="11-18-source-020"><summary><span>20. True or false: ordinary c before o or a gives /s/. Explain the role of ç.</span></summary><p>False: ordinary c before a/o/u normally gives /k/. Ç keeps /s/ before those vowels. Ordinary c before e/i/y normally gives /s/; c + r is not a soft-c rule.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-021"><summary><span>21. In which two imparfait forms of manger is the extra e omitted? Contrast the present nous form.</span></summary><p>Nous mangions and vous mangiez omit the extra e before i. The other imparfait forms have mangea-. Present nous mangeons retains e before o.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-022"><summary><span>22. Conjugate aller in the present tense (all forms).</span></summary><p>je vais, tu vas, il va, elle va, on va, nous allons, vous allez, ils vont, elles vont.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-023"><summary><span>23. Identify the tense in En général, j’avais de bonnes notes and explain the viewpoint.</span></summary><p>Imparfait: avais describes a habitual/general past situation. En général helps the interpretation but does not mechanically require that tense.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-024"><summary><span>24. Which expression points to future time: hier, demain or toujours? Does it alone prove futur proche?</span></summary><p>Demain means tomorrow. It can accompany a present form, futur proche or futur simple; inspect the verb construction.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-025"><summary><span>25. Is Demain, le président va au sommet du G7 grammatically futur proche or present? Explain.</span></summary><p>Present: va is present aller followed by a destination, not an infinitive. Demain gives future meaning without changing the verb’s grammatical form.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-026"><summary><span>26. With ordinary être + aller and a masculine singular subject, choose allé or allée.</span></summary><p>allé</p></details>
+
+<details class="source-question" data-question-id="11-18-source-027"><summary><span>27. Convert to the imperfect: Le linge sèche rapidement.</span></summary><p>Le linge séchait rapidement.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-028"><summary><span>28. Write a sentence announcing that it is the next player’s turn.</span></summary><p>C’est le tour du joueur suivant. General pattern: C’est le tour de + person/role.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-029"><summary><span>29. Build a futur proche sentence meaning &quot;I&#x27;m going to order a pizza.&quot;</span></summary><p>Je vais commander une pizza.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-030"><summary><span>30. Combine an imparfait background action with a passé composé interruption.</span></summary><p>Example: Je regardais la télévision quand le téléphone a sonné.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-031"><summary><span>31. Build a sentence: order a four-cheese pizza using Je vais prendre...</span></summary><p>Je vais prendre une pizza quatre fromages.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-032"><summary><span>32. Build a sentence saying you&#x27;ll come pick up the order at 1 p.m.</span></summary><p>Nous allons venir chercher la commande à treize heures.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-033"><summary><span>33. An appointment is booked for November 30. Correct the mistaken French date: le treize novembre.</span></summary><p>le trente novembre</p></details>
+
+<details class="source-question" data-question-id="11-18-source-034"><summary><span>34. Correct the spelling: &quot;garcon&quot; (meaning boy).</span></summary><p>garçon</p></details>
+
+<details class="source-question" data-question-id="11-18-source-035"><summary><span>35. Correct if needed: &quot;Hier, je vais acheter du pain.&quot; (meaning: Yesterday I bought bread)</span></summary><p>Incorrect — past meaning needs passé composé: Hier, j&#x27;ai acheté du pain.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-036"><summary><span>36. Correct if needed: &quot;Je vais mange.&quot;</span></summary><p>Je vais manger.</p></details>
+
+<details class="source-question" data-question-id="11-18-source-037"><summary><span>37. Correct the agreement for a masculine singular subject: Il est allée au magasin.</span></summary><p>Il est allé au magasin.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-18">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-18">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-11-16.html">Previous lesson</a> <a href="lessons.html">All lessons</a></nav>
