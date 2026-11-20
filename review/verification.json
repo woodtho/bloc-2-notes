@@ -103,17 +103,18 @@
     "repository": "woodtho/bloc-2-notes",
     "url": "https://woodtho.github.io/bloc-2-notes/",
     "repository_url": "https://github.com/woodtho/bloc-2-notes",
-    "verified_date": "2026-11-18",
+    "verified_date": "2026-11-20",
     "github_pages_build": "built",
-    "live_content_verification": "25 pages and 5 application/style assets match the local build",
+    "live_content_verification": "26 pages and 7 application/style/search assets match the local build",
     "browser_checks": [
       "19-lesson library",
       "lesson draft and Known rating restored after reload",
       "automatic short-answer quiz grading",
-      "lesson-specific worked-example flashcards and answer reveal"
+      "lesson-specific worked-example flashcards and answer reveal",
+      "published fuzzy search: typo query, material filter and lesson targets"
     ],
     "screenshot": "github-pages-live.jpg",
-    "verified_content_commit": "4c6086e5c042adb8a1ba51e2c8677a1ea7935508"
+    "verified_content_commit": "7163ba559e73a3509dd0a9e63a50afc00e41e365"
   },
   "lesson_11_18": {
     "source_questions": 37,
@@ -189,6 +190,10 @@
       "search-desktop.jpg",
       "search-mobile.jpg"
     ],
-    "status": "prepared"
+    "status": "live",
+    "url": "https://woodtho.github.io/bloc-2-notes/search.html",
+    "live_content_verified": true,
+    "live_screenshot": "search-live.jpg",
+    "verified_content_commit": "7163ba559e73a3509dd0a9e63a50afc00e41e365"
   }
 }

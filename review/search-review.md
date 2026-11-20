@@ -9,3 +9,5 @@ The dependency-free matcher normalizes accents, case, punctuation and ligatures;
 Direct links open the relevant heading, vocabulary/example row, inline question, quiz item or card. Same-page question links reveal filtered/collapsed questions and dismiss search without scrolling back to the header. Search-linked exam questions use a separate saved practice session, preserving the main exam attempt.
 
 Validation: successful R Markdown build; 28 Node tests; 26-page link/structure/privacy/material audit; all search destinations and cache versions validated. Browser checks covered typo/missing-accent queries, material filters, card and lesson/question links, same-page scroll, persistent question drafts, keyboard/focus behavior, pagination, no matches, and a 390px viewport without horizontal overflow. See search-desktop.jpg and search-mobile.jpg.
+
+Published verification: GitHub Pages built content commit 7163ba5. All 26 HTML pages and seven application/style/search assets match the local build. Live browser results for imparfiat display the expected lesson headings; the notes filter works. See search-live.jpg.
