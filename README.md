@@ -11,6 +11,7 @@ Open `docs/index.html` in a browser, or serve `docs/` with a static HTTP server.
 Each lesson is self-contained. Repeated overviews, rules and corrections within a lesson are merged into topic sections. English explanations retain French examples, full conjugations, pronunciation, register, distinct examples and exceptions. Personal material is removed or replaced with generic teaching examples.
 
 - 20 editable lesson Rmd sources.
+- Global fuzzy search across lesson notes, vocabulary, questions, flashcards and exam prep. Use Search, Ctrl/Cmd+K or `/`; accents and minor typos are optional. Results link directly to the relevant section or practice item. The full search page supports bookmarkable queries and material filters.
 - 659 reviewed original self-test questions, plus supplementary practice: 969 quiz items.
 - All 438 source example-bank entries and 1,221 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
 - 2,647 flashcards, filterable by lesson, topic and material.
@@ -26,13 +27,13 @@ Open questions use model-answer self-assessment because valid wording can vary. 
 
 Edit `lesson-MM-DD.Rmd` for lessons. The other Rmd files define the home, library, quiz and flashcard pages. `_site.yml` controls rendering. `assets/style.css`, `assets/app.js` and `assets/data.js` provide the layout, interactions and practice content. Update interactive data when changing practice material; keep question IDs stable to preserve saved progress.
 
-Requires R, the `rmarkdown` package and Pandoc:
+Requires R, the `rmarkdown` package, Pandoc and Python 3:
 
 ```text
 Rscript build.R
 ```
 
-The build writes `docs/` and its `.nojekyll` marker. Windows builds discover the usual user R library and Pandoc folder; `R_LIBS_USER` and `RSTUDIO_PANDOC` can specify alternatives.
+The build writes `docs/`, its `.nojekyll` marker and a search index generated from the curated content. The index loads only when searching and contains no saved user answers. Windows builds discover the usual user R library, Pandoc and Python folders; `R_LIBS_USER`, `RSTUDIO_PANDOC` and `BLOC2_PYTHON` can specify alternatives. Search links to exam questions use a separate saved practice session, preserving the main exam attempt.
 
 ## GitHub Pages
 
@@ -41,11 +42,11 @@ Publish the `main` branch’s `/docs` directory using Settings → Pages → Dep
 ## Verification
 
 ```text
-node --test tests/study.test.cjs tests/exam.test.cjs
+node --test tests/study.test.cjs tests/exam.test.cjs tests/search.test.cjs
 python tests/audit.py
 ```
 
-The 21 interaction tests cover grading, filters, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 25 pages, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
+The 28 tests cover search matching and filters, direct links, exam session isolation, grading, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 26 pages, search targets, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
 
 An optional local-only source-name blocklist can be supplied using `BLOC2_PRIVACY_PATTERNS_FILE`. The blocklist and raw exports are outside this repo. Automated checks complement editorial review; they cannot independently prove semantic completeness or anonymization.
 

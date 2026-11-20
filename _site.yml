@@ -1,7 +1,7 @@
 name: "french-study"
 output_dir: "docs"
 include: ["assets"]
-exclude: ["README.md", "build.R", "review", "tests", "package.json", "node_modules"]
+exclude: ["README.md", "build.R", "build_search.py", "review", "tests", "package.json", "node_modules"]
 output:
   html_document:
     theme: null

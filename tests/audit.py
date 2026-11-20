@@ -2,7 +2,7 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote
-import json,re,os,unicodedata,html
+import json,re,os,unicodedata,html,hashlib
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'docs'
@@ -28,7 +28,7 @@ class Page(HTMLParser):
   if self.browser_title:self.title_text+=data
 
 pages={p.name:Page(p.read_text(encoding='utf-8')) for p in SITE.glob('*.html')}
-assert len(pages)==25,(len(pages),'expected 25 HTML pages')
+assert len(pages)==26,(len(pages),'expected 26 HTML pages')
 assert 'about.html' not in pages,'Study guide page was not removed'
 broken=[]
 for name,page in pages.items():
@@ -53,11 +53,13 @@ for name,page in pages.items():
   if not f.exists():broken.append((name,url))
   if u.fragment and f.suffix=='.html' and f.name in pages:
    if unquote(u.fragment) not in pages[f.name].ids:broken.append((name,url))
- for script in ('assets/data.js','assets/app.js'):
+ for script in ('assets/data.js','assets/app.js','assets/search.js'):
   assert script in page.scripts,(name,'missing practice script',script)
+ assert 'global-search-trigger' in page.ids,(name,'missing global search')
 assert not broken,broken
 text='\n'.join(' '.join(p.text) for p in pages.values())+(ROOT/'assets/data.js').read_text(encoding='utf-8')
 text+=(ROOT/'assets/exam-data.js').read_text(encoding='utf-8')
+text+=(ROOT/'assets/search-index.js').read_text(encoding='utf-8')
 for removed in ('French notes for English-speaking learners','French lessons explained in English, with examples, vocabulary, quizzes and flashcards.','Study guide','Examples are fictional or generic. Names, personal routes and identifying details have been removed. Explanations are in English.'):
  assert removed not in text,('removed site copy remains',removed)
 # Optional local-only source-name patterns are never committed with the site.
@@ -123,3 +125,27 @@ exam_raw=(ROOT/'assets/exam-data.js').read_text(encoding='utf-8')
 exam=json.loads(exam_raw[exam_raw.index('{'):exam_raw.rindex(';')])
 assert len(exam['topics'])==13 and len(exam['questions'])==78
 assert all((SITE/f"lesson-{q['lesson']}.html").exists() for q in exam['questions'])
+
+# Search targets must resolve to the exact curated note, question or card.
+search_raw=(ROOT/'assets/search-index.js').read_text(encoding='utf-8')
+assert search_raw==(SITE/'assets/search-index.js').read_text(encoding='utf-8')
+search=json.loads(search_raw[search_raw.index('{'):search_raw.rindex(';')])
+assert search['coverage']==dict(lessons=20,lesson_questions=969,flashcards=2647,exam_questions=78)
+from urllib.parse import parse_qs
+question_ids={q['id'] for q in data['questions']}
+card_ids={c['id'] for c in data['cards']}
+exam_ids={q['id'] for q in exam['questions']}
+for entry in search['documents']:
+ for url in [entry['url']]+([entry['practice']] if entry.get('practice') else []):
+  u=urlsplit(url);assert not u.scheme and not u.netloc and '..' not in u.path
+  assert u.path in pages,(entry['id'],url)
+  if u.fragment:assert unquote(u.fragment) in pages[u.path].ids,(entry['id'],url)
+  query=parse_qs(u.query)
+  if u.path=='quizzes.html' and query:assert query['question'][0] in question_ids
+  if u.path=='cards.html' and query:assert query['card'][0] in card_ids
+  if u.path=='exam-prep.html' and query:assert query['question'][0] in exam_ids
+version=hashlib.sha256(search_raw.encode('utf-8')).hexdigest()[:12]
+for name in pages:
+ assert f'data-search-index="assets/search-index.js?v={version}"' in (SITE/name).read_text(encoding='utf-8')
+assert not (SITE/'build_search.py').exists()
+print(json.dumps({'search_entries':len(search['documents']),'search_targets':'passed','index_cache_version':version},indent=2))

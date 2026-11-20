@@ -19,12 +19,13 @@ class Element {
   fire(event){if(event==='click'&&this.disabled)return;for(const fn of this.handlers[event]||[])fn({preventDefault(){},target:this});}
   get allText(){return [this.textContent,...this.children.map(x=>x?.allText??String(x))].join(' ');}
 }
-function runtime(page='none',failStorage=false,search='',initialStorage){
-  const ids={};
+function runtime(page='none',failStorage=false,search='',initialStorage,hash=''){
+  const ids={},documentEvents={};
   const inlineParent=new Element('section'),inlineQuestions=[];
   if(page==='lesson')for(let i=0;i<3;i++){
     const detail=new Element('details'),summary=new Element('summary'),answer=new Element('p');
     detail.dataset.questionId=`09-09-source-${String(i+1).padStart(3,'0')}`;
+    detail.id=detail.dataset.questionId;
     summary.textContent=`Question ${i+1}`;answer.textContent=`Model ${i+1}`;
     detail.append(summary,answer);inlineParent.append(detail);inlineQuestions.push(detail);
   }
@@ -44,14 +45,38 @@ function runtime(page='none',failStorage=false,search='',initialStorage){
   if(ids['quiz-play'])ids['quiz-play'].hidden=true;
   const storage=initialStorage||{};
   const context={window:{},document:{body:new Element('body'),getElementById:id=>ids[id]||null,
-    createElement:tag=>new Element(tag),querySelectorAll:selector=>selector==='details.source-question, details.lesson-question'?inlineQuestions:[],addEventListener(){}},
-    location:{pathname:'/'+(page==='home'?'index':page)+'.html',search},URLSearchParams,
+    createElement:tag=>new Element(tag),querySelectorAll:selector=>selector==='details.source-question, details.lesson-question'?inlineQuestions:[],addEventListener(name,fn){(documentEvents[name]??=[]).push(fn);}},
+    location:{pathname:'/'+(page==='home'?'index':page)+'.html',search,hash},URLSearchParams,
     localStorage:{getItem:k=>{if(failStorage)throw Error('unavailable');return storage[k]||null;},
       setItem:(k,v)=>{if(failStorage)throw Error('unavailable');storage[k]=v;}},console,Math,Map,Set};
   context.window.confirm=()=>true;
   vm.createContext(context);vm.runInContext(dataCode,context);vm.runInContext(appCode,context);
-  return {ctx:context,ids,storage,$:id=>ids[id],data:context.window.FRENCH_STUDY,inlineParent,inlineQuestions};
+  return {ctx:context,ids,storage,$:id=>ids[id],data:context.window.FRENCH_STUDY,inlineParent,inlineQuestions,documentEvents};
 }
+
+test('search links open the exact question or card and preserve existing progress',()=>{
+  const storage={};
+  const walk=el=>[el,...el.children.filter(x=>x instanceof Element).flatMap(walk)];
+  let r=runtime('lesson',false,'',storage);
+  const input=walk(r.inlineQuestions[1]).find(x=>x.tagName==='TEXTAREA');
+  input.value='Saved answer';input.fire('input');
+  r=runtime('lesson',false,'',storage,'#09-09-source-002');
+  assert(r.inlineQuestions[1].open);assert(!r.inlineQuestions[0].open);
+  assert.equal(walk(r.inlineQuestions[1]).find(x=>x.tagName==='TEXTAREA').value,'Saved answer');
+  const filter=walk(r.inlineParent).find(x=>x.id==='lesson-question-filter');
+  filter.value='known';filter.fire('change');assert(r.inlineQuestions[1].hidden);
+  r.inlineQuestions[1].open=false;
+  for(const fn of r.documentEvents.click||[])fn({target:{closest:()=>({pathname:r.ctx.location.pathname,search:'',hash:'#09-09-source-002'})}});
+  assert(r.inlineQuestions[1].open);assert(!r.inlineQuestions[1].hidden);assert.equal(filter.value,'all');
+  r=runtime('quizzes',false,'?question=09-09-source-002',storage);
+  assert(!r.$('quiz-play').hidden);assert.equal(r.$('quiz-answer').value,'Saved answer');
+  assert.match(r.$('quiz-position').textContent,/1.*1/);
+  const card=r.data.cards[17];
+  const before=JSON.stringify(storage);
+  r=runtime('cards',false,'?card='+encodeURIComponent(card.id),storage);
+  assert(!r.$('card-play').hidden);assert.equal(r.$('card-front').textContent,card.front);
+  assert.equal(JSON.stringify(storage),before);
+});
 
 test('inline lesson questions reveal answers, preserve drafts and filter review status',()=>{
   const r=runtime('lesson');

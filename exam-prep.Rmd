@@ -12,4 +12,4 @@ pagetitle: "Final exam prep | Bloc 2 notes"
 <p id="exam-storage-note" class="small-note" role="status" hidden>Progress cannot be saved in this browser.</p>
 <noscript><p>Enable JavaScript to run the multiple-choice practice.</p></noscript>
 <script src="assets/exam-data.js?v=20261118-exam"></script>
-<script src="assets/exam.js?v=20261118-exam"></script>
+<script src="assets/exam.js?v=20261120-search"></script>

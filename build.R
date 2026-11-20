@@ -32,5 +32,12 @@ if (!rmarkdown::pandoc_available()) {
 }
 if (!rmarkdown::pandoc_available()) stop("Pandoc is required. Put it on PATH or set RSTUDIO_PANDOC.")
 rmarkdown::render_site(encoding = "UTF-8", quiet = TRUE)
+python_candidates <- unique(c(Sys.getenv("BLOC2_PYTHON"),
+  if (.Platform$OS.type == "windows") unlist(lapply(unique(c(Sys.getenv("LOCALAPPDATA"), file.path(Sys.getenv("USERPROFILE"), "AppData", "Local"))), function(p) Sys.glob(file.path(p, "Python", "pythoncore-*", "python.exe")))),
+  Sys.which("python3"), Sys.which("python")))
+python_candidates <- python_candidates[nzchar(python_candidates) & file.exists(python_candidates)]
+if (!length(python_candidates)) stop("Python 3 is required to build search. Set BLOC2_PYTHON to its executable.")
+if (system2(python_candidates[1], shQuote("build_search.py")) != 0)
+  stop("Search index generation failed.")
 file.create(file.path("docs", ".nojekyll"), showWarnings = FALSE)
 message("Built ", normalizePath("docs/index.html", winslash = "/"))

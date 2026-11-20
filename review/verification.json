@@ -1,10 +1,10 @@
 {
   "rmarkdown_build": "passed",
   "interaction_tests": {
-    "passed": 21,
+    "passed": 28,
     "failed": 0
   },
-  "html_pages": 25,
+  "html_pages": 26,
   "broken_local_links": 0,
   "lessons": 20,
   "original_self_test_items": 659,
@@ -37,7 +37,7 @@
     "repeated_intro_and_editorial_copy_removed": true,
     "built_html_audit": "passed"
   },
-  "current_revision_verification": "R Markdown build; 21 interaction tests; 25-page link/privacy/format/coverage audit; 78 exam questions across 13 topics; browser answer and feedback reload, scoring, retry and mobile controls.",
+  "current_revision_verification": "R Markdown build; 28 tests; 26-page link/privacy/format/coverage audit; 2,861 search entries with validated direct targets; desktop/mobile browser search checks.",
   "site_name": "Bloc 2 notes",
   "lesson_format_review": "all 19 lesson heading counts match the rendered HTML; missing Markdown block boundaries repaired",
   "inline_question_ui": {
@@ -160,5 +160,35 @@
     ],
     "url": "https://woodtho.github.io/bloc-2-notes/exam-prep.html",
     "live_content_verified": true
+  },
+  "global_search": {
+    "entries": 2861,
+    "lessons": 20,
+    "lesson_questions": 969,
+    "flashcards": 2647,
+    "exam_questions": 78,
+    "lazy_index": true,
+    "accent_insensitive": true,
+    "typo_tolerance": true,
+    "saved_answers_indexed": false,
+    "main_exam_attempt_preserved": true,
+    "review": "search-review.md",
+    "browser_checks": [
+      "typo imparfiat finds Form the imparfait",
+      "missing accents recoit finds reçoit",
+      "material filter and direct flashcard",
+      "lesson anchors scroll to matching section",
+      "same-page question links open and scroll into view",
+      "question draft retained after reload",
+      "slash in textarea does not open search",
+      "Escape restores focus",
+      "pagination and no matches",
+      "390px dialog without horizontal overflow"
+    ],
+    "screenshots": [
+      "search-desktop.jpg",
+      "search-mobile.jpg"
+    ],
+    "status": "prepared"
   }
 }

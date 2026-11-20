@@ -5,7 +5,9 @@
   if(!B)return;
   const questions=new Map(B.questions.map(q=>[q.id,q]));
   const topics=new Map(B.topics.map(t=>[t.id,t.label]));
-  const key='bloc-2-notes-exam-v1';
+  const linkedId=typeof location!=='undefined'?new URLSearchParams(location.search||'').get('question'):null;
+  const linkedQuestion=questions.get(linkedId);
+  const key=linkedQuestion?'bloc-2-notes-exam-search-v1':'bloc-2-notes-exam-v1';
   function shuffled(items,random=Math.random) {
     const result=[...items];
     for(let i=result.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}
@@ -66,11 +68,13 @@
   const visible=(id,yes)=>$(id).hidden=!yes;
   let state=fresh(),storageWorks=true;
   try {state=restore(JSON.parse(localStorage.getItem(key)||'null'));}catch(_){storageWorks=false;}
+  if(linkedQuestion&&(state.queue.length!==1||state.queue[0]!==linkedId))state=session(linkedQuestion.topic,'all',Math.random,[linkedId]);
   function persist() {
     try{localStorage.setItem(key,JSON.stringify(state));storageWorks=true;}catch(_){storageWorks=false;}
     $('exam-storage-note').hidden=storageWorks;
   }
   $('exam-storage-note').hidden=storageWorks;
+  if(linkedQuestion){persist();$('exam-new').textContent='Return to exam prep';}
   for(const [value,label] of [['all','All topics'],...B.topics.map(t=>[t.id,t.label])]) {
     const option=make('option','',label);option.value=value;$('exam-topic').append(option);
   }
@@ -131,7 +135,7 @@
       const row=make('li');row.append(make('span','',t.label),make('span','',`${t.correct} / ${t.total}`));return row;
     }));
     $('exam-retry').disabled=!result.missed.length;
-    $('exam-review').replaceChildren(...result.missed.map(id=>{
+    $('exam-review').replaceChildren(...(linkedQuestion?state.queue:result.missed).map(id=>{
       const q=questions.get(id),a=state.answers[id],item=make('section','review-item');
       const selected=a?.checked?q.options.find(o=>o.id===a.selected).text:'Not submitted';
       item.append(make('h3','',q.prompt),make('p','',`Your answer: ${selected}`),make('p','',`Correct answer: ${q.options.find(o=>o.id===q.correct).text}`),make('p','',q.explanation));
@@ -159,6 +163,6 @@
   });
   $('exam-end').addEventListener('click',()=>{if(state.stage!=='play')return;state.stage='results';persist();render();});
   $('exam-retry').addEventListener('click',()=>{const missed=summarize(state).missed;if(missed.length)start(missed);});
-  $('exam-new').addEventListener('click',()=>{state=fresh(state.filter,state.size);persist();render();$('exam-topic').focus();});
+  $('exam-new').addEventListener('click',()=>{if(linkedQuestion){location.href='exam-prep.html';return;}state=fresh(state.filter,state.size);persist();render();$('exam-topic').focus();});
   render();
 })();

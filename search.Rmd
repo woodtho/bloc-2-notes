@@ -1,0 +1,10 @@
+---
+title: "Search"
+pagetitle: "Search | Bloc 2 notes"
+---
+
+<form id="site-search-form" class="search-form" role="search" action="search.html"><label for="site-search-input">Search all material<input id="site-search-input" type="search" name="q" autocomplete="off" spellcheck="false"></label><label for="site-search-type">Material<select id="site-search-type" name="type"></select></label><button class="button" type="submit">Search</button></form>
+<p id="site-search-status" class="small-note" role="status"></p>
+<ol id="site-search-results" class="search-results"></ol>
+<button id="site-search-more" class="button secondary" type="button" hidden>Show more</button>
+<noscript><p>Enable JavaScript to search, or <a href="lessons.html">browse the lessons</a>.</p></noscript>

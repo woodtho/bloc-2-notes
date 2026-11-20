@@ -18,10 +18,10 @@ class Element {
   fire(name){if(name==='click'&&this.disabled)return;for(const fn of this.handlers[name]||[])fn({preventDefault(){},target:this});}
   get allText(){return [this.textContent,...this.children.map(x=>x.allText||'')].join(' ');}
 }
-function runtime(storage={},blocked=false) {
+function runtime(storage={},blocked=false,search='') {
   const names=['setup','topic','length','available','start','play','position','score','progress','topic-label','prompt','form','choices','check','feedback','lesson','end','next','results','result-title','result-detail','breakdown','retry','new','review','storage-note'];
   const ids=Object.fromEntries(names.map(id=>['exam-'+id,new Element()]));
-  const ctx={window:{},document:{getElementById:id=>ids[id]||null,createElement:tag=>new Element(tag)},Math,Map,Set,JSON,
+  const ctx={window:{},location:{search,href:'exam-prep.html'},URLSearchParams,document:{getElementById:id=>ids[id]||null,createElement:tag=>new Element(tag)},Math,Map,Set,JSON,
     localStorage:{getItem:k=>{if(blocked)throw Error('blocked');return storage[k]||null;},setItem:(k,v)=>{if(blocked)throw Error('blocked');storage[k]=v;}}};
   vm.createContext(ctx);vm.runInContext(bank,ctx);vm.runInContext(script,ctx);
   const state=()=>JSON.parse(storage[key]);
@@ -32,6 +32,20 @@ function runtime(storage={},blocked=false) {
   };
   return {ctx,storage,$:id=>ids['exam-'+id],core:ctx.window.FrenchExamCore,data:ctx.window.FRENCH_EXAM,state,q,select};
 }
+
+test('search question practice preserves the main exam attempt and its own feedback',()=>{
+  const saved={};let r=runtime(saved);r.$('start').fire('click');
+  r.select(r.q().correct);r.$('form').fire('submit');r.$('next').fire('click');
+  const original=saved[key],id=r.data.questions[20].id;
+  r=runtime(saved,false,'?question='+id);assert.equal(r.q().id,id);
+  assert.match(r.$('position').textContent,/1.*1/);assert.equal(saved[key],original);
+  r.select(r.q().correct);r.$('form').fire('submit');r.$('next').fire('click');
+  r=runtime(saved,false,'?question='+id);assert(!r.$('results').hidden);
+  assert.equal(r.$('review').children.length,1);assert.equal(saved[key],original);
+  r.$('new').fire('click');assert.equal(r.ctx.location.href,'exam-prep.html');
+  r=runtime(saved);assert.equal(r.state().index,1);assert.equal(r.core.summarize(r.state()).correct,1);
+  assert.equal(saved[key],original);
+});
 
 test('78 multiple-choice items cover all 13 checklist topics with valid lesson links',()=>{
   const r=runtime(),data=r.data;assert.equal(data.topics.length,13);assert.equal(data.questions.length,78);
