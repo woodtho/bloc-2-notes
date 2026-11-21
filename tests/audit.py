@@ -120,9 +120,14 @@ latest=next(x for x in ledger if x['lesson']=='11-20')
 assert len(latest['flashcards'])==45
 assert all(entry['card_id'] in {c['id'] for c in data['cards']} for entry in latest['flashcards'])
 latest_source=(ROOT/'lesson-11-20.Rmd').read_text(encoding='utf-8')
+latest_built=norm(' '.join(pages['lesson-11-20.html'].text))
 for q in (q for q in data['questions'] if q['lesson']=='11-20'):
  assert f'<span>{q["source_item"]}. {html.escape(q["prompt"])}</span>' in latest_source,('inline/quiz prompt mismatch',q['id'])
  assert f'<p>{html.escape(q["answer"])}</p>' in latest_source,('inline/quiz answer mismatch',q['id'])
+ assert norm(q['prompt']) in latest_built,('built prompt differs from quiz',q['id'])
+ assert norm(q['answer']) in latest_built,('built answer differs from quiz',q['id'])
+for i in [5,7,22]:
+ assert '[blank]' in next(q['prompt'] for q in data['questions'] if q['id']==f'11-20-source-{i:03}')
 
 # The new standalone exam scripts must be present and match their editable source.
 assert 'exam-prep.html' in pages

@@ -28,3 +28,5 @@ Existing lessons, question/card identities, progress keys and exam-bank items re
 ## Validation
 
 Successful R Markdown build; 29 interaction/search tests; 27-page link, structure, privacy and source-coverage audit. All 24 source example forms and 81 vocabulary rows are accounted for in the consolidation ledger; all 37 prompts/answers match the quiz bank; all 45 source flashcards link to usable cards. Browser and deployment evidence is recorded in `verification.json`.
+
+Initial publication verified at content commit 378974e: all 27 pages and seven application/style/search assets matched the local build, and the live lesson loaded in the browser. A final rebuild also synchronizes small wording edits across source, rendered questions and the search index.
