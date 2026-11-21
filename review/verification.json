@@ -1,17 +1,17 @@
 {
   "rmarkdown_build": "passed",
   "interaction_tests": {
-    "passed": 28,
+    "passed": 29,
     "failed": 0
   },
-  "html_pages": 26,
+  "html_pages": 27,
   "broken_local_links": 0,
-  "lessons": 20,
-  "original_self_test_items": 659,
-  "quiz_questions": 969,
-  "example_bank_entries": 438,
-  "vocabulary_entries": 1221,
-  "flashcards": 2647,
+  "lessons": 21,
+  "original_self_test_items": 696,
+  "quiz_questions": 1006,
+  "example_bank_entries": 462,
+  "vocabulary_entries": 1302,
+  "flashcards": 2828,
   "source_item_numbering": "all original item indices present in data and lesson Rmd files",
   "privacy_scan": "known source names/contact patterns passed; editorial anonymization reviewed",
   "browser_checks": [
@@ -37,12 +37,12 @@
     "repeated_intro_and_editorial_copy_removed": true,
     "built_html_audit": "passed"
   },
-  "current_revision_verification": "R Markdown build; 28 tests; 26-page link/privacy/format/coverage audit; 2,861 search entries with validated direct targets; desktop/mobile browser search checks.",
+  "current_revision_verification": "R Markdown build; 29 interaction/search tests; 27-page link/privacy/format/coverage audit; November 20 source coverage and earlier data identity checks.",
   "site_name": "Bloc 2 notes",
-  "lesson_format_review": "all 19 lesson heading counts match the rendered HTML; missing Markdown block boundaries repaired",
+  "lesson_format_review": "All 21 lesson heading counts match the rendered HTML.",
   "inline_question_ui": {
-    "lessons": 20,
-    "source_questions": 659,
+    "lessons": 21,
+    "source_questions": 696,
     "derived_questions": 48,
     "browser_checks": [
       "typed draft and answer reveal",
@@ -87,7 +87,7 @@
     "question_drafts": true,
     "known_review_ratings": true,
     "shared_inline_and_quiz": true,
-    "stable_inline_ids": 707,
+    "stable_inline_ids": 744,
     "browser_checks": [
       "typed draft and Known restored after reload",
       "blank draft and To review restored after reload"
@@ -163,10 +163,10 @@
     "live_content_verified": true
   },
   "global_search": {
-    "entries": 2861,
-    "lessons": 20,
-    "lesson_questions": 969,
-    "flashcards": 2647,
+    "entries": 3051,
+    "lessons": 21,
+    "lesson_questions": 1006,
+    "flashcards": 2828,
     "exam_questions": 78,
     "lazy_index": true,
     "accent_insensitive": true,
@@ -192,8 +192,30 @@
     ],
     "status": "live",
     "url": "https://woodtho.github.io/bloc-2-notes/search.html",
-    "live_content_verified": true,
+    "live_content_verified": false,
     "live_screenshot": "search-live.jpg",
     "verified_content_commit": "7163ba559e73a3509dd0a9e63a50afc00e41e365"
+  },
+  "lesson_11_20": {
+    "source_questions": 37,
+    "source_vocabulary_entries": 81,
+    "source_examples": 24,
+    "source_flashcards": 45,
+    "new_practice_cards": 181,
+    "review": "lesson-11-20-review.md",
+    "status": "prepared",
+    "url": "https://woodtho.github.io/bloc-2-notes/lesson-11-20.html",
+    "browser_checks": [
+      "37-question lesson selection",
+      "181-card lesson selection and 24 worked examples",
+      "card reveal with English answer",
+      "new draft and Known rating restored after reload",
+      "search conquerra reaches new irregular-stem section",
+      "390px layout without document overflow"
+    ],
+    "screenshots": [
+      "lesson-11-20-desktop.jpg",
+      "lesson-11-20-mobile.jpg"
+    ]
   }
 }

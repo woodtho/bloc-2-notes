@@ -1,0 +1,333 @@
+---
+title: "Futur simple: formation & usage"
+pagetitle: "Futur simple: formation & usage | Bloc 2 notes"
+---
+
+<div class="lesson-meta">Lesson 21 · 11-20 · 2026</div>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-20">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-20">Practise flashcards</a></div>
+
+<details class="lesson-outline"><summary>On this page</summary><ul><li><a href="#lesson-details">Notes</a></li><li><a href="#vocabulary-reference">Vocabulary</a></li><li><a href="#questions">Questions</a></li></ul></details>
+
+## Review the futur proche {#lesson-details}
+
+The **futur proche** uses **present aller + an infinitive**: **je vais, tu vas, il/elle/on va, nous allons, vous allez, ils/elles vont + infinitive**. Conjugate only **aller**; keep the following verb in the infinitive. It commonly expresses plans, intentions or a future connected with the present; it is not restricted to the next few minutes.
+
+To ask about tomorrow, use **Qu’est-ce que tu vas faire demain ?** — What are you going to do tomorrow?
+
+| French | English |
+|---|---|
+| Je vais aller en ville pour un tournoi de karaté. | I’m going to go into town for a karate tournament. |
+| Je vais aller voir mon fils jouer au hockey. | I’m going to go watch my son play hockey. |
+| Je vais faire l’épicerie. | I’m going to do grocery shopping. |
+| Je vais conduire ma fille et ses amis au cinéma. | I’m going to drive my daughter and her friends to the cinema. |
+| Je vais changer les pneus. | I’m going to change the tires. |
+| Je vais jouer au badminton avec mes amis. | I’m going to play badminton with my friends. |
+| Ma famille va faire du bénévolat. | My family is going to do volunteer work. |
+
+**Je vais aller en ville** remains futur proche even though **aller** appears twice: the first is conjugated and the second is an infinitive. **Faire l’épicerie** is common Canadian/Quebec French for grocery shopping; **le supermarché** is a supermarket and **le marché** a market.
+
+## Form the futur simple
+
+The **futur simple** is a one-word conjugated tense, usually translated with English **will**. It has no separate auxiliary corresponding to English *will*: use **future stem + ending**. The future stem ends in **r**, which is also used in the conditional.
+
+| Subject | Ending | ranger: to tidy | accomplir: to accomplish |
+|---|---|---|---|
+| je | -ai | je rangerai | j’accomplirai |
+| tu | -as | tu rangeras | tu accompliras |
+| il/elle/on | -a | il/elle/on rangera | il/elle/on accomplira |
+| nous | -ons | nous rangerons | nous accomplirons |
+| vous | -ez | vous rangerez | vous accomplirez |
+| ils/elles | -ont | ils rangeront / elles rangeront | ils/elles accompliront |
+
+All verbs use **-ai, -as, -a, -ons, -ez, -ont**, including irregular verbs. Remember the present of **avoir**: **j’ai, tu as, il/elle/on a, nous avons, vous avez, ils/elles ont**. The endings resemble those forms, but **-ons/-ez** are not the complete words **avons/avez**.
+
+For regular **-er** and **-ir** verbs, use the full infinitive as the stem: **ranger-, accomplir-**. Some verbs irregular in the present also follow that future pattern: **ouvrir → j’ouvrirai**, **partir → partira**. **Le prochain train partira demain matin** — The next train will leave tomorrow morning. Other forms to recognize are **vous réussirez** (you will succeed) and **ils oublieront** (they will forget).
+
+For verbs following the **-re** pattern, remove only the final silent **e**, then add the ending:
+
+| Infinitive | Future form | English |
+|---|---|---|
+| rendre | je rendrai / nous rendrons | I will give back / we will give back |
+| vendre | je vendrai | I will sell |
+| pendre | je pendrai | I will hang |
+| prendre | je prendrai / ils prendront | I will take / they will take |
+| craindre | je craindrai | I will fear |
+| éteindre | j’éteindrai | I will turn off |
+| joindre | je joindrai | I will join / reach |
+| battre | je battrai | I will beat |
+
+Do not blend a present form into the future: an invented form such as *je vends-jarai* is incorrect. The rule does not remove irregular future stems: check the irregular list below.
+
+**Learn one future stem for all subjects.** Unlike many present-tense patterns, a spelling change in the future also applies to **nous/vous**. Add the appropriate ending to that same stem. **Je rangerai ma chambre** — I will tidy my room; **Nous rangerons la maison** — We will tidy the house. 
+
+## Spelling changes and accepted alternatives
+
+Keep the infinitive spelling in **-cer/-ger** future forms: **lancer → je lancerai** (I will throw/launch), **manger → je mangerai** (I will eat). The following **e** already gives the relevant soft consonant, so do not import present **lançons/mangeons** spellings into these future stems.
+
+| Pattern | Future examples | Detail |
+|---|---|---|
+| -oyer / -uyer | nettoyer → je nettoierai; essuyer → j’essuierai | y becomes i; envoyer has the separate irregular stem enverr-. |
+| -ayer | essayer → j’essaierai / j’essayerai | Both spellings are accepted. |
+| appeler | j’appellerai, tu appelleras, il/elle/on appellera, nous appellerons, vous appellerez, ils/elles appelleront | Double l throughout the future paradigm. |
+| jeter | je jetterai | Double t; keep the same stem for every subject. |
+| plain e before consonant + er | lever → je lèverai; amener → j’amènerai; peser → je pèserai; acheter → j’achèterai; achever → j’achèverai | The relevant e becomes è. |
+| é before consonant + er, traditional spelling | céder → je céderai; espérer → j’espérerai; répéter → je répéterai; célébrer → je célébrerai | These are the traditional forms used in the lesson. |
+| é before consonant + er, rectified spelling | je cèderai; j’espèrerai; je répèterai; je célèbrerai | The 1990 spelling rectifications also permit è in these future forms. |
+
+The lesson’s memory aid is **plain e takes è; an existing é stays in traditional future spelling**. Keep the qualification about spelling conventions: it is not a rule that every é spelling must remain unchanged. Nor does every **-eler/-eter** verb double its consonant; **acheter** uses **è**, whereas **appeler/jeter** keep their doubled consonants. Consult **un conjugueur** (a conjugation tool) for an unfamiliar verb.
+
+**Accueillir** is an **-ir** exception: **accueiller- → j’accueillerai** — I will welcome. Retain the distinction from **ouvrir → j’ouvrirai**. Practise **j’accueille / j’accueillerai** as complete forms, rather than guessing a future from the last two infinitive letters.
+
+Avoid present-tense interference: **nous appelons → nous appellerons** when future meaning is intended; **vous accomplissez → vous accomplirez**, not *vous accomplez*. **J’apparais, tu apparais, ils apparaissent** belong to **apparaître** (to appear), not **appeler** (to call): use **j’appellerai, tu appelleras, ils appelleront** for the future of calling.
+
+## Irregular future stems
+
+The endings remain the same; memorize the stem. This list also prepares you for the **conditionnel présent**, which uses the same future stems with different endings.
+
+| Infinitive | Future stem | Model | English |
+|---|---|---|---|
+| aller | ir- | j’irai | I will go |
+| courir | courr- | je courrai | I will run |
+| devoir | devr- | je devrai | I will have to |
+| envoyer | enverr- | j’enverrai | I will send |
+| faire | fer- | je ferai | I will do / make |
+| falloir | faudr- | il faudra | It will be necessary |
+| mourir | mourr- | je mourrai | I will die |
+| obtenir | obtiendr- | j’obtiendrai | I will obtain |
+| pleuvoir | pleuvr- | il pleuvra | It will rain |
+| pouvoir | pourr- | je pourrai | I will be able to |
+| recevoir | recevr- | je recevrai / vous recevrez | I / you will receive |
+| savoir | saur- | je saurai / elle saura | I / she will know |
+| tenir | tiendr- | je tiendrai / il tiendra | I / he will hold |
+| venir | viendr- | je viendrai | I will come |
+| voir | verr- | je verrai / tu verras | I / you will see |
+| vouloir | voudr- | je voudrai / ils voudront | I / they will want |
+| être | ser- | je serai / elle sera | I / she will be |
+| avoir | aur- | elle aura / elles auront | She / they will have |
+| conquérir | conquerr- | il conquerra | He will conquer |
+
+**Falloir** is impersonal. Weather **pleuvoir** normally uses **il**; figurative uses need not be impersonal. Watch written double **r** in **courrai, mourrai, pourrai, verrai, conquerra** and **enverrai**. **Obtenir** follows the **tenir** family.
+
+**Je voudrai** means I will want; **je voudrais** is conditional, often I would like. Thus **Je voudrai te voir demain** means I will want to see you tomorrow. **Je voudrais te voir demain** is a valid request with a different meaning. Likewise **je rangerai / je rangerais** share a stem but have different endings. The conditional is only a preview here.
+
+## Use the future in context
+
+Common markers are **bientôt** (soon), **ce soir** (tonight), **demain** (tomorrow) and **un jour** (one day). They indicate time; inspect the verb to identify its tense. Both future constructions can refer to plans or predictions; do not assign a fixed time distance to either.
+
+| French | English / use |
+|---|---|
+| Nous serons bientôt là. | We will be there soon. |
+| Un jour, je visiterai l’Australie. | One day I will visit Australia; future intention or hope. |
+| Je pense qu’il arrivera en retard. | I think he will arrive late; a prediction. |
+| Je serai de retour dans dix-huit jours exactement. | I will be back in exactly eighteen days. |
+| Vous reprendrez bien un peu de café. | You’ll have a little more coffee; a polite offer, often understood as “Won’t you have a little more coffee?” |
+| Ils iront au Mexique pour Noël. | They will go to Mexico for Christmas. |
+| Vous recevrez une invitation dans les prochains jours. | You will receive an invitation in the coming days. |
+| Ils iront se promener dans le bois. | They will go for a walk in the woods. |
+| J’espère que tu seras à l’heure. | I hope you will be on time. |
+| Il ne mourra pas. | He will not die. |
+| Il conquerra. | He will conquer. |
+
+### After a conjunction of time
+
+For a future event after **quand**, **lorsque/lorsqu’** (when), **dès que/dès qu’** (as soon as), or **après que/après qu’** (after), French normally uses a future tense where English often uses the present. A *subordinate clause* is the part introduced by the linking expression; you can apply the pattern without memorizing the terminology.
+
+| French | English |
+|---|---|
+| Appelle-moi quand tu recevras l’invitation. | Call me when you get the invitation. |
+| Vois avec elle dès qu’elle sera de retour. | Check with her as soon as she is back. |
+| La prochaine fois qu’on voyagera, nous n’oublierons pas notre valise. | Next time we travel, we won’t forget our suitcase. |
+| Quand tu arriveras, nous commencerons. | When you arrive, we will begin. |
+
+The first two main clauses are **imperatives**, not future forms. Both clauses can be future, as in the last row, but they do not have to be. For an intended single future event, use **Appelle-moi quand tu arriveras**, rather than mechanically copying English *when you arrive* as **quand tu arrives**. A present form remains possible for a habit or a different context. These conjunctions do not automatically force future time in every sentence.
+
+After **après que**, a completed future action commonly uses the **futur antérieur**: **Après que tu auras terminé, nous partirons** — After you have finished, we will leave. That is an indicative future construction, not a rule to put every clause in futur simple.
+
+## Pronunciation, listening and negation
+
+Pronounce the future stem’s **r**, especially if your English accent drops r after vowels. **Tu demanderas son adresse à ses parents** — You will ask his/her parents for the address. The **r** in **demanderas** must remain audible; *tu demandea* loses part of the form. French commonly uses a back-of-mouth/throat **r**, though its realization varies. It helps distinguish forms, but is not unique to the future: the conditional also contains it. Practise short, comfortable repetitions without forcing the tongue or throat.
+
+**É** (*accent aigu*) generally represents closed **/e/**; **è** (*accent grave*) represents open **/ɛ/**. These are the vowel qualities used to compare future **-ai** and conditional **-ais**. A useful Quebec model is **je rangerai** with final **/e/**, roughly “rangeré,” versus **je rangerais** with **/ɛ/**, roughly “rangerè.” Regional varieties can merge or realize these vowels differently; spelling, subject and context still matter. IPA is a transcription system, not a rule prescribing one open vowel for all future **-ai** forms.
+
+In **j’appelle / j’appellerai**, the vowel before **ll** is open **/ɛ/**; it is separate from the final future vowel. Link **nous appellerons, vous appellerez, ils appelleront** smoothly, with **/z/** liaison before the vowel. Treat subject and verb as a connected spoken group rather than stopping between them; use manageable phrase lengths and natural breathing.
+
+Distinguish **elle saura** (she will know) from **elle sera** (she will be). For “She will know a lot about history,” use **Elle saura beaucoup de choses sur l’histoire**, not *Elle sera beaucoup de choses sur l’histoire*. Also compare **elle aura** (she will have) with **elles auront** (they will have): the final vowels and liaison help identify number. Careful listening to **-ai/-ais** and the whole verb matters more than a single letter cue.
+
+In informal spoken French, **ne** is often omitted while **pas** remains. Written **Elles n’auront pas le temps** — They won’t have time — may be heard as **Elles auront pas le temps**, with **/z/** linking **elles** to **auront**. Retain **ne/n’** in ordinary formal writing. **Oulala, ce pull est bien sale. Une bonne lessive ne sera pas inutile** — Oh dear, this sweater is really dirty. A good wash won’t be useless — combines future **sera** and negation; **ne sera pas inutile** suggests the wash will be useful.
+
+## Vocabulary distinctions and instructions
+
+Possessive determiners reflect the noun possessed, not the owner’s gender: **ma fille et ses amis**, not *ma fille et her amis*. **Ses amis** means his/her friends; **son ami** means his/her male friend. English *son* (male child) is **fils**, as in **mon fils**, not *mon son*. A girl/daughter is **une fille**.
+
+Use **un tournoi de karaté / un tournoi de hockey** for a sports tournament. **Une tournée** means a tour or round, such as a performer’s tour. For “I’m going to go to a hockey tournament,” write **Je vais aller à un tournoi de hockey**, not *à une tournée de hockey*. Keep **le pendule** (pendulum) distinct from **la pantoufle** (slipper).
+
+**Je vous rappelle que + clause** means I remind you that… A date reminder is **Je vous rappelle que le rendez-vous est le lundi 30 novembre** — I remind you that the appointment is on Monday, November 30. The conversational **… le rendez-vous, c’est le lundi 30 novembre** uses a detached topic plus **c’est**.
+
+**Il faut taper dans les espaces vides la conjugaison du verbe que vous voyez entre parenthèses** — Type the conjugated form of the verb shown in parentheses into the blank spaces. **Vérifier les réponses** means check the answers. **Le clavardage** is Quebec French for online chat; **la transcription** can mean a transcript or live captions. **Serpents et échelles** is snakes and ladders; **une équipe de deux / trois** is a team of two / three. For recognition practice, identify the infinitive, subject, stem and ending, then check the negative markers and meaning. Games and fill-in-the-blank exercises can consolidate those same skills.
+
+## Vocabulary reference
+
+| French | English | Usage and exceptions |
+|---|---|---|
+| le futur simple | the simple future tense | One conjugated verb: future stem + ending; usually English will. |
+| le futur proche | the near future | Present aller + infinitive; commonly plans or a future linked to the present. |
+| le conditionnel | the conditional | Conditionnel présent uses the future stem with different endings. |
+| la conjugaison | conjugation |  |
+| le verbe | verb |  |
+| le conjugueur | conjugator | Tool to double-check verbs |
+| demain | tomorrow | A future-time marker; not tied to a particular calendar date. |
+| bientôt | soon | Time marker for the future |
+| ce soir | tonight | Time marker for the future |
+| un jour | one day | Unspecified future point |
+| quand | when | Future-time clauses normally take a future tense; habits can use other tenses. |
+| lorsque / lorsqu' | when | A time conjunction; future reference normally takes a future tense. |
+| dès que / dès qu' | as soon as | Future-time clauses normally use a future tense. |
+| après que / après qu' | after | Indicative; futur antérieur commonly marks completion before a future event. |
+| une tournée / un tournoi | a tour / a tournament | Use un tournoi for a sports tournament; une tournée is a tour or round. |
+| le karaté | karate |  |
+| le hockey | hockey |  |
+| un fils | a son | "son" (English) = fils |
+| une fille | a daughter / girl |  |
+| son ami / ses amis | his/her friend / friends | Possessive agrees with the noun, not the owner's gender |
+| faire l'épicerie | to do grocery shopping | Quebec/Canadian usage |
+| le supermarché | supermarket |  |
+| le marché | market | Local market |
+| conduire | to drive |  |
+| la conductrice / le chauffeur | the driver (f.) / driver | Driver vocabulary; also le conducteur and la chauffeuse depending on context. |
+| le cinéma | cinema |  |
+| le mécanicien | mechanic |  |
+| le garage | garage / repair shop | Automotive workshop; body shop can be un atelier de carrosserie. |
+| les pneus | tires | "changer les pneus" = change tires |
+| le badminton | badminton |  |
+| faire du bénévolat | to volunteer / do volunteer work |  |
+| ranger | to tidy / put away | Main example -er verb |
+| rendre / vendre | to give back / to sell | Example -re verbs |
+| lancer | to throw/launch | -cer verb, stem unchanged |
+| manger | to eat | -ger verb, stem unchanged |
+| céder | to yield | Traditional je céderai; rectified je cèderai also accepted. |
+| espérer | to hope | Traditional j'espérerai; rectified j'espèrerai also accepted. |
+| répéter | to repeat | Traditional je répéterai; rectified je répèterai also accepted. |
+| célébrer | to celebrate | Traditional je célébrerai; rectified je célèbrerai also accepted. |
+| nettoyer | to clean | y → i: je nettoierai |
+| essayer | to try | j'essaierai / j'essayerai |
+| essuyer | to wipe | j'essuierai |
+| appeler | to call | Doubles the l: j'appellerai |
+| jeter | to throw | Doubles the t: je jetterai |
+| lever | to lift/raise | e → è: je lèverai |
+| amener | to bring (someone) | j'amènerai |
+| peser | to weigh | je pèserai |
+| acheter | to buy | j'achèterai |
+| achever | to finish/complete | j'achèverai |
+| accomplir | to accomplish | Regular -ir, keeps infinitive stem |
+| ouvrir | to open | j'ouvrirai |
+| accueillir | to welcome | Future stem accueiller-: j'accueillerai. |
+| pendre | to hang | je pendrai |
+| prendre | to take | je prendrai |
+| craindre | to fear | je craindrai |
+| éteindre | to turn off | j'éteindrai |
+| joindre | to join/reach | je joindrai |
+| battre | to beat | je battrai |
+| réussir | to succeed | vous réussirez |
+| oublier | to forget | ils oublieront |
+| conquérir | to conquer | il conquerra (double r) |
+| un pull | sweater | Clothing vocabulary. |
+| une lessive | laundry / wash | une bonne lessive = a good wash |
+| sale | dirty | Ce pull est bien sale: this sweater is really dirty. |
+| inutile | useless / pointless | ne sera pas inutile |
+| une valise | suitcase | Nous n'oublierons pas notre valise: we will not forget our suitcase. |
+| le bois | the woods | se promener dans le bois |
+| une invitation | invitation | Recevoir une invitation: to receive an invitation. |
+| le clavardage | chat (online) | Québec French term |
+| entre parenthèses | in parentheses | Verbs given in infinitive form |
+| taper | to type | "taper dans les espaces vides" |
+| les espaces vides | the blank spaces | Fill-in-the-blank activity |
+| Vérifier les réponses | Check/verify the answers | An activity instruction. |
+| la transcription | transcript / live captions |  |
+| serpents et échelles | snakes and ladders | A board game usable for conjugation practice. |
+| une équipe de deux / trois | a team of two / three |  |
+| la consolidation | consolidation / review | Reviewing all tenses |
+| le test final | the final test | Assessment vocabulary. |
+| le pendule | pendulum | Distinguish from la pantoufle (slipper). |
+| la pantoufle | slipper | Distinct from le pendule (pendulum). |
+| une crampe | a cramp | A muscle cramp; pronunciation practice should remain comfortable. |
+
+## Questions
+
+<details class="source-question" data-question-id="11-20-source-001"><summary><span>1. Translate to French: &quot;to do grocery shopping&quot;</span></summary><p>faire l&#x27;épicerie</p></details>
+
+<details class="source-question" data-question-id="11-20-source-002"><summary><span>2. Translate to French: &quot;the tires&quot;</span></summary><p>les pneus</p></details>
+
+<details class="source-question" data-question-id="11-20-source-003"><summary><span>3. What is the French word for &quot;son&quot; (male child)?</span></summary><p>fils</p></details>
+
+<details class="source-question" data-question-id="11-20-source-004"><summary><span>4. Translate: &quot;to volunteer / do volunteer work&quot;</span></summary><p>faire du bénévolat</p></details>
+
+<details class="source-question" data-question-id="11-20-source-005"><summary><span>5. Fill in the blank: Ma fille et [blank] amis vont au cinéma. (his/her)</span></summary><p>ses</p></details>
+
+<details class="source-question" data-question-id="11-20-source-006"><summary><span>6. Translate into English: bientôt, demain, un jour, dès que</span></summary><p>bientôt = soon; demain = tomorrow; un jour = one day; dès que = as soon as</p></details>
+
+<details class="source-question" data-question-id="11-20-source-007"><summary><span>7. Fill in the blank: &quot;A good wash won’t be useless.&quot; → Une bonne [blank] ne sera pas inutile.</span></summary><p>lessive</p></details>
+
+<details class="source-question" data-question-id="11-20-source-008"><summary><span>8. What does lorsque mean, and which word is it a synonym of?</span></summary><p>lorsque = &quot;when&quot;; synonym of quand</p></details>
+
+<details class="source-question" data-question-id="11-20-source-009"><summary><span>9. Translate: &quot;to welcome&quot;, &quot;to buy&quot;, &quot;to turn off&quot;</span></summary><p>accueillir; acheter; éteindre</p></details>
+
+<details class="source-question" data-question-id="11-20-source-010"><summary><span>10. What does Vérifier les réponses mean?</span></summary><p>Check the answers</p></details>
+
+<details class="source-question" data-question-id="11-20-source-011"><summary><span>11. Conjugate ranger in the futur simple (all six persons).</span></summary><p>je rangerai, tu rangeras, il/elle/on rangera, nous rangerons, vous rangerez, ils/elles rangeront</p></details>
+
+<details class="source-question" data-question-id="11-20-source-012"><summary><span>12. Give the six futur simple endings in order.</span></summary><p>-ai, -as, -a, -ons, -ez, -ont</p></details>
+
+<details class="source-question" data-question-id="11-20-source-013"><summary><span>13. Which present-tense verb do the future endings resemble?</span></summary><p>avoir</p></details>
+
+<details class="source-question" data-question-id="11-20-source-014"><summary><span>14. Form the futur simple of rendre for je and nous.</span></summary><p>je rendrai / nous rendrons</p></details>
+
+<details class="source-question" data-question-id="11-20-source-015"><summary><span>15. How is the futur proche formed?</span></summary><p>Present tense of aller + infinitive (e.g., je vais faire)</p></details>
+
+<details class="source-question" data-question-id="11-20-source-016"><summary><span>16. Conjugate appeler in the future, all persons.</span></summary><p>j&#x27;appellerai, tu appelleras, il/elle/on appellera, nous appellerons, vous appellerez, ils/elles appelleront</p></details>
+
+<details class="source-question" data-question-id="11-20-source-017"><summary><span>17. Give the future je form of nettoyer, jeter, lever and espérer. Include an accepted spelling alternative for espérer.</span></summary><p>je nettoierai; je jetterai; je lèverai; j&#x27;espérerai (traditional) or j&#x27;espèrerai (rectified).</p></details>
+
+<details class="source-question" data-question-id="11-20-source-018"><summary><span>18. What happens to verbs following the -re future pattern before adding future endings?</span></summary><p>Drop the final -e, then add the ending: pendre → je pendrai. Other verbs may have irregular future stems.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-019"><summary><span>19. How do plain-e verbs such as acheter and é verbs such as céder form their future spellings?</span></summary><p>Plain e becomes è: j&#x27;achèterai. Traditional é spelling stays in je céderai; rectified je cèderai is also accepted. The same alternatives apply to espérer, répéter and célébrer.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-020"><summary><span>20. Give the je future form of: aller, faire, pouvoir, voir, venir.</span></summary><p>j&#x27;irai, je ferai, je pourrai, je verrai, je viendrai</p></details>
+
+<details class="source-question" data-question-id="11-20-source-021"><summary><span>21. Conjugate recevoir in the future for vous.</span></summary><p>vous recevrez</p></details>
+
+<details class="source-question" data-question-id="11-20-source-022"><summary><span>22. Complete: Appelle-moi quand tu [blank] (recevoir) l’invitation.</span></summary><p>recevras</p></details>
+
+<details class="source-question" data-question-id="11-20-source-023"><summary><span>23. True or false: in a time clause after dès que referring to a single future event, French normally uses the present just as English does.</span></summary><p>False. French normally uses a future tense for that future reference: dès qu&#x27;elle sera de retour. A habitual or other present-time context can use present.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-024"><summary><span>24. Conjugate in the future: faire → tu; aller → nous; être → elle; savoir → elle; avoir → elles.</span></summary><p>tu feras; nous irons; elle sera; elle saura; elles auront</p></details>
+
+<details class="source-question" data-question-id="11-20-source-025"><summary><span>25. Write a sentence using futur proche about what you will do tomorrow.</span></summary><p>(Sample) Demain, je vais jouer au badminton avec mes amis.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-026"><summary><span>26. Write &quot;We will tidy up the house&quot; in the futur simple.</span></summary><p>Nous rangerons la maison.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-027"><summary><span>27. Write &quot;We will accomplish&quot; and &quot;They (m.) will take&quot; in French.</span></summary><p>Nous accomplirons. / Ils prendront.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-028"><summary><span>28. Write a sentence meaning &quot;One day I will visit Australia.&quot;</span></summary><p>Un jour, je visiterai l&#x27;Australie.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-029"><summary><span>29. Build a sentence using quand + futur simple, with futur simple in the main clause too.</span></summary><p>Quand tu arriveras, nous commencerons. The source&#x27;s Vois avec elle dès qu&#x27;elle sera de retour is also a useful time-clause example, but its main clause is imperative, not futur simple.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-030"><summary><span>30. Build an appointment-date reminder using Je vous rappelle que...</span></summary><p>Je vous rappelle que le rendez-vous est le lundi 30 novembre. Conversational variant: Je vous rappelle que le rendez-vous, c&#x27;est le lundi 30 novembre.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-031"><summary><span>31. Correct: Je vais aller à une tournée de hockey.</span></summary><p>Je vais aller à un tournoi de hockey.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-032"><summary><span>32. Correct: ma fille et her amis</span></summary><p>ma fille et ses amis</p></details>
+
+<details class="source-question" data-question-id="11-20-source-033"><summary><span>33. Correct: Nous appelons (intended future).</span></summary><p>Nous appellerons.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-034"><summary><span>34. Correct: Vous accomplissez (intended future).</span></summary><p>Vous accomplirez.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-035"><summary><span>35. Rewrite Je voudrais te voir demain to mean &quot;I will want to see you tomorrow&quot; rather than &quot;I would like to see you tomorrow&quot;.</span></summary><p>Je voudrai te voir demain. Voudrais is valid conditional for the other meaning; voudrai is future.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-036"><summary><span>36. Use the future-time-clause form in Appelle-moi quand tu arrives for a single intended future arrival.</span></summary><p>Appelle-moi quand tu arriveras.</p></details>
+
+<details class="source-question" data-question-id="11-20-source-037"><summary><span>37. Correct Elle sera beaucoup de choses sur l’histoire when the intended meaning is &quot;She will know a lot about history&quot;.</span></summary><p>Elle saura beaucoup de choses sur l&#x27;histoire.</p></details>
+
+<div class="lesson-actions"><a class="button" href="quizzes.html?lesson=11-20">Practise questions</a><a class="button secondary" href="cards.html?lesson=11-20">Practise flashcards</a></div>
+
+<nav class="lesson-pagination" aria-label="Lesson navigation"><a href="lesson-11-18.html">Previous lesson</a> <a href="lessons.html">All lessons</a></nav>

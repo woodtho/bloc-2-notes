@@ -134,10 +134,10 @@ test('blocked or malformed answer storage does not prevent practice',()=>{
   assert.equal(walk(reload.inlineParent).find(x=>x.tagName==='TEXTAREA').value,'Recovered');
 });
 
-test('20 complete lessons and valid practice references',()=>{
-  const r=runtime();assert.equal(r.data.lessons.length,20);assert.equal(r.data.questions.length,969);assert.equal(r.data.cards.length,2647);
-  assert.equal(r.data.questions.filter(q=>q.origin==='reviewed original self-test').length,659);
-  assert.equal(r.data.cards.filter(c=>c.kind==='Examples').length,438);
+test('21 complete lessons and valid practice references',()=>{
+  const r=runtime();assert.equal(r.data.lessons.length,21);assert.equal(r.data.questions.length,1006);assert.equal(r.data.cards.length,2828);
+  assert.equal(r.data.questions.filter(q=>q.origin==='reviewed original self-test').length,696);
+  assert.equal(r.data.cards.filter(c=>c.kind==='Examples').length,462);
   const manifest=JSON.parse(fs.readFileSync(path.join(root,'review/source-manifest.json'),'utf8'));
   for(const m of manifest){
     const sourceItems=r.data.questions.filter(q=>q.lesson===m.lesson&&q.origin==='reviewed original self-test');
@@ -204,13 +204,13 @@ test('reverse direction affects vocabulary, not rule cards; blocked storage does
   r.$('card-start').fire('click');assert.equal(r.$('card-front').textContent,'Explain the rule');
 });
 test('library search and sorting render the expected lesson subset',()=>{
-  const r=runtime('lessons');assert.equal(r.$('lesson-grid').children.length,20);
+  const r=runtime('lessons');assert.equal(r.$('lesson-grid').children.length,21);
   r.$('lesson-search').value='imparfait';r.$('lesson-search').fire('input');assert.equal(r.$('lesson-grid').children.length,2);
   assert.match(r.$('lesson-grid').allText,/Passé composé/);
   r.$('lesson-search').value='no such material';r.$('lesson-search').fire('input');assert.match(r.$('lesson-grid').allText,/No lessons match/);
 });
 test('home opens the searchable lesson list',()=>{
-  const r=runtime('home');assert.equal(r.$('lesson-grid').children.length,20);
+  const r=runtime('home');assert.equal(r.$('lesson-grid').children.length,21);
   r.$('lesson-search').value='imparfait';r.$('lesson-search').fire('input');
   assert.equal(r.$('lesson-grid').children.length,2);
   assert.match(r.$('lesson-grid').allText,/Passé composé/);
@@ -225,5 +225,21 @@ test('new lesson has selectable quizzes, cards and stable source question identi
   assert.match(cards.$('card-available').textContent,/19 cards match/);
   assert.equal(cards.data.questions.filter(q=>q.lesson==='11-18').length,37);
   const library=runtime('lessons');library.$('lesson-order').value='recent';library.$('lesson-order').fire('change');
-  assert.match(library.$('lesson-grid').children[0].allText,/Tense review, spelling/);
+  assert.match(library.$('lesson-grid').children[0].allText,/Futur simple: formation/);
+});
+
+test('November 20 lesson exposes all source practice and preserves earlier item identities',()=>{
+  const r=runtime('quizzes',false,'?lesson=11-20');
+  assert.equal(r.$('quiz-lesson').value,'11-20');assert.match(r.$('quiz-available').textContent,/37 questions/);
+  assert.equal(r.data.questions.filter(q=>q.lesson==='11-20').length,37);
+  const c=runtime('cards',false,'?lesson=11-20');assert.match(c.$('card-available').textContent,/181 cards match/);
+  c.$('card-kind').value='Examples';c.$('card-kind').fire('change');assert.match(c.$('card-available').textContent,/24 cards match/);
+  const ledger=JSON.parse(fs.readFileSync(path.join(root,'review/consolidation-ledger.json'),'utf8')).find(l=>l.lesson==='11-20');
+  assert.equal(ledger.flashcards.length,45);
+  for(const item of ledger.flashcards)assert(c.data.cards.some(card=>card.id===item.card_id));
+  assert(r.data.questions.some(q=>q.id==='11-18-source-037'));
+  const q=r.data.questions.find(q=>q.id==='11-20-source-029');
+  assert.match(q.answer,/Quand tu arriveras, nous commencerons/);
+  const spelling=r.data.cards.find(card=>card.lesson==='11-20'&&card.front==='espérer (future, je)');
+  assert.match(spelling.back,/espérerai/);assert.match(spelling.back,/espèrerai/);
 });

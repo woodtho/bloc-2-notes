@@ -36,9 +36,9 @@ test('filters retain direct practice links for cards merged with lesson referenc
   assert(engine.search('aller','cards').every(r=>r.entry.practice||r.entry.url.startsWith('cards.html?')));
 });
 test('index covers all material and safe excerpts retain matching context',()=>{
-  assert.equal(index.coverage.lessons,20);assert.equal(index.coverage.lesson_questions,969);
-  assert.equal(index.coverage.flashcards,2647);assert.equal(index.coverage.exam_questions,78);
-  assert.equal(index.documents.filter(d=>d.kind==='questions').length,970);
+  assert.equal(index.coverage.lessons,21);assert.equal(index.coverage.lesson_questions,1006);
+  assert.equal(index.coverage.flashcards,2828);assert.equal(index.coverage.exam_questions,78);
+  assert.equal(index.documents.filter(d=>d.kind==='questions').length,1007);
   assert.equal(index.documents.filter(d=>d.kind==='exam').length,79);
   assert.equal(new Set(index.documents.map(d=>d.id)).size,index.documents.length);
   const excerpt=core.excerpt('begin '.repeat(80)+'imparfait '+'end '.repeat(80),['imparfait']);

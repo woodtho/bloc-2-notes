@@ -239,6 +239,18 @@ window.FRENCH_STUDY = {
       "summary": "Form the imparfait and futur proche, check conjugation spelling, and practise ordering takeout.",
       "slug": "lesson-11-18",
       "order": 20
+    },
+    {
+      "date": "11-20",
+      "title": "Futur simple: formation & usage",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "summary": "Build regular and irregular future forms, handle spelling changes, and use future time clauses.",
+      "slug": "lesson-11-20",
+      "order": 21
     }
   ],
   "questions": [
@@ -16437,6 +16449,643 @@ window.FRENCH_STUDY = {
       "answer": "Il est allé au magasin.",
       "accepted": [
         "Il est allé au magasin."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 37
+    },
+    {
+      "id": "11-20-source-001",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate to French: \"to do grocery shopping\"",
+      "answer": "faire l'épicerie",
+      "accepted": [
+        "faire l'épicerie",
+        "faire les courses",
+        "faire des courses"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 1
+    },
+    {
+      "id": "11-20-source-002",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate to French: \"the tires\"",
+      "answer": "les pneus",
+      "accepted": [
+        "les pneus",
+        "pneus"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 2
+    },
+    {
+      "id": "11-20-source-003",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What is the French word for \"son\" (male child)?",
+      "answer": "fils",
+      "accepted": [
+        "fils",
+        "un fils",
+        "le fils"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 3
+    },
+    {
+      "id": "11-20-source-004",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"to volunteer / do volunteer work\"",
+      "answer": "faire du bénévolat",
+      "accepted": [
+        "faire du bénévolat"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 4
+    },
+    {
+      "id": "11-20-source-005",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Fill in the blank: Ma fille et [blank] amis vont au cinéma. (his/her)",
+      "answer": "ses",
+      "accepted": [
+        "ses"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 5
+    },
+    {
+      "id": "11-20-source-006",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate into English: bientôt, demain, un jour, dès que",
+      "answer": "bientôt = soon; demain = tomorrow; un jour = one day; dès que = as soon as",
+      "accepted": [
+        "bientôt = soon; demain = tomorrow; un jour = one day; dès que = as soon as"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 6
+    },
+    {
+      "id": "11-20-source-007",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Fill in the blank: \"A good wash won’t be useless.\" → Une bonne [blank] ne sera pas inutile.",
+      "answer": "lessive",
+      "accepted": [
+        "lessive"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 7
+    },
+    {
+      "id": "11-20-source-008",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What does lorsque mean, and which word is it a synonym of?",
+      "answer": "lorsque = \"when\"; synonym of quand",
+      "accepted": [
+        "lorsque = \"when\"; synonym of quand"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 8
+    },
+    {
+      "id": "11-20-source-009",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Translate: \"to welcome\", \"to buy\", \"to turn off\"",
+      "answer": "accueillir; acheter; éteindre",
+      "accepted": [
+        "accueillir; acheter; éteindre"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 9
+    },
+    {
+      "id": "11-20-source-010",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What does Vérifier les réponses mean?",
+      "answer": "Check the answers",
+      "accepted": [
+        "Check the answers",
+        "verify the answers",
+        "check/verify the answers"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 10
+    },
+    {
+      "id": "11-20-source-011",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate ranger in the futur simple (all six persons).",
+      "answer": "je rangerai, tu rangeras, il/elle/on rangera, nous rangerons, vous rangerez, ils/elles rangeront",
+      "accepted": [
+        "je rangerai, tu rangeras, il/elle/on rangera, nous rangerons, vous rangerez, ils/elles rangeront"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 11
+    },
+    {
+      "id": "11-20-source-012",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Give the six futur simple endings in order.",
+      "answer": "-ai, -as, -a, -ons, -ez, -ont",
+      "accepted": [
+        "-ai, -as, -a, -ons, -ez, -ont"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 12
+    },
+    {
+      "id": "11-20-source-013",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Which present-tense verb do the future endings resemble?",
+      "answer": "avoir",
+      "accepted": [
+        "avoir"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 13
+    },
+    {
+      "id": "11-20-source-014",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Form the futur simple of rendre for je and nous.",
+      "answer": "je rendrai / nous rendrons",
+      "accepted": [
+        "je rendrai / nous rendrons"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 14
+    },
+    {
+      "id": "11-20-source-015",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "How is the futur proche formed?",
+      "answer": "Present tense of aller + infinitive (e.g., je vais faire)",
+      "accepted": [
+        "Present tense of aller + infinitive (e.g., je vais faire)"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 15
+    },
+    {
+      "id": "11-20-source-016",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate appeler in the future, all persons.",
+      "answer": "j'appellerai, tu appelleras, il/elle/on appellera, nous appellerons, vous appellerez, ils/elles appelleront",
+      "accepted": [
+        "j'appellerai, tu appelleras, il/elle/on appellera, nous appellerons, vous appellerez, ils/elles appelleront"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 16
+    },
+    {
+      "id": "11-20-source-017",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Give the future je form of nettoyer, jeter, lever and espérer. Include an accepted spelling alternative for espérer.",
+      "answer": "je nettoierai; je jetterai; je lèverai; j'espérerai (traditional) or j'espèrerai (rectified).",
+      "accepted": [
+        "je nettoierai; je jetterai; je lèverai; j'espérerai (traditional) or j'espèrerai (rectified)."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 17
+    },
+    {
+      "id": "11-20-source-018",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "What happens to verbs following the -re future pattern before adding future endings?",
+      "answer": "Drop the final -e, then add the ending: pendre → je pendrai. Other verbs may have irregular future stems.",
+      "accepted": [
+        "Drop the final -e, then add the ending: pendre → je pendrai. Other verbs may have irregular future stems."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 18
+    },
+    {
+      "id": "11-20-source-019",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "How do plain-e verbs such as acheter and é verbs such as céder form their future spellings?",
+      "answer": "Plain e becomes è: j'achèterai. Traditional é spelling stays in je céderai; rectified je cèderai is also accepted. The same alternatives apply to espérer, répéter and célébrer.",
+      "accepted": [
+        "Plain e becomes è: j'achèterai. Traditional é spelling stays in je céderai; rectified je cèderai is also accepted. The same alternatives apply to espérer, répéter and célébrer."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 19
+    },
+    {
+      "id": "11-20-source-020",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Give the je future form of: aller, faire, pouvoir, voir, venir.",
+      "answer": "j'irai, je ferai, je pourrai, je verrai, je viendrai",
+      "accepted": [
+        "j'irai, je ferai, je pourrai, je verrai, je viendrai"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 20
+    },
+    {
+      "id": "11-20-source-021",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate recevoir in the future for vous.",
+      "answer": "vous recevrez",
+      "accepted": [
+        "vous recevrez",
+        "recevrez"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 21
+    },
+    {
+      "id": "11-20-source-022",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Complete: Appelle-moi quand tu [blank] (recevoir) l’invitation.",
+      "answer": "recevras",
+      "accepted": [
+        "recevras"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 22
+    },
+    {
+      "id": "11-20-source-023",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "True or false: in a time clause after dès que referring to a single future event, French normally uses the present just as English does.",
+      "answer": "False. French normally uses a future tense for that future reference: dès qu'elle sera de retour. A habitual or other present-time context can use present.",
+      "accepted": [
+        "False. French normally uses a future tense for that future reference: dès qu'elle sera de retour. A habitual or other present-time context can use present."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 23
+    },
+    {
+      "id": "11-20-source-024",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Conjugate in the future: faire → tu; aller → nous; être → elle; savoir → elle; avoir → elles.",
+      "answer": "tu feras; nous irons; elle sera; elle saura; elles auront",
+      "accepted": [
+        "tu feras; nous irons; elle sera; elle saura; elles auront"
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 24
+    },
+    {
+      "id": "11-20-source-025",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Write a sentence using futur proche about what you will do tomorrow.",
+      "answer": "(Sample) Demain, je vais jouer au badminton avec mes amis.",
+      "accepted": [
+        "(Sample) Demain, je vais jouer au badminton avec mes amis."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 25
+    },
+    {
+      "id": "11-20-source-026",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Write \"We will tidy up the house\" in the futur simple.",
+      "answer": "Nous rangerons la maison.",
+      "accepted": [
+        "Nous rangerons la maison."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 26
+    },
+    {
+      "id": "11-20-source-027",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Write \"We will accomplish\" and \"They (m.) will take\" in French.",
+      "answer": "Nous accomplirons. / Ils prendront.",
+      "accepted": [
+        "Nous accomplirons. / Ils prendront."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 27
+    },
+    {
+      "id": "11-20-source-028",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Write a sentence meaning \"One day I will visit Australia.\"",
+      "answer": "Un jour, je visiterai l'Australie.",
+      "accepted": [
+        "Un jour, je visiterai l'Australie."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 28
+    },
+    {
+      "id": "11-20-source-029",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Build a sentence using quand + futur simple, with futur simple in the main clause too.",
+      "answer": "Quand tu arriveras, nous commencerons. The source's Vois avec elle dès qu'elle sera de retour is also a useful time-clause example, but its main clause is imperative, not futur simple.",
+      "accepted": [
+        "Quand tu arriveras, nous commencerons. The source's Vois avec elle dès qu'elle sera de retour is also a useful time-clause example, but its main clause is imperative, not futur simple."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 29
+    },
+    {
+      "id": "11-20-source-030",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Build an appointment-date reminder using Je vous rappelle que...",
+      "answer": "Je vous rappelle que le rendez-vous est le lundi 30 novembre. Conversational variant: Je vous rappelle que le rendez-vous, c'est le lundi 30 novembre.",
+      "accepted": [
+        "Je vous rappelle que le rendez-vous est le lundi 30 novembre. Conversational variant: Je vous rappelle que le rendez-vous, c'est le lundi 30 novembre."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 30
+    },
+    {
+      "id": "11-20-source-031",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct: Je vais aller à une tournée de hockey.",
+      "answer": "Je vais aller à un tournoi de hockey.",
+      "accepted": [
+        "Je vais aller à un tournoi de hockey."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 31
+    },
+    {
+      "id": "11-20-source-032",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct: ma fille et her amis",
+      "answer": "ma fille et ses amis",
+      "accepted": [
+        "ma fille et ses amis"
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 32
+    },
+    {
+      "id": "11-20-source-033",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct: Nous appelons (intended future).",
+      "answer": "Nous appellerons.",
+      "accepted": [
+        "Nous appellerons."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 33
+    },
+    {
+      "id": "11-20-source-034",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct: Vous accomplissez (intended future).",
+      "answer": "Vous accomplirez.",
+      "accepted": [
+        "Vous accomplirez."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 34
+    },
+    {
+      "id": "11-20-source-035",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Rewrite Je voudrais te voir demain to mean \"I will want to see you tomorrow\" rather than \"I would like to see you tomorrow\".",
+      "answer": "Je voudrai te voir demain. Voudrais is valid conditional for the other meaning; voudrai is future.",
+      "accepted": [
+        "Je voudrai te voir demain. Voudrais is valid conditional for the other meaning; voudrai is future."
+      ],
+      "mode": "self",
+      "origin": "reviewed original self-test",
+      "source_item": 35
+    },
+    {
+      "id": "11-20-source-036",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Use the future-time-clause form in Appelle-moi quand tu arrives for a single intended future arrival.",
+      "answer": "Appelle-moi quand tu arriveras.",
+      "accepted": [
+        "Appelle-moi quand tu arriveras."
+      ],
+      "mode": "typed",
+      "origin": "reviewed original self-test",
+      "source_item": 36
+    },
+    {
+      "id": "11-20-source-037",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "prompt": "Correct Elle sera beaucoup de choses sur l’histoire when the intended meaning is \"She will know a lot about history\".",
+      "answer": "Elle saura beaucoup de choses sur l'histoire.",
+      "accepted": [
+        "Elle saura beaucoup de choses sur l'histoire."
       ],
       "mode": "typed",
       "origin": "reviewed original self-test",
@@ -49427,6 +50076,2259 @@ window.FRENCH_STUDY = {
       ],
       "front": "Past participle agreement",
       "back": "Ordinary être participles agree with the subject. With avoir, a preceding direct object can trigger agreement. Reflexive verbs require a separate agreement analysis.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-v001",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le futur simple",
+      "back": "the simple future tense — One conjugated verb: future stem + ending; usually English will. the simple future tense — equivalent of English \"will\"; formed with stem + endings",
+      "kind": "Vocabulary",
+      "translation": "the simple future tense"
+    },
+    {
+      "id": "11-20-v002",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le futur proche",
+      "back": "the near future — Present aller + infinitive; commonly plans or a future linked to the present.",
+      "kind": "Vocabulary",
+      "translation": "the near future"
+    },
+    {
+      "id": "11-20-v003",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le conditionnel",
+      "back": "the conditional — Conditionnel présent uses the future stem with different endings. The conditional; conditionnel présent shares the future stem but uses different endings.",
+      "kind": "Vocabulary",
+      "translation": "the conditional"
+    },
+    {
+      "id": "11-20-v004",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la conjugaison",
+      "back": "conjugation",
+      "kind": "Vocabulary",
+      "translation": "conjugation"
+    },
+    {
+      "id": "11-20-v005",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le verbe",
+      "back": "verb",
+      "kind": "Vocabulary",
+      "translation": "verb"
+    },
+    {
+      "id": "11-20-v006",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le conjugueur",
+      "back": "conjugator — Tool to double-check verbs",
+      "kind": "Vocabulary",
+      "translation": "conjugator"
+    },
+    {
+      "id": "11-20-v007",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "demain",
+      "back": "tomorrow — A future-time marker; not tied to a particular calendar date.",
+      "kind": "Vocabulary",
+      "translation": "tomorrow"
+    },
+    {
+      "id": "11-20-v008",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "bientôt",
+      "back": "soon — Time marker for the future",
+      "kind": "Vocabulary",
+      "translation": "soon"
+    },
+    {
+      "id": "11-20-v009",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ce soir",
+      "back": "tonight — Time marker for the future",
+      "kind": "Vocabulary",
+      "translation": "tonight"
+    },
+    {
+      "id": "11-20-v010",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un jour",
+      "back": "one day — Unspecified future point",
+      "kind": "Vocabulary",
+      "translation": "one day"
+    },
+    {
+      "id": "11-20-v011",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "quand",
+      "back": "when — Future-time clauses normally take a future tense; habits can use other tenses.",
+      "kind": "Vocabulary",
+      "translation": "when"
+    },
+    {
+      "id": "11-20-v012",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "lorsque / lorsqu'",
+      "back": "when — A time conjunction; future reference normally takes a future tense.",
+      "kind": "Vocabulary",
+      "translation": "when"
+    },
+    {
+      "id": "11-20-v013",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "dès que / dès qu'",
+      "back": "as soon as — Future-time clauses normally use a future tense.",
+      "kind": "Vocabulary",
+      "translation": "as soon as"
+    },
+    {
+      "id": "11-20-v014",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "après que / après qu'",
+      "back": "after — Indicative; futur antérieur commonly marks completion before a future event.",
+      "kind": "Vocabulary",
+      "translation": "after"
+    },
+    {
+      "id": "11-20-v015",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une tournée / un tournoi",
+      "back": "a tour / a tournament — Use un tournoi for a sports tournament; une tournée is a tour or round.",
+      "kind": "Vocabulary",
+      "translation": "a tour / a tournament"
+    },
+    {
+      "id": "11-20-v016",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le karaté",
+      "back": "karate",
+      "kind": "Vocabulary",
+      "translation": "karate"
+    },
+    {
+      "id": "11-20-v017",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le hockey",
+      "back": "hockey",
+      "kind": "Vocabulary",
+      "translation": "hockey"
+    },
+    {
+      "id": "11-20-v018",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un fils",
+      "back": "a son — \"son\" (English) = fils",
+      "kind": "Vocabulary",
+      "translation": "a son"
+    },
+    {
+      "id": "11-20-v019",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une fille",
+      "back": "a daughter / girl",
+      "kind": "Vocabulary",
+      "translation": "a daughter / girl"
+    },
+    {
+      "id": "11-20-v020",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "son ami / ses amis",
+      "back": "his/her friend / friends — Possessive agrees with the noun, not the owner's gender",
+      "kind": "Vocabulary",
+      "translation": "his/her friend / friends"
+    },
+    {
+      "id": "11-20-v021",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire l'épicerie",
+      "back": "to do grocery shopping — Quebec/Canadian usage to do grocery shopping (Canadian/Quebec French)",
+      "kind": "Vocabulary",
+      "translation": "to do grocery shopping"
+    },
+    {
+      "id": "11-20-v022",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le supermarché",
+      "back": "supermarket",
+      "kind": "Vocabulary",
+      "translation": "supermarket"
+    },
+    {
+      "id": "11-20-v023",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le marché",
+      "back": "market — Local market",
+      "kind": "Vocabulary",
+      "translation": "market"
+    },
+    {
+      "id": "11-20-v024",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "conduire",
+      "back": "to drive",
+      "kind": "Vocabulary",
+      "translation": "to drive"
+    },
+    {
+      "id": "11-20-v025",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la conductrice / le chauffeur",
+      "back": "the driver (f.) / driver — Driver vocabulary; also le conducteur and la chauffeuse depending on context.",
+      "kind": "Vocabulary",
+      "translation": "the driver (f.) / driver"
+    },
+    {
+      "id": "11-20-v026",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le cinéma",
+      "back": "cinema",
+      "kind": "Vocabulary",
+      "translation": "cinema"
+    },
+    {
+      "id": "11-20-v027",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le mécanicien",
+      "back": "mechanic",
+      "kind": "Vocabulary",
+      "translation": "mechanic"
+    },
+    {
+      "id": "11-20-v028",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le garage",
+      "back": "garage / repair shop — Automotive workshop; body shop can be un atelier de carrosserie.",
+      "kind": "Vocabulary",
+      "translation": "garage / repair shop"
+    },
+    {
+      "id": "11-20-v029",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "les pneus",
+      "back": "tires — \"changer les pneus\" = change tires",
+      "kind": "Vocabulary",
+      "translation": "tires"
+    },
+    {
+      "id": "11-20-v030",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le badminton",
+      "back": "badminton",
+      "kind": "Vocabulary",
+      "translation": "badminton"
+    },
+    {
+      "id": "11-20-v031",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire du bénévolat",
+      "back": "to volunteer / do volunteer work",
+      "kind": "Vocabulary",
+      "translation": "to volunteer / do volunteer work"
+    },
+    {
+      "id": "11-20-v032",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ranger",
+      "back": "to tidy / put away — Main example -er verb",
+      "kind": "Vocabulary",
+      "translation": "to tidy / put away"
+    },
+    {
+      "id": "11-20-v033",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "rendre / vendre",
+      "back": "to give back / to sell — Example -re verbs",
+      "kind": "Vocabulary",
+      "translation": "to give back / to sell"
+    },
+    {
+      "id": "11-20-v034",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "lancer",
+      "back": "to throw/launch — -cer verb, stem unchanged",
+      "kind": "Vocabulary",
+      "translation": "to throw/launch"
+    },
+    {
+      "id": "11-20-v035",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "manger",
+      "back": "to eat — -ger verb, stem unchanged",
+      "kind": "Vocabulary",
+      "translation": "to eat"
+    },
+    {
+      "id": "11-20-v036",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "céder",
+      "back": "to yield — Traditional je céderai; rectified je cèderai also accepted.",
+      "kind": "Vocabulary",
+      "translation": "to yield"
+    },
+    {
+      "id": "11-20-v037",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "espérer",
+      "back": "to hope — Traditional j'espérerai; rectified j'espèrerai also accepted.",
+      "kind": "Vocabulary",
+      "translation": "to hope"
+    },
+    {
+      "id": "11-20-v038",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "répéter",
+      "back": "to repeat — Traditional je répéterai; rectified je répèterai also accepted.",
+      "kind": "Vocabulary",
+      "translation": "to repeat"
+    },
+    {
+      "id": "11-20-v039",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "célébrer",
+      "back": "to celebrate — Traditional je célébrerai; rectified je célèbrerai also accepted.",
+      "kind": "Vocabulary",
+      "translation": "to celebrate"
+    },
+    {
+      "id": "11-20-v040",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "nettoyer",
+      "back": "to clean — y → i: je nettoierai",
+      "kind": "Vocabulary",
+      "translation": "to clean"
+    },
+    {
+      "id": "11-20-v041",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "essayer",
+      "back": "to try — j'essaierai / j'essayerai",
+      "kind": "Vocabulary",
+      "translation": "to try"
+    },
+    {
+      "id": "11-20-v042",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "essuyer",
+      "back": "to wipe — j'essuierai",
+      "kind": "Vocabulary",
+      "translation": "to wipe"
+    },
+    {
+      "id": "11-20-v043",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "appeler",
+      "back": "to call — Doubles the l: j'appellerai",
+      "kind": "Vocabulary",
+      "translation": "to call"
+    },
+    {
+      "id": "11-20-v044",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "jeter",
+      "back": "to throw — Doubles the t: je jetterai",
+      "kind": "Vocabulary",
+      "translation": "to throw"
+    },
+    {
+      "id": "11-20-v045",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "lever",
+      "back": "to lift/raise — e → è: je lèverai",
+      "kind": "Vocabulary",
+      "translation": "to lift/raise"
+    },
+    {
+      "id": "11-20-v046",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "amener",
+      "back": "to bring (someone) — j'amènerai",
+      "kind": "Vocabulary",
+      "translation": "to bring (someone)"
+    },
+    {
+      "id": "11-20-v047",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "peser",
+      "back": "to weigh — je pèserai",
+      "kind": "Vocabulary",
+      "translation": "to weigh"
+    },
+    {
+      "id": "11-20-v048",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "acheter",
+      "back": "to buy — j'achèterai",
+      "kind": "Vocabulary",
+      "translation": "to buy"
+    },
+    {
+      "id": "11-20-v049",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "achever",
+      "back": "to finish/complete — j'achèverai",
+      "kind": "Vocabulary",
+      "translation": "to finish/complete"
+    },
+    {
+      "id": "11-20-v050",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "accomplir",
+      "back": "to accomplish — Regular -ir, keeps infinitive stem",
+      "kind": "Vocabulary",
+      "translation": "to accomplish"
+    },
+    {
+      "id": "11-20-v051",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ouvrir",
+      "back": "to open — j'ouvrirai",
+      "kind": "Vocabulary",
+      "translation": "to open"
+    },
+    {
+      "id": "11-20-v052",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "accueillir",
+      "back": "to welcome — Future stem accueiller-: j'accueillerai.",
+      "kind": "Vocabulary",
+      "translation": "to welcome"
+    },
+    {
+      "id": "11-20-v053",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "pendre",
+      "back": "to hang — je pendrai",
+      "kind": "Vocabulary",
+      "translation": "to hang"
+    },
+    {
+      "id": "11-20-v054",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "prendre",
+      "back": "to take — je prendrai",
+      "kind": "Vocabulary",
+      "translation": "to take"
+    },
+    {
+      "id": "11-20-v055",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "craindre",
+      "back": "to fear — je craindrai",
+      "kind": "Vocabulary",
+      "translation": "to fear"
+    },
+    {
+      "id": "11-20-v056",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "éteindre",
+      "back": "to turn off — j'éteindrai",
+      "kind": "Vocabulary",
+      "translation": "to turn off"
+    },
+    {
+      "id": "11-20-v057",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "joindre",
+      "back": "to join/reach — je joindrai",
+      "kind": "Vocabulary",
+      "translation": "to join/reach"
+    },
+    {
+      "id": "11-20-v058",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "battre",
+      "back": "to beat — je battrai",
+      "kind": "Vocabulary",
+      "translation": "to beat"
+    },
+    {
+      "id": "11-20-v059",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "réussir",
+      "back": "to succeed — vous réussirez",
+      "kind": "Vocabulary",
+      "translation": "to succeed"
+    },
+    {
+      "id": "11-20-v060",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "oublier",
+      "back": "to forget — ils oublieront",
+      "kind": "Vocabulary",
+      "translation": "to forget"
+    },
+    {
+      "id": "11-20-v061",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "conquérir",
+      "back": "to conquer — il conquerra (double r)",
+      "kind": "Vocabulary",
+      "translation": "to conquer"
+    },
+    {
+      "id": "11-20-v062",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un pull",
+      "back": "sweater — Clothing vocabulary.",
+      "kind": "Vocabulary",
+      "translation": "sweater"
+    },
+    {
+      "id": "11-20-v063",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une lessive",
+      "back": "laundry / wash — une bonne lessive = a good wash",
+      "kind": "Vocabulary",
+      "translation": "laundry / wash"
+    },
+    {
+      "id": "11-20-v064",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "sale",
+      "back": "dirty — Ce pull est bien sale: this sweater is really dirty.",
+      "kind": "Vocabulary",
+      "translation": "dirty"
+    },
+    {
+      "id": "11-20-v065",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "inutile",
+      "back": "useless / pointless — ne sera pas inutile",
+      "kind": "Vocabulary",
+      "translation": "useless / pointless"
+    },
+    {
+      "id": "11-20-v066",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une valise",
+      "back": "suitcase — Nous n'oublierons pas notre valise: we will not forget our suitcase.",
+      "kind": "Vocabulary",
+      "translation": "suitcase"
+    },
+    {
+      "id": "11-20-v067",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le bois",
+      "back": "the woods — se promener dans le bois",
+      "kind": "Vocabulary",
+      "translation": "the woods"
+    },
+    {
+      "id": "11-20-v068",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une invitation",
+      "back": "invitation — Recevoir une invitation: to receive an invitation.",
+      "kind": "Vocabulary",
+      "translation": "invitation"
+    },
+    {
+      "id": "11-20-v069",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le clavardage",
+      "back": "chat (online) — Québec French term",
+      "kind": "Vocabulary",
+      "translation": "chat (online)"
+    },
+    {
+      "id": "11-20-v070",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "entre parenthèses",
+      "back": "in parentheses — Verbs given in infinitive form",
+      "kind": "Vocabulary",
+      "translation": "in parentheses"
+    },
+    {
+      "id": "11-20-v071",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "taper",
+      "back": "to type — \"taper dans les espaces vides\"",
+      "kind": "Vocabulary",
+      "translation": "to type"
+    },
+    {
+      "id": "11-20-v072",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "les espaces vides",
+      "back": "the blank spaces — Fill-in-the-blank activity",
+      "kind": "Vocabulary",
+      "translation": "the blank spaces"
+    },
+    {
+      "id": "11-20-v073",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Vérifier les réponses",
+      "back": "Check/verify the answers — An activity instruction.",
+      "kind": "Vocabulary",
+      "translation": "Check/verify the answers"
+    },
+    {
+      "id": "11-20-v074",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la transcription",
+      "back": "transcript / live captions",
+      "kind": "Vocabulary",
+      "translation": "transcript / live captions"
+    },
+    {
+      "id": "11-20-v075",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "serpents et échelles",
+      "back": "snakes and ladders — A board game usable for conjugation practice.",
+      "kind": "Vocabulary",
+      "translation": "snakes and ladders"
+    },
+    {
+      "id": "11-20-v076",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une équipe de deux / trois",
+      "back": "a team of two / three",
+      "kind": "Vocabulary",
+      "translation": "a team of two / three"
+    },
+    {
+      "id": "11-20-v077",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la consolidation",
+      "back": "consolidation / review — Reviewing all tenses",
+      "kind": "Vocabulary",
+      "translation": "consolidation / review"
+    },
+    {
+      "id": "11-20-v078",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le test final",
+      "back": "the final test — Assessment vocabulary.",
+      "kind": "Vocabulary",
+      "translation": "the final test"
+    },
+    {
+      "id": "11-20-v079",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "le pendule",
+      "back": "pendulum — Distinguish from la pantoufle (slipper).",
+      "kind": "Vocabulary",
+      "translation": "pendulum"
+    },
+    {
+      "id": "11-20-v080",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "la pantoufle",
+      "back": "slipper — Distinct from le pendule (pendulum).",
+      "kind": "Vocabulary",
+      "translation": "slipper"
+    },
+    {
+      "id": "11-20-v081",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "une crampe",
+      "back": "a cramp — A muscle cramp; pronunciation practice should remain comfortable.",
+      "kind": "Vocabulary",
+      "translation": "a cramp"
+    },
+    {
+      "id": "11-20-q001",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate to French: \"to do grocery shopping\"",
+      "back": "faire l'épicerie",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q002",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate to French: \"the tires\"",
+      "back": "les pneus",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q003",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What is the French word for \"son\" (male child)?",
+      "back": "fils",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q004",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"to volunteer / do volunteer work\"",
+      "back": "faire du bénévolat",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q005",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Fill in the blank: Ma fille et [blank] amis vont au cinéma. (his/her)",
+      "back": "ses",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q006",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate into English: bientôt, demain, un jour, dès que",
+      "back": "bientôt = soon; demain = tomorrow; un jour = one day; dès que = as soon as",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q007",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Fill in the blank: \"A good wash won’t be useless.\" → Une bonne [blank] ne sera pas inutile.",
+      "back": "lessive",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q008",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What does lorsque mean, and which word is it a synonym of?",
+      "back": "lorsque = \"when\"; synonym of quand",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q009",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Translate: \"to welcome\", \"to buy\", \"to turn off\"",
+      "back": "accueillir; acheter; éteindre",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q010",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What does Vérifier les réponses mean?",
+      "back": "Check the answers",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q011",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate ranger in the futur simple (all six persons).",
+      "back": "je rangerai, tu rangeras, il/elle/on rangera, nous rangerons, vous rangerez, ils/elles rangeront",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q012",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Give the six futur simple endings in order.",
+      "back": "-ai, -as, -a, -ons, -ez, -ont",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q013",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Which present-tense verb do the future endings resemble?",
+      "back": "avoir",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q014",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Form the futur simple of rendre for je and nous.",
+      "back": "je rendrai / nous rendrons",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q015",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "How is the futur proche formed?",
+      "back": "Present tense of aller + infinitive (e.g., je vais faire)",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q016",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate appeler in the future, all persons.",
+      "back": "j'appellerai, tu appelleras, il/elle/on appellera, nous appellerons, vous appellerez, ils/elles appelleront",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q017",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Give the future je form of nettoyer, jeter, lever and espérer. Include an accepted spelling alternative for espérer.",
+      "back": "je nettoierai; je jetterai; je lèverai; j'espérerai (traditional) or j'espèrerai (rectified).",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q018",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "What happens to verbs following the -re future pattern before adding future endings?",
+      "back": "Drop the final -e, then add the ending: pendre → je pendrai. Other verbs may have irregular future stems.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q019",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "How do plain-e verbs such as acheter and é verbs such as céder form their future spellings?",
+      "back": "Plain e becomes è: j'achèterai. Traditional é spelling stays in je céderai; rectified je cèderai is also accepted. The same alternatives apply to espérer, répéter and célébrer.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q020",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Give the je future form of: aller, faire, pouvoir, voir, venir.",
+      "back": "j'irai, je ferai, je pourrai, je verrai, je viendrai",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q021",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate recevoir in the future for vous.",
+      "back": "vous recevrez",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q022",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Complete: Appelle-moi quand tu [blank] (recevoir) l’invitation.",
+      "back": "recevras",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q023",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "True or false: in a time clause after dès que referring to a single future event, French normally uses the present just as English does.",
+      "back": "False. French normally uses a future tense for that future reference: dès qu'elle sera de retour. A habitual or other present-time context can use present.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q024",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Conjugate in the future: faire → tu; aller → nous; être → elle; savoir → elle; avoir → elles.",
+      "back": "tu feras; nous irons; elle sera; elle saura; elles auront",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q025",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Write a sentence using futur proche about what you will do tomorrow.",
+      "back": "(Sample) Demain, je vais jouer au badminton avec mes amis.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q026",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Write \"We will tidy up the house\" in the futur simple.",
+      "back": "Nous rangerons la maison.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q027",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Write \"We will accomplish\" and \"They (m.) will take\" in French.",
+      "back": "Nous accomplirons. / Ils prendront.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q028",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Write a sentence meaning \"One day I will visit Australia.\"",
+      "back": "Un jour, je visiterai l'Australie.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q029",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Build a sentence using quand + futur simple, with futur simple in the main clause too.",
+      "back": "Quand tu arriveras, nous commencerons. The source's Vois avec elle dès qu'elle sera de retour is also a useful time-clause example, but its main clause is imperative, not futur simple.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q030",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Build an appointment-date reminder using Je vous rappelle que...",
+      "back": "Je vous rappelle que le rendez-vous est le lundi 30 novembre. Conversational variant: Je vous rappelle que le rendez-vous, c'est le lundi 30 novembre.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q031",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct: Je vais aller à une tournée de hockey.",
+      "back": "Je vais aller à un tournoi de hockey.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q032",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct: ma fille et her amis",
+      "back": "ma fille et ses amis",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q033",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct: Nous appelons (intended future).",
+      "back": "Nous appellerons.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q034",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct: Vous accomplissez (intended future).",
+      "back": "Vous accomplirez.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q035",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Rewrite Je voudrais te voir demain to mean \"I will want to see you tomorrow\" rather than \"I would like to see you tomorrow\".",
+      "back": "Je voudrai te voir demain. Voudrais is valid conditional for the other meaning; voudrai is future.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q036",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Use the future-time-clause form in Appelle-moi quand tu arrives for a single intended future arrival.",
+      "back": "Appelle-moi quand tu arriveras.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-q037",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Correct Elle sera beaucoup de choses sur l’histoire when the intended meaning is \"She will know a lot about history\".",
+      "back": "Elle saura beaucoup de choses sur l'histoire.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-e001",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais aller en ville pour un tournoi de karaté.",
+      "back": "I'm going to go into town for a karate tournament. — Futur proche; generic destination.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e002",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais conduire ma fille et ses amis au cinéma.",
+      "back": "I'm going to drive my daughter and her friends to the cinema. — Futur proche; possessive ses",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e003",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je rangerai.",
+      "back": "I will tidy up. — Futur simple, 1st sing., -er verb I will tidy up — futur simple, first-person singular. Final -ai commonly has /e/ in Quebec; contrast conditional -ais /ɛ/ where the distinction is maintained. Regional variation exists.",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e004",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Nous rangerons.",
+      "back": "We will tidy up. — Futur simple, 1st plural",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e005",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Ils rangeront.",
+      "back": "They will tidy up. — Futur simple, 3rd plural",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e006",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je lancerai",
+      "back": "I will throw/launch. — -cer verb keeps infinitive stem",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e007",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je nettoierai",
+      "back": "I will clean. — -yer verb: y → i",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e008",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'appellerai",
+      "back": "I will call. — appeler doubles the l",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e009",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'achèterai",
+      "back": "I will buy. — e → è",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e010",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'accomplirai",
+      "back": "I will accomplish. — Regular -ir, full infinitive stem",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e011",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je prendrai",
+      "back": "I will take. — -re verb drops final -e",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e012",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Le prochain train partira demain matin.",
+      "back": "The next train will leave tomorrow morning. — Future of partir",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e013",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je serai de retour dans dix-huit jours exactement.",
+      "back": "I will be back in exactly eighteen days. — Future of être",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e014",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Tu demanderas son adresse à ses parents.",
+      "back": "You will ask his/her parents for the address. — Regular future; pronounce the r",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e015",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Oulala, ce pull est bien sale. Une bonne lessive ne sera pas inutile.",
+      "back": "Oh dear, this sweater is really dirty. A good wash won't be useless. — Future of être + negation",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e016",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "La prochaine fois qu'on voyagera, nous n'oublierons pas notre valise.",
+      "back": "Next time we travel, we won't forget our suitcase. — Future after time conjunction",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e017",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Vous reprendrez bien un peu de café.",
+      "back": "You'll have a little more coffee. — Future of reprendre, polite offer",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e018",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Ils iront au Mexique pour Noël.",
+      "back": "You'll have a little more coffee; a polite offer, often Won't you have a little more coffee? — Irregular future of aller",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e019",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Vous recevrez une invitation dans les prochains jours.",
+      "back": "You will receive an invitation in the coming days. — Irregular future of recevoir",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e020",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Ils iront se promener dans le bois.",
+      "back": "They will go for a walk in the woods. — Irregular future of aller",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e021",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Elles n'auront pas le temps.",
+      "back": "They won't have time. — Future of avoir + spoken negation",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e022",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "J'espère que tu seras à l'heure.",
+      "back": "I hope you will be on time. — Future of être",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e023",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Il ne mourra pas.",
+      "back": "He will not die. — Future simple negative; irregular stem mourr-",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-e024",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Il conquerra.",
+      "back": "He will conquer. — Irregular, double r",
+      "kind": "Examples"
+    },
+    {
+      "id": "11-20-f002",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Future endings",
+      "back": "-ai, -as, -a, -ons, -ez, -ont — same for ALL verbs; resemble present of avoir",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f003",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Future stem of regular -er / -ir verbs",
+      "back": "The full infinitive (e.g., ranger → ranger-; accomplir → accomplir-)",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f007",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "je rendrai / je vendrai",
+      "back": "I will give back / I will sell — -re verbs drop final -e before endings",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f008",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "appeler (future, je)",
+      "back": "j'appellerai — I will call. Doubles the l; stem same for all persons",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f009",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "jeter (future, je)",
+      "back": "je jetterai — I will throw. Doubles the t",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f010",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "acheter (future, je)",
+      "back": "j'achèterai — I will buy. e → è",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f011",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "espérer (future, je)",
+      "back": "Traditional j'espérerai — I will hope. Rectified j'espèrerai is also accepted.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f012",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "nettoyer (future, je)",
+      "back": "je nettoierai — I will clean. y → i",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f013",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "accomplir (future, je)",
+      "back": "j'accomplirai — I will accomplish. Regular -ir, keeps full infinitive stem",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f014",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "accueillir (future, je)",
+      "back": "j'accueillerai — I will welcome. Future stem accueiller-, shared by all subjects.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f015",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "prendre (future, je)",
+      "back": "je prendrai — I will take. -re drops final -e",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f016",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "éteindre (future, je)",
+      "back": "j'éteindrai — I will turn off. -re drops final -e",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f017",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "aller (futur, je)",
+      "back": "j'irai — I will go. Stem ir-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f018",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "courir (futur, je)",
+      "back": "je courrai — I will run. Stem courr- (double r)",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f019",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "devoir (futur, je)",
+      "back": "je devrai — I will have to. Stem devr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f020",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "envoyer (futur, je)",
+      "back": "j'enverrai — I will send. Irregular stem enverr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f021",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "faire (futur, je)",
+      "back": "je ferai — I will do/make. Stem fer-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f022",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "falloir (futur, il)",
+      "back": "il faudra — it will be necessary. Impersonal only",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f023",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "mourir (futur, je)",
+      "back": "je mourrai — I will die. Double r",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f024",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "obtenir (futur, je)",
+      "back": "j'obtiendrai — I will obtain. Stem obtiendr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f025",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "pleuvoir (futur, il)",
+      "back": "il pleuvra — it will rain. Weather usage is normally impersonal; figurative subjects can be plural.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f026",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "pouvoir (futur, je)",
+      "back": "je pourrai — I will be able to. Double r",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f027",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "recevoir (futur, je)",
+      "back": "je recevrai — I will receive. Stem recevr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f028",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "savoir (futur, je / elle)",
+      "back": "je saurai / elle saura — I/she will know. Stem saur-; ≠ sera",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f029",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "tenir (futur, je / il)",
+      "back": "je tiendrai / il tiendra — I/he will hold. Stem tiendr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f030",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "venir (futur, je)",
+      "back": "je viendrai — I will come. Stem viendr-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f031",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "voir (futur, je / tu)",
+      "back": "je verrai / tu verras — I/you will see. Double r",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f032",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "vouloir (futur, je / ils)",
+      "back": "je voudrai / ils voudront — I/they will want. Note: je voudrais = conditional \"I would like\"",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f033",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "être (futur, je / elle)",
+      "back": "je serai / elle sera — I/she will be. Stem ser-; ≠ saura",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f034",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "avoir (futur, elle / elles)",
+      "back": "elle aura / elles auront — she/they will have. Stem aur-",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f035",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "conquérir (futur, il)",
+      "back": "il conquerra — he will conquer. Irregular, double r",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f036",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vais + infinitif",
+      "back": "futur proche — near-future plans (\"I'm going to...\")",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f037",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "quand / dès que / lorsque + ?",
+      "back": "Normally a future tense in a time clause referring to a future event; English often uses present. Main clause may be future or imperative. For habits or other time reference, other tenses are possible. Après que takes indicative and commonly futur antérieur for future completion.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f038",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Je vous rappelle que...",
+      "back": "\"I remind you that...\" — formulaic structure for reminders",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f039",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "Negation in spoken French — what disappears?",
+      "back": "Ne is often dropped in informal speech: elles auront pas le temps, with /z/ liaison. Keep ne/n' in ordinary formal writing; listen for pas.",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f041",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "un tournoi",
+      "back": "a tournament (NOT une tournée = a tour)",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f042",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "fils",
+      "back": "son (male child); distinct from son = his/her",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f043",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "ses amis",
+      "back": "his/her friends — possessive agrees with the noun, not the owner",
+      "kind": "Rules & patterns"
+    },
+    {
+      "id": "11-20-f045",
+      "lesson": "11-20",
+      "topics": [
+        "Tenses",
+        "Verbs",
+        "Pronunciation"
+      ],
+      "front": "-ai pronunciation (futur simple)",
+      "back": "A useful Quebec model is future -ai /e/ versus conditional -ais /ɛ/. Regional variation/mergers occur; use context too. IPA transcribes pronunciation rather than prescribing one open vowel.",
       "kind": "Rules & patterns"
     }
   ]

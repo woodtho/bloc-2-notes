@@ -280,5 +280,21 @@
     "consolidated_example_locations": 19,
     "original_flashcard_entries": 39,
     "practice_cards": 144
+  },
+  {
+    "lesson": "11-20",
+    "title": "Futur simple: formation & usage",
+    "source_sha256": "7fc3add4023998e7d18797d1af774f415611a24e9c7f89294268c57202c8bbab",
+    "source": "11-20 Lesson_ French Futur Simple Formation and Usage-Summary.md",
+    "vocabulary_entries": 81,
+    "quiz_questions": 37,
+    "original_self_test_questions": 37,
+    "example_bank_entries": 0,
+    "editing": "English consolidated lesson; all teaching content retained; personal context made generic and course administration removed; accepted spelling/pronunciation alternatives explained; source item 29 answer repaired and item 30 made generic.",
+    "original_vocabulary_entries": 81,
+    "original_example_bank_entries": 24,
+    "consolidated_example_locations": 24,
+    "original_flashcard_entries": 45,
+    "practice_cards": 181
   }
 ]

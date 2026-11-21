@@ -2,7 +2,7 @@
 
 [Website](https://woodtho.github.io/bloc-2-notes/) · [Repository](https://github.com/woodtho/bloc-2-notes)
 
-An R Markdown website built from 20 French lesson exports dated September 9–November 18, 2026.
+An R Markdown website built from 21 French lesson exports dated September 9–November 20, 2026.
 
 ## Use
 
@@ -10,11 +10,11 @@ Open `docs/index.html` in a browser, or serve `docs/` with a static HTTP server.
 
 Each lesson is self-contained. Repeated overviews, rules and corrections within a lesson are merged into topic sections. English explanations retain French examples, full conjugations, pronunciation, register, distinct examples and exceptions. Personal material is removed or replaced with generic teaching examples.
 
-- 20 editable lesson Rmd sources.
+- 21 editable lesson Rmd sources.
 - Global fuzzy search across lesson notes, vocabulary, questions, flashcards and exam prep. Use Search, Ctrl/Cmd+K or `/`; accents and minor typos are optional. Results link directly to the relevant section or practice item. The full search page supports bookmarkable queries and material filters.
-- 659 reviewed original self-test questions, plus supplementary practice: 969 quiz items.
-- All 438 source example-bank entries and 1,221 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
-- 2,647 flashcards, filterable by lesson, topic and material.
+- 696 reviewed original self-test questions, plus supplementary practice: 1,006 quiz items.
+- All 462 source example-bank entries and 1,302 vocabulary entries retained in the notes or reference sections. Repeated entries are merged; their locations are recorded in `review/consolidation-ledger.json`.
+- 2,828 flashcards, filterable by lesson, topic and material.
 - Final exam prep: 78 multiple-choice questions across all 13 checklist topics. Full review covers every question; shorter mixed sessions balance the topics. Topic practice, English feedback, scores by topic and missed/unanswered-question retries are included.
 
 Exam selections, checked answers, option order and session position also survive reloads.
@@ -46,7 +46,7 @@ node --test tests/study.test.cjs tests/exam.test.cjs tests/search.test.cjs
 python tests/audit.py
 ```
 
-The 28 tests cover search matching and filters, direct links, exam session isolation, grading, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 26 pages, search targets, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
+The 29 tests cover search matching and filters, direct links, exam session isolation, grading, answer reveal, retry, shared answer persistence, ratings, reload, blank edits and unavailable/malformed storage. The built-site audit checks 27 pages, search targets, links, structure, headings, source counts, stable question IDs and retained French examples/vocabulary.
 
 An optional local-only source-name blocklist can be supplied using `BLOC2_PRIVACY_PATTERNS_FILE`. The blocklist and raw exports are outside this repo. Automated checks complement editorial review; they cannot independently prove semantic completeness or anonymization.
 

@@ -9176,5 +9176,792 @@
     "overview_merged": true,
     "notes_words_before": 3763,
     "notes_words_after": 2437
+  },
+  {
+    "lesson": "11-20",
+    "source_sha256": "7fc3add4023998e7d18797d1af774f415611a24e9c7f89294268c57202c8bbab",
+    "examples": [
+      {
+        "source_example": 1,
+        "french": "Je vais aller en ville pour un tournoi de karaté.",
+        "english": "I'm going to go into town for a karate tournament.",
+        "location": "notes"
+      },
+      {
+        "source_example": 2,
+        "french": "Je vais conduire ma fille et ses amis au cinéma.",
+        "english": "I'm going to drive my daughter and her friends to the cinema.",
+        "location": "notes"
+      },
+      {
+        "source_example": 3,
+        "french": "Je rangerai.",
+        "english": "I will tidy up.",
+        "location": "notes"
+      },
+      {
+        "source_example": 4,
+        "french": "Nous rangerons.",
+        "english": "We will tidy up.",
+        "location": "notes"
+      },
+      {
+        "source_example": 5,
+        "french": "Ils rangeront.",
+        "english": "They will tidy up.",
+        "location": "notes"
+      },
+      {
+        "source_example": 6,
+        "french": "Je lancerai",
+        "english": "I will throw/launch.",
+        "location": "notes"
+      },
+      {
+        "source_example": 7,
+        "french": "Je nettoierai",
+        "english": "I will clean.",
+        "location": "notes"
+      },
+      {
+        "source_example": 8,
+        "french": "J'appellerai",
+        "english": "I will call.",
+        "location": "notes"
+      },
+      {
+        "source_example": 9,
+        "french": "J'achèterai",
+        "english": "I will buy.",
+        "location": "notes"
+      },
+      {
+        "source_example": 10,
+        "french": "J'accomplirai",
+        "english": "I will accomplish.",
+        "location": "notes"
+      },
+      {
+        "source_example": 11,
+        "french": "Je prendrai",
+        "english": "I will take.",
+        "location": "notes"
+      },
+      {
+        "source_example": 12,
+        "french": "Le prochain train partira demain matin.",
+        "english": "The next train will leave tomorrow morning.",
+        "location": "notes"
+      },
+      {
+        "source_example": 13,
+        "french": "Je serai de retour dans dix-huit jours exactement.",
+        "english": "I will be back in exactly eighteen days.",
+        "location": "notes"
+      },
+      {
+        "source_example": 14,
+        "french": "Tu demanderas son adresse à ses parents.",
+        "english": "You will ask his/her parents for the address.",
+        "location": "notes"
+      },
+      {
+        "source_example": 15,
+        "french": "Oulala, ce pull est bien sale. Une bonne lessive ne sera pas inutile.",
+        "english": "Oh dear, this sweater is really dirty. A good wash won't be useless.",
+        "location": "notes"
+      },
+      {
+        "source_example": 16,
+        "french": "La prochaine fois qu'on voyagera, nous n'oublierons pas notre valise.",
+        "english": "Next time we travel, we won't forget our suitcase.",
+        "location": "notes"
+      },
+      {
+        "source_example": 17,
+        "french": "Vous reprendrez bien un peu de café.",
+        "english": "You'll have a little more coffee.",
+        "location": "notes"
+      },
+      {
+        "source_example": 18,
+        "french": "Ils iront au Mexique pour Noël.",
+        "english": "You'll have a little more coffee; a polite offer, often Won't you have a little more coffee?",
+        "location": "notes"
+      },
+      {
+        "source_example": 19,
+        "french": "Vous recevrez une invitation dans les prochains jours.",
+        "english": "You will receive an invitation in the coming days.",
+        "location": "notes"
+      },
+      {
+        "source_example": 20,
+        "french": "Ils iront se promener dans le bois.",
+        "english": "They will go for a walk in the woods.",
+        "location": "notes"
+      },
+      {
+        "source_example": 21,
+        "french": "Elles n'auront pas le temps.",
+        "english": "They won't have time.",
+        "location": "notes"
+      },
+      {
+        "source_example": 22,
+        "french": "J'espère que tu seras à l'heure.",
+        "english": "I hope you will be on time.",
+        "location": "notes"
+      },
+      {
+        "source_example": 23,
+        "french": "Il ne mourra pas.",
+        "english": "He will not die.",
+        "location": "notes"
+      },
+      {
+        "source_example": 24,
+        "french": "Il conquerra.",
+        "english": "He will conquer.",
+        "location": "notes"
+      }
+    ],
+    "vocabulary": [
+      {
+        "source_vocabulary": 1,
+        "french": "le futur simple",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 2,
+        "french": "le futur proche",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 3,
+        "french": "le conditionnel",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 4,
+        "french": "la conjugaison",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 5,
+        "french": "le verbe",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 6,
+        "french": "le conjugueur",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 7,
+        "french": "demain",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 8,
+        "french": "bientôt",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 9,
+        "french": "ce soir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 10,
+        "french": "un jour",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 11,
+        "french": "quand",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 12,
+        "french": "lorsque / lorsqu'",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 13,
+        "french": "dès que / dès qu'",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 14,
+        "french": "après que / après qu'",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 15,
+        "french": "une tournée / un tournoi",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 16,
+        "french": "le karaté",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 17,
+        "french": "le hockey",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 18,
+        "french": "un fils",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 19,
+        "french": "une fille",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 20,
+        "french": "son ami / ses amis",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 21,
+        "french": "faire l'épicerie",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 22,
+        "french": "le supermarché",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 23,
+        "french": "le marché",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 24,
+        "french": "conduire",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 25,
+        "french": "la conductrice / le chauffeur",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 26,
+        "french": "le cinéma",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 27,
+        "french": "le mécanicien",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 28,
+        "french": "le garage",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 29,
+        "french": "les pneus",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 30,
+        "french": "le badminton",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 31,
+        "french": "faire du bénévolat",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 32,
+        "french": "ranger",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 33,
+        "french": "rendre / vendre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 34,
+        "french": "lancer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 35,
+        "french": "manger",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 36,
+        "french": "céder",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 37,
+        "french": "espérer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 38,
+        "french": "répéter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 39,
+        "french": "célébrer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 40,
+        "french": "nettoyer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 41,
+        "french": "essayer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 42,
+        "french": "essuyer",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 43,
+        "french": "appeler",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 44,
+        "french": "jeter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 45,
+        "french": "lever",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 46,
+        "french": "amener",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 47,
+        "french": "peser",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 48,
+        "french": "acheter",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 49,
+        "french": "achever",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 50,
+        "french": "accomplir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 51,
+        "french": "ouvrir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 52,
+        "french": "accueillir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 53,
+        "french": "pendre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 54,
+        "french": "prendre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 55,
+        "french": "craindre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 56,
+        "french": "éteindre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 57,
+        "french": "joindre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 58,
+        "french": "battre",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 59,
+        "french": "réussir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 60,
+        "french": "oublier",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 61,
+        "french": "conquérir",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 62,
+        "french": "un pull",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 63,
+        "french": "une lessive",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 64,
+        "french": "sale",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 65,
+        "french": "inutile",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 66,
+        "french": "une valise",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 67,
+        "french": "le bois",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 68,
+        "french": "une invitation",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 69,
+        "french": "le clavardage",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 70,
+        "french": "entre parenthèses",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 71,
+        "french": "taper",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 72,
+        "french": "les espaces vides",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 73,
+        "french": "Vérifier les réponses",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 74,
+        "french": "la transcription",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 75,
+        "french": "serpents et échelles",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 76,
+        "french": "une équipe de deux / trois",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 77,
+        "french": "la consolidation",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 78,
+        "french": "le test final",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 79,
+        "french": "le pendule",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 80,
+        "french": "la pantoufle",
+        "location": "vocabulary"
+      },
+      {
+        "source_vocabulary": 81,
+        "french": "une crampe",
+        "location": "vocabulary"
+      }
+    ],
+    "flashcards": [
+      {
+        "source_flashcard": 1,
+        "card_id": "11-20-v001",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 2,
+        "card_id": "11-20-f002",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 3,
+        "card_id": "11-20-f003",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 4,
+        "card_id": "11-20-e003",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 5,
+        "card_id": "11-20-e004",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 6,
+        "card_id": "11-20-e005",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 7,
+        "card_id": "11-20-f007",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 8,
+        "card_id": "11-20-f008",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 9,
+        "card_id": "11-20-f009",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 10,
+        "card_id": "11-20-f010",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 11,
+        "card_id": "11-20-f011",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 12,
+        "card_id": "11-20-f012",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 13,
+        "card_id": "11-20-f013",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 14,
+        "card_id": "11-20-f014",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 15,
+        "card_id": "11-20-f015",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 16,
+        "card_id": "11-20-f016",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 17,
+        "card_id": "11-20-f017",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 18,
+        "card_id": "11-20-f018",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 19,
+        "card_id": "11-20-f019",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 20,
+        "card_id": "11-20-f020",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 21,
+        "card_id": "11-20-f021",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 22,
+        "card_id": "11-20-f022",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 23,
+        "card_id": "11-20-f023",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 24,
+        "card_id": "11-20-f024",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 25,
+        "card_id": "11-20-f025",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 26,
+        "card_id": "11-20-f026",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 27,
+        "card_id": "11-20-f027",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 28,
+        "card_id": "11-20-f028",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 29,
+        "card_id": "11-20-f029",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 30,
+        "card_id": "11-20-f030",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 31,
+        "card_id": "11-20-f031",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 32,
+        "card_id": "11-20-f032",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 33,
+        "card_id": "11-20-f033",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 34,
+        "card_id": "11-20-f034",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 35,
+        "card_id": "11-20-f035",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 36,
+        "card_id": "11-20-f036",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 37,
+        "card_id": "11-20-f037",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 38,
+        "card_id": "11-20-f038",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 39,
+        "card_id": "11-20-f039",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 40,
+        "card_id": "11-20-v021",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 41,
+        "card_id": "11-20-f041",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 42,
+        "card_id": "11-20-f042",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 43,
+        "card_id": "11-20-f043",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 44,
+        "card_id": "11-20-v003",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      },
+      {
+        "source_flashcard": 45,
+        "card_id": "11-20-f045",
+        "editing": "English review; duplicate fronts consolidated and accepted spelling/pronunciation alternatives retained."
+      }
+    ],
+    "overview_merged": true,
+    "notes_words_before": 3858,
+    "notes_words_after": 2607
   }
 ]
